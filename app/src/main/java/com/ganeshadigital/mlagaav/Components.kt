@@ -111,32 +111,53 @@ fun ConfirmDialog(text: String, onYes: () -> Unit, onNo: () -> Unit) {
 }
 
 @Composable
-fun VillageDialog(initial: Village?, onDismiss: () -> Unit, onSave: (Village) -> Unit) {
+fun VillageDialog(initial: Village?, prefill: Village?, onDismiss: () -> Unit, onSave: (Village) -> Unit) {
+    // For a new village, State/District/Taluka/GP are pre-filled from the last village added
+    val base = initial ?: prefill
+    var state by remember { mutableStateOf(base?.state ?: "") }
+    var district by remember { mutableStateOf(base?.district ?: "") }
+    var taluka by remember { mutableStateOf(base?.taluka ?: "") }
+    var gp by remember { mutableStateOf(base?.gp ?: "") }
     var name by remember { mutableStateOf(initial?.name ?: "") }
-    var taluka by remember { mutableStateOf(initial?.taluka ?: "") }
+    var pin by remember { mutableStateOf(initial?.pincode ?: base?.pincode ?: "") }
     var pop by remember { mutableStateOf(initial?.population?.toString() ?: "") }
     var hh by remember { mutableStateOf(initial?.households?.toString() ?: "") }
     var sarpanch by remember { mutableStateOf(initial?.sarpanch ?: "") }
     var contact by remember { mutableStateOf(initial?.contact ?: "") }
     var notes by remember { mutableStateOf(initial?.notes ?: "") }
+    var err by remember { mutableStateOf("") }
     FormDialog(
         title = if (initial == null) "नवीन गाव" else "गाव संपादित करा",
         onDismiss = onDismiss,
         onSave = {
-            if (name.isNotBlank()) onSave(
-                Village(initial?.id ?: newId(), name.trim(), taluka.trim(),
-                    pop.toIntOrNull() ?: 0, hh.toIntOrNull() ?: 0,
-                    sarpanch.trim(), contact.trim(), notes.trim())
-            )
+            when {
+                state.isBlank() -> err = "राज्य टाका"
+                district.isBlank() -> err = "जिल्हा टाका"
+                taluka.isBlank() -> err = "तालुका टाका"
+                gp.isBlank() -> err = "ग्रामपंचायत टाका"
+                name.isBlank() -> err = "गावाचे नाव टाका"
+                pin.length != 6 -> err = "पिन कोड 6 अंकी हवा"
+                else -> onSave(
+                    Village(initial?.id ?: newId(), state.trim(), district.trim(), taluka.trim(),
+                        gp.trim(), name.trim(), pin,
+                        pop.toIntOrNull() ?: 0, hh.toIntOrNull() ?: 0,
+                        sarpanch.trim(), contact.trim(), notes.trim())
+                )
+            }
         }
     ) {
-        Field("गावाचे नाव *", name, { name = it })
-        Field("तालुका", taluka, { taluka = it })
+        Field("राज्य *", state, { state = it; err = "" })
+        Field("जिल्हा *", district, { district = it; err = "" })
+        Field("तालुका *", taluka, { taluka = it; err = "" })
+        Field("ग्रामपंचायत *", gp, { gp = it; err = "" })
+        Field("गावाचे नाव *", name, { name = it; err = "" })
+        Field("पिन कोड *", pin, { if (it.length <= 6 && it.all(Char::isDigit)) { pin = it; err = "" } }, number = true)
         Field("लोकसंख्या", pop, { pop = it }, number = true)
         Field("कुटुंबे", hh, { hh = it }, number = true)
         Field("सरपंच / ग्रामसेवक", sarpanch, { sarpanch = it })
         Field("संपर्क क्रमांक", contact, { contact = it }, number = true)
         Field("टिपणी", notes, { notes = it }, lines = 3)
+        if (err.isNotEmpty()) Text(err, color = Red)
     }
 }
 

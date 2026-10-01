@@ -194,7 +194,9 @@ fun VillagesScreen(s: AppState, onOpen: (Long) -> Unit) {
                 Card(Modifier.fillMaxWidth().clickable { onOpen(v.id) }) {
                     Column(Modifier.padding(14.dp)) {
                         Text(v.name, fontSize = 18.sp, fontWeight = FontWeight.Bold)
-                        Text("${v.taluka}  •  लोकसंख्या ${v.population}  •  कुटुंबे ${v.households}", fontSize = 13.sp)
+                        Text("ग्रा.पं. ${v.gp}  •  ता. ${v.taluka}  •  जि. ${v.district}", fontSize = 13.sp)
+                        Text("${v.state}  •  पिन ${v.pincode}", fontSize = 13.sp)
+                        Text("लोकसंख्या ${v.population}  •  कुटुंबे ${v.households}", fontSize = 13.sp)
                         if (v.sarpanch.isNotBlank()) Text("सरपंच: ${v.sarpanch}  ${v.contact}", fontSize = 13.sp)
                     }
                 }
@@ -207,7 +209,7 @@ fun VillagesScreen(s: AppState, onOpen: (Long) -> Unit) {
             containerColor = Brand, contentColor = androidx.compose.ui.graphics.Color.White
         ) { Text("+", fontSize = 28.sp) }
     }
-    if (showAdd) VillageDialog(null, { showAdd = false }) { s.upsertVillage(it); showAdd = false }
+    if (showAdd) VillageDialog(null, s.villages.lastOrNull(), { showAdd = false }) { s.upsertVillage(it); showAdd = false }
 }
 
 // ---------------- Issues ----------------
@@ -337,7 +339,9 @@ fun VillageDetail(s: AppState, v: Village, onBack: () -> Unit) {
             item {
                 Card(Modifier.fillMaxWidth()) {
                     Column(Modifier.padding(14.dp), verticalArrangement = Arrangement.spacedBy(2.dp)) {
-                        Text("तालुका: ${v.taluka}")
+                        Text("राज्य: ${v.state}   जिल्हा: ${v.district}")
+                        Text("तालुका: ${v.taluka}   ग्रामपंचायत: ${v.gp}")
+                        Text("पिन कोड: ${v.pincode}")
                         Text("लोकसंख्या: ${v.population}   कुटुंबे: ${v.households}")
                         Text("सरपंच: ${v.sarpanch}")
                         Text("संपर्क: ${v.contact}")
@@ -377,7 +381,7 @@ fun VillageDetail(s: AppState, v: Village, onBack: () -> Unit) {
         }
     }
 
-    if (edit) VillageDialog(v, { edit = false }) { s.upsertVillage(it); edit = false }
+    if (edit) VillageDialog(v, null, { edit = false }) { s.upsertVillage(it); edit = false }
     if (delete) ConfirmDialog("${v.name} आणि त्याच्या सर्व समस्या/कामे हटवायची?", { s.deleteVillage(v.id); delete = false; onBack() }, { delete = false })
     if (addIssue) IssueDialog(s, v.id) { addIssue = false }
     if (addWork) WorkDialog(s, v.id) { addWork = false }

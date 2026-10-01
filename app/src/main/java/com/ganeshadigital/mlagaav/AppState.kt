@@ -19,7 +19,8 @@ val PRIORITY = listOf("कमी", "मध्यम", "जास्त")
 val CATEGORIES = listOf("पाणी", "रस्ता", "वीज", "आरोग्य", "शिक्षण", "घरकुल", "रोजगार", "इतर")
 
 data class Village(
-    val id: Long, val name: String, val taluka: String,
+    val id: Long, val state: String, val district: String, val taluka: String,
+    val gp: String, val name: String, val pincode: String,
     val population: Int, val households: Int,
     val sarpanch: String, val contact: String, val notes: String
 )
@@ -130,7 +131,8 @@ class AppState(context: Context) {
         val o = JSONObject()
         o.put("villages", JSONArray().apply {
             villages.forEach {
-                put(JSONObject().put("id", it.id).put("name", it.name).put("taluka", it.taluka)
+                put(JSONObject().put("id", it.id).put("state", it.state).put("district", it.district)
+                    .put("taluka", it.taluka).put("gp", it.gp).put("name", it.name).put("pincode", it.pincode)
                     .put("population", it.population).put("households", it.households)
                     .put("sarpanch", it.sarpanch).put("contact", it.contact).put("notes", it.notes))
             }
@@ -156,7 +158,8 @@ class AppState(context: Context) {
         val v = ArrayList<Village>(); val i = ArrayList<Issue>(); val w = ArrayList<Work>()
         o.getJSONArray("villages").let { a ->
             for (k in 0 until a.length()) a.getJSONObject(k).let {
-                v.add(Village(it.getLong("id"), it.getString("name"), it.optString("taluka"),
+                v.add(Village(it.getLong("id"), it.optString("state"), it.optString("district"), it.optString("taluka"),
+                    it.optString("gp"), it.getString("name"), it.optString("pincode"),
                     it.optInt("population"), it.optInt("households"),
                     it.optString("sarpanch"), it.optString("contact"), it.optString("notes")))
             }
