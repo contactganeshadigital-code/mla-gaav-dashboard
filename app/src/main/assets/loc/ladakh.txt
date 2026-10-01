@@ -1,0 +1,267 @@
+Kargil	Drass	Bhimbat	Biambiat
+Kargil	Drass	Chowkiyal	Chokial
+Kargil	Drass	Drass	Rambirpur (Drass)
+Kargil	Drass	Gindayal	Gindial
+Kargil	Drass	Gindayal	Yalboo
+Kargil	Drass	Goshan	Goshan
+Kargil	Drass	Holiyal	Holiyal
+Kargil	Drass	Holiyal	Murad Bagh
+Kargil	Drass	Kharboo	Kharbu
+Kargil	Drass	Matayen	Matayan
+Kargil	Drass	Muskoo	Mushku
+Kargil	Drass	Pandrass	Pandras
+Kargil	Drass	Shimsha	Shimsha
+Kargil	Drass	Thasgam	Jusgund
+Kargil	Drass	Thasgam	Thasgam
+Kargil	Kargil	Akchamal	Akchamal
+Kargil	Kargil	Apati	Apati
+Kargil	Kargil	Badagam	Karkit
+Kargil	Kargil	Barchey	Barchey
+Kargil	Kargil	Batambis	Batambis
+Kargil	Kargil	Chanigound	Chuliskambo
+Kargil	Kargil	Choskore- A	Choskar
+Kargil	Kargil	Choskore- B	Choskar
+Kargil	Kargil	Chowkiyal	Thrangos
+Kargil	Kargil	Chulichan	Chulichan
+Kargil	Kargil	Garkon	Derchiks
+Kargil	Kargil	Garkon	Garkon
+Kargil	Kargil	Gongma Manjee	Minji
+Kargil	Kargil	Hardass	Hardas
+Kargil	Kargil	Kaksar	Kaksar
+Kargil	Kargil	Karkitchoo	Karkit
+Kargil	Kargil	Karkitchoo	Phultuks
+Kargil	Kargil	Lalung	Lalung
+Kargil	Kargil	Manjee	Minji
+Kargil	Kargil	Pashkum-a	Push Kum
+Kargil	Kargil	Pashkum-b	Push Kum
+Kargil	Kargil	Sapi	Safi
+Kargil	Kargil	Shelikchey	Shilikchey
+Kargil	Kargil	Silmo	Silmo
+Kargil	Kargil	Stakchay Khangral	Staktse
+Kargil	Kargil	Tambis-a	KARKIT CHOO
+Kargil	Kargil	Traongjun	Haripora
+Kargil	Kargil	Traongjun	Tronjen (Trankuchan)
+Kargil	Kargil	Tumail	Toumel
+Kargil	Kargil	Wakha	Wakhade
+Kargil	Kargil	Yurbaltak -a	Yourbaltak
+Kargil	Kargil	Yurbaltak -b	Yourbaltak
+Kargil	Sanku	Barsoo	Barsoo
+Kargil	Sanku	Bartoo	Barto
+Kargil	Sanku	Bartoo	Itchoo
+Kargil	Sanku	Bartoo	Shergandi
+Kargil	Sanku	Faroona	Farona
+Kargil	Sanku	G.m. Pore-a	Gund Mangl Pur
+Kargil	Sanku	G.m. Pore-b	Gund Mangl Pur
+Kargil	Sanku	Kanore	Kanor
+Kargil	Sanku	Karchy Khar	KarcheY Khar
+Kargil	Sanku	Khawos	Khows
+Kargil	Sanku	Kochik	Achambur
+Kargil	Sanku	Kochik	Kochik
+Kargil	Sanku	Kochik	Thuls Pursa
+Kargil	Sanku	Lankerchay	Lankarchey
+Kargil	Sanku	Lankerchay- A	Lankarchey
+Kargil	Sanku	Nam-suru	Namsuru
+Kargil	Sanku	Nangma Kussar	Nagmakusar
+Kargil	Sanku	Panikhar	Chosker Suru
+Kargil	Sanku	Panikhar	Panikhar
+Kargil	Sanku	Panikhar	Pranti
+Kargil	Sanku	Parkachik	Parkachik
+Kargil	Sanku	Parkachik	Rangdum
+Kargil	Sanku	Purtikchay	Gyaling
+Kargil	Sanku	Purtikchay	Karpo Khar
+Kargil	Sanku	Purtikchay	Purtikchy
+Kargil	Sanku	Salikote-a	Saleskot
+Kargil	Sanku	Salikote-b	Saleskot
+Kargil	Sanku	Sangrah	Sangra
+Kargil	Sanku	Stakpa	Stakpa
+Kargil	Sanku	Tai-suru	Kargi
+Kargil	Sanku	Tai-suru	Tai Suru
+Kargil	Sanku	Tambis-a	Tambis
+Kargil	Sanku	Tambis-b	Tambis
+Kargil	Sanku	Tangole	Tangol
+Kargil	Sanku	Thang Dumbur	Thang Dumbur
+Kargil	Sanku	Thang Dumbur- A	Thang Dumbur
+Kargil	Sanku	Thasgam-thuina-b	Thasgam Thaine
+Kargil	Sanku	Thasgam/thuina-a	Thasgam Thaine
+Kargil	Sanku	Tiket	Khandi
+Kargil	Sanku	Trespone-a	Tres Pone
+Kargil	Sanku	Trespone-b	Tres Pone
+Kargil	Sanku	Umba	Umba
+Kargil	Sanku	Youljuk	Yuljuk
+Kargil	Shaker Chiktan	Bodkharboo	Bodhkharbu
+Kargil	Shaker Chiktan	Bodkharboo	Heniskot
+Kargil	Shaker Chiktan	Chiktan	Chiktan
+Kargil	Shaker Chiktan	Hagnis	Hagnis
+Kargil	Shaker Chiktan	Karamba	Karamba
+Kargil	Shaker Chiktan	Karamba	Phoo
+Kargil	Shaker Chiktan	Kukshow	Kuksho
+Kargil	Shaker Chiktan	Lotchum	Darkiat
+Kargil	Shaker Chiktan	Lotchum	Lochum
+Kargil	Shaker Chiktan	Lotchum	Nunamchey
+Kargil	Shaker Chiktan	Mulbek	Malbekh
+Kargil	Shaker Chiktan	Samrah	Samrah
+Kargil	Shaker Chiktan	Sanjak	Sanjak
+Kargil	Shaker Chiktan	Shaker	Shakar
+Kargil	Shaker Chiktan	Shargole	Khachey
+Kargil	Shaker Chiktan	Shargole	Shargol
+Kargil	Shaker Chiktan	Shargole	Tingdo
+Kargil	Shaker Chiktan	Skamboo	Skambo
+Kargil	Shaker Chiktan	Tacha	Karit
+Kargil	Shaker Chiktan	Tacha	Kukste
+Kargil	Shaker Chiktan	Tacha	Tacha
+Kargil	Shaker Chiktan	Yokma Kharboo	Lamsusando
+Kargil	Shaker Chiktan	Yokma Kharboo	Yogmakharbu
+Kargil	Zanskar	Abran	Abran
+Kargil	Zanskar	Abran	Akshow
+Kargil	Zanskar	Abran	Hamiling
+Kargil	Zanskar	Abran	Remala Skyagam
+Kargil	Zanskar	Cha	Chah
+Kargil	Zanskar	Cha	Shan Shaday
+Kargil	Zanskar	Karsha	Karshah
+Kargil	Zanskar	Karsha	Lungmi Rezing
+Kargil	Zanskar	Padum	Padam
+Kargil	Zanskar	Phay	Ating
+Kargil	Zanskar	Phay	Phey
+Kargil	Zanskar	Phay	Rantaq Shah
+Kargil	Zanskar	Raru-money	Icher
+Kargil	Zanskar	Raru-money	Pipcha
+Kargil	Zanskar	Raru-money	Ruru Moony
+Kargil	Zanskar	Salapi	Selapigai Pak
+Kargil	Zanskar	Salapi	Seni
+Kargil	Zanskar	Stongday	Tangday Kumi
+Kargil	Zanskar	Testa	Kargyak
+Kargil	Zanskar	Testa	Testa
+Kargil	Zanskar	Tongri	Techa Khasar
+Kargil	Zanskar	Tongri	Tonrian Thagan
+Kargil	Zanskar	Upti Pipiting	Salapi Ruruk
+Kargil	Zanskar	Upti Pipiting	Upti Pipiting
+Kargil	Zanskar	Zangla	Zangla
+Leh Ladakh	Durbuk	Chushul	Chushul
+Leh Ladakh	Durbuk	Durbuk	Durbok
+Leh Ladakh	Durbuk	Kargiam	Kargyam
+Leh Ladakh	Durbuk	Maan Pangong-A	Man Pangong
+Leh Ladakh	Durbuk	Maan Pangong-B	Man Pangong
+Leh Ladakh	Durbuk	Shachukul	Shachokol
+Leh Ladakh	Durbuk	Tangtse	Tagste
+Leh Ladakh	Khalsi	Chumoor	Chumoor
+Leh Ladakh	Khalsi	Dha	Dah
+Leh Ladakh	Khalsi	Domkhar	Damkhar
+Leh Ladakh	Khalsi	Fotoksar	Fotoksar
+Leh Ladakh	Khalsi	Hanu	Hanoo
+Leh Ladakh	Khalsi	Kanji	Kanji
+Leh Ladakh	Khalsi	Khaltsi	Khaltse
+Leh Ladakh	Khalsi	Khaltsi	Skinlingyong
+Leh Ladakh	Khalsi	Lamayuru	Lamayouro
+Leh Ladakh	Khalsi	Lingshed	Lingshet
+Leh Ladakh	Khalsi	Lingshed	Youl Chung
+Leh Ladakh	Khalsi	Mangue	Tarhipti
+Leh Ladakh	Khalsi	Skurbuchan	Skur Buchan
+Leh Ladakh	Khalsi	Skurbuchan (Part-II)	Skur Buchan
+Leh Ladakh	Khalsi	Takmachik	Leido
+Leh Ladakh	Khalsi	Takmachik	Takmachik
+Leh Ladakh	Khalsi	Temisgam	Nurla
+Leh Ladakh	Khalsi	Temisgam	Temisgam
+Leh Ladakh	Khalsi	Tia	Tia
+Leh Ladakh	Khalsi	Wanla - B	Wanla
+Leh Ladakh	Khalsi	Wanla-a	Wanla
+Leh Ladakh	Kharu	Chemday	Chemrey
+Leh Ladakh	Kharu	Chemday	Kharoo
+Leh Ladakh	Kharu	Gia	Gia
+Leh Ladakh	Kharu	Gia	Meroo
+Leh Ladakh	Kharu	Gia	Upshi
+Leh Ladakh	Kharu	Igoo	Igoo
+Leh Ladakh	Kharu	Igoo	Langokor
+Leh Ladakh	Kharu	Martselang	Changa
+Leh Ladakh	Kharu	Martselang	Hamis
+Leh Ladakh	Kharu	Martselang	Matselang
+Leh Ladakh	Kharu	Martselang	Shang
+Leh Ladakh	Kharu	Sakti	Sakti
+Leh Ladakh	Kharu	Sakti-a	Sakti
+Leh Ladakh	Kharu	Shara	Phuktse
+Leh Ladakh	Kharu	Shara	Shara
+Leh Ladakh	Kharu	Shara	Sharnose
+Leh Ladakh	Leh	Basgo	Bazgoo
+Leh Ladakh	Leh	Choklamsar (Part-I)	Chuglamsar (CT)
+Leh Ladakh	Leh	Choklamsar (Part-II)	Chuglamsar (CT)
+Leh Ladakh	Leh	Chuchot Gongma Part I	Chuchoot Gongma
+Leh Ladakh	Leh	Chuchot Gongma Part Ii	Chuchoot Gongma
+Leh Ladakh	Leh	Chuchot Shamma Part I	Chuchot Shama
+Leh Ladakh	Leh	Chuchot Shamma Part Ii	Chuchot Shama
+Leh Ladakh	Leh	Chuchot Yokma Part I	Chuchat Yakma
+Leh Ladakh	Leh	Chuchot Yokma Part Ii	Chuchat Yakma
+Leh Ladakh	Leh	Farkha	Phey
+Leh Ladakh	Leh	Kharnakling	Chuglamsar (CT)
+Leh Ladakh	Leh	Matho	Mathoo
+Leh Ladakh	Leh	Nang	Nang
+Leh Ladakh	Leh	Ney	Ney
+Leh Ladakh	Leh	Nimoo	Nimo
+Leh Ladakh	Leh	Phyang	Fiang
+Leh Ladakh	Leh	Rambirpur	Rambir Por
+Leh Ladakh	Leh	Rumbak	Chiling Sumda
+Leh Ladakh	Leh	Rumbak	Rumbak
+Leh Ladakh	Leh	Rumbak	Skiumarkha
+Leh Ladakh	Leh	Saboo	Saboo
+Leh Ladakh	Leh	Shey-a	Shey
+Leh Ladakh	Leh	Shey-b	Shey
+Leh Ladakh	Leh	Spituk	Spituk (CT)
+Leh Ladakh	Leh	Stakna	Stakna
+Leh Ladakh	Leh	Stok	Stok
+Leh Ladakh	Leh	Taru	Taroo
+Leh Ladakh	Leh	Taru	Umla
+Leh Ladakh	Leh	Thiksay-a	Thiksey
+Leh Ladakh	Leh	Thiksay-b	Thiksey
+Leh Ladakh	Likir	Alchi	Alchi
+Leh Ladakh	Likir	Hemisshukpachan	Hemishok Pachan
+Leh Ladakh	Likir	Likeer	Likir
+Leh Ladakh	Likir	Mangue	Giramangu
+Leh Ladakh	Likir	Saspol	Saspochey
+Leh Ladakh	Likir	Saspol	Suspol
+Leh Ladakh	Nubra	Bogdang -a	Bogdang
+Leh Ladakh	Nubra	Bogdang-B Gunesthang	Bogdang
+Leh Ladakh	Nubra	Bogdang-B Gunesthang	Chulungkha
+Leh Ladakh	Nubra	Chamshan Charasa	Chamshan Charasa
+Leh Ladakh	Nubra	Deskit	Diskit
+Leh Ladakh	Nubra	Digar	Digger
+Leh Ladakh	Nubra	Digar	Khemakhungiu
+Leh Ladakh	Nubra	Digar	Tangyar
+Leh Ladakh	Nubra	Dipling	Dipling
+Leh Ladakh	Nubra	Hunder	Hundar
+Leh Ladakh	Nubra	Khardong	Khalsar
+Leh Ladakh	Nubra	Khardong	Khardong
+Leh Ladakh	Nubra	Kheme (Tongteth)	Khemi
+Leh Ladakh	Nubra	Kubed	Kubed
+Leh Ladakh	Nubra	Lagjung	Lakjung
+Leh Ladakh	Nubra	Panamic	Panamic
+Leh Ladakh	Nubra	Partapur	Hundar Dok
+Leh Ladakh	Nubra	Partapur	Partap Pore
+Leh Ladakh	Nubra	Partapur	Skanpuk
+Leh Ladakh	Nubra	Sumoor	Sumoor
+Leh Ladakh	Nubra	Tertsay	Largiab
+Leh Ladakh	Nubra	Tertsay	Skuru
+Leh Ladakh	Nubra	Tertsay	Terchey
+Leh Ladakh	Nubra	Tiakshi	Taksi
+Leh Ladakh	Nubra	Tiakshi	Thanga Chathang
+Leh Ladakh	Nubra	Tigar	Tiggar
+Leh Ladakh	Nubra	Tsaga	Tsaga
+Leh Ladakh	Nubra	Turtuk-i	Turtok
+Leh Ladakh	Nubra	Turtuk-ii	Turtok
+Leh Ladakh	Nubra	Udmaru	Hundri
+Leh Ladakh	Nubra	Udmaru	Udmaru
+Leh Ladakh	Nubra	Waris Fastan	Warisfistan
+Leh Ladakh	Nyoma	Anlay	Anlay
+Leh Ladakh	Nyoma	Chumathang	Chumathang
+Leh Ladakh	Nyoma	Hemya	Himya
+Leh Ladakh	Nyoma	Hemya	Tarchit
+Leh Ladakh	Nyoma	Kharnak	Kharnak
+Leh Ladakh	Nyoma	Korzok	Karzok
+Leh Ladakh	Nyoma	Koyul	Demjok
+Leh Ladakh	Nyoma	Koyul	Koyul
+Leh Ladakh	Nyoma	Kungiam	Kumgyam
+Leh Ladakh	Nyoma	Kungiam	Teri
+Leh Ladakh	Nyoma	Liktsay	Liktse
+Leh Ladakh	Nyoma	Liktsay	Tukla
+Leh Ladakh	Nyoma	Nyoma	Mood
+Leh Ladakh	Nyoma	Nyoma	Nyoma
+Leh Ladakh	Nyoma	Samad Rokchan	Samad Rakchan
+Leh Ladakh	Nyoma	Skitmang	Kerey
+Leh Ladakh	Nyoma	Skitmang	Skitmang

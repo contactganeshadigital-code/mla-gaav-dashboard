@@ -1,0 +1,863 @@
+Aizawl	Aibawk	(इतर)	Chamring
+Aizawl	Aibawk	(इतर)	Chawilung
+Aizawl	Aibawk	(इतर)	Falkawn
+Aizawl	Aibawk	(इतर)	Hmuifang
+Aizawl	Aibawk	(इतर)	Hualngohmun
+Aizawl	Aibawk	(इतर)	Kelsih
+Aizawl	Aibawk	(इतर)	Lamchhip
+Aizawl	Aibawk	(इतर)	Lungsei
+Aizawl	Aibawk	(इतर)	Maubuang
+Aizawl	Aibawk	(इतर)	Melriat
+Aizawl	Aibawk	(इतर)	Muallungthu
+Aizawl	Aibawk	(इतर)	Phulpui
+Aizawl	Aibawk	(इतर)	Sailam
+Aizawl	Aibawk	(इतर)	Samlukhai
+Aizawl	Aibawk	(इतर)	Sateek
+Aizawl	Aibawk	(इतर)	Sialsuk
+Aizawl	Aibawk	(इतर)	Sumsuih
+Aizawl	Aibawk	(इतर)	Tachhip
+Aizawl	Aibawk	(इतर)	Thiak
+Aizawl	Darlawn	(इतर)	Chhanchhuahna Khawpui
+Aizawl	Darlawn	(इतर)	Darlawn Chhim Veng
+Aizawl	Darlawn	(इतर)	Darlawn Venghlun
+Aizawl	Darlawn	(इतर)	Darlawn Vengpui
+Aizawl	Darlawn	(इतर)	East Damdiai
+Aizawl	Darlawn	(इतर)	East Phaileng
+Aizawl	Darlawn	(इतर)	Hmunnghak
+Aizawl	Darlawn	(इतर)	Kepran
+Aizawl	Darlawn	(इतर)	Khawpuar
+Aizawl	Darlawn	(इतर)	Khawruhlian
+Aizawl	Darlawn	(इतर)	Lungsum
+Aizawl	Darlawn	(इतर)	Mauchar
+Aizawl	Darlawn	(इतर)	New Vervek
+Aizawl	Darlawn	(इतर)	North Khawdungsei
+Aizawl	Darlawn	(इतर)	North Serzawl
+Aizawl	Darlawn	(इतर)	North Tinghmun
+Aizawl	Darlawn	(इतर)	Palsang
+Aizawl	Darlawn	(इतर)	Pehlawn
+Aizawl	Darlawn	(इतर)	Ratu
+Aizawl	Darlawn	(इतर)	Sailutar
+Aizawl	Darlawn	(इतर)	Sakawrdai
+Aizawl	Darlawn	(इतर)	Sawleng
+Aizawl	Darlawn	(इतर)	Sunhluchhip
+Aizawl	Darlawn	(इतर)	Thingsat
+Aizawl	Darlawn	(इतर)	Upper Sakawrdai
+Aizawl	Darlawn	(इतर)	Vaitin
+Aizawl	Darlawn	(इतर)	Zohmun
+Aizawl	Darlawn	(इतर)	Zokhawthiang
+Aizawl	Thingsulthliah	(इतर)	Darlawng
+Aizawl	Thingsulthliah	(इतर)	Phulmawi
+Aizawl	Thingsulthliah	(इतर)	Seling
+Aizawl	Thingsulthliah	(इतर)	Sesawng I
+Aizawl	Thingsulthliah	(इतर)	Sesawng II
+Aizawl	Thingsulthliah	(इतर)	Sesawng III
+Aizawl	Thingsulthliah	(इतर)	Thingsul Tlangnuam
+Aizawl	Thingsulthliah	(इतर)	Thingsulthliah - I
+Aizawl	Thingsulthliah	(इतर)	Thingsulthliah - II
+Aizawl	Thingsulthliah	(इतर)	Tlungvel
+Aizawl	Tlangnuam	(इतर)	Lengpui
+Aizawl	Tlangnuam	(इतर)	Lungleng I
+Aizawl	Tlangnuam	(इतर)	Muthi
+Aizawl	Tlangnuam	(इतर)	Nausel
+Aizawl	Tlangnuam	(इतर)	North Lungleng
+Aizawl	Tlangnuam	(इतर)	Sairang
+Aizawl	Tlangnuam	(इतर)	Sairang Dinthar
+Aizawl	Tlangnuam	(इतर)	Sairang Sihhmui
+Aizawl	Tlangnuam	(इतर)	Samtlang
+Aizawl	Tlangnuam	(इतर)	Sihphir
+Aizawl	Tlangnuam	(इतर)	Sihphir Venghlun
+Aizawl	Tlangnuam	(इतर)	Tuirial
+Aizawl	Tlangnuam	(इतर)	Tuirial Airfield
+Champhai	Champhai	(इतर)	Bethel
+Champhai	Champhai	(इतर)	Champhai Jail Veng
+Champhai	Champhai	(इतर)	Champhai Vengthar
+Champhai	Champhai	(इतर)	Chhungte
+Champhai	Champhai	(इतर)	Dilkawn
+Champhai	Champhai	(इतर)	Dinthar
+Champhai	Champhai	(इतर)	Electric Veng
+Champhai	Champhai	(इतर)	Hmunhmeltha
+Champhai	Champhai	(इतर)	Hnahlan
+Champhai	Champhai	(इतर)	Kahrawt
+Champhai	Champhai	(इतर)	Kanan
+Champhai	Champhai	(इतर)	Kelkang
+Champhai	Champhai	(इतर)	Khuangphah
+Champhai	Champhai	(इतर)	Lungphunlian
+Champhai	Champhai	(इतर)	Melbuk
+Champhai	Champhai	(इतर)	Mualkawi
+Champhai	Champhai	(इतर)	Murlen
+Champhai	Champhai	(इतर)	N. Diltlang
+Champhai	Champhai	(इतर)	N.Khawbung
+Champhai	Champhai	(इतर)	New Champhai
+Champhai	Champhai	(इतर)	Ngur
+Champhai	Champhai	(इतर)	Ruantlang
+Champhai	Champhai	(इतर)	Ruantlang Mual Veng
+Champhai	Champhai	(इतर)	Selam
+Champhai	Champhai	(इतर)	Tlangsam
+Champhai	Champhai	(इतर)	Tualcheng
+Champhai	Champhai	(इतर)	Tuipui
+Champhai	Champhai	(इतर)	Vaikhawtlang
+Champhai	Champhai	(इतर)	Vapar
+Champhai	Champhai	(इतर)	Venglai
+Champhai	Champhai	(इतर)	Vengsang
+Champhai	Champhai	(इतर)	Vengthlang
+Champhai	Champhai	(इतर)	Vengthlang North
+Champhai	Champhai	(इतर)	Zion Veng
+Champhai	Champhai	(इतर)	Zokhawthar
+Champhai	Champhai	(इतर)	Zote
+Champhai	Champhai	(इतर)	Zotlang East
+Champhai	Khawbung	(इतर)	Buang
+Champhai	Khawbung	(इतर)	Bulfekzawl
+Champhai	Khawbung	(इतर)	Bungzung
+Champhai	Khawbung	(इतर)	Chawngtui East
+Champhai	Khawbung	(इतर)	Dungtlang
+Champhai	Khawbung	(इतर)	Farkawn
+Champhai	Khawbung	(इतर)	Hruaikawn
+Champhai	Khawbung	(इतर)	Khankawn
+Champhai	Khawbung	(इतर)	Khawbung South
+Champhai	Khawbung	(इतर)	Khuangleng
+Champhai	Khawbung	(इतर)	Khuangthing
+Champhai	Khawbung	(इतर)	Leisenzo
+Champhai	Khawbung	(इतर)	Leithum
+Champhai	Khawbung	(इतर)	Lianpui
+Champhai	Khawbung	(इतर)	New Hruaikawn
+Champhai	Khawbung	(इतर)	Samthang (old)
+Champhai	Khawbung	(इतर)	Sazep
+Champhai	Khawbung	(इतर)	Sesih
+Champhai	Khawbung	(इतर)	Thekpui
+Champhai	Khawbung	(इतर)	Thekte
+Champhai	Khawbung	(इतर)	Vangchhia
+Champhai	Khawbung	(इतर)	Vanzau
+Champhai	Khawbung	(इतर)	Vaphai
+Champhai	Khawbung	(इतर)	Zawlsei
+Champhai	Khawbung	(इतर)	Zawngtetui
+Hnahthial	Hnahthial	(इतर)	Aithur
+Hnahthial	Hnahthial	(इतर)	Bualpui H
+Hnahthial	Hnahthial	(इतर)	Bualpuiâ€™Vâ€™
+Hnahthial	Hnahthial	(इतर)	Chawngtui South
+Hnahthial	Hnahthial	(इतर)	Cherhlun
+Hnahthial	Hnahthial	(इतर)	Chhipphir
+Hnahthial	Hnahthial	(इतर)	Darzo
+Hnahthial	Hnahthial	(इतर)	Denlung
+Hnahthial	Hnahthial	(इतर)	Hnahthial North I
+Hnahthial	Hnahthial	(इतर)	Hnahthial North II
+Hnahthial	Hnahthial	(इतर)	Hnahthial South I
+Hnahthial	Hnahthial	(इतर)	Hnahthial South II
+Hnahthial	Hnahthial	(इतर)	Hnahthial South III
+Hnahthial	Hnahthial	(इतर)	Khawhri
+Hnahthial	Hnahthial	(इतर)	Leite
+Hnahthial	Hnahthial	(इतर)	Lungmawi
+Hnahthial	Hnahthial	(इतर)	Lungpuitlang
+Hnahthial	Hnahthial	(इतर)	Muallianpui
+Hnahthial	Hnahthial	(इतर)	New Kawnpui (Hnahthial)
+Hnahthial	Hnahthial	(इतर)	New Ngharchhip
+Hnahthial	Hnahthial	(इतर)	Old Ngharchhip
+Hnahthial	Hnahthial	(इतर)	Pangzawl North
+Hnahthial	Hnahthial	(इतर)	Pangzawl South
+Hnahthial	Hnahthial	(इतर)	Phaileng South
+Hnahthial	Hnahthial	(इतर)	Rawpui
+Hnahthial	Hnahthial	(इतर)	Rotlang East
+Hnahthial	Hnahthial	(इतर)	South Lungleng
+Hnahthial	Hnahthial	(इतर)	South Vanlaiphai
+Hnahthial	Hnahthial	(इतर)	Tarpho
+Hnahthial	Hnahthial	(इतर)	Thiltlang
+Hnahthial	Hnahthial	(इतर)	Thingsai
+Hnahthial	Hnahthial	(इतर)	Tuipui D
+Khawzawl	Khawzawl	(इतर)	Aiduzawl
+Khawzawl	Khawzawl	(इतर)	Arro
+Khawzawl	Khawzawl	(इतर)	Biate
+Khawzawl	Khawzawl	(इतर)	Chalrang
+Khawzawl	Khawzawl	(इतर)	Chawngtlai
+Khawzawl	Khawzawl	(इतर)	Chhawrtui
+Khawzawl	Khawzawl	(इतर)	Dulte
+Khawzawl	Khawzawl	(इतर)	Hmuncheng
+Khawzawl	Khawzawl	(इतर)	Kawlkulh North
+Khawzawl	Khawzawl	(इतर)	Kawlkulh South
+Khawzawl	Khawzawl	(इतर)	Khawhai
+Khawzawl	Khawzawl	(इतर)	Khawzawl Arro Veng
+Khawzawl	Khawzawl	(इतर)	Khawzawl Darngawn
+Khawzawl	Khawzawl	(इतर)	Khawzawl Dinthar
+Khawzawl	Khawzawl	(इतर)	Khawzawl Electric
+Khawzawl	Khawzawl	(इतर)	Khawzawl Hermon
+Khawzawl	Khawzawl	(इतर)	Khawzawl Kawnzar
+Khawzawl	Khawzawl	(इतर)	Khawzawl Vengthar
+Khawzawl	Khawzawl	(इतर)	Khawzawl Zaingen
+Khawzawl	Khawzawl	(इतर)	Khawzawl Zuchhip
+Khawzawl	Khawzawl	(इतर)	Khualen
+Khawzawl	Khawzawl	(इतर)	Lungtan
+Khawzawl	Khawzawl	(इतर)	Lungvar
+Khawzawl	Khawzawl	(इतर)	Neihdawn
+Khawzawl	Khawzawl	(इतर)	New Chalrang
+Khawzawl	Khawzawl	(इतर)	Ngaizawl
+Khawzawl	Khawzawl	(इतर)	Pamchung
+Khawzawl	Khawzawl	(इतर)	Puilo
+Khawzawl	Khawzawl	(इतर)	Rabung
+Khawzawl	Khawzawl	(इतर)	Riangtlei
+Khawzawl	Khawzawl	(इतर)	Sialhawk
+Khawzawl	Khawzawl	(इतर)	Tlangmawi
+Khawzawl	Khawzawl	(इतर)	Tlangpui
+Khawzawl	Khawzawl	(इतर)	Tualpui
+Khawzawl	Khawzawl	(इतर)	Tualte
+Khawzawl	Khawzawl	(इतर)	Vanchengpui
+Khawzawl	Khawzawl	(इतर)	Vangtlang
+Khawzawl	Khawzawl	(इतर)	Vankal
+Kolasib	'n' Thingdawl	(इतर)	Bualpui North
+Kolasib	'n' Thingdawl	(इतर)	Bukpui
+Kolasib	'n' Thingdawl	(इतर)	Hortoki
+Kolasib	'n' Thingdawl	(इतर)	Kawnpui I
+Kolasib	'n' Thingdawl	(इतर)	Kawnpui II
+Kolasib	'n' Thingdawl	(इतर)	Kawnpui III
+Kolasib	'n' Thingdawl	(इतर)	Kawnpui Venglai
+Kolasib	'n' Thingdawl	(इतर)	Khamrang
+Kolasib	'n' Thingdawl	(इतर)	Lungdai
+Kolasib	'n' Thingdawl	(इतर)	Lungmuat
+Kolasib	'n' Thingdawl	(इतर)	Mualkhang
+Kolasib	'n' Thingdawl	(इतर)	N.Hlimen
+Kolasib	'n' Thingdawl	(इतर)	Nisapui
+Kolasib	'n' Thingdawl	(इतर)	North Chaltlang - I
+Kolasib	'n' Thingdawl	(इतर)	North Chaltlang - II
+Kolasib	'n' Thingdawl	(इतर)	Serkhan
+Kolasib	'n' Thingdawl	(इतर)	Thingdawl
+Kolasib	'n' Thingdawl	(इतर)	Thingthelh
+Kolasib	'n' Thingdawl	(इतर)	Zanlawn
+Kolasib	Bilkhawthlir	(इतर)	Bairabi North
+Kolasib	Bilkhawthlir	(इतर)	Barabi South
+Kolasib	Bilkhawthlir	(इतर)	Bilkhawthlir North
+Kolasib	Bilkhawthlir	(इतर)	Bilkhawthlir South
+Kolasib	Bilkhawthlir	(इतर)	Buhchangphai
+Kolasib	Bilkhawthlir	(इतर)	Bukvannei
+Kolasib	Bilkhawthlir	(इतर)	Kolasib College Veng
+Kolasib	Bilkhawthlir	(इतर)	Kolasib Diakkawn
+Kolasib	Bilkhawthlir	(इतर)	Kolasib Electric Veng
+Kolasib	Bilkhawthlir	(इतर)	Kolasib Gosen
+Kolasib	Bilkhawthlir	(इतर)	Kolasib Hmar Veng
+Kolasib	Bilkhawthlir	(इतर)	Kolasib Khuangpuilam
+Kolasib	Bilkhawthlir	(इतर)	Kolasib New Diakkawn
+Kolasib	Bilkhawthlir	(इतर)	Kolasib Project Veng
+Kolasib	Bilkhawthlir	(इतर)	Kolasib Rengtekawn
+Kolasib	Bilkhawthlir	(इतर)	Kolasib Saidan
+Kolasib	Bilkhawthlir	(इतर)	Kolasib Tuitha Veng
+Kolasib	Bilkhawthlir	(इतर)	Kolasib Tumpui
+Kolasib	Bilkhawthlir	(इतर)	Kolasib Venglai
+Kolasib	Bilkhawthlir	(इतर)	Kolasib Venglai East
+Kolasib	Bilkhawthlir	(इतर)	Kolasib Vengthar
+Kolasib	Bilkhawthlir	(इतर)	Meidum
+Kolasib	Bilkhawthlir	(इतर)	N.Chawnpui
+Kolasib	Bilkhawthlir	(इतर)	N.Chhimluang
+Kolasib	Bilkhawthlir	(इतर)	N.Thinglian
+Kolasib	Bilkhawthlir	(इतर)	New Builum
+Kolasib	Bilkhawthlir	(इतर)	Pangbalkawn
+Kolasib	Bilkhawthlir	(इतर)	Phainuam
+Kolasib	Bilkhawthlir	(इतर)	Phaisen
+Kolasib	Bilkhawthlir	(इतर)	Saihapui K
+Kolasib	Bilkhawthlir	(इतर)	Saihapui V
+Kolasib	Bilkhawthlir	(इतर)	Saiphai
+Kolasib	Bilkhawthlir	(इतर)	Saipum
+Kolasib	Bilkhawthlir	(इतर)	Vairengte I
+Kolasib	Bilkhawthlir	(इतर)	Vairengte II
+Kolasib	Bilkhawthlir	(इतर)	Vairengte III (IOC Veng)
+Kolasib	Bilkhawthlir	(इतर)	Vairengte IV (State Veng)
+Lawngtlai	Chawngte	(इतर)	Adubangasora
+Lawngtlai	Chawngte	(इतर)	Ajasora II
+Lawngtlai	Chawngte	(इतर)	Ajasora III
+Lawngtlai	Chawngte	(इतर)	Ajasora-I
+Lawngtlai	Chawngte	(इतर)	Arotinagar
+Lawngtlai	Chawngte	(इतर)	Baganpara
+Lawngtlai	Chawngte	(इतर)	Bajeisora
+Lawngtlai	Chawngte	(इतर)	Bandukbanga
+Lawngtlai	Chawngte	(इतर)	Baraguisury
+Lawngtlai	Chawngte	(इतर)	Barapansury East
+Lawngtlai	Chawngte	(इतर)	Barapansury-I
+Lawngtlai	Chawngte	(इतर)	Barapansury-II
+Lawngtlai	Chawngte	(इतर)	Barkalak
+Lawngtlai	Chawngte	(इतर)	Barkobakhali
+Lawngtlai	Chawngte	(इतर)	Betbonya
+Lawngtlai	Chawngte	(इतर)	Billosora
+Lawngtlai	Chawngte	(इतर)	Boranasury
+Lawngtlai	Chawngte	(इतर)	Boroituli
+Lawngtlai	Chawngte	(इतर)	Chaminisora
+Lawngtlai	Chawngte	(इतर)	Charluitlang
+Lawngtlai	Chawngte	(इतर)	Chongrasury
+Lawngtlai	Chawngte	(इतर)	Chotapansury
+Lawngtlai	Chawngte	(इतर)	Chotobokhali
+Lawngtlai	Chawngte	(इतर)	Chotoguisury-I
+Lawngtlai	Chawngte	(इतर)	Chotoguisury-II
+Lawngtlai	Chawngte	(इतर)	Devasora N
+Lawngtlai	Chawngte	(इतर)	Devasora â€˜Sâ€™
+Lawngtlai	Chawngte	(इतर)	Dursora
+Lawngtlai	Chawngte	(इतर)	Fulsora
+Lawngtlai	Chawngte	(इतर)	Fultuli
+Lawngtlai	Chawngte	(इतर)	Futsury
+Lawngtlai	Chawngte	(इतर)	Gabasury
+Lawngtlai	Chawngte	(इतर)	Gerakuluksora
+Lawngtlai	Chawngte	(इतर)	Gerasury
+Lawngtlai	Chawngte	(इतर)	Golasury
+Lawngtlai	Chawngte	(इतर)	Gulsingbapsora
+Lawngtlai	Chawngte	(इतर)	Jamersury
+Lawngtlai	Chawngte	(इतर)	Jaruldubosora
+Lawngtlai	Chawngte	(इतर)	Jarulsury
+Lawngtlai	Chawngte	(इतर)	Jarulsury-II
+Lawngtlai	Chawngte	(इतर)	Kamalanagar II
+Lawngtlai	Chawngte	(इतर)	Kamalanagar III
+Lawngtlai	Chawngte	(इतर)	Kamalanagar IV
+Lawngtlai	Chawngte	(इतर)	Kamalanagar V
+Lawngtlai	Chawngte	(इतर)	Kamalanagar VI
+Lawngtlai	Chawngte	(इतर)	Kamalanagar-I
+Lawngtlai	Chawngte	(इतर)	Kamtuli
+Lawngtlai	Chawngte	(इतर)	Kukurduleya
+Lawngtlai	Chawngte	(इतर)	Kurbalovasora
+Lawngtlai	Chawngte	(इतर)	Lakkisury
+Lawngtlai	Chawngte	(इतर)	Longpuighat
+Lawngtlai	Chawngte	(इतर)	Longpuighat-II
+Lawngtlai	Chawngte	(इतर)	Ludisora
+Lawngtlai	Chawngte	(इतर)	Mainabapsora I
+Lawngtlai	Chawngte	(इतर)	Mainabapsora-II
+Lawngtlai	Chawngte	(इतर)	Mandirasora
+Lawngtlai	Chawngte	(इतर)	Massury
+Lawngtlai	Chawngte	(इतर)	Montola
+Lawngtlai	Chawngte	(इतर)	Nagdarasora
+Lawngtlai	Chawngte	(इतर)	Nalbonya
+Lawngtlai	Chawngte	(इतर)	New Jaganasury-I
+Lawngtlai	Chawngte	(इतर)	New Jaganasury-II
+Lawngtlai	Chawngte	(इतर)	New Jaganasury-III
+Lawngtlai	Chawngte	(इतर)	Old Bajeisora
+Lawngtlai	Chawngte	(इतर)	Palenosora
+Lawngtlai	Chawngte	(इतर)	Parva I
+Lawngtlai	Chawngte	(इतर)	Parva II
+Lawngtlai	Chawngte	(इतर)	Parva III
+Lawngtlai	Chawngte	(इतर)	Parva-IV
+Lawngtlai	Chawngte	(इतर)	Rajamandal
+Lawngtlai	Chawngte	(इतर)	Rengkashya
+Lawngtlai	Chawngte	(इतर)	Samuksora
+Lawngtlai	Chawngte	(इतर)	Silbanga
+Lawngtlai	Chawngte	(इतर)	Sillosora
+Lawngtlai	Chawngte	(इतर)	Silsury
+Lawngtlai	Chawngte	(इतर)	Simeisury
+Lawngtlai	Chawngte	(इतर)	Siminasora
+Lawngtlai	Chawngte	(इतर)	Tungosora
+Lawngtlai	Chawngte	(इतर)	Udalthana I
+Lawngtlai	Chawngte	(इतर)	Udalthana II
+Lawngtlai	Chawngte	(इतर)	Ugalsury
+Lawngtlai	Chawngte	(इतर)	Ugudasury N
+Lawngtlai	Chawngte	(इतर)	Ugudasury â€˜Sâ€™
+Lawngtlai	Chawngte	(इतर)	Ulusury
+Lawngtlai	Chawngte	(इतर)	Vaseitlang I
+Lawngtlai	Chawngte	(इतर)	Vaseitlang II
+Lawngtlai	Chawngte	(इतर)	W.Saizawh
+Lawngtlai	Chawngte	(इतर)	barkobakhali-II
+Lawngtlai	Lawngtlai	(इतर)	AOC Veng
+Lawngtlai	Lawngtlai	(इतर)	Chawngte â€˜Pâ€™
+Lawngtlai	Lawngtlai	(इतर)	Chawngtelui
+Lawngtlai	Lawngtlai	(इतर)	Chawnhu
+Lawngtlai	Lawngtlai	(इतर)	Chawntlangpui
+Lawngtlai	Lawngtlai	(इतर)	College Veng
+Lawngtlai	Lawngtlai	(इतर)	Council Veng
+Lawngtlai	Lawngtlai	(इतर)	Darnamtlang
+Lawngtlai	Lawngtlai	(इतर)	Diltlang â€˜Sâ€™
+Lawngtlai	Lawngtlai	(इतर)	Electric Veng
+Lawngtlai	Lawngtlai	(इतर)	Hmawngbu
+Lawngtlai	Lawngtlai	(इतर)	Hmawngbuchhuah
+Lawngtlai	Lawngtlai	(इतर)	Hmunlai
+Lawngtlai	Lawngtlai	(इतर)	Hruitezawl
+Lawngtlai	Lawngtlai	(इतर)	Kakichhuah
+Lawngtlai	Lawngtlai	(इतर)	Kawlchaw â€˜Wâ€™
+Lawngtlai	Lawngtlai	(इतर)	Kawrthindeng
+Lawngtlai	Lawngtlai	(इतर)	Lawngtlai I (Vengpui - I)
+Lawngtlai	Lawngtlai	(इतर)	Lawngtlai I (Vengpui - II)
+Lawngtlai	Lawngtlai	(इतर)	Lawngtlai II (Bazar Veng)
+Lawngtlai	Lawngtlai	(इतर)	Lawngtlai III
+Lawngtlai	Lawngtlai	(इतर)	Lawngtlai IV (Chanmary - I)
+Lawngtlai	Lawngtlai	(इतर)	Lawngtlai IV (Chanmary - II)
+Lawngtlai	Lawngtlai	(इतर)	Lunghauka
+Lawngtlai	Lawngtlai	(इतर)	Mampui
+Lawngtlai	Lawngtlai	(इतर)	Mualbu â€˜Lâ€™
+Lawngtlai	Lawngtlai	(इतर)	Ngengpuikai
+Lawngtlai	Lawngtlai	(इतर)	Ngengpuitlang
+Lawngtlai	Lawngtlai	(इतर)	Paithar
+Lawngtlai	Lawngtlai	(इतर)	R Vanhne
+Lawngtlai	Lawngtlai	(इतर)	Rulkual
+Lawngtlai	Lawngtlai	(इतर)	Sabualtlang
+Lawngtlai	Lawngtlai	(इतर)	Saikah L
+Lawngtlai	Lawngtlai	(इतर)	Saikah u
+Lawngtlai	Lawngtlai	(इतर)	Saizawh â€˜Eâ€™
+Lawngtlai	Lawngtlai	(इतर)	Sakeilui I
+Lawngtlai	Lawngtlai	(इतर)	Sakeilui II
+Lawngtlai	Lawngtlai	(इतर)	Sihtlangpui
+Lawngtlai	Lawngtlai	(इतर)	Sumsilui
+Lawngtlai	Lawngtlai	(इतर)	Thingkah
+Lawngtlai	Lawngtlai	(इतर)	Tuidangtlang
+Lawngtlai	Lawngtlai	(इतर)	Tuikhurlui
+Lawngtlai	Lawngtlai	(इतर)	Tuithumhnar
+Lawngtlai	Lawngtlai	(इतर)	Zochachhuah
+Lawngtlai	S' Bungtlang	(इतर)	Bolisora
+Lawngtlai	S' Bungtlang	(इतर)	Bungtlang S-I
+Lawngtlai	S' Bungtlang	(इतर)	Bungtlang S-II
+Lawngtlai	S' Bungtlang	(इतर)	Chamdur â€˜Pâ€™ I
+Lawngtlai	S' Bungtlang	(इतर)	Chamdur â€˜Pâ€™ II
+Lawngtlai	S' Bungtlang	(इतर)	Chamdurtlang I
+Lawngtlai	S' Bungtlang	(इतर)	Chamdurtlang II
+Lawngtlai	S' Bungtlang	(इतर)	Chikhurlui
+Lawngtlai	S' Bungtlang	(इतर)	Damlui
+Lawngtlai	S' Bungtlang	(इतर)	Dumzautlang
+Lawngtlai	S' Bungtlang	(इतर)	Fangfarlui
+Lawngtlai	S' Bungtlang	(इतर)	Hmunnuam
+Lawngtlai	S' Bungtlang	(इतर)	Jognasuri
+Lawngtlai	S' Bungtlang	(इतर)	Karlui I
+Lawngtlai	S' Bungtlang	(इतर)	Karlui II
+Lawngtlai	S' Bungtlang	(इतर)	Kawnkhua
+Lawngtlai	S' Bungtlang	(इतर)	Laitlang
+Lawngtlai	S' Bungtlang	(इतर)	M.Kawnpui
+Lawngtlai	S' Bungtlang	(इतर)	Mautlang (Lawngtlai)
+Lawngtlai	S' Bungtlang	(इतर)	Nghalimlui
+Lawngtlai	S' Bungtlang	(इतर)	Ngunlingkhua
+Lawngtlai	S' Bungtlang	(इतर)	Pandawnglui
+Lawngtlai	S' Bungtlang	(इतर)	Saibawh
+Lawngtlai	S' Bungtlang	(इतर)	Saikhawthlir (Lawngtlai)
+Lawngtlai	S' Bungtlang	(इतर)	T Dumzau
+Lawngtlai	S' Bungtlang	(इतर)	Tuichawngtlang
+Lawngtlai	S' Bungtlang	(इतर)	Tuisentlang
+Lawngtlai	S' Bungtlang	(इतर)	Vathuampui
+Lawngtlai	S' Bungtlang	(इतर)	Veseikai
+Lawngtlai	Sangau	(इतर)	Archhuang
+Lawngtlai	Sangau	(इतर)	Bualpui NG-I
+Lawngtlai	Sangau	(इतर)	Bualpui Ng-II
+Lawngtlai	Sangau	(इतर)	Cheural
+Lawngtlai	Sangau	(इतर)	Lungpher S
+Lawngtlai	Sangau	(इतर)	Lungtian I
+Lawngtlai	Sangau	(इतर)	Lungtian II
+Lawngtlai	Sangau	(इतर)	Lungzarhtum
+Lawngtlai	Sangau	(इतर)	Pangkhua
+Lawngtlai	Sangau	(इतर)	Rawlbuk
+Lawngtlai	Sangau	(इतर)	Sangau I
+Lawngtlai	Sangau	(इतर)	Sangau II
+Lawngtlai	Sangau	(इतर)	Sangau III
+Lawngtlai	Sangau	(इतर)	Sangau IV
+Lawngtlai	Sangau	(इतर)	Sentetfiang
+Lawngtlai	Sangau	(इतर)	Siachangkawn
+Lawngtlai	Sangau	(इतर)	Thaltlang
+Lawngtlai	Sangau	(इतर)	Tialdawngilung
+Lawngtlai	Sangau	(इतर)	Vartek
+Lawngtlai	Sangau	(इतर)	Vartekkai
+Lawngtlai	Sangau	(इतर)	Vawmbuk
+Lawngtlai	Sangau	(इतर)	Vawmbuk-II (Vaivakawn)
+Lunglei	Lunglei	(इतर)	Bualte
+Lunglei	Lunglei	(इतर)	Buknuam
+Lunglei	Lunglei	(इतर)	Chengpui
+Lunglei	Lunglei	(इतर)	Chithar
+Lunglei	Lunglei	(इतर)	College Veng
+Lunglei	Lunglei	(इतर)	Dawn
+Lunglei	Lunglei	(इतर)	Electric Veng
+Lunglei	Lunglei	(इतर)	Farm Veng
+Lunglei	Lunglei	(इतर)	Haulawng
+Lunglei	Lunglei	(इतर)	Hauruang
+Lunglei	Lunglei	(इतर)	Hlumte
+Lunglei	Lunglei	(इतर)	Hmuntlang
+Lunglei	Lunglei	(इतर)	Hrangchalkawn
+Lunglei	Lunglei	(इतर)	Khawmawi
+Lunglei	Lunglei	(इतर)	Luangmual
+Lunglei	Lunglei	(इतर)	Lunglawn
+Lunglei	Lunglei	(इतर)	Lunglei Bazar Veng
+Lunglei	Lunglei	(इतर)	Lunglei Chanmari
+Lunglei	Lunglei	(इतर)	Lungpuizawl
+Lunglei	Lunglei	(इतर)	Mamte
+Lunglei	Lunglei	(इतर)	Mausen
+Lunglei	Lunglei	(इतर)	Mualcheng South
+Lunglei	Lunglei	(इतर)	Mualthuam N
+Lunglei	Lunglei	(इतर)	Mualthuamâ€™Sâ€™
+Lunglei	Lunglei	(इतर)	Old Ralvawng
+Lunglei	Lunglei	(इतर)	Pukpui
+Lunglei	Lunglei	(इतर)	Rahsi Veng
+Lunglei	Lunglei	(इतर)	Ralvawng
+Lunglei	Lunglei	(इतर)	Ramlaitui
+Lunglei	Lunglei	(इतर)	Ramthar Veng
+Lunglei	Lunglei	(इतर)	Runtung
+Lunglei	Lunglei	(इतर)	Sairep
+Lunglei	Lunglei	(इतर)	Salem
+Lunglei	Lunglei	(इतर)	Sazaikawn
+Lunglei	Lunglei	(इतर)	Sekhum
+Lunglei	Lunglei	(इतर)	Serkawn
+Lunglei	Lunglei	(इतर)	Sethlun
+Lunglei	Lunglei	(इतर)	Tawipui 'N' I
+Lunglei	Lunglei	(इतर)	Tawipui 'N' II
+Lunglei	Lunglei	(इतर)	Tawipui S
+Lunglei	Lunglei	(इतर)	Thaizawl
+Lunglei	Lunglei	(इतर)	Thangpui
+Lunglei	Lunglei	(इतर)	Thangte
+Lunglei	Lunglei	(इतर)	Thehlep
+Lunglei	Lunglei	(इतर)	Theiriat
+Lunglei	Lunglei	(इतर)	Thingfal
+Lunglei	Lunglei	(इतर)	Thlengang
+Lunglei	Lunglei	(इतर)	Thuampui
+Lunglei	Lunglei	(इतर)	Tualthu
+Lunglei	Lunglei	(इतर)	Vaisam
+Lunglei	Lunglei	(इतर)	Vanhne
+Lunglei	Lunglei	(इतर)	Venghlun
+Lunglei	Lunglei	(इतर)	Venglai
+Lunglei	Lunglei	(इतर)	Zobawk North
+Lunglei	Lunglei	(इतर)	Zobawk South
+Lunglei	Lunglei	(इतर)	Zohnuai
+Lunglei	Lunglei	(इतर)	Zotlang
+Lunglei	Lunglei	(इतर)	Zotuitlang
+Lunglei	Lungsen	(इतर)	Balungsuri
+Lunglei	Lungsen	(इतर)	Belpei
+Lunglei	Lungsen	(इतर)	Belthei
+Lunglei	Lungsen	(इतर)	Bindiasora
+Lunglei	Lungsen	(इतर)	Bolia
+Lunglei	Lungsen	(इतर)	Chawilung S
+Lunglei	Lungsen	(इतर)	Chawngte L
+Lunglei	Lungsen	(इतर)	Chengkawllui
+Lunglei	Lungsen	(इतर)	Chhuahthum
+Lunglei	Lungsen	(इतर)	Chhumkhum
+Lunglei	Lungsen	(इतर)	Diblibagh
+Lunglei	Lungsen	(इतर)	Kalapani
+Lunglei	Lungsen	(इतर)	Kauchhuah
+Lunglei	Lungsen	(इतर)	Khojoysury
+Lunglei	Lungsen	(इतर)	Lalnutui
+Lunglei	Lungsen	(इतर)	Lungrang S
+Lunglei	Lungsen	(इतर)	Lungsen - I
+Lunglei	Lungsen	(इतर)	Lungsen II
+Lunglei	Lungsen	(इतर)	Madhiasora
+Lunglei	Lungsen	(इतर)	Mautlang (Lungsen)
+Lunglei	Lungsen	(इतर)	Muriskata
+Lunglei	Lungsen	(इतर)	New.Balukiasuri
+Lunglei	Lungsen	(इतर)	Nunsury - I
+Lunglei	Lungsen	(इतर)	Nunsury II
+Lunglei	Lungsen	(इतर)	Phairuangkai
+Lunglei	Lungsen	(इतर)	Putlungasih
+Lunglei	Lungsen	(इतर)	Rangte
+Lunglei	Lungsen	(इतर)	Rolui
+Lunglei	Lungsen	(इतर)	Rotlang West
+Lunglei	Lungsen	(इतर)	Rualalung
+Lunglei	Lungsen	(इतर)	Sailen
+Lunglei	Lungsen	(इतर)	Serhuan
+Lunglei	Lungsen	(इतर)	Silkur
+Lunglei	Lungsen	(इतर)	Sugarbasora
+Lunglei	Lungsen	(इतर)	Tablabagh
+Lunglei	Lungsen	(इतर)	Tiperaghat
+Lunglei	Lungsen	(इतर)	Tlabung
+Lunglei	Lungsen	(इतर)	Tuichawng
+Lunglei	Lungsen	(इतर)	Tuisen chhuah
+Lunglei	Lungsen	(इतर)	Ukdasuri (Tuilet)
+Lunglei	Lungsen	(इतर)	Undermanik
+Lunglei	Lungsen	(इतर)	Upper Lungrang S
+Lunglei	Lungsen	(इतर)	Vairawkai
+Lunglei	Lungsen	(इतर)	Zawlpui (Lungsen)
+Lunglei	Lungsen	(इतर)	Zehtet
+Lunglei	Lungsen	(इतर)	Zodin
+Lunglei	West Bunghmun	(इतर)	Buarpui
+Lunglei	West Bunghmun	(इतर)	Bunghmun West (Bunghmun)
+Lunglei	West Bunghmun	(इतर)	Bungtlang West
+Lunglei	West Bunghmun	(इतर)	Changpui
+Lunglei	West Bunghmun	(इतर)	Dengsur
+Lunglei	West Bunghmun	(इतर)	Devasuri
+Lunglei	West Bunghmun	(इतर)	Hmundo
+Lunglei	West Bunghmun	(इतर)	Kawlhawk
+Lunglei	West Bunghmun	(इतर)	Laisawral
+Lunglei	West Bunghmun	(इतर)	Lokisuri
+Lunglei	West Bunghmun	(इतर)	Lungchem
+Lunglei	West Bunghmun	(इतर)	Malsury
+Lunglei	West Bunghmun	(इतर)	Marpara S
+Lunglei	West Bunghmun	(इतर)	Mauzam
+Lunglei	West Bunghmun	(इतर)	New Sachan
+Lunglei	West Bunghmun	(इतर)	Puankhai
+Lunglei	West Bunghmun	(इतर)	S.Khawlek
+Lunglei	West Bunghmun	(इतर)	S.Lungdai
+Lunglei	West Bunghmun	(इतर)	Sachan
+Lunglei	West Bunghmun	(इतर)	Serte
+Lunglei	West Bunghmun	(इतर)	Sertlangpui
+Lunglei	West Bunghmun	(इतर)	Sesawm
+Lunglei	West Bunghmun	(इतर)	Sumasumi
+Lunglei	West Bunghmun	(इतर)	Thenhlum
+Lunglei	West Bunghmun	(इतर)	Tleu
+Lunglei	West Bunghmun	(इतर)	Tuikawi
+Mamit	Reiek	(इतर)	Ailawng
+Mamit	Reiek	(इतर)	Bawlte
+Mamit	Reiek	(इतर)	Bawngthah
+Mamit	Reiek	(इतर)	Chungtlang
+Mamit	Reiek	(इतर)	Dapchhuah
+Mamit	Reiek	(इतर)	Darlung
+Mamit	Reiek	(इतर)	Dilzawl
+Mamit	Reiek	(इतर)	Hmunpui
+Mamit	Reiek	(इतर)	Hreichuk
+Mamit	Reiek	(इतर)	Kanghmun
+Mamit	Reiek	(इतर)	Khawrihnim
+Mamit	Reiek	(इतर)	Lengte
+Mamit	Reiek	(इतर)	Lungphun
+Mamit	Reiek	(इतर)	Nghalchawm
+Mamit	Reiek	(इतर)	Rawpuichhip
+Mamit	Reiek	(इतर)	Reiek
+Mamit	Reiek	(इतर)	Rulpuihlim
+Mamit	Reiek	(इतर)	SOUTH SABUAL
+Mamit	Reiek	(इतर)	Tuahzawl
+Mamit	Reiek	(इतर)	WEST LUNGDAR
+Mamit	Reiek	(इतर)	WEST SERZAWL
+Mamit	West Phaileng	(इतर)	Andermanik (Mamit)
+Mamit	West Phaileng	(इतर)	Belkhai
+Mamit	West Phaileng	(इतर)	Chhippui - I
+Mamit	West Phaileng	(इतर)	Chhippui - II
+Mamit	West Phaileng	(इतर)	Damparengpui
+Mamit	West Phaileng	(इतर)	Hnahva
+Mamit	West Phaileng	(इतर)	Hruaitluang
+Mamit	West Phaileng	(इतर)	Hruiduk
+Mamit	West Phaileng	(इतर)	Khantlang
+Mamit	West Phaileng	(इतर)	Khawhnai
+Mamit	West Phaileng	(इतर)	Lallen
+Mamit	West Phaileng	(इतर)	Lianbuang (Bega Bekya)
+Mamit	West Phaileng	(इतर)	Marpara Mizo Veng
+Mamit	West Phaileng	(इतर)	Marpara North
+Mamit	West Phaileng	(इतर)	New Kawnpui
+Mamit	West Phaileng	(इतर)	New West Phaileng
+Mamit	West Phaileng	(इतर)	Parvatui
+Mamit	West Phaileng	(इतर)	Phuldungdsei Zampui
+Mamit	West Phaileng	(इतर)	Phuldungsei
+Mamit	West Phaileng	(इतर)	Phulpui West
+Mamit	West Phaileng	(इतर)	Pukzing
+Mamit	West Phaileng	(इतर)	Pukzing vengthar
+Mamit	West Phaileng	(इतर)	Rajiv Nagar II
+Mamit	West Phaileng	(इतर)	Rajivnagar I
+Mamit	West Phaileng	(इतर)	Saithah
+Mamit	West Phaileng	(इतर)	Silsury East
+Mamit	West Phaileng	(इतर)	Silsury West
+Mamit	West Phaileng	(इतर)	Tuipuibari
+Mamit	West Phaileng	(इतर)	Tuipuibari Venghlui
+Mamit	West Phaileng	(इतर)	Tuirum
+Mamit	West Phaileng	(इतर)	WEST PHAILENG
+Mamit	West Phaileng	(इतर)	Zomuantlang
+Mamit	West Phaileng	(इतर)	Zopui
+Mamit	Zawlnuam	(इतर)	Bawngva
+Mamit	Zawlnuam	(इतर)	Borai
+Mamit	Zawlnuam	(इतर)	Bunghmun West (Zawlnuam)
+Mamit	Zawlnuam	(इतर)	Bungthuam
+Mamit	Zawlnuam	(इतर)	Chilui
+Mamit	Zawlnuam	(इतर)	Chuhvel
+Mamit	Zawlnuam	(इतर)	Damdiai
+Mamit	Zawlnuam	(इतर)	Dampui
+Mamit	Zawlnuam	(इतर)	Darlak
+Mamit	Zawlnuam	(इतर)	Hriphaw
+Mamit	Zawlnuam	(इतर)	K. Sarali
+Mamit	Zawlnuam	(इतर)	Kananthar
+Mamit	Zawlnuam	(इतर)	Kanhmun
+Mamit	Zawlnuam	(इतर)	Kawrtethawveng
+Mamit	Zawlnuam	(इतर)	Kawrthah North
+Mamit	Zawlnuam	(इतर)	Kawrthah South
+Mamit	Zawlnuam	(इतर)	Khanthuam
+Mamit	Zawlnuam	(इतर)	Kolalian
+Mamit	Zawlnuam	(इतर)	Luangpawl
+Mamit	Zawlnuam	(इतर)	Luimawi
+Mamit	Zawlnuam	(इतर)	Mamit Bazar Veng
+Mamit	Zawlnuam	(इतर)	Mamit Chhim Veng
+Mamit	Zawlnuam	(इतर)	Mamit Hmar Veng
+Mamit	Zawlnuam	(इतर)	Mamit Venghlun
+Mamit	Zawlnuam	(इतर)	Mualthuam
+Mamit	Zawlnuam	(इतर)	N.Tlangkhang
+Mamit	Zawlnuam	(इतर)	Nalzawl
+Mamit	Zawlnuam	(इतर)	New Eden
+Mamit	Zawlnuam	(इतर)	New Mamit
+Mamit	Zawlnuam	(इतर)	North Sabual
+Mamit	Zawlnuam	(इतर)	Phaizau
+Mamit	Zawlnuam	(इतर)	Rengdil
+Mamit	Zawlnuam	(इतर)	Saikhawthlir (Zawlnuam)
+Mamit	Zawlnuam	(इतर)	Serhmun West
+Mamit	Zawlnuam	(इतर)	Sihthiang
+Mamit	Zawlnuam	(इतर)	Sotapa
+Mamit	Zawlnuam	(इतर)	Suarhliap
+Mamit	Zawlnuam	(इतर)	Thaidawr
+Mamit	Zawlnuam	(इतर)	Thinghlun
+Mamit	Zawlnuam	(इतर)	Tuidam
+Mamit	Zawlnuam	(इतर)	Tumpanglui
+Mamit	Zawlnuam	(इतर)	Vawngawnzo
+Mamit	Zawlnuam	(इतर)	Zamuang
+Mamit	Zawlnuam	(इतर)	Zawlnuam Thuampui
+Mamit	Zawlnuam	(इतर)	Zawlnuam Vengpui
+Mamit	Zawlnuam	(इतर)	Zawlpui (Zawlnuam)
+Saiha	Saiha	(इतर)	Amobyu Beivah
+Saiha	Saiha	(इतर)	Amobyu CH
+Saiha	Saiha	(इतर)	Amobyu Vaithie
+Saiha	Saiha	(इतर)	Amohtlah
+Saiha	Saiha	(इतर)	Chakhei I
+Saiha	Saiha	(इतर)	Chakhei II
+Saiha	Saiha	(इतर)	Chakheitla
+Saiha	Saiha	(इतर)	Chhaolo I
+Saiha	Saiha	(इतर)	Chhaolo II
+Saiha	Saiha	(इतर)	Chhaolo III
+Saiha	Saiha	(इतर)	College Vaih I
+Saiha	Saiha	(इतर)	College Vaih II
+Saiha	Saiha	(इतर)	Council Vaih
+Saiha	Saiha	(इतर)	ECM Vaih
+Saiha	Saiha	(इतर)	Iana
+Saiha	Saiha	(इतर)	Kaochao East I
+Saiha	Saiha	(इतर)	Kaochao East II
+Saiha	Saiha	(इतर)	Lobo I
+Saiha	Saiha	(इतर)	Lobo II
+Saiha	Saiha	(इतर)	Meisatla-I
+Saiha	Saiha	(इतर)	Meisatla-II
+Saiha	Saiha	(इतर)	Meisavaih East
+Saiha	Saiha	(इतर)	Meisavaih West
+Saiha	Saiha	(इतर)	New Colony - II
+Saiha	Saiha	(इतर)	New Colony-I
+Saiha	Saiha	(इतर)	New Colony-III
+Saiha	Saiha	(इतर)	New Colony-IV
+Saiha	Saiha	(इतर)	New Siaha East I
+Saiha	Saiha	(इतर)	New Siaha East II
+Saiha	Saiha	(इतर)	New Siaha West
+Saiha	Saiha	(इतर)	Noaotlah I
+Saiha	Saiha	(इतर)	Noaotlah II
+Saiha	Saiha	(इतर)	Noaotlah III
+Saiha	Saiha	(इतर)	Old Tisopi
+Saiha	Saiha	(इतर)	Riasikah
+Saiha	Saiha	(इतर)	SIATA-II
+Saiha	Saiha	(इतर)	Siaha Vaihpi I
+Saiha	Saiha	(इतर)	Siaha Vaihpi II
+Saiha	Saiha	(इतर)	Siaha Vaihpi III
+Saiha	Saiha	(इतर)	Siahatlah I
+Saiha	Saiha	(इतर)	Siahatlah II
+Saiha	Saiha	(इतर)	Siahatlah III
+Saiha	Saiha	(इतर)	Siasi
+Saiha	Saiha	(इतर)	Siata-I
+Saiha	Saiha	(इतर)	Theiva
+Saiha	Saiha	(इतर)	Thiahra
+Saiha	Saiha	(इतर)	Thosai
+Saiha	Saiha	(इतर)	Tipi Ferry
+Saiha	Saiha	(इतर)	Tisopi
+Saiha	Tuipang	(इतर)	Ahmypi
+Saiha	Tuipang	(इतर)	Bymari
+Saiha	Tuipang	(इतर)	Chapi I
+Saiha	Tuipang	(इतर)	Chapi II
+Saiha	Tuipang	(इतर)	Chapi III
+Saiha	Tuipang	(इतर)	Chheihlu
+Saiha	Tuipang	(इतर)	Kaisie
+Saiha	Tuipang	(इतर)	Khaikhy
+Saiha	Tuipang	(इतर)	Khopai
+Saiha	Tuipang	(इतर)	Laki-I
+Saiha	Tuipang	(इतर)	Laki-II
+Saiha	Tuipang	(इतर)	Laty
+Saiha	Tuipang	(इतर)	Lodaw
+Saiha	Tuipang	(इतर)	Longmasu
+Saiha	Tuipang	(इतर)	Lopu I
+Saiha	Tuipang	(इतर)	Lopu II
+Saiha	Tuipang	(इतर)	Lopu III
+Saiha	Tuipang	(इतर)	Lorrain Ville
+Saiha	Tuipang	(इतर)	Maisa
+Saiha	Tuipang	(इतर)	Mawhrei
+Saiha	Tuipang	(इतर)	Miepu-I
+Saiha	Tuipang	(इतर)	Miepu-II
+Saiha	Tuipang	(इतर)	New Laty
+Saiha	Tuipang	(इतर)	New Saikao
+Saiha	Tuipang	(इतर)	Pala
+Saiha	Tuipang	(इतर)	Phura-N
+Saiha	Tuipang	(इतर)	Phura-S
+Saiha	Tuipang	(इतर)	Saikao
+Saiha	Tuipang	(इतर)	Saikao Beivaih
+Saiha	Tuipang	(इतर)	Siatlai
+Saiha	Tuipang	(इतर)	Theiri
+Saiha	Tuipang	(इतर)	Tipa B
+Saiha	Tuipang	(इतर)	Tipa D I
+Saiha	Tuipang	(इतर)	Tipa D II
+Saiha	Tuipang	(इतर)	Tipa V-I
+Saiha	Tuipang	(इतर)	Tipa V-II
+Saiha	Tuipang	(इतर)	Tipa V-III
+Saiha	Tuipang	(इतर)	Tisi I
+Saiha	Tuipang	(इतर)	Tisi II
+Saiha	Tuipang	(इतर)	Tokalo
+Saiha	Tuipang	(इतर)	Vahia
+Saiha	Tuipang	(इतर)	Zyhno
+Saiha	Tuipang	(इतर)	Zyhno B
+Saiha	Tuipang	(इतर)	Zyhno Lotai
+Saitual	Ngopa	(इतर)	Changzawl
+Saitual	Ngopa	(इतर)	Chiahpui
+Saitual	Ngopa	(इतर)	Hliappui
+Saitual	Ngopa	(इतर)	Hrianghmun
+Saitual	Ngopa	(इतर)	Kawlbem
+Saitual	Ngopa	(इतर)	Khawkawn
+Saitual	Ngopa	(इतर)	Lamzawl
+Saitual	Ngopa	(इतर)	Mimbung
+Saitual	Ngopa	(इतर)	N.E.Khawdungsei
+Saitual	Ngopa	(इतर)	Ngopa
+Saitual	Ngopa	(इतर)	Pawlrang
+Saitual	Ngopa	(इतर)	Saichal
+Saitual	Ngopa	(इतर)	Teikhang
+Saitual	Phullen	(इतर)	Buhban
+Saitual	Phullen	(इतर)	Daido
+Saitual	Phullen	(इतर)	Dilkhan
+Saitual	Phullen	(इतर)	Keifang Leitan
+Saitual	Phullen	(इतर)	Keifang Venghlun
+Saitual	Phullen	(इतर)	Keifang Venglai
+Saitual	Phullen	(इतर)	Khanpui
+Saitual	Phullen	(इतर)	Khawlian
+Saitual	Phullen	(इतर)	Lailak
+Saitual	Phullen	(इतर)	Lamherh
+Saitual	Phullen	(इतर)	Lenchim
+Saitual	Phullen	(इतर)	Luangpawn
+Saitual	Phullen	(इतर)	Maite
+Saitual	Phullen	(इतर)	Mualpheng
+Saitual	Phullen	(इतर)	N.E.Tlangnuam
+Saitual	Phullen	(इतर)	N.Khawlek
+Saitual	Phullen	(इतर)	N.Lungpher
+Saitual	Phullen	(इतर)	Phuaibuang
+Saitual	Phullen	(इतर)	Phullen
+Saitual	Phullen	(इतर)	RUALLUNG
+Saitual	Phullen	(इतर)	RULCHAWM
+Saitual	Phullen	(इतर)	Saitual I
+Saitual	Phullen	(इतर)	Saitual II
+Saitual	Phullen	(इतर)	Saitual III
+Saitual	Phullen	(इतर)	Sihfa
+Saitual	Phullen	(इतर)	Suangpuilawn
+Saitual	Phullen	(इतर)	Tawizo
+Saitual	Phullen	(इतर)	Thanglailung
+Saitual	Phullen	(इतर)	Tualbung
+Saitual	Phullen	(इतर)	Vanbawng
+Saitual	Phullen	(इतर)	Zawngin
+Serchhip	East Lungdar	(इतर)	Bawktlang
+Serchhip	East Lungdar	(इतर)	Chekawn
+Serchhip	East Lungdar	(इतर)	East Lungdar
+Serchhip	East Lungdar	(इतर)	Khawlailung
+Serchhip	East Lungdar	(इतर)	Leng
+Serchhip	East Lungdar	(इतर)	Lungchhuan
+Serchhip	East Lungdar	(इतर)	Lungkawlh
+Serchhip	East Lungdar	(इतर)	Mualcheng
+Serchhip	East Lungdar	(इतर)	North Vanlaiphai
+Serchhip	East Lungdar	(इतर)	Piler
+Serchhip	East Lungdar	(इतर)	Sailulak
+Serchhip	East Lungdar	(इतर)	Sialsir
+Serchhip	Serchhip	(इतर)	Baktawng Vengpui
+Serchhip	Serchhip	(इतर)	Buangpui
+Serchhip	Serchhip	(इतर)	Buhkangkawn
+Serchhip	Serchhip	(इतर)	Bungtlang
+Serchhip	Serchhip	(इतर)	CHHUANTHAR TLANGNUAM
+Serchhip	Serchhip	(इतर)	Chhiahtlang North
+Serchhip	Serchhip	(इतर)	Chhiahtlang South
+Serchhip	Serchhip	(इतर)	Chhingchhip
+Serchhip	Serchhip	(इतर)	Darnam
+Serchhip	Serchhip	(इतर)	Hmawngkawn
+Serchhip	Serchhip	(इतर)	Hmuntha
+Serchhip	Serchhip	(इतर)	Hmunzawl
+Serchhip	Serchhip	(इतर)	Hriangtlang
+Serchhip	Serchhip	(इतर)	Hualtu
+Serchhip	Serchhip	(इतर)	Kanghmun S
+Serchhip	Serchhip	(इतर)	Keitum
+Serchhip	Serchhip	(इतर)	Khawbel
+Serchhip	Serchhip	(इतर)	Khumtung
+Serchhip	Serchhip	(इतर)	Lungpho
+Serchhip	Serchhip	(इतर)	Mualpui Chhingchhip
+Serchhip	Serchhip	(इतर)	Neihloh
+Serchhip	Serchhip	(इतर)	New Serchhip North
+Serchhip	Serchhip	(इतर)	New Serchhip South
+Serchhip	Serchhip	(इतर)	Ngentiang
+Serchhip	Serchhip	(इतर)	Rullam
+Serchhip	Serchhip	(इतर)	Serchhip Chanmari Veng
+Serchhip	Serchhip	(इतर)	Serchhip I
+Serchhip	Serchhip	(इतर)	Serchhip II
+Serchhip	Serchhip	(इतर)	Serchhip III
+Serchhip	Serchhip	(इतर)	Serchhip IV
+Serchhip	Serchhip	(इतर)	Serchhip V
+Serchhip	Serchhip	(इतर)	Serchhip VI
+Serchhip	Serchhip	(इतर)	Serchhip VII
+Serchhip	Serchhip	(इतर)	Serchhip VIII
+Serchhip	Serchhip	(इतर)	Sialhau
+Serchhip	Serchhip	(इतर)	Thentlang
+Serchhip	Serchhip	(इतर)	Thenzawl East
+Serchhip	Serchhip	(इतर)	Thenzawl Kanan
+Serchhip	Serchhip	(इतर)	Thenzawl Vengthar
+Serchhip	Serchhip	(इतर)	Thenzawl West
+Serchhip	Serchhip	(इतर)	Thinglian (Serchhip)
+Serchhip	Serchhip	(इतर)	Vanchengte
+Serchhip	Serchhip	(इतर)	Zote S

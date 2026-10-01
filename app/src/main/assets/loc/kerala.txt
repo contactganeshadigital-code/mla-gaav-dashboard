@@ -1,0 +1,1930 @@
+Alappuzha	Ambalappuzha	(इतर)	Ambalappuzha
+Alappuzha	Ambalappuzha	(इतर)	Aryad South (Part)
+Alappuzha	Ambalappuzha	(इतर)	Mullakkal (Part)
+Alappuzha	Ambalappuzha	(इतर)	Paravoor
+Alappuzha	Ambalappuzha	(इतर)	Pazhaveedu
+Alappuzha	Ambalappuzha	Ambalappuzha ( North )	Ambalappuzha North
+Alappuzha	Ambalappuzha	Ambalappuzha(south)	Ambalappuzha
+Alappuzha	Ambalappuzha	Ambalappuzha(south)	Karumady
+Alappuzha	Ambalappuzha	Aryad	Komalapuram (CT)
+Alappuzha	Ambalappuzha	Aryad	Pathirappally (CT)
+Alappuzha	Ambalappuzha	Mannanchery	Komalapuram (CT)
+Alappuzha	Ambalappuzha	Mannanchery	Mannanchery (CT)
+Alappuzha	Ambalappuzha	Mararikkulam South	Kalavoor
+Alappuzha	Ambalappuzha	Mararikkulam South	Pathirappally (CT)
+Alappuzha	Ambalappuzha	Punnapra (north)	Paravoor
+Alappuzha	Ambalappuzha	Punnapra(south)	Punnapra (OG)
+Alappuzha	Ambalappuzha	Purakkad	Purakkad
+Alappuzha	Chengannur	(इतर)	Mulakuzha (Part)
+Alappuzha	Chengannur	Ala	Ala (Part)
+Alappuzha	Chengannur	Budhannoor	Ennakkad
+Alappuzha	Chengannur	Cheriyanad	Cheriyanad
+Alappuzha	Chengannur	Mannar	Kurattissery (CT)
+Alappuzha	Chengannur	Mannar	Mannar (CT)
+Alappuzha	Chengannur	Mulakkuzha	Mulakuzha (Part)
+Alappuzha	Chengannur	Pandanad	Ennakkad
+Alappuzha	Chengannur	Pandanad	Pandanad (Part)
+Alappuzha	Chengannur	Pandanad	Thiruvanvandoor
+Alappuzha	Chengannur	Puliyoor	Ala (Part)
+Alappuzha	Chengannur	Puliyoor	Puliyoor(Part)
+Alappuzha	Chengannur	Thiruvanvandur	Chengannur (Part)
+Alappuzha	Chengannur	Thiruvanvandur	Thiruvanvandoor
+Alappuzha	Chengannur	Venmony	Venmony
+Alappuzha	Cherthala	(इतर)	Cherthala North (Part)
+Alappuzha	Cherthala	(इतर)	Cherthala South (Part)
+Alappuzha	Cherthala	(इतर)	Kokkothamangalam (CT)
+Alappuzha	Cherthala	(इतर)	Thanneermukkam North(CT)
+Alappuzha	Cherthala	(इतर)	Thanneermukkam South
+Alappuzha	Cherthala	(इतर)	Vayalar (CT)
+Alappuzha	Cherthala	Arookutty	Arookutty (CT)
+Alappuzha	Cherthala	Aroor	Aroor (CT)
+Alappuzha	Cherthala	Aroor	Ezhupunna (CT)
+Alappuzha	Cherthala	Chennampalippuram	Pallippuram (CT)
+Alappuzha	Cherthala	Cherthala South	Arthunkal
+Alappuzha	Cherthala	Cherthala South	Cherthala North (Part)
+Alappuzha	Cherthala	Cherthala South	Cherthala South (Part)
+Alappuzha	Cherthala	Ezhupunna	Ezhupunna (CT)
+Alappuzha	Cherthala	Kadakkarappally	Kadakkarappally
+Alappuzha	Cherthala	Kanjikuzhi	Kanjikkuzhi (CT)
+Alappuzha	Cherthala	Kanjikuzhi	Thanneermukkam North(CT)
+Alappuzha	Cherthala	Kodamthuruthu	Kodamthuruth (CT)
+Alappuzha	Cherthala	Kuthiathodu	Kuthiathode (CT)
+Alappuzha	Cherthala	Mararikkulam North	Mararikkulam North
+Alappuzha	Cherthala	Muhamma	Thanneermukkam South
+Alappuzha	Cherthala	Panavally	Panavally
+Alappuzha	Cherthala	Pattanakkad	Pattanakkad
+Alappuzha	Cherthala	Perumbalam	Perumbalam
+Alappuzha	Cherthala	Thaicattussery	Thaikattussery (CT)
+Alappuzha	Cherthala	Thanneermukkam	Kokkothamangalam (CT)
+Alappuzha	Cherthala	Thanneermukkam	Thanneermukkam North(CT)
+Alappuzha	Cherthala	Thuravoor	Kuthiathode (CT)
+Alappuzha	Cherthala	Thuravoor	Thuravoor Thekku
+Alappuzha	Cherthala	Vayalar	Vayalar (CT)
+Alappuzha	Karthikappally	(इतर)	Haripad (CT)
+Alappuzha	Karthikappally	(इतर)	Kayamkulam
+Alappuzha	Karthikappally	Arattupuzha	Arattupuzha
+Alappuzha	Karthikappally	Cheppad	Cheppad (CT)
+Alappuzha	Karthikappally	Cheruthana	Cheruthana
+Alappuzha	Karthikappally	Chingoli	Chingoli (CT)
+Alappuzha	Karthikappally	Devikulangara	Puthuppally (CT)
+Alappuzha	Karthikappally	Kandalloor	Kandalloor (CT)
+Alappuzha	Karthikappally	Karthikappally	Karthikappally (CT)
+Alappuzha	Karthikappally	Karuvatta	Karuvatta
+Alappuzha	Karthikappally	Karuvatta	Kumarapuram (CT)
+Alappuzha	Karthikappally	Krishnapuram	Krishnapuram (CT)
+Alappuzha	Karthikappally	Kumarapuram	Kumarapuram (CT)
+Alappuzha	Karthikappally	Muthukulam	Muthukulam (CT)
+Alappuzha	Karthikappally	Pallippad	Pallippad
+Alappuzha	Karthikappally	Pathiyoor	Keerikkad (CT)
+Alappuzha	Karthikappally	Pathiyoor	Pathiyoor (CT)
+Alappuzha	Karthikappally	Thrikkunnapuzha	Thrikkunnapuzha
+Alappuzha	Karthikappally	Veeyapuram	Veeyapuram
+Alappuzha	Kuttanad	Champakkulam	Champakkulam
+Alappuzha	Kuttanad	Edathua	Edathua
+Alappuzha	Kuttanad	Kainakary	Kainakary North
+Alappuzha	Kuttanad	Kainakary	Kainakary South
+Alappuzha	Kuttanad	Kavalam	Kavalam
+Alappuzha	Kuttanad	Kavalam	Kunnumma
+Alappuzha	Kuttanad	Muttar	Muttar
+Alappuzha	Kuttanad	Nedumudi	Kainakary South
+Alappuzha	Kuttanad	Nedumudi	Nedumudi
+Alappuzha	Kuttanad	Neelamperoor	Kavalam
+Alappuzha	Kuttanad	Neelamperoor	Kunnumma
+Alappuzha	Kuttanad	Neelamperoor	Neelamperoor
+Alappuzha	Kuttanad	Pulinkunnu	Kunnumma
+Alappuzha	Kuttanad	Pulinkunnu	Pulinkunnu
+Alappuzha	Kuttanad	Ramankari	Ramankary
+Alappuzha	Kuttanad	Thakazhi	Thakazhy
+Alappuzha	Kuttanad	Thalavadi	Thalavady
+Alappuzha	Kuttanad	Veliyanad	Veliyanad
+Alappuzha	Mavelikkara	(इतर)	Mavelikkara
+Alappuzha	Mavelikkara	Bharanikkavu	Bharanikkavu (CT)
+Alappuzha	Mavelikkara	Bharanikkavu	Kattanam (CT)
+Alappuzha	Mavelikkara	Chennithala Thriperumthara	Chennithala (CT)
+Alappuzha	Mavelikkara	Chennithala Thriperumthara	Thriperumthura
+Alappuzha	Mavelikkara	Chettikulangara	Kannamangalam (CT)
+Alappuzha	Mavelikkara	Chettikulangara	Perungala
+Alappuzha	Mavelikkara	Chunakkara	Chunakkara
+Alappuzha	Mavelikkara	Mavelikkara Thamarakkulam	Thamarakkulam
+Alappuzha	Mavelikkara	Mavelikkara Thekkekara	Thekkekara (Part)
+Alappuzha	Mavelikkara	Nooranad	Noornad
+Alappuzha	Mavelikkara	Palamel	Palamel
+Alappuzha	Mavelikkara	Thazhakkara	Thazhakara (CT)
+Alappuzha	Mavelikkara	Thazhakkara	Vettiyar
+Alappuzha	Mavelikkara	Vallikunnam	Vallikunnam
+Ernakulam	Aluva	(इतर)	Aluva West
+Ernakulam	Aluva	(इतर)	Angamaly
+Ernakulam	Aluva	Ayyampuzha	Ayyampuzha
+Ernakulam	Aluva	Chengamanad	Chengamanad (CT)
+Ernakulam	Aluva	Choornikkara	Choornikkara (CT)
+Ernakulam	Aluva	Edathala	Aluva East
+Ernakulam	Aluva	Edathala	Aluva West
+Ernakulam	Aluva	Kalady	Kalady (CT)
+Ernakulam	Aluva	Kalady	Mattoor (CT)
+Ernakulam	Aluva	Kanjoor	Kizhakkumbhagom (CT)
+Ernakulam	Aluva	Kanjoor	Vadakkumbhagom (CT)
+Ernakulam	Aluva	Karukutty	Karukutty
+Ernakulam	Aluva	Keezhmad	Keezhmad
+Ernakulam	Aluva	Malayattoor Neeleswaram	Kalady (CT)
+Ernakulam	Aluva	Malayattoor Neeleswaram	Malayattoor
+Ernakulam	Aluva	Manjapra	Manjapra
+Ernakulam	Aluva	Mookkannur	Mookkannoor
+Ernakulam	Aluva	Nedumbassery	Nedumbassery (CT)
+Ernakulam	Aluva	Parakkadavu	Parakkadavu
+Ernakulam	Aluva	Sreemoolanagaram	Chowwara (CT)
+Ernakulam	Aluva	Sreemoolanagaram	Thekkumbhagom (CT)
+Ernakulam	Aluva	Thuravoor	Thuravoor
+Ernakulam	Kanayannur	(इतर)	Cheranallur (CT)
+Ernakulam	Kanayannur	(इतर)	Edappally North
+Ernakulam	Kanayannur	(इतर)	Edappally South
+Ernakulam	Kanayannur	(इतर)	Elamkulam
+Ernakulam	Kanayannur	(इतर)	Ernakulam
+Ernakulam	Kanayannur	(इतर)	Kakkanad (CT)
+Ernakulam	Kanayannur	(इतर)	Maradu (CT)
+Ernakulam	Kanayannur	(इतर)	Nadama
+Ernakulam	Kanayannur	(इतर)	Poonithura
+Ernakulam	Kanayannur	(इतर)	Thekkumbhagam
+Ernakulam	Kanayannur	(इतर)	Thiruvankulam (CT)
+Ernakulam	Kanayannur	(इतर)	Thrikkakara North (Part)
+Ernakulam	Kanayannur	(इतर)	Vazhakkala (CT)
+Ernakulam	Kanayannur	Amballur	Amballur (CT)
+Ernakulam	Kanayannur	Amballur	Keecherry
+Ernakulam	Kanayannur	Amballur	Kulayettikara
+Ernakulam	Kanayannur	Cheranallur	Cheranallur (CT)
+Ernakulam	Kanayannur	Chottanikkara	Kanayannur (CT)
+Ernakulam	Kanayannur	Chottanikkara	Kureekkad (CT)
+Ernakulam	Kanayannur	Edakkattuvayal	Edakkattuvayal
+Ernakulam	Kanayannur	Edakkattuvayal	Kaippattur
+Ernakulam	Kanayannur	Kadamakkudy	Kadamakkudy (CT)
+Ernakulam	Kanayannur	Kumbalam	Kumbalam (CT)
+Ernakulam	Kanayannur	Mulavukad	Mulavukad (CT)
+Ernakulam	Kanayannur	Mulumthuruthy	Mulamthuruthy (CT)
+Ernakulam	Kanayannur	Udayamperur	Manakunnam (CT)
+Ernakulam	Kochi	(इतर)	Edakochi
+Ernakulam	Kochi	(इतर)	Fort Kochi
+Ernakulam	Kochi	(इतर)	Mattancherry
+Ernakulam	Kochi	(इतर)	Palluruthy
+Ernakulam	Kochi	(इतर)	Rameswaram
+Ernakulam	Kochi	(इतर)	Thoppumpady
+Ernakulam	Kochi	Chellanam	Chellanam
+Ernakulam	Kochi	Chellanam	Kumbalangy (CT)
+Ernakulam	Kochi	Chellanam	Palluruthy
+Ernakulam	Kochi	Edavanakkad	Edavanakkad
+Ernakulam	Kochi	Elamkunnapuzha	Elamkunnapuzha (CT)
+Ernakulam	Kochi	Elamkunnapuzha	Puthuvype (CT)
+Ernakulam	Kochi	Kumbalangy	Kumbalangy (CT)
+Ernakulam	Kochi	Kuzhuppilly	Kuzhuppilly
+Ernakulam	Kochi	Nayarambalam	Nayarambalam
+Ernakulam	Kochi	Njarakkal	Njarackal (CT)
+Ernakulam	Kochi	Pallippuram	Kuzhuppilly
+Ernakulam	Kochi	Pallippuram	Pallippuram
+Ernakulam	Kothamangalam	(इतर)	Eramalloor (CT)
+Ernakulam	Kothamangalam	(इतर)	Kothamangalam (OG) (Part)
+Ernakulam	Kothamangalam	(इतर)	Thrikkariyoor (Part)
+Ernakulam	Kothamangalam	Kavalangad	Kuttamangalam
+Ernakulam	Kothamangalam	Kavalangad	Neriamangalam
+Ernakulam	Kothamangalam	Keerampara	Keerampara
+Ernakulam	Kothamangalam	Kottappady	Kottappady
+Ernakulam	Kothamangalam	Kottappady	Thrikkariyoor (Part)
+Ernakulam	Kothamangalam	Kuttampuzha	Kuttampuzha
+Ernakulam	Kothamangalam	Nellikkuzhi	Eramalloor (CT)
+Ernakulam	Kothamangalam	Nellikkuzhi	Thrikkariyoor (Part)
+Ernakulam	Kothamangalam	Paingottur	Kedavoor
+Ernakulam	Kothamangalam	Pallarimangalam	Pallarimangalam
+Ernakulam	Kothamangalam	Pindimana	Pindimana
+Ernakulam	Kothamangalam	Pindimana	Thrikkariyoor (Part)
+Ernakulam	Kothamangalam	Pothanikkad	Pothanikkad
+Ernakulam	Kothamangalam	Varappetty	Varappetty
+Ernakulam	Kunnathunad	(इतर)	Pattimattom
+Ernakulam	Kunnathunad	(इतर)	Perumbavoor (CT)
+Ernakulam	Kunnathunad	Aikkaranad	Aikaranad North
+Ernakulam	Kunnathunad	Aikkaranad	Pattimattom
+Ernakulam	Kunnathunad	Asamannoor	Asamannoor
+Ernakulam	Kunnathunad	Kizhakkambalam	Kizhakkambalam
+Ernakulam	Kunnathunad	Koovappady	Kodanad
+Ernakulam	Kunnathunad	Koovappady	Koovappady (CT)
+Ernakulam	Kunnathunad	Kunnathunad	Kunnathunad (CT)
+Ernakulam	Kunnathunad	Kunnathunad	Pattimattom
+Ernakulam	Kunnathunad	Mazhuvannoor	Irapuram
+Ernakulam	Kunnathunad	Mazhuvannoor	Mazhuvannoor
+Ernakulam	Kunnathunad	Mudakuzha	Vengoor West
+Ernakulam	Kunnathunad	Okkal	Chelamattom (CT)
+Ernakulam	Kunnathunad	Okkal	Koovappady (CT)
+Ernakulam	Kunnathunad	Poothrikka	Aikaranad South
+Ernakulam	Kunnathunad	Rayamangalam	Rayamangalam
+Ernakulam	Kunnathunad	Thiruvaniyoor	Puthencruz (CT)
+Ernakulam	Kunnathunad	Thiruvaniyoor	Thiruvaniyoor
+Ernakulam	Kunnathunad	Vadavucode Puthen Cruz	Puthencruz (CT)
+Ernakulam	Kunnathunad	Vadavucode Puthen Cruz	Vadavukode
+Ernakulam	Kunnathunad	Vazhakkulam	Marampilly(CT)
+Ernakulam	Kunnathunad	Vazhakkulam	Vazhakulam (CT)
+Ernakulam	Kunnathunad	Vengola	Arakapady
+Ernakulam	Kunnathunad	Vengola	Vengola (CT)
+Ernakulam	Kunnathunad	Vengoor	Kombanad
+Ernakulam	Kunnathunad	Vengoor	Vengoor
+Ernakulam	Muvattupuzha	(इतर)	Koothattukulam
+Ernakulam	Muvattupuzha	(इतर)	Marady (Part)
+Ernakulam	Muvattupuzha	(इतर)	Muvattupuzha (Part)
+Ernakulam	Muvattupuzha	(इतर)	Piravom
+Ernakulam	Muvattupuzha	(इतर)	Velloorkunnam (CT)
+Ernakulam	Muvattupuzha	Arakuzha	Arakuzha
+Ernakulam	Muvattupuzha	Arakuzha	Marady (Part)
+Ernakulam	Muvattupuzha	Avoly	Muvattupuzha (Part)
+Ernakulam	Muvattupuzha	Ayavana	Enanalloor
+Ernakulam	Muvattupuzha	Elanji	Elanji
+Ernakulam	Muvattupuzha	Kalloorkkad	Kalloorkkad
+Ernakulam	Muvattupuzha	Kalloorkkad	Manjalloor
+Ernakulam	Muvattupuzha	Maneed	Maneed
+Ernakulam	Muvattupuzha	Manjalloor	Manjalloor
+Ernakulam	Muvattupuzha	Marady	Marady (Part)
+Ernakulam	Muvattupuzha	Paipra	Mulavoor
+Ernakulam	Muvattupuzha	Paipra	Velloorkunnam (CT)
+Ernakulam	Muvattupuzha	Palakuzha	Palakkuzha
+Ernakulam	Muvattupuzha	Pampakuda	Memury
+Ernakulam	Muvattupuzha	Pampakuda	Onakkoor
+Ernakulam	Muvattupuzha	Ramamangalam	Memury
+Ernakulam	Muvattupuzha	Ramamangalam	Ramamangalam
+Ernakulam	Muvattupuzha	Thirumarady	Thirumarady
+Ernakulam	Muvattupuzha	Valakom	Valakam
+Ernakulam	Muvattupuzha	Valakom	Velloorkunnam (CT)
+Ernakulam	Paravur	(इतर)	Eloor (CT)
+Ernakulam	Paravur	(इतर)	Kadungalloor (CT)
+Ernakulam	Paravur	(इतर)	Kottuvally (CT)
+Ernakulam	Paravur	(इतर)	North Paravur
+Ernakulam	Paravur	(इतर)	Vadakkekara (CT)
+Ernakulam	Paravur	Alangad	Alangad (CT)
+Ernakulam	Paravur	Chendamangalam	Chendamangalam (CT)
+Ernakulam	Paravur	Chittattukara	North Paravur
+Ernakulam	Paravur	Chittattukara	Vadakkekara (CT)
+Ernakulam	Paravur	Ezhikkara	Ezhikkara
+Ernakulam	Paravur	Ezhikkara	North Paravur
+Ernakulam	Paravur	Kadungallur	Alangad (CT)
+Ernakulam	Paravur	Kadungallur	Kadungalloor (CT)
+Ernakulam	Paravur	Karumalloor	Karumalloor (CT)
+Ernakulam	Paravur	Kottuvally	Kottuvally (CT)
+Ernakulam	Paravur	Kunnukara	Kunnukara
+Ernakulam	Paravur	Kunnukara	Puthenvelikkara (CT)
+Ernakulam	Paravur	Puthenvelikkara	Puthenvelikkara (CT)
+Ernakulam	Paravur	Vadakkekara	Moothakunnam (CT)
+Ernakulam	Paravur	Vadakkekara	Vadakkekara (CT)
+Ernakulam	Paravur	Varapuzha	Varappuzha (CT)
+Idukki	Devikulam	Adimaly	Mannamkandam
+Idukki	Devikulam	Devikulam	Kannan Devan Hills
+Idukki	Devikulam	Edamalakkudy	Edamalakkudy
+Idukki	Devikulam	Kanthalloor	Kanthalloor
+Idukki	Devikulam	Kanthalloor	Keezhanthoor
+Idukki	Devikulam	Mankulam	Mankulam
+Idukki	Devikulam	Marayoor	Marayoor
+Idukki	Devikulam	Munnar	Munnar
+Idukki	Devikulam	Pallivasal	Anaviratty
+Idukki	Devikulam	Pallivasal	Kunjithanny
+Idukki	Devikulam	Pallivasal	Pallivasal
+Idukki	Devikulam	Vattavada	Kottakamboor
+Idukki	Devikulam	Vattavada	Vattavada
+Idukki	Devikulam	Vellathooval	Kunjithanny
+Idukki	Devikulam	Vellathooval	Vellathuval
+Idukki	Idukki	(इतर)	Kattappana
+Idukki	Idukki	Arakulam	Idukki
+Idukki	Idukki	Ayyappancoil	Ayyappancoil
+Idukki	Idukki	Idukki - Kanjikuzhy	Kanjikuzhi
+Idukki	Idukki	Kamakshy	Thankamony
+Idukki	Idukki	Kamakshy	Upputhode
+Idukki	Idukki	Kanchiyar	Kanchiyar
+Idukki	Idukki	Konnathady	Konnathady
+Idukki	Idukki	Mariyapuram	Thankamony
+Idukki	Idukki	Mariyapuram	Upputhode
+Idukki	Idukki	Vathikudy	Upputhode
+Idukki	Idukki	Vathikudy	Vathikudy
+Idukki	Idukki	Vazhathope	Idukki
+Idukki	Peerumade	Elappara	Elappara
+Idukki	Peerumade	Elappara	Vagamon
+Idukki	Peerumade	Kokkayar	Kokkayar
+Idukki	Peerumade	Kumaly	Kumily
+Idukki	Peerumade	Kumaly	Mlappara
+Idukki	Peerumade	Kumaly	Periyar
+Idukki	Peerumade	Peerumedu	Elappara
+Idukki	Peerumade	Peerumedu	Manjumala
+Idukki	Peerumade	Peerumedu	Peerumade
+Idukki	Peerumade	Peruvanthanam	Mlappara
+Idukki	Peerumade	Peruvanthanam	Peruvanthanam
+Idukki	Peerumade	Upputhara	Upputhara
+Idukki	Peerumade	Vandiperiyar	Elappara
+Idukki	Peerumade	Vandiperiyar	Manjumala
+Idukki	Peerumade	Vandiperiyar	Peerumade
+Idukki	Peerumade	Vandiperiyar	Periyar
+Idukki	Thodupuzha	(इतर)	Karikkode (Part)
+Idukki	Thodupuzha	(इतर)	Karimkunnam (Part)
+Idukki	Thodupuzha	(इतर)	Kumaramangalam (Part)
+Idukki	Thodupuzha	(इतर)	Manakkad (Part)
+Idukki	Thodupuzha	(इतर)	Thodupuzha (Part)
+Idukki	Thodupuzha	Alakkode	Alacode
+Idukki	Thodupuzha	Alakkode	Karimannoor
+Idukki	Thodupuzha	Arakulam	Arakkulam
+Idukki	Thodupuzha	Arakulam	Elappally
+Idukki	Thodupuzha	Edavetty	Karikkode (Part)
+Idukki	Thodupuzha	Karimannoor	Karimannoor
+Idukki	Thodupuzha	Karimannoor	Neyyasseri
+Idukki	Thodupuzha	Karimkunnam	Karimkunnam (Part)
+Idukki	Thodupuzha	Karimkunnam	Thodupuzha (Part)
+Idukki	Thodupuzha	Kodikulam	Kodikulam
+Idukki	Thodupuzha	Kodikulam	Neyyasseri
+Idukki	Thodupuzha	Kudayathoor	Alacode
+Idukki	Thodupuzha	Kudayathoor	Kudayathoor
+Idukki	Thodupuzha	Kudayathoor	Velliyamattom
+Idukki	Thodupuzha	Kumaramangalam	Kumaramangalam (Part)
+Idukki	Thodupuzha	Manakkad	Manakkad (Part)
+Idukki	Thodupuzha	Muttom	Muttom
+Idukki	Thodupuzha	Purapuzha	Purapuzha
+Idukki	Thodupuzha	Udumbanoor	Udumbannoor
+Idukki	Thodupuzha	Vannapuram	Vannapuram
+Idukki	Thodupuzha	Velliyamattom	Alacode
+Idukki	Thodupuzha	Velliyamattom	Velliyamattom
+Idukki	Udumbanchola	Ayyappancoil	Anavilasam
+Idukki	Udumbanchola	Bisonvalley	Baisonvally
+Idukki	Udumbanchola	Chakkupallam	Anakkara
+Idukki	Udumbanchola	Chakkupallam	Anavilasam
+Idukki	Udumbanchola	Chakkupallam	Chakkupallam
+Idukki	Udumbanchola	Chinnakanal	Chinnakanal
+Idukki	Udumbanchola	Erattayar	Erattayar
+Idukki	Udumbanchola	Karunapuram	Karunapuram
+Idukki	Udumbanchola	Nedumkandam	Kalkoonthal
+Idukki	Udumbanchola	Nedumkandam	Parathodu
+Idukki	Udumbanchola	Pampadumpara	Karunapuram
+Idukki	Udumbanchola	Pampadumpara	Pampadumpara
+Idukki	Udumbanchola	Rajakkad	Rajakkad
+Idukki	Udumbanchola	Rajakumari	Rajakumari
+Idukki	Udumbanchola	Santhanpara	Poopara
+Idukki	Udumbanchola	Santhanpara	Santhanpara
+Idukki	Udumbanchola	Senapathy	Chathurangapara
+Idukki	Udumbanchola	Senapathy	Kanthippara
+Idukki	Udumbanchola	Senapathy	Udumbanchola
+Idukki	Udumbanchola	Udumbanchola	Chathurangapara
+Idukki	Udumbanchola	Udumbanchola	Parathodu
+Idukki	Udumbanchola	Udumbanchola	Udumbanchola
+Idukki	Udumbanchola	Vandenmedu	Anakkara
+Idukki	Udumbanchola	Vandenmedu	Anavilasam
+Idukki	Udumbanchola	Vandenmedu	Chakkupallam
+Idukki	Udumbanchola	Vandenmedu	Vandanmedu
+Kannur	Iritty	(इतर)	Chavassery
+Kannur	Iritty	(इतर)	Karikkottakkari
+Kannur	Iritty	(इतर)	Keezhur
+Kannur	Iritty	(इतर)	Kolari
+Kannur	Iritty	(इतर)	Payam
+Kannur	Iritty	(इतर)	Pazhassi
+Kannur	Iritty	Aralam	Aralam
+Kannur	Iritty	Ayyankunnu	Ayyankunnu
+Kannur	Iritty	Kanichar	Kanichar
+Kannur	Iritty	Kelakam	Kelakam
+Kannur	Iritty	Kottiyoor	Kottiyoor
+Kannur	Iritty	Muzhakkunnu	Muzhakkunnu
+Kannur	Iritty	Padiyur	Kalliad
+Kannur	Iritty	Padiyur	Padiyoor
+Kannur	Iritty	Payam	Payam
+Kannur	Iritty	Payam	Vilamana
+Kannur	Iritty	Peravoor	Manathana
+Kannur	Iritty	Peravoor	Vellarvelly
+Kannur	Iritty	Thillankeri	Thillenkeri
+Kannur	Iritty	Ulikkal	Nuchiyad
+Kannur	Iritty	Ulikkal	Vayathur
+Kannur	Kannur	(इतर)	Chelora (CT)
+Kannur	Kannur	(इतर)	Edakkad - CT
+Kannur	Kannur	(इतर)	Elayavoor (CT)
+Kannur	Kannur	(इतर)	Kannur I
+Kannur	Kannur	(इतर)	Kannur II
+Kannur	Kannur	(इतर)	Pallikkunnu (CT)
+Kannur	Kannur	(इतर)	Puzhathi (CT)
+Kannur	Kannur	(इतर)	Valiyannur - CT
+Kannur	Kannur	Ancharakandy	Ancharakandy (CT)
+Kannur	Kannur	Azhikode	Azhikode North (CT)
+Kannur	Kannur	Azhikode	Azhikode South (CT)
+Kannur	Kannur	Chembilode	Chembilode - CT
+Kannur	Kannur	Chembilode	Iriveri (CT)
+Kannur	Kannur	Cherukunnu	Cherukunnu (CT)
+Kannur	Kannur	Chirakkal	Chirakkal (CT)
+Kannur	Kannur	Kadamboor	Kadambur - CT
+Kannur	Kannur	Kalliassery	Kalliasseri (CT)
+Kannur	Kannur	Kannapuram	Kannapuram (CT)
+Kannur	Kannur	Mattool	Mattool
+Kannur	Kannur	Munderi	Kanhirode (CT)
+Kannur	Kannur	Munderi	Munderi (CT)
+Kannur	Kannur	Muzhappilangad	Muzhappilangad (CT)
+Kannur	Kannur	Narath	Kannadiparamba (CT)
+Kannur	Kannur	Narath	Narath (CT)
+Kannur	Kannur	Pappinisseri	Pappinisseri (CT)
+Kannur	Kannur	Peralasseri	Makreri - CT
+Kannur	Kannur	Peralasseri	Mavilayi (CT)
+Kannur	Kannur	Valapattanam	Valapattanam (CT)
+Kannur	Payyannur	(इतर)	Korom
+Kannur	Payyannur	(इतर)	Payyannur
+Kannur	Payyannur	(इतर)	Vellur
+Kannur	Payyannur	Cherupuzha	Pulingome
+Kannur	Payyannur	Cherupuzha	Thirumeni
+Kannur	Payyannur	Cherupuzha	Vayakkara
+Kannur	Payyannur	Cheruthazham	Cheruthazham (CT)
+Kannur	Payyannur	Eramam -kuttoor	Eramam
+Kannur	Payyannur	Eramam -kuttoor	Kuttoor
+Kannur	Payyannur	Eramam -kuttoor	Vellora
+Kannur	Payyannur	Ezhome	Ezhome (CT)
+Kannur	Payyannur	Kadannapally -panapuzha	Kadannappalli (CT)
+Kannur	Payyannur	Kadannapally -panapuzha	Panapuzha
+Kannur	Payyannur	Kankole- Alapadamba	Alapadamba
+Kannur	Payyannur	Kankole- Alapadamba	Kankole
+Kannur	Payyannur	Karivellur -peralam	Karivellur (CT)
+Kannur	Payyannur	Karivellur -peralam	Peralam
+Kannur	Payyannur	Kunhimangalam	Kunhimangalam (CT)
+Kannur	Payyannur	Madayi	Madayi (CT)
+Kannur	Payyannur	Peringome -vayakkara	Peringome
+Kannur	Payyannur	Peringome -vayakkara	Perinthatta
+Kannur	Payyannur	Peringome -vayakkara	Vayakkara
+Kannur	Payyannur	Ramanthali	Ramanthali
+Kannur	Taliparamba	(इतर)	Andoor
+Kannur	Taliparamba	(इतर)	Morazha
+Kannur	Taliparamba	(इतर)	Nediyanga
+Kannur	Taliparamba	(इतर)	Sreekandapuram
+Kannur	Taliparamba	(इतर)	Taliparamba
+Kannur	Taliparamba	Alakode	Alakode
+Kannur	Taliparamba	Alakode	Thimiri
+Kannur	Taliparamba	Alakode	Vellad
+Kannur	Taliparamba	Chapparapadavu	Kooveri
+Kannur	Taliparamba	Chapparapadavu	Thimiri
+Kannur	Taliparamba	Chapparapadavu	Vellad
+Kannur	Taliparamba	Chengalai	Chengalai
+Kannur	Taliparamba	Chengalai	Chuzhali
+Kannur	Taliparamba	Eruvessey	Eruvassy
+Kannur	Taliparamba	Irikkur	Irikkur (CT)
+Kannur	Taliparamba	Kolacherry	Cheleri (CT)
+Kannur	Taliparamba	Kolacherry	Kolacherry (CT)
+Kannur	Taliparamba	Kurumathur	Kurumathur (CT)
+Kannur	Taliparamba	Kurumathur	Panniyoor
+Kannur	Taliparamba	Kuttiattor	Kuttiattoor (CT)
+Kannur	Taliparamba	Kuttiattor	Maniyoor (CT)
+Kannur	Taliparamba	Malapattom	Malapattam
+Kannur	Taliparamba	Mayyil	Kayaralam
+Kannur	Taliparamba	Mayyil	Mayyil (CT)
+Kannur	Taliparamba	Naduvil	New Naduvil
+Kannur	Taliparamba	Naduvil	Vellad
+Kannur	Taliparamba	Pariyaram	Kuttiyeri
+Kannur	Taliparamba	Pariyaram	Pariyaram (CT)
+Kannur	Taliparamba	Pattuvam	Pattuvam
+Kannur	Taliparamba	Payyavoor	Payyavoor
+Kannur	Taliparamba	Udayagiri	Udayagiri
+Kannur	Thalassery	(इतर)	Kodiyeri - CT
+Kannur	Thalassery	(इतर)	Kuthuparamba
+Kannur	Thalassery	(इतर)	Panoor (CT)
+Kannur	Thalassery	(इतर)	Peringalam
+Kannur	Thalassery	(इतर)	Peringathur (CT)
+Kannur	Thalassery	(इतर)	Thalassery
+Kannur	Thalassery	(इतर)	Thiruvangad
+Kannur	Thalassery	Chittariparamba	Kannavam
+Kannur	Thalassery	Chittariparamba	Manantheri (CT)
+Kannur	Thalassery	Chokli	Chockli (CT)
+Kannur	Thalassery	Dharmadam	Dharmadom (CT)
+Kannur	Thalassery	Eranholi	Eranholi (CT)
+Kannur	Thalassery	Kadirur	Kadirur (CT)
+Kannur	Thalassery	Keezhallur	Keezhallur (CT)
+Kannur	Thalassery	Kolayad	Koloyad
+Kannur	Thalassery	Kolayad	Vekkalam
+Kannur	Thalassery	Koodali	Koodali (CT)
+Kannur	Thalassery	Koodali	Pattannur
+Kannur	Thalassery	Kottayam	Kottayam
+Kannur	Thalassery	Kunnathuparamba	Kolavelloor (CT)
+Kannur	Thalassery	Kunnathuparamba	Puthoor
+Kannur	Thalassery	Malur	Sivapuram
+Kannur	Thalassery	Malur	Tholambra
+Kannur	Thalassery	Mangattidom	Kandamkunnu (CT)
+Kannur	Thalassery	Mangattidom	Mangattidam (CT)
+Kannur	Thalassery	Mokeri	Mokeri (CT)
+Kannur	Thalassery	New Mahi	New Mahe (CT)
+Kannur	Thalassery	Panniyannur	Panniyannur (CT)
+Kannur	Thalassery	Pattiam	Cheruvanchery
+Kannur	Thalassery	Pattiam	Pattiom (CT)
+Kannur	Thalassery	Pinarayi	Eruvatti (CT)
+Kannur	Thalassery	Pinarayi	Pinarayi (CT)
+Kannur	Thalassery	Trippangottur	Thrippangottur
+Kannur	Thalassery	Vengad	Paduvilayi (CT)
+Kannur	Thalassery	Vengad	Pathiriyad (CT)
+Kasaragod	Hosdurg	(इतर)	Balla
+Kasaragod	Hosdurg	(इतर)	Hosdurg
+Kasaragod	Hosdurg	(इतर)	Kanhangad
+Kasaragod	Hosdurg	(इतर)	Nileshwar (OG)
+Kasaragod	Hosdurg	(इतर)	Perole (CT)
+Kasaragod	Hosdurg	(इतर)	Pudukai
+Kasaragod	Hosdurg	(इतर)	Thuruthy
+Kasaragod	Hosdurg	Ajanoor	Ajanur (CT)
+Kasaragod	Hosdurg	Ajanoor	Chithari
+Kasaragod	Hosdurg	Cheruvathur	Cheruvathur (OG)
+Kasaragod	Hosdurg	Kayyur Cheemeni	Cheemeni
+Kasaragod	Hosdurg	Kayyur Cheemeni	Kayyur
+Kasaragod	Hosdurg	Kayyur Cheemeni	Kilayikode
+Kasaragod	Hosdurg	Kayyur Cheemeni	Thimiri
+Kasaragod	Hosdurg	Madikkai	Ambalathara
+Kasaragod	Hosdurg	Madikkai	Madikai
+Kasaragod	Hosdurg	Padne	Padne
+Kasaragod	Hosdurg	Padne	Udinoor
+Kasaragod	Hosdurg	Pallikkara	Keekan (CT)
+Kasaragod	Hosdurg	Pallikkara	Pallikkara (CT)
+Kasaragod	Hosdurg	Pallikkara	Panayal
+Kasaragod	Hosdurg	Pilicode	Kodakkad
+Kasaragod	Hosdurg	Pilicode	Maniyat (CT)
+Kasaragod	Hosdurg	Pilicode	Pilicode (CT)
+Kasaragod	Hosdurg	Pullurperiya	Periya
+Kasaragod	Hosdurg	Pullurperiya	Pullur
+Kasaragod	Hosdurg	Thrikkaripur	North Thrikkaripur (CT)
+Kasaragod	Hosdurg	Thrikkaripur	South Thrikkaripur (CT)
+Kasaragod	Hosdurg	Udma	Bare (CT)
+Kasaragod	Hosdurg	Udma	Pallikkara II
+Kasaragod	Hosdurg	Udma	Udma (CT)
+Kasaragod	Hosdurg	Valiyaparamba	Valiyaparmbu
+Kasaragod	Kasaragod	(इतर)	Adkath Bail
+Kasaragod	Kasaragod	(इतर)	Kasaragod
+Kasaragod	Kasaragod	(इतर)	Thalangara
+Kasaragod	Kasaragod	Badiyadka	Badiyadka
+Kasaragod	Kasaragod	Badiyadka	Bela
+Kasaragod	Kasaragod	Badiyadka	Nirchal
+Kasaragod	Kasaragod	Bedaduka	Bedadka
+Kasaragod	Kasaragod	Bedaduka	Kolathur
+Kasaragod	Kasaragod	Bedaduka	Munnad
+Kasaragod	Kasaragod	Belloor	Bellur
+Kasaragod	Kasaragod	Belloor	Nettanige
+Kasaragod	Kasaragod	Chemnad	Chemnad (CT)
+Kasaragod	Kasaragod	Chemnad	Kalnad
+Kasaragod	Kasaragod	Chemnad	Perumbala
+Kasaragod	Kasaragod	Chemnad	Thekkil
+Kasaragod	Kasaragod	Chengala	Chengala (CT)
+Kasaragod	Kasaragod	Chengala	Muttathody
+Kasaragod	Kasaragod	Chengala	Nekraje
+Kasaragod	Kasaragod	Chengala	Pady
+Kasaragod	Kasaragod	Delampady	Adoor
+Kasaragod	Kasaragod	Delampady	Delampady
+Kasaragod	Kasaragod	Karadka	Adhur
+Kasaragod	Kasaragod	Karadka	Karadka
+Kasaragod	Kasaragod	Kumbadaje	Kumbadaje
+Kasaragod	Kasaragod	Kumbadaje	Ubrangala
+Kasaragod	Kasaragod	Kutikkol	Bandadka
+Kasaragod	Kasaragod	Kutikkol	Karivedakam
+Kasaragod	Kasaragod	Kutikkol	Kuttikole
+Kasaragod	Kasaragod	Madhur	Kudlu (CT)
+Kasaragod	Kasaragod	Madhur	Madhur (CT)
+Kasaragod	Kasaragod	Madhur	Patla
+Kasaragod	Kasaragod	Madhur	Shiribagilu (CT)
+Kasaragod	Kasaragod	Mogral Puthur	Kudlu (CT)
+Kasaragod	Kasaragod	Mogral Puthur	Puthur (CT)
+Kasaragod	Kasaragod	Muliyar	Muliyar
+Kasaragod	Manjeswaram	Enmakaje	Enmakaje
+Kasaragod	Manjeswaram	Enmakaje	Kattukukke
+Kasaragod	Manjeswaram	Enmakaje	Padre
+Kasaragod	Manjeswaram	Enmakaje	Sheni
+Kasaragod	Manjeswaram	Kumbala	Arikady
+Kasaragod	Manjeswaram	Kumbala	Bombrana
+Kasaragod	Manjeswaram	Kumbala	Ichilampady
+Kasaragod	Manjeswaram	Kumbala	Kidoor
+Kasaragod	Manjeswaram	Kumbala	Koipady (CT)
+Kasaragod	Manjeswaram	Kumbala	Mogral (CT)
+Kasaragod	Manjeswaram	Kumbala	Ujarulvar
+Kasaragod	Manjeswaram	Mangalpady	Bekoor
+Kasaragod	Manjeswaram	Mangalpady	Heroor
+Kasaragod	Manjeswaram	Mangalpady	Ichilangod
+Kasaragod	Manjeswaram	Mangalpady	Kodibail
+Kasaragod	Manjeswaram	Mangalpady	Kubanoor
+Kasaragod	Manjeswaram	Mangalpady	Mangalpady (CT)
+Kasaragod	Manjeswaram	Mangalpady	Mulinja
+Kasaragod	Manjeswaram	Mangalpady	Shiriya (CT)
+Kasaragod	Manjeswaram	Mangalpady	Uppala (CT)
+Kasaragod	Manjeswaram	Manjewswaram	Badaje
+Kasaragod	Manjeswaram	Manjewswaram	Bangra Manjeshwar (CT)
+Kasaragod	Manjeswaram	Manjewswaram	Hosabettu (CT)
+Kasaragod	Manjeswaram	Manjewswaram	Kunjathur (CT)
+Kasaragod	Manjeswaram	Manjewswaram	Udyawar
+Kasaragod	Manjeswaram	Meenja	Kadambar
+Kasaragod	Manjeswaram	Meenja	Kaliyoor
+Kasaragod	Manjeswaram	Meenja	Koliyoor
+Kasaragod	Manjeswaram	Meenja	Kuloor
+Kasaragod	Manjeswaram	Meenja	Majibail
+Kasaragod	Manjeswaram	Meenja	Meenja
+Kasaragod	Manjeswaram	Meenja	Moodambail
+Kasaragod	Manjeswaram	Meenja	Talikala
+Kasaragod	Manjeswaram	Paivalike	Bayar
+Kasaragod	Manjeswaram	Paivalike	Chippar
+Kasaragod	Manjeswaram	Paivalike	Kayyar
+Kasaragod	Manjeswaram	Paivalike	Kudalmarkala
+Kasaragod	Manjeswaram	Paivalike	Paivalike
+Kasaragod	Manjeswaram	Puthige	Angadimogaru
+Kasaragod	Manjeswaram	Puthige	Badoor
+Kasaragod	Manjeswaram	Puthige	Edanad
+Kasaragod	Manjeswaram	Puthige	Kannur
+Kasaragod	Manjeswaram	Puthige	Mugu
+Kasaragod	Manjeswaram	Puthige	Puthige
+Kasaragod	Manjeswaram	Vorkady	Kodalamogaru
+Kasaragod	Manjeswaram	Vorkady	Pathur
+Kasaragod	Manjeswaram	Vorkady	Pavoor
+Kasaragod	Manjeswaram	Vorkady	Vorkady
+Kasaragod	Vellarikkundu	Balal	Balal
+Kasaragod	Vellarikkundu	Balal	Maloth
+Kasaragod	Vellarikkundu	Balal	Parappa
+Kasaragod	Vellarikkundu	East Eleri	Chittarikkal
+Kasaragod	Vellarikkundu	East Eleri	Palavayal
+Kasaragod	Vellarikkundu	Kallar	Kallar
+Kasaragod	Vellarikkundu	Kinanoor Karindalam	Bheemanady
+Kasaragod	Vellarikkundu	Kinanoor Karindalam	Cheemeni II
+Kasaragod	Vellarikkundu	Kinanoor Karindalam	Karindalam
+Kasaragod	Vellarikkundu	Kinanoor Karindalam	Kinanoor
+Kasaragod	Vellarikkundu	Kinanoor Karindalam	Parappa
+Kasaragod	Vellarikkundu	Kodombellur	Belur
+Kasaragod	Vellarikkundu	Kodombellur	Kodom
+Kasaragod	Vellarikkundu	Kodombellur	Parappa
+Kasaragod	Vellarikkundu	Kodombellur	Thayanur
+Kasaragod	Vellarikkundu	Panathady	Panathady
+Kasaragod	Vellarikkundu	West Eleri	Bheemanady
+Kasaragod	Vellarikkundu	West Eleri	Maloth
+Kasaragod	Vellarikkundu	West Eleri	West Eleri
+Kollam	Karunagappally	(इतर)	Ayanivelikulangara (CT)
+Kollam	Karunagappally	(इतर)	Karunagappally (CT)
+Kollam	Karunagappally	Alappad	Alappad
+Kollam	Karunagappally	Chavara	Chavara (CT)
+Kollam	Karunagappally	Clappana	Clappana
+Kollam	Karunagappally	Kulasekharapuram	Adinad (CT)
+Kollam	Karunagappally	Kulasekharapuram	Kulasekharapuram (CT)
+Kollam	Karunagappally	Neendakara	Neendakara (OG)
+Kollam	Karunagappally	Oachira	Oachira (CT)
+Kollam	Karunagappally	Panmana	Panmana (CT)
+Kollam	Karunagappally	Panmana	Vadakkumthala (CT)
+Kollam	Karunagappally	Thazhava	Pavumba
+Kollam	Karunagappally	Thazhava	Thazhava
+Kollam	Karunagappally	Thekkumbhagam	Thekkumbhagom
+Kollam	Karunagappally	Thevalakkara	Thevalakkara
+Kollam	Karunagappally	Thodiyoor	Kallelibhagom (CT)
+Kollam	Karunagappally	Thodiyoor	Thodiyoor (CT)
+Kollam	Kollam	(इतर)	Eravipuram (OG) (Part)
+Kollam	Kollam	(इतर)	Kilikollur
+Kollam	Kollam	(इतर)	Kollam East
+Kollam	Kollam	(इतर)	Kollam West
+Kollam	Kollam	(इतर)	Kottappuram
+Kollam	Kollam	(इतर)	Mangad
+Kollam	Kollam	(इतर)	Mundackal
+Kollam	Kollam	(इतर)	Paravoor (Part)
+Kollam	Kollam	(इतर)	Perayam
+Kollam	Kollam	(इतर)	Sakthikulangara
+Kollam	Kollam	(इतर)	Thrikkadavoor (CT)
+Kollam	Kollam	(इतर)	Vadakkevila
+Kollam	Kollam	Adichanalloor	Adichanalloor (CT)
+Kollam	Kollam	Chathannur	Chirakkara
+Kollam	Kollam	Chathannur	Meenad (CT)
+Kollam	Kollam	Chirakkara	Chirakkara
+Kollam	Kollam	Chirakkara	Kalluvathukkal
+Kollam	Kollam	Chirakkara	Meenad (CT)
+Kollam	Kollam	Chirakkara	Paravoor (Part)
+Kollam	Kollam	Chirakkara	Parippally
+Kollam	Kollam	Chirakkara	Poothakkulam (CT)
+Kollam	Kollam	Elamballur	Elampalloor (CT)
+Kollam	Kollam	Elamballur	Kottamkara (CT)
+Kollam	Kollam	Kalluvathukkal	Kalluvathukkal
+Kollam	Kollam	Kalluvathukkal	Meenad (CT)
+Kollam	Kollam	Kalluvathukkal	Parippally
+Kollam	Kollam	Kizhakkekallada	Kizhakkekallada
+Kollam	Kollam	Kottamkara	Elampalloor (CT)
+Kollam	Kollam	Kottamkara	Kottamkara (CT)
+Kollam	Kollam	Kottamkara	Thrikkovilvattom (CT)
+Kollam	Kollam	Kundara	Mulavana
+Kollam	Kollam	Mayyanad	Eravipuram (OG) (Part)
+Kollam	Kollam	Mayyanad	Mayyanad (CT)
+Kollam	Kollam	Mayyanad	Thazhuthala (CT)
+Kollam	Kollam	Mundrothuruthu	Kizhakkekallada
+Kollam	Kollam	Mundrothuruthu	Mundrothuruth
+Kollam	Kollam	Nedumpana	Nedumpana (CT)
+Kollam	Kollam	Nedumpana	Pallimon
+Kollam	Kollam	Panayam	Panayam (CT)
+Kollam	Kollam	Perayam	Mulavana
+Kollam	Kollam	Perayam	Perayam
+Kollam	Kollam	Perinad	Perinad (CT)
+Kollam	Kollam	Poothakkulam	Chirakkara
+Kollam	Kollam	Poothakkulam	Poothakkulam (CT)
+Kollam	Kollam	Thrikkaruva	Thrikkaruva (CT)
+Kollam	Kollam	Thrikkovilvattom	Thazhuthala (CT)
+Kollam	Kollam	Thrikkovilvattom	Thrikkovilvattom (CT)
+Kollam	Kottarakkara	(इतर)	Kottarakkara (CT)
+Kollam	Kottarakkara	(इतर)	Puthur
+Kollam	Kottarakkara	Chadayamangalam	Chadayamangalam
+Kollam	Kottarakkara	Chithara	Chithara
+Kollam	Kottarakkara	Chithara	Mancode
+Kollam	Kottarakkara	Elamadu	Elamad
+Kollam	Kottarakkara	Ezhukone	Ezhukone
+Kollam	Kottarakkara	Ittiva	Ittiva
+Kollam	Kottarakkara	Ittiva	Kottukkal
+Kollam	Kottarakkara	Kadakkal	Kadakkal
+Kollam	Kottarakkara	Kareepra	Kareepra
+Kollam	Kottarakkara	Kulakkada	Kalayapuram
+Kollam	Kottarakkara	Kulakkada	Kulakkada
+Kollam	Kottarakkara	Kulakkada	Puthur
+Kollam	Kottarakkara	Kummil	Kummil
+Kollam	Kottarakkara	Melila	Melila
+Kollam	Kottarakkara	Mylam	Kalayapuram
+Kollam	Kottarakkara	Mylam	Mylom
+Kollam	Kottarakkara	Mylam	Puthur
+Kollam	Kottarakkara	Neduvathur	Neduvathoor
+Kollam	Kottarakkara	Nilamel	Nilamel
+Kollam	Kottarakkara	Pavithreswaram	Pavithreswaram
+Kollam	Kottarakkara	Pavithreswaram	Puthur
+Kollam	Kottarakkara	Pooyappally	Pooyappally
+Kollam	Kottarakkara	Ummannur	Ummannoor
+Kollam	Kottarakkara	Ummannur	Valakam
+Kollam	Kottarakkara	Velinallur	Velinalloor
+Kollam	Kottarakkara	Veliyam	Odanavattam
+Kollam	Kottarakkara	Veliyam	Veliyam
+Kollam	Kottarakkara	Vettikkavala	Chakkuvarakkal
+Kollam	Kottarakkara	Vettikkavala	Vettikkavala
+Kollam	Kunnathur	Kunnathur	Kunnathur
+Kollam	Kunnathur	Mynagappally	Mynagappally
+Kollam	Kunnathur	Poruvazhy	Poruvazhy
+Kollam	Kunnathur	Sasthancotta	Sasthamkotta
+Kollam	Kunnathur	Sooranad North	Sooranad North
+Kollam	Kunnathur	Sooranad South	Sooranad South
+Kollam	Kunnathur	West Kallada	West Kallada
+Kollam	Pathanapuram	Pathanapuram	Pathanapuram
+Kollam	Pathanapuram	Pattazhi	Pattazhy
+Kollam	Pathanapuram	Pattazhi Vadakkekara	Pattazhy Vadakkekara
+Kollam	Pathanapuram	Piravanthur	Piravanthur
+Kollam	Pathanapuram	Piravanthur	Punnala
+Kollam	Pathanapuram	Thalavoor	Pidavoor
+Kollam	Pathanapuram	Thalavoor	Thalavoor
+Kollam	Pathanapuram	Vilakudy	Vilakkudy
+Kollam	Punalur	(इतर)	Punalur
+Kollam	Punalur	(इतर)	Valacode (Part)
+Kollam	Punalur	Alayamon	Alayamon
+Kollam	Punalur	Alayamon	Channappetta
+Kollam	Punalur	Anchal	Anchal
+Kollam	Punalur	Ariencavu	Arienkavu
+Kollam	Punalur	Ariencavu	Thenmala
+Kollam	Punalur	Edamulakkal	Arackal
+Kollam	Punalur	Edamulakkal	Edamulackal
+Kollam	Punalur	Eroor	Ayiranalloor
+Kollam	Punalur	Eroor	Eroor
+Kollam	Punalur	Karavaloor	Karavaloor (Part)
+Kollam	Punalur	Kulathupuzha	Kulathupuzha
+Kollam	Punalur	Kulathupuzha	Thinkalkarikkakom
+Kollam	Punalur	Piravanthur	Valacode (Part)
+Kollam	Punalur	Thenmala	Edamon
+Kollam	Punalur	Thenmala	Thenmala
+Kottayam	Changanassery	(इतर)	Changanassery (Part)
+Kottayam	Changanassery	(इतर)	Paippad (CT)
+Kottayam	Changanassery	(इतर)	Thrikkodithanam (CT)
+Kottayam	Changanassery	(इतर)	Vazhappally East
+Kottayam	Changanassery	(इतर)	Vazhappally West
+Kottayam	Changanassery	Kangazha	Kangazha
+Kottayam	Changanassery	Kangazha	Vazhoor
+Kottayam	Changanassery	Karukachal	Karukachal
+Kottayam	Changanassery	Karukachal	Nedumkunnam
+Kottayam	Changanassery	Kurichy	Kurichy
+Kottayam	Changanassery	Madappally	Madappally
+Kottayam	Changanassery	Nedumkunnam	Karukachal
+Kottayam	Changanassery	Nedumkunnam	Nedumkunnam
+Kottayam	Changanassery	Paippad	Changanassery (Part)
+Kottayam	Changanassery	Paippad	Paippad (CT)
+Kottayam	Changanassery	Paippad	Thrikkodithanam (CT)
+Kottayam	Changanassery	Thrikkodithanam	Paippad (CT)
+Kottayam	Changanassery	Thrikkodithanam	Thrikkodithanam (CT)
+Kottayam	Changanassery	Vakathanam	Thottackad
+Kottayam	Changanassery	Vakathanam	Vakathanam
+Kottayam	Changanassery	Vazhappally	Chethipuzha (CT)
+Kottayam	Changanassery	Vazhappally	Vazhappally West
+Kottayam	Changanassery	Vazhoor	Kangazha
+Kottayam	Changanassery	Vazhoor	Vazhoor
+Kottayam	Changanassery	Vellavoor	Vellavoor
+Kottayam	Kanjirappally	Chirakkadavu	Cheruvally
+Kottayam	Kanjirappally	Chirakkadavu	Chirakkadavu
+Kottayam	Kanjirappally	Elikulam	Elamgulam
+Kottayam	Kanjirappally	Elikulam	Elikkulam
+Kottayam	Kanjirappally	Erumeli	Erumeli South
+Kottayam	Kanjirappally	Kanjirappally	Kanjirappally
+Kottayam	Kanjirappally	Kanjirappally	Koovappally
+Kottayam	Kanjirappally	Koottickal	Koottickal
+Kottayam	Kanjirappally	Koottickal	Mundakayam
+Kottayam	Kanjirappally	Koruthode	Erumeli North
+Kottayam	Kanjirappally	Koruthode	Koruthode
+Kottayam	Kanjirappally	Manimala	Manimala
+Kottayam	Kanjirappally	Mundakayam	Edakkunnam
+Kottayam	Kanjirappally	Mundakayam	Erumeli North
+Kottayam	Kanjirappally	Mundakayam	Mundakayam
+Kottayam	Kanjirappally	Parathode	Edakkunnam
+Kottayam	Kanjirappally	Parathode	Kanjirappally
+Kottayam	Kanjirappally	Parathode	Koovappally
+Kottayam	Kanjirappally	Parathode	Mundakayam
+Kottayam	Kottayam	(इतर)	Ettumanoor (CT)
+Kottayam	Kottayam	(इतर)	Kottayam
+Kottayam	Kottayam	(इतर)	Muttampalam (Part)
+Kottayam	Kottayam	(इतर)	Nattakam (CT)
+Kottayam	Kottayam	(इतर)	Peroor
+Kottayam	Kottayam	(इतर)	Perumbaikad (CT)
+Kottayam	Kottayam	(इतर)	Veloor (Part)
+Kottayam	Kottayam	Akalakunnam	Akalakunnam
+Kottayam	Kottayam	Akalakunnam	Chengalam East
+Kottayam	Kottayam	Arpookara	Arpookara
+Kottayam	Kottayam	Arpookara	Kaipuzha
+Kottayam	Kottayam	Arpookara	Perumbaikad (CT)
+Kottayam	Kottayam	Athirampuzha	Athirampuzha (CT)
+Kottayam	Kottayam	Athirampuzha	Perumbaikad (CT)
+Kottayam	Kottayam	Ayarkkunnam	Ayarkunnam
+Kottayam	Kottayam	Aymanam	Aimanam (CT)
+Kottayam	Kottayam	Kooroppada	Kooroppada
+Kottayam	Kottayam	Kooroppada	Pampady
+Kottayam	Kottayam	Kumarakom	Kumarakam
+Kottayam	Kottayam	Mannarkadu	Manarcad
+Kottayam	Kottayam	Meenadom	Meenadam
+Kottayam	Kottayam	Meenadom	Pampady
+Kottayam	Kottayam	Neendoor	Kaipuzha
+Kottayam	Kottayam	Neendoor	Onamthuruth
+Kottayam	Kottayam	Pallikkathode	Anikkad
+Kottayam	Kottayam	Pallikkathode	Chengalam East
+Kottayam	Kottayam	Pampady	Meenadam
+Kottayam	Kottayam	Pampady	Pampady
+Kottayam	Kottayam	Panachikkad	Panachikkad (CT)
+Kottayam	Kottayam	Puthuppally	Puthuppally (CT)
+Kottayam	Kottayam	Thiruvarpu	Chengalam West
+Kottayam	Kottayam	Thiruvarpu	Thiruvarpu
+Kottayam	Kottayam	Vijayapuram	Muttampalam (Part)
+Kottayam	Kottayam	Vijayapuram	Vijayapuram (CT)
+Kottayam	Meenachil	(इतर)	Erattupetta (CT)
+Kottayam	Meenachil	(इतर)	Lalam (Part)
+Kottayam	Meenachil	(इतर)	Meenachil (Part)
+Kottayam	Meenachil	(इतर)	Poonjar Nadubhagam
+Kottayam	Meenachil	(इतर)	Puliyannoor (Part)
+Kottayam	Meenachil	(इतर)	Ramapuram
+Kottayam	Meenachil	Bharananganam	Bharananganam
+Kottayam	Meenachil	Kadanad	Kadanad
+Kottayam	Meenachil	Kadaplamattom	Kadaplamattom
+Kottayam	Meenachil	Kanakkari	Kanakkari
+Kottayam	Meenachil	Karoor	Lalam (Part)
+Kottayam	Meenachil	Karoor	Vallichira
+Kottayam	Meenachil	Kidangoor	Kidangoor
+Kottayam	Meenachil	Kozhuvanal	Meenachil (Part)
+Kottayam	Meenachil	Kozhuvanal	Puliyannoor (Part)
+Kottayam	Meenachil	Kuravilangad	Kuravilangad
+Kottayam	Meenachil	Marangattupilly	Elackad
+Kottayam	Meenachil	Marangattupilly	Kurichithanam
+Kottayam	Meenachil	Marangattupilly	Monippally
+Kottayam	Meenachil	Meenachil	Meenachil (Part)
+Kottayam	Meenachil	Meenachil	Poovarany
+Kottayam	Meenachil	Melukavu	Melukavu
+Kottayam	Meenachil	Melukavu	Thalappalam
+Kottayam	Meenachil	Moonilavu	Melukavu
+Kottayam	Meenachil	Moonilavu	Moonilavu
+Kottayam	Meenachil	Mutholy	Meenachil (Part)
+Kottayam	Meenachil	Mutholy	Puliyannoor (Part)
+Kottayam	Meenachil	Poonjar	Poonjar
+Kottayam	Meenachil	Poonjar	Poonjar Nadubhagam
+Kottayam	Meenachil	Poonjar Thekkekara	Poonjar Nadubhagam
+Kottayam	Meenachil	Poonjar Thekkekara	Poonjar Thekkekara
+Kottayam	Meenachil	Ramapuram	Ramapuram
+Kottayam	Meenachil	Ramapuram	Vellilappally
+Kottayam	Meenachil	Teekoy	Poonjar Nadubhagam
+Kottayam	Meenachil	Teekoy	Teekoy
+Kottayam	Meenachil	Teekoy	Thalanadu
+Kottayam	Meenachil	Thalanad	Thalanadu
+Kottayam	Meenachil	Thalappalam	Erattupetta (CT)
+Kottayam	Meenachil	Thalappalam	Thalappalam
+Kottayam	Meenachil	Thidanad	Erattupetta (CT)
+Kottayam	Meenachil	Thidanad	Kondoor
+Kottayam	Meenachil	Uzhavoor	Monippally
+Kottayam	Meenachil	Uzhavoor	Uzhavoor
+Kottayam	Meenachil	Veliyannoor	Monippally
+Kottayam	Meenachil	Veliyannoor	Uzhavoor
+Kottayam	Meenachil	Veliyannoor	Veliyannoor
+Kottayam	Vaikom	(इतर)	Naduvile (Part)
+Kottayam	Vaikom	(इतर)	Vadakkemuri (Part)
+Kottayam	Vaikom	(इतर)	Vaikom (Part)
+Kottayam	Vaikom	Chempu	Chempu
+Kottayam	Vaikom	Kaduthuruthy	Kaduthuruthy
+Kottayam	Vaikom	Kaduthuruthy	Muttuchira
+Kottayam	Vaikom	Kallara	Kallara
+Kottayam	Vaikom	Manjoor	Kothanalloor
+Kottayam	Vaikom	Manjoor	Manjoor
+Kottayam	Vaikom	Maravanthuruthu	Kulasekharamangalam
+Kottayam	Vaikom	Mulakulam	Kaduthuruthy
+Kottayam	Vaikom	Mulakulam	Mulakulam
+Kottayam	Vaikom	Njeezhoor	Njeezhoor
+Kottayam	Vaikom	Thalayazham	Thalayazham
+Kottayam	Vaikom	Thalayolaparambu	Vadayar
+Kottayam	Vaikom	Tv Puram	T V Puram
+Kottayam	Vaikom	Udayanapuram	Udayanapuram
+Kottayam	Vaikom	Udayanapuram	Vadakkemuri (Part)
+Kottayam	Vaikom	Vechoor	Vechoor
+Kottayam	Vaikom	Velloor	Velloor
+Kozhikode	Koyilandi	(इतर)	Iringal (CT)
+Kozhikode	Koyilandi	(इतर)	Panthalayani
+Kozhikode	Koyilandi	(इतर)	Payyoli
+Kozhikode	Koyilandi	(इतर)	Viyyur
+Kozhikode	Koyilandi	Arikulam	Arikkulam (Part)
+Kozhikode	Koyilandi	Atholi	Atholi (CT)
+Kozhikode	Koyilandi	Balusseri	Balusseri (CT)
+Kozhikode	Koyilandi	Chakittapara	Chakkittapara
+Kozhikode	Koyilandi	Chakittapara	Chempanoda
+Kozhikode	Koyilandi	Chakittapara	Perambra
+Kozhikode	Koyilandi	Changaroth	Changaroth
+Kozhikode	Koyilandi	Changaroth	Palery
+Kozhikode	Koyilandi	Chemanachery	Chemancheri (CT)
+Kozhikode	Koyilandi	Chengottukavu	Chengottukavu
+Kozhikode	Koyilandi	Cheruvannur	Cheruvannur
+Kozhikode	Koyilandi	Kayanna	Kayanna
+Kozhikode	Koyilandi	Keezhariyur	Keezhariyur (CT)
+Kozhikode	Koyilandi	Koorachundu	Koorachundu
+Kozhikode	Koyilandi	Koothali	Koothali (CT)
+Kozhikode	Koyilandi	Koothali	Perambra
+Kozhikode	Koyilandi	Kottur	Avitanallur
+Kozhikode	Koyilandi	Kottur	Kottur
+Kozhikode	Koyilandi	Meppayur	Kozhukkallur (CT)
+Kozhikode	Koyilandi	Meppayur	Meppayyur (CT)
+Kozhikode	Koyilandi	Moodadi	Moodadi
+Kozhikode	Koyilandi	Naduvannur	Naduvannur (CT)
+Kozhikode	Koyilandi	Nochad	Nochad
+Kozhikode	Koyilandi	Perambra	Eravattur (CT)
+Kozhikode	Koyilandi	Perambra	Menhaniam (CT)
+Kozhikode	Koyilandi	Thikkodi	Thikkody (CT)
+Kozhikode	Koyilandi	Thurayur	Thurayur (CT)
+Kozhikode	Koyilandi	Uliyeri	Ulliyeri (CT)
+Kozhikode	Kozhikode	(इतर)	Beypore (CT)
+Kozhikode	Kozhikode	(इतर)	Chathamangalam
+Kozhikode	Kozhikode	(इतर)	Chelavur
+Kozhikode	Kozhikode	(इतर)	Cheruvannur (CT)
+Kozhikode	Kozhikode	(इतर)	Chevayur
+Kozhikode	Kozhikode	(इतर)	Elathur (OG)
+Kozhikode	Kozhikode	(इतर)	Feroke (CT)
+Kozhikode	Kozhikode	(इतर)	Karuvanthuruthy (CT)
+Kozhikode	Kozhikode	(इतर)	Kasaba
+Kozhikode	Kozhikode	(इतर)	Katchery
+Kozhikode	Kozhikode	(इतर)	Kottuli
+Kozhikode	Kozhikode	(इतर)	Kuttikkattoor (CT)
+Kozhikode	Kozhikode	(इतर)	Nagaram
+Kozhikode	Kozhikode	(इतर)	Neeleswaram
+Kozhikode	Kozhikode	(इतर)	Nellikode
+Kozhikode	Kozhikode	(इतर)	Panniankara
+Kozhikode	Kozhikode	(इतर)	Puthiyangadi (OG) (Part)
+Kozhikode	Kozhikode	(इतर)	Ramanattukara (CT)
+Kozhikode	Kozhikode	(इतर)	Thazhecode (CT)
+Kozhikode	Kozhikode	(इतर)	Valayanad
+Kozhikode	Kozhikode	(इतर)	Vengeri
+Kozhikode	Kozhikode	Chathamangalam	Chathamangalam
+Kozhikode	Kozhikode	Chathamangalam	Poolacode (CT)
+Kozhikode	Kozhikode	Chelannur	Chelannur (CT)
+Kozhikode	Kozhikode	Kadalundi	Kadalundi (OG)
+Kozhikode	Kozhikode	Kakkodi	Kakkodi (CT)
+Kozhikode	Kozhikode	Kakkur	Kakkur
+Kozhikode	Kozhikode	Karasseri	Kakkad
+Kozhikode	Kozhikode	Karasseri	Kumaranallur
+Kozhikode	Kozhikode	Kodiyathur	Kodiyathur
+Kozhikode	Kozhikode	Kunnamangalam	Kunnamangalam (CT)
+Kozhikode	Kozhikode	Kunnamangalam	Kuttikkattoor (CT)
+Kozhikode	Kozhikode	Kuruvattur	Kuruvattur (CT)
+Kozhikode	Kozhikode	Madavoor	Madavoor
+Kozhikode	Kozhikode	Mavoor	Mavoor (CT)
+Kozhikode	Kozhikode	Nanmanda	Nanmanda (CT)
+Kozhikode	Kozhikode	Olavanna	Olavanna (CT)
+Kozhikode	Kozhikode	Olavanna	Pantheeramkavu (CT)
+Kozhikode	Kozhikode	Perumanna	Perumanna (CT)
+Kozhikode	Kozhikode	Peruvayal	Kuttikkattoor (CT)
+Kozhikode	Kozhikode	Peruvayal	Peruvayal (CT)
+Kozhikode	Kozhikode	Thalakulathur	Thalakkulathur (CT)
+Kozhikode	Thamarassery	(इतर)	Koduvally (OG)
+Kozhikode	Thamarassery	(इतर)	Puthur
+Kozhikode	Thamarassery	(इतर)	Vavad
+Kozhikode	Thamarassery	Kattippara	Kattippara
+Kozhikode	Thamarassery	Kattippara	Kedavur
+Kozhikode	Thamarassery	Kattippara	Raroth
+Kozhikode	Thamarassery	Kizhakkoth	Kizhakkoth
+Kozhikode	Thamarassery	Kodencheri	Kodencheri
+Kozhikode	Thamarassery	Kodencheri	Koodathayi
+Kozhikode	Thamarassery	Kodencheri	Nellipoyil
+Kozhikode	Thamarassery	Koodaranji	Koodaranji
+Kozhikode	Thamarassery	Narikunni	Narikkuni
+Kozhikode	Thamarassery	Omassery	Koodathayi
+Kozhikode	Thamarassery	Omassery	Puthur
+Kozhikode	Thamarassery	Omassery	Raroth
+Kozhikode	Thamarassery	Panangad	Kanthalad
+Kozhikode	Thamarassery	Panangad	Kinalur
+Kozhikode	Thamarassery	Panangad	Panangad (CT)
+Kozhikode	Thamarassery	Puthuppady	Engapuzha
+Kozhikode	Thamarassery	Puthuppady	Kodencheri
+Kozhikode	Thamarassery	Puthuppady	Puthuppadi
+Kozhikode	Thamarassery	Thamarasseri	Kedavur
+Kozhikode	Thamarassery	Thamarasseri	Raroth
+Kozhikode	Thamarassery	Thiruvambadi	Thiruvambadi
+Kozhikode	Thamarassery	Unnikulum	Sivapuram
+Kozhikode	Thamarassery	Unnikulum	Unnikulam
+Kozhikode	Vatakara	(इतर)	Nadakkuthazha
+Kozhikode	Vatakara	(इतर)	Vatakara
+Kozhikode	Vatakara	Ayancheri	Ayancheri (CT)
+Kozhikode	Vatakara	Azhiyur	Azhiyur (CT)
+Kozhikode	Vatakara	Chekkiad	Chekkiad (CT)
+Kozhikode	Vatakara	Chorode	Chorode (CT)
+Kozhikode	Vatakara	Edacheri	Edacheri (CT)
+Kozhikode	Vatakara	Eramala	Eramala (CT)
+Kozhikode	Vatakara	Kavilumpara	Kavilumpara
+Kozhikode	Vatakara	Kavilumpara	Maruthonkara
+Kozhikode	Vatakara	Kayakkodi	Kayakkodi
+Kozhikode	Vatakara	Kunnumal	Kunnummal (CT)
+Kozhikode	Vatakara	Kuttiadi	Kuttiadi
+Kozhikode	Vatakara	Maniyur	Maniyur (CT)
+Kozhikode	Vatakara	Maniyur	Palayad (CT)
+Kozhikode	Vatakara	Maruthomkara	Maruthonkara
+Kozhikode	Vatakara	Nadapuram	Nadapuram (CT)
+Kozhikode	Vatakara	Naripetta	Narippatta
+Kozhikode	Vatakara	Naripetta	Thinoor
+Kozhikode	Vatakara	Onchiyam	Onchiam
+Kozhikode	Vatakara	Purameri	Purameri
+Kozhikode	Vatakara	Thiruvallur	Kottappally (CT)
+Kozhikode	Vatakara	Thiruvallur	Thiruvallur
+Kozhikode	Vatakara	Thuneri	Thuneri (CT)
+Kozhikode	Vatakara	Valayam	Valayam (CT)
+Kozhikode	Vatakara	Valayam	Vanimel
+Kozhikode	Vatakara	Vanimel	Vanimel
+Kozhikode	Vatakara	Vanimel	Vilangad
+Kozhikode	Vatakara	Velom	Velom
+Kozhikode	Vatakara	Villiyappally	Villiappally (CT)
+Malappuram	Ernad	(इतर)	Malappuram
+Malappuram	Ernad	(इतर)	Manjeri
+Malappuram	Ernad	(इतर)	Melmuri
+Malappuram	Ernad	(इतर)	Narukara
+Malappuram	Ernad	(इतर)	Panakkad
+Malappuram	Ernad	(इतर)	Payyanad
+Malappuram	Ernad	(इतर)	Vettilappara
+Malappuram	Ernad	Anakkayam	Anakkayam (OG)
+Malappuram	Ernad	Anakkayam	Pandalur
+Malappuram	Ernad	Areekode	Areekode
+Malappuram	Ernad	Edavanna	Edavanna
+Malappuram	Ernad	Edavanna	Perakamanna
+Malappuram	Ernad	Kavannur	Kavanoor
+Malappuram	Ernad	Kizhuparamba	Kizhuparamba (CT)
+Malappuram	Ernad	Pandikkad	Chembrasseri
+Malappuram	Ernad	Pandikkad	Pandikkad
+Malappuram	Ernad	Pandikkad	Vettikkattiri
+Malappuram	Ernad	Pookkottur	Pookkottur
+Malappuram	Ernad	Pulpatta	Pulpatta
+Malappuram	Ernad	Trikkalangode	Elankur
+Malappuram	Ernad	Trikkalangode	Karakunnu
+Malappuram	Ernad	Trikkalangode	Trikkalangode
+Malappuram	Ernad	Urungattiri	Urangattiri
+Malappuram	Ernad	Urungattiri	Vettilappara
+Malappuram	Kondotty	(इतर)	Kondotty (CT)
+Malappuram	Kondotty	(इतर)	Morayur
+Malappuram	Kondotty	(इतर)	Muthuvallur
+Malappuram	Kondotty	(इतर)	Nediyiruppu
+Malappuram	Kondotty	Chekkode	Cheekkode
+Malappuram	Kondotty	Chelambra	Chelambra (CT)
+Malappuram	Kondotty	Cherukavu	Cherukavu (CT)
+Malappuram	Kondotty	Cherukavu	Vazhayur (CT)
+Malappuram	Kondotty	Kuzhimanna	Kuzhimanna
+Malappuram	Kondotty	Morayur	Morayur
+Malappuram	Kondotty	Muduvalur	Muthuvallur
+Malappuram	Kondotty	Pallikkal	Pallikal (CT)
+Malappuram	Kondotty	Pulikkal	Pulikkal
+Malappuram	Kondotty	Vazhakkad	Vazhakkad
+Malappuram	Kondotty	Vazhayur	Vazhayur (CT)
+Malappuram	Nilambur	(इतर)	Edakkara
+Malappuram	Nilambur	(इतर)	Kalikavu
+Malappuram	Nilambur	(इतर)	Karulai
+Malappuram	Nilambur	(इतर)	Kerala Estate
+Malappuram	Nilambur	(इतर)	Kurumbilangode
+Malappuram	Nilambur	(इतर)	Nilambur (CT)
+Malappuram	Nilambur	(इतर)	Vellayur
+Malappuram	Nilambur	Amarambalam	Amarambalam
+Malappuram	Nilambur	Chaliyar	Akampadam
+Malappuram	Nilambur	Chaliyar	Kurumbilangode
+Malappuram	Nilambur	Chaliyar	Pullipadam
+Malappuram	Nilambur	Chokkad	Chokkad
+Malappuram	Nilambur	Chokkad	Kalikavu
+Malappuram	Nilambur	Chokkad	Vellayur
+Malappuram	Nilambur	Chungathara	Chungathara
+Malappuram	Nilambur	Chungathara	Kurumbilangode
+Malappuram	Nilambur	Edakkara	Edakkara
+Malappuram	Nilambur	Kalikavu	Kalikavu
+Malappuram	Nilambur	Kalikavu	Vellayur
+Malappuram	Nilambur	Karulai	Karulai
+Malappuram	Nilambur	Karuvarakundu	Karuvarakundu
+Malappuram	Nilambur	Karuvarakundu	Kerala Estate
+Malappuram	Nilambur	Mambad	Mambad
+Malappuram	Nilambur	Mambad	Wandoor
+Malappuram	Nilambur	Moothadem	Moothedam
+Malappuram	Nilambur	Porur	Porur
+Malappuram	Nilambur	Pothukkal	Kurumbilangode
+Malappuram	Nilambur	Pothukkal	Pothukallu
+Malappuram	Nilambur	Thiruvali	Thiruvali
+Malappuram	Nilambur	Thuvvur	Thuvvur
+Malappuram	Nilambur	Vazhikkadavu	Vazhikkadavu
+Malappuram	Nilambur	Wandoor	Wandoor
+Malappuram	Perinthalmanna	(इतर)	Aliparamba
+Malappuram	Perinthalmanna	(इतर)	Anamangad
+Malappuram	Perinthalmanna	(इतर)	Angadippuram
+Malappuram	Perinthalmanna	(इतर)	Arakkuparamba
+Malappuram	Perinthalmanna	(इतर)	Edappatta
+Malappuram	Perinthalmanna	(इतर)	Elamkulam
+Malappuram	Perinthalmanna	(इतर)	Kariavattom
+Malappuram	Perinthalmanna	(इतर)	Keezhattur
+Malappuram	Perinthalmanna	(इतर)	Kodur (CT)
+Malappuram	Perinthalmanna	(इतर)	Koottilangadi (CT)
+Malappuram	Perinthalmanna	(इतर)	Kuruva
+Malappuram	Perinthalmanna	(इतर)	Kuruvambalam
+Malappuram	Perinthalmanna	(इतर)	Mankada
+Malappuram	Perinthalmanna	(इतर)	Melattur
+Malappuram	Perinthalmanna	(इतर)	Moorkkanad
+Malappuram	Perinthalmanna	(इतर)	Nenmini
+Malappuram	Perinthalmanna	(इतर)	Pathaikkara
+Malappuram	Perinthalmanna	(इतर)	Perinthalmanna
+Malappuram	Perinthalmanna	(इतर)	Pulamanthole
+Malappuram	Perinthalmanna	(इतर)	Puzhakkattiri
+Malappuram	Perinthalmanna	(इतर)	Thazhekode
+Malappuram	Perinthalmanna	(इतर)	Vadakkangara
+Malappuram	Perinthalmanna	(इतर)	Valambur
+Malappuram	Perinthalmanna	(इतर)	Vettathur
+Malappuram	Perinthalmanna	Aliparamba	Aliparamba
+Malappuram	Perinthalmanna	Aliparamba	Anamangad
+Malappuram	Perinthalmanna	Angadipuram	Angadippuram
+Malappuram	Perinthalmanna	Angadipuram	Valambur
+Malappuram	Perinthalmanna	Edappatta	Edappatta
+Malappuram	Perinthalmanna	Elamkulam	Elamkulam
+Malappuram	Perinthalmanna	Keezhattur	Keezhattur
+Malappuram	Perinthalmanna	Keezhattur	Nenmini
+Malappuram	Perinthalmanna	Kodur	Kodur (CT)
+Malappuram	Perinthalmanna	Koottilangadi	Koottilangadi (CT)
+Malappuram	Perinthalmanna	Kuruva	Kuruva
+Malappuram	Perinthalmanna	Makkaraparamba	Vadakkangara
+Malappuram	Perinthalmanna	Mankada	Mankada
+Malappuram	Perinthalmanna	Melattur	Melattur
+Malappuram	Perinthalmanna	Moorkkanad	Moorkkanad
+Malappuram	Perinthalmanna	Pulamanthole	Kuruvambalam
+Malappuram	Perinthalmanna	Pulamanthole	Pulamanthole
+Malappuram	Perinthalmanna	Puzhakkattiri	Puzhakkattiri
+Malappuram	Perinthalmanna	Thazhekode	Arakkuparamba
+Malappuram	Perinthalmanna	Thazhekode	Thazhekode
+Malappuram	Perinthalmanna	Vettathur	Kariavattom
+Malappuram	Perinthalmanna	Vettathur	Vettathur
+Malappuram	Ponnani	(इतर)	Ezhuvathiruthy
+Malappuram	Ponnani	(इतर)	Ponnani Nagaram
+Malappuram	Ponnani	Alamcode	Alamcode (CT)
+Malappuram	Ponnani	Edappal	Edappal (CT)
+Malappuram	Ponnani	Kalady	Kalady (CT)
+Malappuram	Ponnani	Marancheri	Marancheri (CT)
+Malappuram	Ponnani	Nannamukku	Nannamukku
+Malappuram	Ponnani	Perumpadappa	Perumpadappa
+Malappuram	Ponnani	Tavanur	Tavanur
+Malappuram	Ponnani	Vattamkulam	Vattamkulam
+Malappuram	Ponnani	Veliyancode	Veliyankode
+Malappuram	Tirur	(इतर)	Irimbiliyam (CT)
+Malappuram	Tirur	(इतर)	Kattipparuthi (CT)
+Malappuram	Tirur	(इतर)	Kottakkal (CT)
+Malappuram	Tirur	(इतर)	Kuttippuram (CT)
+Malappuram	Tirur	(इतर)	Melmuri
+Malappuram	Tirur	(इतर)	Naduvattom (CT)
+Malappuram	Tirur	(इतर)	Pariyapuram
+Malappuram	Tirur	(इतर)	Ponmala
+Malappuram	Tirur	(इतर)	Ponmundam (CT)
+Malappuram	Tirur	(इतर)	Tanur
+Malappuram	Tirur	(इतर)	Thrikandiyur
+Malappuram	Tirur	(इतर)	Tirur
+Malappuram	Tirur	Athavanad	Athavanad
+Malappuram	Tirur	Athavanad	Kurumbathur
+Malappuram	Tirur	Cheriyamundam	Cheriyamundam (CT)
+Malappuram	Tirur	Edayoor	Edayoor
+Malappuram	Tirur	Irimbilayam	Irimbiliyam (CT)
+Malappuram	Tirur	Kalpakancheri	Kalpakancheri
+Malappuram	Tirur	Kuttippuram	Kuttippuram (CT)
+Malappuram	Tirur	Kuttippuram	Naduvattom (CT)
+Malappuram	Tirur	Mangalam	Mangalam
+Malappuram	Tirur	Marakkara	Marakkara
+Malappuram	Tirur	Marakkara	Melmuri
+Malappuram	Tirur	Niramaruthoor	Niramaruthur
+Malappuram	Tirur	Ozhur	Ozhur
+Malappuram	Tirur	Perumannaklari	Perumanna (CT)
+Malappuram	Tirur	Ponmala	Ponmala
+Malappuram	Tirur	Ponmundam	Ponmundam (CT)
+Malappuram	Tirur	Purathur	Purathur
+Malappuram	Tirur	Tanalur	Tanalur (CT)
+Malappuram	Tirur	Thalakkad	Talakkad (CT)
+Malappuram	Tirur	Thirunavaya	Ananthavoor
+Malappuram	Tirur	Thirunavaya	Thirunavaya (CT)
+Malappuram	Tirur	Triprangode	Triprangode (CT)
+Malappuram	Tirur	Valavannur	Valavannur
+Malappuram	Tirur	Vettom	Vettom
+Malappuram	Tirurangadi	(इतर)	Ariyallur (CT)
+Malappuram	Tirurangadi	(इतर)	Neduva (CT)
+Malappuram	Tirurangadi	(इतर)	Parappanangadi
+Malappuram	Tirurangadi	(इतर)	Thennala (CT)
+Malappuram	Tirurangadi	(इतर)	Tirurangadi (CT)
+Malappuram	Tirurangadi	Abdul Rahiman Nagar	Abdu Rahiman Nagar (CT)
+Malappuram	Tirurangadi	Edarikode	Edarikode
+Malappuram	Tirurangadi	Kannamangalam	Kannamangalam (CT)
+Malappuram	Tirurangadi	Moonniyur	Moonniyur (CT)
+Malappuram	Tirurangadi	Nannambra	Nannambra (CT)
+Malappuram	Tirurangadi	Othukkungal	Othukkungal (CT)
+Malappuram	Tirurangadi	Parappur	Parappur (CT)
+Malappuram	Tirurangadi	Peruvallur	Peruvallur (CT)
+Malappuram	Tirurangadi	Thenhippalam	Thenhippalam (CT)
+Malappuram	Tirurangadi	Thennala	Thennala (CT)
+Malappuram	Tirurangadi	Urakam	Urakam (CT)
+Malappuram	Tirurangadi	Vallikkunnu	Ariyallur (CT)
+Malappuram	Tirurangadi	Vallikkunnu	Vallikkunnu
+Malappuram	Tirurangadi	Vengara	Vengara (CT)
+Palakkad	Alathur	Alathur	Alathur (CT)
+Palakkad	Alathur	Erimayur	Erimayur-I
+Palakkad	Alathur	Erimayur	Erimayur-II
+Palakkad	Alathur	Kannambara	Kannambra-I
+Palakkad	Alathur	Kannambara	Kannambra-II
+Palakkad	Alathur	Kavasery	Kavasseri-I
+Palakkad	Alathur	Kavasery	Kavasseri-II
+Palakkad	Alathur	Kizhakkancherry	Kizhakkencheri-I
+Palakkad	Alathur	Kizhakkancherry	Kizhakkencheri-II
+Palakkad	Alathur	Kottayi	Kottayi-I
+Palakkad	Alathur	Kottayi	Kottayi-II
+Palakkad	Alathur	Kuthanoor	Kuthannur-I
+Palakkad	Alathur	Kuthanoor	Kuthannur-II
+Palakkad	Alathur	Kuzhalmannam	Kuzhalmannam-I
+Palakkad	Alathur	Kuzhalmannam	Kuzhalmannam-II
+Palakkad	Alathur	Mathur	Mathur -I
+Palakkad	Alathur	Mathur	Mathur -II
+Palakkad	Alathur	Melarcode	Melarcode
+Palakkad	Alathur	Peringottukurissi	Peringottukurissi-I
+Palakkad	Alathur	Peringottukurissi	Peringottukurissi-II
+Palakkad	Alathur	Puducode	Puducode
+Palakkad	Alathur	Tarur	Tarur-I
+Palakkad	Alathur	Tarur	Tarur-II
+Palakkad	Alathur	Thenkurissi	Thenkurissi-I
+Palakkad	Alathur	Thenkurissi	Thenkurissi-II
+Palakkad	Alathur	Vadakkancheri	Vadakkancheri-I
+Palakkad	Alathur	Vadakkancheri	Vadakkancheri-II
+Palakkad	Alathur	Vandazhy	Mangalam Dam
+Palakkad	Alathur	Vandazhy	Vandazhi-I
+Palakkad	Alathur	Vandazhy	Vandazhi-II
+Palakkad	Attappadi	Agali	Agali
+Palakkad	Attappadi	Agali	Kallamala
+Palakkad	Attappadi	Pudur	Padavayal
+Palakkad	Attappadi	Pudur	Pudur
+Palakkad	Attappadi	Sholayar	Kottathara
+Palakkad	Attappadi	Sholayar	Sholayur
+Palakkad	Chittur	(इतर)	Chittur (Part)
+Palakkad	Chittur	(इतर)	Thathamangalam (Part)
+Palakkad	Chittur	Ayiloor	Ayiloor
+Palakkad	Chittur	Ayiloor	Kairady
+Palakkad	Chittur	Ayiloor	Thiruvazhiyad
+Palakkad	Chittur	Elavancherry	Elavancherry
+Palakkad	Chittur	Eruthampathy	Eruthempathy
+Palakkad	Chittur	Eruthampathy	Kozhipathy
+Palakkad	Chittur	Koduvayur	Koduvayur 1
+Palakkad	Chittur	Koduvayur	Koduvayur-II
+Palakkad	Chittur	Kollengode	Kollengode-I
+Palakkad	Chittur	Kollengode	Kollengode-II
+Palakkad	Chittur	Kozhinjampara	Kozhinjampara
+Palakkad	Chittur	Kozhinjampara	Kozhipathy
+Palakkad	Chittur	Kozhinjampara	Valiyavallampathy
+Palakkad	Chittur	Muthalamada	Muthalamada-I
+Palakkad	Chittur	Muthalamada	Muthalamada-II
+Palakkad	Chittur	Nalleppilly	Chittur (Part)
+Palakkad	Chittur	Nalleppilly	Nalleppilly
+Palakkad	Chittur	Nalleppilly	Thekkedesom
+Palakkad	Chittur	Nelliampathy	Nelliyampathy
+Palakkad	Chittur	Nemmara	Nemmara
+Palakkad	Chittur	Nemmara	Vallanghy
+Palakkad	Chittur	Pallassana	Pallassana
+Palakkad	Chittur	Pattencherry	Pattanchery
+Palakkad	Chittur	Pattencherry	Thathamangalam (Part)
+Palakkad	Chittur	Perumatty	Moolathara
+Palakkad	Chittur	Perumatty	Perumatty
+Palakkad	Chittur	Perumatty	Vandithavalam
+Palakkad	Chittur	Puthunagaram	Puthunagaram (CT)
+Palakkad	Chittur	Vadakarapathy	Ozhalapathy
+Palakkad	Chittur	Vadakarapathy	Vadakarapathy
+Palakkad	Chittur	Vadavannur	Vadavannur
+Palakkad	Mannarkad	(इतर)	Mannarkad-I (CT)
+Palakkad	Mannarkad	Alanallur	Alanallur-I
+Palakkad	Mannarkad	Alanallur	Alanallur-II
+Palakkad	Mannarkad	Alanallur	Alanallur-III
+Palakkad	Mannarkad	Kanjirampuzha	Pottassery- I
+Palakkad	Mannarkad	Kanjirampuzha	Pottassery- II
+Palakkad	Mannarkad	Karakurissi	Karakurissi
+Palakkad	Mannarkad	Karimba	Karimba -I
+Palakkad	Mannarkad	Karimba	Karimba -II
+Palakkad	Mannarkad	Karimba	Palakkayam
+Palakkad	Mannarkad	Kottappadam	Kottoppadam-I
+Palakkad	Mannarkad	Kottappadam	Kottoppadam-II
+Palakkad	Mannarkad	Kottappadam	Kottoppadam-III
+Palakkad	Mannarkad	Kumaramputhur	Kumaramputhur
+Palakkad	Mannarkad	Kumaramputhur	Payyanadam
+Palakkad	Mannarkad	Tachampara	Palakkayam
+Palakkad	Mannarkad	Tachampara	Thachampara
+Palakkad	Mannarkad	Thachanattukara	Thachanattukara-I
+Palakkad	Mannarkad	Thachanattukara	Thachanattukara-II
+Palakkad	Mannarkad	Thenkara	Mannarkad-II
+Palakkad	Mannarkad	Thenkara	Palakkayam
+Palakkad	Ottappalam	(इतर)	Cherpulacherry
+Palakkad	Ottappalam	(इतर)	Ottappalam I
+Palakkad	Ottappalam	(इतर)	Ottappalam II
+Palakkad	Ottappalam	(इतर)	Shornur I
+Palakkad	Ottappalam	(इतर)	Shornur II
+Palakkad	Ottappalam	Ambalapara	Ambalapara - I
+Palakkad	Ottappalam	Ambalapara	Ambalapara - II
+Palakkad	Ottappalam	Ananganadi	Ananganadi
+Palakkad	Ottappalam	Chalavara	Chalavara
+Palakkad	Ottappalam	Kadampazhipuram	Kadampazhipuram-I
+Palakkad	Ottappalam	Kadampazhipuram	Kadampazhipuram-II
+Palakkad	Ottappalam	Karimpuzha	Karimpuzha-I
+Palakkad	Ottappalam	Karimpuzha	Karimpuzha-II
+Palakkad	Ottappalam	Lakkidiperur	Lakkidi-Perur- I
+Palakkad	Ottappalam	Lakkidiperur	Lakkidi-Perur- II
+Palakkad	Ottappalam	Nellaya	Nellaya
+Palakkad	Ottappalam	Pookkottukavu	Pookkottukavu
+Palakkad	Ottappalam	Sreekrishnapuram	Sreekrishnapuram -I
+Palakkad	Ottappalam	Sreekrishnapuram	Sreekrishnapuram -II
+Palakkad	Ottappalam	Thrikkadeeri	Thrikkadeeri -I
+Palakkad	Ottappalam	Thrikkadeeri	Thrikkadeeri -II
+Palakkad	Ottappalam	Vaniamkulam	Vaniyamkulam- II (CT)
+Palakkad	Ottappalam	Vaniamkulam	Vaniyamkulam-I
+Palakkad	Ottappalam	Vellinezhi	Vellinezhi
+Palakkad	Palakkad	(इतर)	Palakkad I
+Palakkad	Palakkad	(इतर)	Palakkad II
+Palakkad	Palakkad	(इतर)	Palakkad III
+Palakkad	Palakkad	(इतर)	Yakkara
+Palakkad	Palakkad	Akathethara	Akathethara
+Palakkad	Palakkad	Elappully	Elappully-I
+Palakkad	Palakkad	Elappully	Elappully-II
+Palakkad	Palakkad	Kannadi	Kannadi-I
+Palakkad	Palakkad	Kannadi	Kannadi-II
+Palakkad	Palakkad	Keralassery	Keralassery
+Palakkad	Palakkad	Kodumba	Kodumba
+Palakkad	Palakkad	Kongad	Kongad-I
+Palakkad	Palakkad	Kongad	Kongad-II
+Palakkad	Palakkad	Malampuzha	Malampuzha-I
+Palakkad	Palakkad	Malampuzha	Malampuzha-II
+Palakkad	Palakkad	Mankara	Mankara
+Palakkad	Palakkad	Mannur	Mannur
+Palakkad	Palakkad	Marutharode	Malampuzha-II
+Palakkad	Palakkad	Marutharode	Marutharode (CT)
+Palakkad	Palakkad	Mundur	Mundur-I
+Palakkad	Palakkad	Mundur	Mundur-II
+Palakkad	Palakkad	Parli	Parli-I
+Palakkad	Palakkad	Parli	Parli-II
+Palakkad	Palakkad	Peruvemba	Peruvemba
+Palakkad	Palakkad	Pirayari	Pirayiri (CT)
+Palakkad	Palakkad	Polpully	Polpully
+Palakkad	Palakkad	Puduppariyaram	Puthuppariyaram 1
+Palakkad	Palakkad	Puduppariyaram	Puthuppariyaram-II
+Palakkad	Palakkad	Pudusseri	Pudussery Central (CT)
+Palakkad	Palakkad	Pudusseri	Pudussery East
+Palakkad	Palakkad	Pudusseri	Pudussery West (CT)
+Palakkad	Pattambi	(इतर)	Pattambi (CT)
+Palakkad	Pattambi	(इतर)	Pattithara
+Palakkad	Pattambi	Anakkara	Anakkara
+Palakkad	Pattambi	Chalisseri	Chalissery
+Palakkad	Pattambi	Kappur	Kappur
+Palakkad	Pattambi	Koppam	Koppam
+Palakkad	Pattambi	Kulukkallur	Kulukkallur
+Palakkad	Pattambi	Muthuthala	Muthuthala (CT)
+Palakkad	Pattambi	Nagalassery	Nagalassery
+Palakkad	Pattambi	Ongallur	Ongallur -I (CT)
+Palakkad	Pattambi	Ongallur	Ongallur -II (CT)
+Palakkad	Pattambi	Parudur	Parudur
+Palakkad	Pattambi	Pattithara	Pattithara
+Palakkad	Pattambi	Thirumittacode	Thirumittacode -II (CT)
+Palakkad	Pattambi	Thirumittacode	Thirumittacode-I
+Palakkad	Pattambi	Thiruvegapuram	Thiruvegapura
+Palakkad	Pattambi	Thrithala	Pattithara
+Palakkad	Pattambi	Thrithala	Thrithala (CT)
+Palakkad	Pattambi	Vallapuzha	Vallapuzha
+Palakkad	Pattambi	Vilayur	Vilayur
+Pathanamthitta	Adoor	(इतर)	Adoor
+Pathanamthitta	Adoor	(इतर)	Kurampala
+Pathanamthitta	Adoor	(इतर)	Pandalam
+Pathanamthitta	Adoor	(इतर)	Pandalam Thekkekara
+Pathanamthitta	Adoor	(इतर)	Peringanadu (Part)
+Pathanamthitta	Adoor	Enadimangalam	Enadimangalam
+Pathanamthitta	Adoor	Erathu	Erathu
+Pathanamthitta	Adoor	Ezhamkulam	Enathu
+Pathanamthitta	Adoor	Ezhamkulam	Ezhamkulam
+Pathanamthitta	Adoor	Kadampanadu	Kadampanadu
+Pathanamthitta	Adoor	Kodumon	Angadickal
+Pathanamthitta	Adoor	Kodumon	Kodumon
+Pathanamthitta	Adoor	Pallickal	Pallickal
+Pathanamthitta	Adoor	Pallickal	Peringanadu (Part)
+Pathanamthitta	Adoor	Pandalam Thekkekara	Pandalam Thekkekara
+Pathanamthitta	Adoor	Thumpamon	Thumpamon
+Pathanamthitta	Konni	Aruvapulam	Aruvappulam
+Pathanamthitta	Konni	Aruvapulam	Iravan
+Pathanamthitta	Konni	Chittar	Chittar
+Pathanamthitta	Konni	Kalanjoor	Kalanjoor
+Pathanamthitta	Konni	Kalanjoor	Koodal
+Pathanamthitta	Konni	Konni	Iravan
+Pathanamthitta	Konni	Konni	Konni
+Pathanamthitta	Konni	Konni	Konnithazham
+Pathanamthitta	Konni	Malayalapuzha	Konnithazham
+Pathanamthitta	Konni	Malayalapuzha	Malayalapuzha (Part)
+Pathanamthitta	Konni	Mylapra	Mylapra (Part)
+Pathanamthitta	Konni	Pramadom	Pramadom
+Pathanamthitta	Konni	Pramadom	Vallicode-Kottayam
+Pathanamthitta	Konni	Seethathodu	Seethathodu
+Pathanamthitta	Konni	Thannithodu	Konnithazham
+Pathanamthitta	Konni	Thannithodu	Thannithode
+Pathanamthitta	Konni	Vallicode	Vallicode
+Pathanamthitta	Kozhenchery	(इतर)	Pathanamthitta (Part)
+Pathanamthitta	Kozhenchery	Aranmula	Aranmula
+Pathanamthitta	Kozhenchery	Aranmula	Kidangannur
+Pathanamthitta	Kozhenchery	Chenneerkara	Chenneerkara
+Pathanamthitta	Kozhenchery	Elanthoor	Elanthoor
+Pathanamthitta	Kozhenchery	Kozhencherry	Kozhenchery (CT)
+Pathanamthitta	Kozhenchery	Kulanada	Kulanada
+Pathanamthitta	Kozhenchery	Kulanada	Mezhuveli
+Pathanamthitta	Kozhenchery	Mallapuzhassery	Mallapuzhassery
+Pathanamthitta	Kozhenchery	Mezhuveli	Kulanada
+Pathanamthitta	Kozhenchery	Mezhuveli	Mezhuveli
+Pathanamthitta	Kozhenchery	Naranganam	Naranganam
+Pathanamthitta	Kozhenchery	Omallur	Omalloor
+Pathanamthitta	Mallappally	Anicadu	Anicad
+Pathanamthitta	Mallappally	Ezhumattoor	Ezhumattoor
+Pathanamthitta	Mallappally	Ezhumattoor	Thelliyoor
+Pathanamthitta	Mallappally	Kallooppara	Kallooppara
+Pathanamthitta	Mallappally	Kottanadu	Perumpetty
+Pathanamthitta	Mallappally	Kottangal	Kottangal
+Pathanamthitta	Mallappally	Kunnathanam	Kunnamthanam
+Pathanamthitta	Mallappally	Mallappally	Mallappally
+Pathanamthitta	Mallappally	Puramattom	Puramattam
+Pathanamthitta	Ranni	Ayiroor	Ayiroor
+Pathanamthitta	Ranni	Cherukole	Cherukole
+Pathanamthitta	Ranni	Naranamoozhy	Athikkayam
+Pathanamthitta	Ranni	Naranamoozhy	Chethakkal
+Pathanamthitta	Ranni	Naranamoozhy	Kollamula
+Pathanamthitta	Ranni	Naranamoozhy	Pazhavangadi
+Pathanamthitta	Ranni	Ranni	Ranni
+Pathanamthitta	Ranni	Ranni Angadi	Angadi
+Pathanamthitta	Ranni	Ranni Pazhavangadi	Chethakkal
+Pathanamthitta	Ranni	Ranni Pazhavangadi	Pazhavangadi
+Pathanamthitta	Ranni	Ranni Perunad	Kollamula
+Pathanamthitta	Ranni	Ranni Perunad	Perunad
+Pathanamthitta	Ranni	Vadasserikkara	Vadasserikkara
+Pathanamthitta	Ranni	Vechuchira	Chethakkal
+Pathanamthitta	Ranni	Vechuchira	Kollamula
+Pathanamthitta	Thiruvalla	(इतर)	Kavumbhagom (Part)
+Pathanamthitta	Thiruvalla	(इतर)	Kuttappuzha
+Pathanamthitta	Thiruvalla	(इतर)	Thiruvalla
+Pathanamthitta	Thiruvalla	Eraviperoor	Eraviperoor
+Pathanamthitta	Thiruvalla	Kadapra	Kadapra
+Pathanamthitta	Thiruvalla	Kaviyoor	Kaviyoor
+Pathanamthitta	Thiruvalla	Koipuram	Koipuram
+Pathanamthitta	Thiruvalla	Kuttoor	Kuttoor
+Pathanamthitta	Thiruvalla	Nedumpuram	Nedumpuram
+Pathanamthitta	Thiruvalla	Niranam	Kadapra
+Pathanamthitta	Thiruvalla	Niranam	Niranam
+Pathanamthitta	Thiruvalla	Peringara	Kavumbhagom (Part)
+Pathanamthitta	Thiruvalla	Peringara	Peringara
+Pathanamthitta	Thiruvalla	Thottapuzhassery	Thottapuzhassery
+Thiruvananthapuram	Chirayinkeezhu	(इतर)	Alamcode (CT)
+Thiruvananthapuram	Chirayinkeezhu	(इतर)	Attingal
+Thiruvananthapuram	Chirayinkeezhu	(इतर)	Edakkode (CT)
+Thiruvananthapuram	Chirayinkeezhu	(इतर)	Keezhattingal (CT)
+Thiruvananthapuram	Chirayinkeezhu	(इतर)	Kizhuvilam
+Thiruvananthapuram	Chirayinkeezhu	Anjuthengu	Anjuthengu
+Thiruvananthapuram	Chirayinkeezhu	Azhoor	Azhoor (CT)
+Thiruvananthapuram	Chirayinkeezhu	Chirayinkeezhu	Chirayinkeezhu
+Thiruvananthapuram	Chirayinkeezhu	Chirayinkeezhu	Sarkara
+Thiruvananthapuram	Chirayinkeezhu	Kadakkavoor	Kadakkavoor
+Thiruvananthapuram	Chirayinkeezhu	Kadakkavoor	Keezhattingal (CT)
+Thiruvananthapuram	Chirayinkeezhu	Karavaram	Alamcode (CT)
+Thiruvananthapuram	Chirayinkeezhu	Karavaram	Karavaram
+Thiruvananthapuram	Chirayinkeezhu	Kilimanoor	Kilimanoor
+Thiruvananthapuram	Chirayinkeezhu	Kizhuvilam	Kizhuvilam
+Thiruvananthapuram	Chirayinkeezhu	Kizhuvilam	Kunthallur
+Thiruvananthapuram	Chirayinkeezhu	Mudakkal	Avanavancherry
+Thiruvananthapuram	Chirayinkeezhu	Mudakkal	Edakkode (CT)
+Thiruvananthapuram	Chirayinkeezhu	Mudakkal	Elamba
+Thiruvananthapuram	Chirayinkeezhu	Mudakkal	Mudakkal
+Thiruvananthapuram	Chirayinkeezhu	Nagaroor	Nagaroor
+Thiruvananthapuram	Chirayinkeezhu	Nagaroor	Vellalloor
+Thiruvananthapuram	Chirayinkeezhu	Pazhayakunnummel	Pazhayakunnummel
+Thiruvananthapuram	Chirayinkeezhu	Pulimath	Koduvazhannoor
+Thiruvananthapuram	Chirayinkeezhu	Pulimath	Pulimath
+Thiruvananthapuram	Chirayinkeezhu	Vakkom	Vakkom (CT)
+Thiruvananthapuram	Kattakkada	Amboori	Amboori
+Thiruvananthapuram	Kattakkada	Amboori	Vazhichal
+Thiruvananthapuram	Kattakkada	Aryancode	Keezharoor
+Thiruvananthapuram	Kattakkada	Kallikkadu	Kallikkad
+Thiruvananthapuram	Kattakkada	Kallikkadu	Vazhichal
+Thiruvananthapuram	Kattakkada	Kattakkada	Kulathummal (CT)
+Thiruvananthapuram	Kattakkada	Kuttichal	Mannoorkara
+Thiruvananthapuram	Kattakkada	Malayinkeezh	Malayinkeezhu (CT)
+Thiruvananthapuram	Kattakkada	Maranalloor	Maranalloor
+Thiruvananthapuram	Kattakkada	Ottasekharamangalam	Ottasekharamangalam
+Thiruvananthapuram	Kattakkada	Poovachal	Perumkulam
+Thiruvananthapuram	Kattakkada	Poovachal	Veeranakavu
+Thiruvananthapuram	Kattakkada	Vilappil	Vilappil (CT)
+Thiruvananthapuram	Kattakkada	Vilavoorkkal	Vilavoorkkal (CT)
+Thiruvananthapuram	Nedumangad	(इतर)	Karuppur
+Thiruvananthapuram	Nedumangad	(इतर)	Nedumangad
+Thiruvananthapuram	Nedumangad	(इतर)	Vattappara (CT)
+Thiruvananthapuram	Nedumangad	Anad	Anad
+Thiruvananthapuram	Nedumangad	Aruvikkara	Aruvikkara
+Thiruvananthapuram	Nedumangad	Aruvikkara	Karakulam (CT)
+Thiruvananthapuram	Nedumangad	Aryanad	Aryanad
+Thiruvananthapuram	Nedumangad	Kallara	Kallara
+Thiruvananthapuram	Nedumangad	Karakulam	Karakulam (CT)
+Thiruvananthapuram	Nedumangad	Karakulam	Vattappara (CT)
+Thiruvananthapuram	Nedumangad	Manickal	Koliyakode
+Thiruvananthapuram	Nedumangad	Manickal	Manikkal
+Thiruvananthapuram	Nedumangad	Nanniyode	Kurupuzha
+Thiruvananthapuram	Nedumangad	Nanniyode	Palode
+Thiruvananthapuram	Nedumangad	Nanniyode	Peringamala
+Thiruvananthapuram	Nedumangad	Nellanad	Nellanad
+Thiruvananthapuram	Nedumangad	Panavoor	Panavoor
+Thiruvananthapuram	Nedumangad	Pangode	Pangode
+Thiruvananthapuram	Nedumangad	Peringamala	Thennoor
+Thiruvananthapuram	Nedumangad	Pullampara	Pullampara
+Thiruvananthapuram	Nedumangad	Tholicode	Tholicode
+Thiruvananthapuram	Nedumangad	Uzhamalackal	Uzhamalackal
+Thiruvananthapuram	Nedumangad	Vamanapuram	Vamanapuram
+Thiruvananthapuram	Nedumangad	Vellanad	Vellanad
+Thiruvananthapuram	Nedumangad	Vembayam	Theakada
+Thiruvananthapuram	Nedumangad	Vembayam	Vattappara (CT)
+Thiruvananthapuram	Nedumangad	Vembayam	Vembayam
+Thiruvananthapuram	Nedumangad	Vithura	Tholicode
+Thiruvananthapuram	Nedumangad	Vithura	Vithura
+Thiruvananthapuram	Neyyattinkara	(इतर)	Kottukal (Part)
+Thiruvananthapuram	Neyyattinkara	(इतर)	Neyyattinkara
+Thiruvananthapuram	Neyyattinkara	(इतर)	Perumpazhuthur
+Thiruvananthapuram	Neyyattinkara	(इतर)	Thirupuram
+Thiruvananthapuram	Neyyattinkara	(इतर)	Vizhinjam (Part)
+Thiruvananthapuram	Neyyattinkara	Athiyannoor	Athiyannur (CT)
+Thiruvananthapuram	Neyyattinkara	Balaramapuram	Balaramapuram
+Thiruvananthapuram	Neyyattinkara	Chenkal	Chenkal (Part)
+Thiruvananthapuram	Neyyattinkara	Kanjiramkulam	Kanjiramkulam (CT)
+Thiruvananthapuram	Neyyattinkara	Karode	Karode
+Thiruvananthapuram	Neyyattinkara	Karumkulam	Karumkulam
+Thiruvananthapuram	Neyyattinkara	Kollayil	Kollayil (Part)
+Thiruvananthapuram	Neyyattinkara	Kottukal	Kottukal (Part)
+Thiruvananthapuram	Neyyattinkara	Kulathoor	Kulathoor
+Thiruvananthapuram	Neyyattinkara	Kunnathukal	Anavoor
+Thiruvananthapuram	Neyyattinkara	Kunnathukal	Kunnathukal
+Thiruvananthapuram	Neyyattinkara	Pallichal	Pallichal (CT)
+Thiruvananthapuram	Neyyattinkara	Parassala	Parassala (CT)
+Thiruvananthapuram	Neyyattinkara	Parassala	Parasuvaikkal (CT)
+Thiruvananthapuram	Neyyattinkara	Perumkadavila	Perumkadavila
+Thiruvananthapuram	Neyyattinkara	Poovar	Poovar
+Thiruvananthapuram	Neyyattinkara	Thirupuram	Thirupuram
+Thiruvananthapuram	Neyyattinkara	Vellarada	Anavoor
+Thiruvananthapuram	Neyyattinkara	Vellarada	Kunnathukal
+Thiruvananthapuram	Neyyattinkara	Vellarada	Vellarada
+Thiruvananthapuram	Thiruvananthapuram	(इतर)	Attipra
+Thiruvananthapuram	Thiruvananthapuram	(इतर)	Cheruvackal
+Thiruvananthapuram	Thiruvananthapuram	(इतर)	Kadakampalli
+Thiruvananthapuram	Thiruvananthapuram	(इतर)	Kawdiar
+Thiruvananthapuram	Thiruvananthapuram	(इतर)	Kazhakkoottam(OG)
+Thiruvananthapuram	Thiruvananthapuram	(इतर)	Kudappanakkunnu (CT)
+Thiruvananthapuram	Thiruvananthapuram	(इतर)	Manacadu
+Thiruvananthapuram	Thiruvananthapuram	(इतर)	Muttathara
+Thiruvananthapuram	Thiruvananthapuram	(इतर)	Nemom
+Thiruvananthapuram	Thiruvananthapuram	(इतर)	Pangappara
+Thiruvananthapuram	Thiruvananthapuram	(इतर)	Pattom
+Thiruvananthapuram	Thiruvananthapuram	(इतर)	Peroorkada
+Thiruvananthapuram	Thiruvananthapuram	(इतर)	Pettah
+Thiruvananthapuram	Thiruvananthapuram	(इतर)	Sasthamangalam
+Thiruvananthapuram	Thiruvananthapuram	(इतर)	Thirumala
+Thiruvananthapuram	Thiruvananthapuram	(इतर)	Thiruvallam
+Thiruvananthapuram	Thiruvananthapuram	(इतर)	Thycaud
+Thiruvananthapuram	Thiruvananthapuram	(इतर)	Uliyazhathura (CT)
+Thiruvananthapuram	Thiruvananthapuram	(इतर)	Ulloor
+Thiruvananthapuram	Thiruvananthapuram	(इतर)	Vanchiyoor
+Thiruvananthapuram	Thiruvananthapuram	(इतर)	Vattiyoorkavu (CT)
+Thiruvananthapuram	Thiruvananthapuram	Andoorkonam	Andoorkonam
+Thiruvananthapuram	Thiruvananthapuram	Andoorkonam	Pallippuram (CT)
+Thiruvananthapuram	Thiruvananthapuram	Kadinamkulam	Kadinamkulam
+Thiruvananthapuram	Thiruvananthapuram	Kadinamkulam	Menamkulam
+Thiruvananthapuram	Thiruvananthapuram	Kalliyoor	Kalliyoor (CT)
+Thiruvananthapuram	Thiruvananthapuram	Mangalapuram	Melthonnakkal
+Thiruvananthapuram	Thiruvananthapuram	Mangalapuram	Veiloor (CT)
+Thiruvananthapuram	Thiruvananthapuram	Pothencode	Andoorkonam
+Thiruvananthapuram	Thiruvananthapuram	Pothencode	Iroopara (CT)
+Thiruvananthapuram	Thiruvananthapuram	Pothencode	Keezhthonnakkal
+Thiruvananthapuram	Thiruvananthapuram	Pothencode	Melthonnakkal
+Thiruvananthapuram	Thiruvananthapuram	Venganoor	Venganoor (CT)
+Thiruvananthapuram	Varkala	(इतर)	Varkala
+Thiruvananthapuram	Varkala	(इतर)	Vettoor
+Thiruvananthapuram	Varkala	Chemmaruthy	Chemmaruthy
+Thiruvananthapuram	Varkala	Cherunniyoor	Cherunniyoor
+Thiruvananthapuram	Varkala	Edava	Edava
+Thiruvananthapuram	Varkala	Elakamon	Ayiroor
+Thiruvananthapuram	Varkala	Madavoor	Madavoor
+Thiruvananthapuram	Varkala	Manamboor	Manamboor
+Thiruvananthapuram	Varkala	Navaikulam	Kudavoor
+Thiruvananthapuram	Varkala	Navaikulam	Navaikulam
+Thiruvananthapuram	Varkala	Ottoor	Ottoor
+Thiruvananthapuram	Varkala	Pallickal	Pallickal
+Thiruvananthapuram	Varkala	Vettoor	Vettoor
+Thrissur	Chalakkudy	(इतर)	East Chalakkudy
+Thrissur	Chalakkudy	(इतर)	Perambra
+Thrissur	Chalakkudy	(इतर)	Potta
+Thrissur	Chalakkudy	(इतर)	West Chalakkudy
+Thrissur	Chalakkudy	Alur	Alur
+Thrissur	Chalakkudy	Alur	Kallettumkara (CT)
+Thrissur	Chalakkudy	Alur	Thazhekkad
+Thrissur	Chalakkudy	Annamanada	Alathur
+Thrissur	Chalakkudy	Annamanada	Kallur Thekkummuri (CT)
+Thrissur	Chalakkudy	Athirappally	Athirappally
+Thrissur	Chalakkudy	Athirappally	Pariyaram
+Thrissur	Chalakkudy	Kadukutty	Kallur Vadakkummuri (CT)
+Thrissur	Chalakkudy	Kodakara	Kodakara
+Thrissur	Chalakkudy	Kodassery	Elanjipra
+Thrissur	Chalakkudy	Kodassery	Kodassery
+Thrissur	Chalakkudy	Kodassery	Kuttichira
+Thrissur	Chalakkudy	Koratty	Kizhakkummuri
+Thrissur	Chalakkudy	Koratty	Muringoor Thekkmmuri
+Thrissur	Chalakkudy	Kuzhur	Kakkulissery
+Thrissur	Chalakkudy	Kuzhur	Thirumukkulam
+Thrissur	Chalakkudy	Mala	Annallur
+Thrissur	Chalakkudy	Mala	Kuruvilassery
+Thrissur	Chalakkudy	Mala	Vadakkumbhagom
+Thrissur	Chalakkudy	Mala	Vadama (CT)
+Thrissur	Chalakkudy	Mattathur	Mattathur
+Thrissur	Chalakkudy	Mattathur	Vellikulangara
+Thrissur	Chalakkudy	Melur	Melur
+Thrissur	Chalakkudy	Melur	Muringur Vadakkummuri (CT)
+Thrissur	Chalakkudy	Pariyaram	Pariyaram
+Thrissur	Chalakkudy	Varandarappilly	Mupliyam
+Thrissur	Chalakkudy	Varandarappilly	Nandipulam
+Thrissur	Chalakkudy	Varandarappilly	Varandarappilly
+Thrissur	Chavakkad	(इतर)	Chavakkad
+Thrissur	Chavakkad	(इतर)	Guruvayur
+Thrissur	Chavakkad	(इतर)	Iringaprom (CT)
+Thrissur	Chavakkad	(इतर)	Manathala
+Thrissur	Chavakkad	(इतर)	Perakam (CT)
+Thrissur	Chavakkad	(इतर)	Pookode (CT)
+Thrissur	Chavakkad	(इतर)	Thaikkad (CT)
+Thrissur	Chavakkad	Elavally	Brahmakulam (CT)
+Thrissur	Chavakkad	Elavally	Elavally (CT)
+Thrissur	Chavakkad	Engandiyur	Engandiyur
+Thrissur	Chavakkad	Engandiyur	Vadanappally (CT)
+Thrissur	Chavakkad	Kadappuram	Kadappuram
+Thrissur	Chavakkad	Kadappuram	Orumanayur (CT)
+Thrissur	Chavakkad	Mullassery	Annakara
+Thrissur	Chavakkad	Mullassery	Mullassery (CT)
+Thrissur	Chavakkad	Nattika	Nattika
+Thrissur	Chavakkad	Orumanayur	Kadappuram
+Thrissur	Chavakkad	Orumanayur	Orumanayur (CT)
+Thrissur	Chavakkad	Pavaratty	Pavaratty (CT)
+Thrissur	Chavakkad	Pavaratty	Venmanad (CT)
+Thrissur	Chavakkad	Punnayur	Edakkazhiyur (CT)
+Thrissur	Chavakkad	Punnayur	Punnayur (CT)
+Thrissur	Chavakkad	Punnyurkulum	Kadikkad (CT)
+Thrissur	Chavakkad	Punnyurkulum	Punnayurkulam (CT)
+Thrissur	Chavakkad	Thalikulam	Talikkulam (CT)
+Thrissur	Chavakkad	Vadanappilly	Vadanappally (CT)
+Thrissur	Chavakkad	Vadekkekad	Vadakkekad (CT)
+Thrissur	Chavakkad	Vadekkekad	Vylathur (CT)
+Thrissur	Chavakkad	Valappad	Valappad
+Thrissur	Chavakkad	Venkitangu	Irimbranallur
+Thrissur	Chavakkad	Venkitangu	Kundazhiyur
+Thrissur	Chavakkad	Venkitangu	Venkitangu (CT)
+Thrissur	Kodungallur	(इतर)	Lokamaleswaram
+Thrissur	Kodungallur	(इतर)	Methala (CT)
+Thrissur	Kodungallur	(इतर)	Pullut
+Thrissur	Kodungallur	Edathiruthy	Chendrappini (CT)
+Thrissur	Kodungallur	Edathiruthy	Edathiruthy (CT)
+Thrissur	Kodungallur	Edavilangu	Edavilangu (CT)
+Thrissur	Kodungallur	Eriyad	Azhikode
+Thrissur	Kodungallur	Eriyad	Eriyad (OG)
+Thrissur	Kodungallur	Kaipamangalam	Kaipamangalam (CT)
+Thrissur	Kodungallur	Mathilakam	Koolimuttam
+Thrissur	Kodungallur	Mathilakam	Pappinivattom (CT)
+Thrissur	Kodungallur	Perinjanam	Perinjanam (CT)
+Thrissur	Kodungallur	Poyya	Madathumpady (CT)
+Thrissur	Kodungallur	Poyya	Pallippuram (CT)
+Thrissur	Kodungallur	Poyya	Poyya (CT)
+Thrissur	Kodungallur	Sree Narayanapuram	Ala (CT)
+Thrissur	Kodungallur	Sree Narayanapuram	Padinjare Vemballur
+Thrissur	Kodungallur	Sree Narayanapuram	Panangad (CT)
+Thrissur	Kunnamkulam	(इतर)	Anjur
+Thrissur	Kunnamkulam	(इतर)	Arthat
+Thrissur	Kunnamkulam	(इतर)	Kunnamkulam
+Thrissur	Kunnamkulam	Choondal	Chiranellur (CT)
+Thrissur	Kunnamkulam	Choondal	Choondal (CT)
+Thrissur	Kunnamkulam	Choondal	Eranellur (CT)
+Thrissur	Kunnamkulam	Chowwannur	Chemmanthatta
+Thrissur	Kunnamkulam	Chowwannur	Chowwannur
+Thrissur	Kunnamkulam	Chowwannur	Kanipayyur
+Thrissur	Kunnamkulam	Erumapetty	Kariyannur (CT)
+Thrissur	Kunnamkulam	Erumapetty	Nelluwaya (CT)
+Thrissur	Kunnamkulam	Kadangode	Chiramanangad (CT)
+Thrissur	Kunnamkulam	Kadangode	Eyyal (CT)
+Thrissur	Kunnamkulam	Kadangode	Kadangode
+Thrissur	Kunnamkulam	Kadangode	Vellarakkad
+Thrissur	Kunnamkulam	Kadavallur	Kadavallur (CT)
+Thrissur	Kunnamkulam	Kadavallur	Karikkad (CT)
+Thrissur	Kunnamkulam	Kadavallur	Perumpilavu
+Thrissur	Kunnamkulam	Kandanassery	Aloor (CT)
+Thrissur	Kunnamkulam	Kandanassery	Kandanassery (CT)
+Thrissur	Kunnamkulam	Kattakampal	Kattakampal (CT)
+Thrissur	Kunnamkulam	Kattakampal	Pazhanji (CT)
+Thrissur	Kunnamkulam	Porkulam	Akathiyoor (CT)
+Thrissur	Kunnamkulam	Porkulam	Mangad (Part)
+Thrissur	Kunnamkulam	Porkulam	Porkulam (CT)
+Thrissur	Kunnamkulam	Velur	Kiralur
+Thrissur	Kunnamkulam	Velur	Thayyur
+Thrissur	Kunnamkulam	Velur	Vellattanjur
+Thrissur	Kunnamkulam	Velur	Velur (CT)
+Thrissur	Mukundapuram	(इतर)	Irinjalakuda
+Thrissur	Mukundapuram	(इतर)	Madayikonam (CT)
+Thrissur	Mukundapuram	(इतर)	Manavalassery (CT)
+Thrissur	Mukundapuram	(इतर)	Porathissery (CT)
+Thrissur	Mukundapuram	Alagappa Nagar	Amballur (CT)
+Thrissur	Mukundapuram	Karalam	Karalam
+Thrissur	Mukundapuram	Karalam	Manavalassery (CT)
+Thrissur	Mukundapuram	Kattur	Kattur (CT)
+Thrissur	Mukundapuram	Muriyad	Anandapuram
+Thrissur	Mukundapuram	Muriyad	Muriyad
+Thrissur	Mukundapuram	Muriyad	Pullur (CT)
+Thrissur	Mukundapuram	Nenmenikkara	Nenmenikkara (CT)
+Thrissur	Mukundapuram	Padiyur	Edathirinji (CT)
+Thrissur	Mukundapuram	Padiyur	Padiyur (CT)
+Thrissur	Mukundapuram	Parappukkara	Nellayi
+Thrissur	Mukundapuram	Parappukkara	Parappukkara (CT)
+Thrissur	Mukundapuram	Parappukkara	Thottippal
+Thrissur	Mukundapuram	Poomangalam	Poomangalam (CT)
+Thrissur	Mukundapuram	Pudukkad	Chengallur
+Thrissur	Mukundapuram	Pudukkad	Thoravu
+Thrissur	Mukundapuram	Puthenchira	Puthenchira
+Thrissur	Mukundapuram	Trikkur	Kallur
+Thrissur	Mukundapuram	Trikkur	Trikkur (CT)
+Thrissur	Mukundapuram	Vellangallur	Karumathra
+Thrissur	Mukundapuram	Vellangallur	Thekkumkara (CT)
+Thrissur	Mukundapuram	Vellangallur	Vadakkumkara (CT)
+Thrissur	Mukundapuram	Vellangallur	Vallivattom
+Thrissur	Mukundapuram	Vellookkara	Kaduppassery
+Thrissur	Mukundapuram	Vellookkara	Kottanellur
+Thrissur	Mukundapuram	Vellookkara	Vellookkara (CT)
+Thrissur	Talappilly	(इतर)	Enkakkad (CT)
+Thrissur	Talappilly	(इतर)	Kumaranellur (CT)
+Thrissur	Talappilly	(इतर)	Minalur (CT)
+Thrissur	Talappilly	(इतर)	Mundathikode (CT)
+Thrissur	Talappilly	(इतर)	Parlikad
+Thrissur	Talappilly	(इतर)	Peringandoor (CT)
+Thrissur	Talappilly	(इतर)	Puthuruthy
+Thrissur	Talappilly	(इतर)	Wadakkanchery (CT)
+Thrissur	Talappilly	Chelakkara	Chelakkara (CT)
+Thrissur	Talappilly	Chelakkara	Kurumala
+Thrissur	Talappilly	Chelakkara	Pangarappilly
+Thrissur	Talappilly	Chelakkara	Pulakode
+Thrissur	Talappilly	Chelakkara	Thonnurkara
+Thrissur	Talappilly	Chelakkara	Venganellur
+Thrissur	Talappilly	Desamangalam	Arangottukara
+Thrissur	Talappilly	Desamangalam	Desamangalam (CT)
+Thrissur	Talappilly	Desamangalam	Pallur
+Thrissur	Talappilly	Desamangalam	Thalassery
+Thrissur	Talappilly	Erumapetty	Chittanda (CT)
+Thrissur	Talappilly	Erumapetty	Kanjirakode
+Thrissur	Talappilly	Erumapetty	Kottappuram (CT)
+Thrissur	Talappilly	Kondazhy	Chelakode
+Thrissur	Talappilly	Kondazhy	Kondazhy
+Thrissur	Talappilly	Kondazhy	Mayannur
+Thrissur	Talappilly	Mullurkara	Attoor
+Thrissur	Talappilly	Mullurkara	Mullurkara
+Thrissur	Talappilly	Panjal	Killimangalam
+Thrissur	Talappilly	Panjal	Painkulam
+Thrissur	Talappilly	Panjal	Panjal
+Thrissur	Talappilly	Pazhayannur	Elanad
+Thrissur	Talappilly	Pazhayannur	Pazhayannur
+Thrissur	Talappilly	Pazhayannur	Vadakkethara
+Thrissur	Talappilly	Pazhayannur	Vennur
+Thrissur	Talappilly	Thekkumkara	Karumathara
+Thrissur	Talappilly	Thekkumkara	Manalithara
+Thrissur	Talappilly	Thekkumkara	Thekkumkara
+Thrissur	Talappilly	Thekkumkara	Viruppakka
+Thrissur	Talappilly	Thiruvilwamala	Kaniyarkode (CT)
+Thrissur	Talappilly	Thiruvilwamala	Pampady
+Thrissur	Talappilly	Thiruvilwamala	Thiruvilwamala
+Thrissur	Talappilly	Vallathol Nagar	Cheruthuruthi (CT)
+Thrissur	Talappilly	Vallathol Nagar	Nedumpura (CT)
+Thrissur	Talappilly	Varavoor	Pilakkad
+Thrissur	Talappilly	Varavoor	Thichur
+Thrissur	Talappilly	Varavoor	Varavoor
+Thrissur	Thrissur	(इतर)	Aranattukara
+Thrissur	Thrissur	(इतर)	Ayyanthole
+Thrissur	Thrissur	(इतर)	Chembookkavu
+Thrissur	Thrissur	(इतर)	Chiyyaram
+Thrissur	Thrissur	(इतर)	Edakkunni
+Thrissur	Thrissur	(इतर)	Kanimangalam
+Thrissur	Thrissur	(इतर)	Koorkkanchery
+Thrissur	Thrissur	(इतर)	Nettissery
+Thrissur	Thrissur	(इतर)	Ollukkara
+Thrissur	Thrissur	(इतर)	Ollur
+Thrissur	Thrissur	(इतर)	Peringavu
+Thrissur	Thrissur	(इतर)	Poonkunnam
+Thrissur	Thrissur	(इतर)	Pullazhi
+Thrissur	Thrissur	(इतर)	Thrissur
+Thrissur	Thrissur	(इतर)	Vilvattom
+Thrissur	Thrissur	(इतर)	Viyyur
+Thrissur	Thrissur	Adat	Adat (CT)
+Thrissur	Thrissur	Adat	Chittilappilly (CT)
+Thrissur	Thrissur	Adat	Puranattukara (CT)
+Thrissur	Thrissur	Adat	Puzhakkal (CT)
+Thrissur	Thrissur	Anthicad	Anthicad (CT)
+Thrissur	Thrissur	Anthicad	Padiyam (CT)
+Thrissur	Thrissur	Arimpoor	Eravu (CT)
+Thrissur	Thrissur	Arimpoor	Manakkody (CT)
+Thrissur	Thrissur	Arimpoor	Parakkad (CT)
+Thrissur	Thrissur	Arimpoor	Veluthur (CT)
+Thrissur	Thrissur	Avanur	Avanur (CT)
+Thrissur	Thrissur	Avanur	Choolissery (CT)
+Thrissur	Thrissur	Avanur	Thangalur (CT)
+Thrissur	Thrissur	Avanur	Velappaya
+Thrissur	Thrissur	Avinissery	Avinissery (CT)
+Thrissur	Thrissur	Avinissery	Palissery (CT)
+Thrissur	Thrissur	Chazhoor	Alappad
+Thrissur	Thrissur	Chazhoor	Chazhoor
+Thrissur	Thrissur	Chazhoor	Inchamudi
+Thrissur	Thrissur	Chazhoor	Kurumpilavu (CT)
+Thrissur	Thrissur	Chazhoor	Pullu
+Thrissur	Thrissur	Cherpu	Cherpu (CT)
+Thrissur	Thrissur	Cherpu	Chevvoor (CT)
+Thrissur	Thrissur	Cherpu	Oorakam (CT)
+Thrissur	Thrissur	Kaiparamba	Anjur (CT)
+Thrissur	Thrissur	Kaiparamba	Kaiparamba (CT)
+Thrissur	Thrissur	Kaiparamba	Peramangalam (CT)
+Thrissur	Thrissur	Kolazhy	Kolazhy (CT)
+Thrissur	Thrissur	Kolazhy	Kuttoor (CT)
+Thrissur	Thrissur	Kolazhy	Pottore (CT)
+Thrissur	Thrissur	Madakkathara	Kurichikkara (CT)
+Thrissur	Thrissur	Madakkathara	Madakkathara
+Thrissur	Thrissur	Madakkathara	Vellanikkara (CT)
+Thrissur	Thrissur	Manallur	Karamuck (CT)
+Thrissur	Thrissur	Manallur	Manalur (CT)
+Thrissur	Thrissur	Mulakunnathukavu	Killannur (CT)
+Thrissur	Thrissur	Nadathara	Kozhukkully (CT)
+Thrissur	Thrissur	Nadathara	Mulayam
+Thrissur	Thrissur	Nadathara	Nadathara (CT)
+Thrissur	Thrissur	Pananchery	Pananchery
+Thrissur	Thrissur	Pananchery	Peechi
+Thrissur	Thrissur	Paralam	Kodannur (CT)
+Thrissur	Thrissur	Paralam	Pallippuram
+Thrissur	Thrissur	Paralam	Paralam (CT)
+Thrissur	Thrissur	Paralam	Venginissery (CT)
+Thrissur	Thrissur	Puthur	Kainoor (CT)
+Thrissur	Thrissur	Puthur	Mannamangalam
+Thrissur	Thrissur	Puthur	Marathakkara (CT)
+Thrissur	Thrissur	Puthur	Puthur (CT)
+Thrissur	Thrissur	Thanniyam	Kizhakkummuri (CT)
+Thrissur	Thrissur	Thanniyam	Kizhuppillikkara (CT)
+Thrissur	Thrissur	Thanniyam	Thanniyam (CT)
+Thrissur	Thrissur	Thanniyam	Vadakkummuri (CT)
+Thrissur	Thrissur	Tholur	Chalakkal
+Thrissur	Thrissur	Tholur	Edakkalathur (CT)
+Thrissur	Thrissur	Tholur	Tholur (CT)
+Thrissur	Thrissur	Vallachira	Arattupuzha
+Thrissur	Thrissur	Vallachira	Vallachira (CT)
+Wayanad	Mananthavady	(इतर)	Mananthavady
+Wayanad	Mananthavady	(इतर)	Payyampally
+Wayanad	Mananthavady	Edavaka	Edavaka
+Wayanad	Mananthavady	Edavaka	Nalloornad
+Wayanad	Mananthavady	Panamaram	Anchukunnu
+Wayanad	Mananthavady	Panamaram	Cherukottur
+Wayanad	Mananthavady	Panamaram	Panamaram
+Wayanad	Mananthavady	Thavinhal	Periya
+Wayanad	Mananthavady	Thavinhal	Thavinhal
+Wayanad	Mananthavady	Thavinhal	Valat
+Wayanad	Mananthavady	Thirunelly	Thirunelly
+Wayanad	Mananthavady	Thirunelly	Thrissilery
+Wayanad	Mananthavady	Thondernad	Kanjirangad
+Wayanad	Mananthavady	Thondernad	Thondernad
+Wayanad	Mananthavady	Vellamunda	Porunnanore
+Wayanad	Mananthavady	Vellamunda	Vellamunda
+Wayanad	Sulthanbathery	(इतर)	Kidanganad
+Wayanad	Sulthanbathery	(इतर)	Kuppadi
+Wayanad	Sulthanbathery	(इतर)	Sulthanbathery
+Wayanad	Sulthanbathery	Ambalavayal	Ambalavayal
+Wayanad	Sulthanbathery	Ambalavayal	Thomattuchal
+Wayanad	Sulthanbathery	Kaniambetta	Nadavayal
+Wayanad	Sulthanbathery	Meenangadi	Krishnagiri
+Wayanad	Sulthanbathery	Meenangadi	Purakkadi
+Wayanad	Sulthanbathery	Mullankolly	Padichira
+Wayanad	Sulthanbathery	Mullankolly	Pulpalli
+Wayanad	Sulthanbathery	Nenmeni	Cheeral
+Wayanad	Sulthanbathery	Nenmeni	Nenmeni
+Wayanad	Sulthanbathery	Noolpuzha	Kidanganad
+Wayanad	Sulthanbathery	Noolpuzha	Kuppadi
+Wayanad	Sulthanbathery	Noolpuzha	Noolpuzha
+Wayanad	Sulthanbathery	Panamaram	Nadavayal
+Wayanad	Sulthanbathery	Poothadi	Irulam
+Wayanad	Sulthanbathery	Poothadi	Nadavayal
+Wayanad	Sulthanbathery	Poothadi	Poothadi
+Wayanad	Sulthanbathery	Pulpalli	Nadavayal
+Wayanad	Sulthanbathery	Pulpalli	Padichira
+Wayanad	Sulthanbathery	Pulpalli	Pulpalli
+Wayanad	Vythiri	(इतर)	Kalpetta
+Wayanad	Vythiri	Kaniambetta	Kaniambetta
+Wayanad	Vythiri	Kottathara	Kottathara
+Wayanad	Vythiri	Meppadi	Kottappadi (Part)
+Wayanad	Vythiri	Meppadi	Thrikkaipatta (Part)
+Wayanad	Vythiri	Meppadi	Vellarimala
+Wayanad	Vythiri	Muppainadu	Kottappadi (Part)
+Wayanad	Vythiri	Muppainadu	Muppainad
+Wayanad	Vythiri	Muppainadu	Thrikkaipatta (Part)
+Wayanad	Vythiri	Muttil	Muttil North
+Wayanad	Vythiri	Muttil	Muttil South
+Wayanad	Vythiri	Padinharethara	Kuppadithara
+Wayanad	Vythiri	Padinharethara	Padinharethara
+Wayanad	Vythiri	Pozhuthana	Achooranam
+Wayanad	Vythiri	Pozhuthana	Pozhuthana
+Wayanad	Vythiri	Thariyode	Kavumannam
+Wayanad	Vythiri	Thariyode	Thariyode
+Wayanad	Vythiri	Vengappally	Vengappally
+Wayanad	Vythiri	Vythiri	Chundale
+Wayanad	Vythiri	Vythiri	Kunnathidavaka

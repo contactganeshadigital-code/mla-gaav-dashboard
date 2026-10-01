@@ -1,0 +1,101 @@
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Amboli	Amboli
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Amboli	Bindrabin
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Amboli	Khadoli
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Amboli	Tinoda
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Amboli	Velugam
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Dadra	Dadra (CT)
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Dadra	Demani
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Dadra	Tighra
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Dapada	Chinchpada
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Dapada	Dapada
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Dapada	Pati
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Dapada	Vasona
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Dudhani	Dudhani
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Dudhani	Karchond
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Galonda	FALANDI
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Galonda	GALONDA
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Galonda	UMARKUI
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Kauncha	Bildhari
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Kauncha	Ghodbari
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Kauncha	Gunsa
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Kauncha	Jamalpada
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Kauncha	Kauncha
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Kauncha	Kherarbari
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Kauncha	Kothar
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Kauncha	Medha
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Kauncha	Vaghchauda
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Khanvel	Chauda
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Khanvel	Khanvel
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Khanvel	Khutali
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Khanvel	Talavali
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Khanvel	Umbervarni
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Kharadpada	Athal
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Kharadpada	Kanadi
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Kharadpada	Kharadpada
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Kharadpada	Luhari
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Kherdi	Dolara
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Kherdi	Kala
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Kherdi	Karachgam
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Kherdi	Kherdi
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Kherdi	Parzai
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Kilvani	Kilavani
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Kilvani	Sili
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Mandoni	Chinsda
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Mandoni	Mandoni
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Mandoni	Vansda
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Masat	Kudacha
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Masat	Masat (CT)
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Naroli	Dhapsa
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Naroli	Naroli (CT)
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Rakholi	Karad
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Rakholi	Rakholi (CT)
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Randha	Bonta
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Randha	Morkhal
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Randha	Mota Randha
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Randha	Nana Randha
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Rudana	Goratpada
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Rudana	Rudana
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Rudana	Shelti
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Samarvani	Athola
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Samarvani	Samarvarni (CT)
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Samarvani	Vaghchhipa
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Sayli	Saily
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Sindoni	Bedpa
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Sindoni	Bensda
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Sindoni	Khedpa
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Sindoni	Sindoni
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Surangi	Apti
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Surangi	Chikhali
+Dadra And Nagar Haveli	Dadra & Nagar Haveli	Surangi	Surangi
+Daman	Daman	Antiawad	Antiawad
+Daman	Daman	Bhimpore	Bhimpore (CT)
+Daman	Daman	Bhimpore	Janivankad
+Daman	Daman	Dabhel	Dabhel (CT)
+Daman	Daman	Damanwada	Bhamati
+Daman	Daman	Damanwada	Damanwada (Dama O-De-Cima)
+Daman	Daman	Damanwada	Dholar
+Daman	Daman	Damanwada	Palhit
+Daman	Daman	Dunetha	Bhenslore
+Daman	Daman	Dunetha	Dunetha (CT)
+Daman	Daman	Dunetha	KATHIRIA
+Daman	Daman	Ghelwad	GHELWAD
+Daman	Daman	Kachigam	Kachigam (CT)
+Daman	Daman	Kadaiya	Devka
+Daman	Daman	Kadaiya	Kadaiya (CT)
+Daman	Daman	Magarwada	Magarwada
+Daman	Daman	Magarwada	Thana Pardi
+Daman	Daman	Magarwada	Zari
+Daman	Daman	Marwad	Devka
+Daman	Daman	Marwad	Marwad (CT)
+Daman	Daman	Pariyari	Deva Pardi
+Daman	Daman	Pariyari	Jampore
+Daman	Daman	Pariyari	Naila Pardi
+Daman	Daman	Pariyari	Pariari
+Daman	Daman	Patlara	Patlara
+Daman	Daman	Somnath	Ringanwada
+Daman	Daman	Somnath	Somnath
+Daman	Daman	Varkund	Varkund
+Diu	Diu	Bucharwada	Bhucharvada
+Diu	Diu	Saudwadi	Saudwadi
+Diu	Diu	Vanakbara	Vanakbara
+Diu	Diu	Zolawadi	Zolawadi

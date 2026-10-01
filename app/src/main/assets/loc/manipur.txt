@@ -1,0 +1,3845 @@
+Bishnupur	Bishnupur	(इतर)	BISHNUPUR KHA
+Bishnupur	Bishnupur	(इतर)	NINGTHOUKHONG AWANG
+Bishnupur	Bishnupur	Khoijuman-kwasiphai	Khoijuman Khullen including Kabui
+Bishnupur	Bishnupur	Khoijuman-kwasiphai	Khoijuman Khunou (Kwasiphai)
+Bishnupur	Bishnupur	Nachou	Nachou
+Bishnupur	Bishnupur	Nachou	Potsangbam
+Bishnupur	Bishnupur	Nachou	Upokpi
+Bishnupur	Bishnupur	Phubala	Naranseina
+Bishnupur	Bishnupur	Phubala	Phubala
+Bishnupur	Bishnupur	Phubala	Sunusiphai
+Bishnupur	Bishnupur	Thinungei	Ningthoukhong Kha-Khunou
+Bishnupur	Bishnupur	Thinungei	Thinungei
+Bishnupur	Bishnupur	Toubul	Toubul including Toubul Kabui
+Bishnupur	Bishnupur	Wangoo-terakhong	Wangoo Naodakhong
+Bishnupur	Moirang	(इतर)	KUMBI
+Bishnupur	Moirang	(इतर)	KWAKTA
+Bishnupur	Moirang	(इतर)	MOIRANG PART-I
+Bishnupur	Moirang	(इतर)	MOIRANG PART-II
+Bishnupur	Moirang	(इतर)	NGANGKHALAWAI(P)
+Bishnupur	Moirang	Borayangbi	Borayangbi
+Bishnupur	Moirang	Borayangbi	Chairel Leingangtabi and Khullakpat
+Bishnupur	Moirang	Borayangbi	Kasom Tampak
+Bishnupur	Moirang	Borayangbi	Khoijumantabi
+Bishnupur	Moirang	Borayangbi	Laingoubi and Sandangkhong
+Bishnupur	Moirang	Borayangbi	Napat and Tangjeng
+Bishnupur	Moirang	Borayangbi	Pombikhok
+Bishnupur	Moirang	Kha Thinungei	KEIRENPHABI
+Bishnupur	Moirang	Kha Thinungei	Kangshoibi Mapal (Kha Thingungei)
+Bishnupur	Moirang	Kha Thinungei	Khordak
+Bishnupur	Moirang	Kha Thinungei	Nongmaikhong
+Bishnupur	Moirang	Kha Thinungei	Thanga Lawai
+Bishnupur	Moirang	Kwakta	Kwakta Charangpat
+Bishnupur	Moirang	Kwakta	Kwakta Khuman
+Bishnupur	Moirang	Kwakta	Kwakta Maronglou
+Bishnupur	Moirang	Kwakta	Kwakta Santhong
+Bishnupur	Moirang	Kwakta	Kwakta Sepla
+Bishnupur	Moirang	Moirang Khunou	Chandpur
+Bishnupur	Moirang	Moirang Khunou	Chingmei
+Bishnupur	Moirang	Moirang Khunou	Keibul
+Bishnupur	Moirang	Moirang Khunou	Moirang Khunou
+Bishnupur	Moirang	Ngangkha Lawai	Khoirentak
+Bishnupur	Moirang	Ngangkha Lawai	Ngangkha Lawai
+Bishnupur	Moirang	Ngangkha Lawai	Thamnapokpi
+Bishnupur	Moirang	Saiton	Heiyaikon
+Bishnupur	Moirang	Saiton	Leitangpokpi
+Bishnupur	Moirang	Saiton	Nganukon
+Bishnupur	Moirang	Saiton	Saiton
+Bishnupur	Moirang	Saiton	Salam Konjil Pt-II and Shantipur
+Bishnupur	Moirang	Saiton	Salam Konjil pt-I
+Bishnupur	Moirang	Thanga Part I	THANGA HEISNAM
+Bishnupur	Moirang	Thanga Part I	THANGA SALAM
+Bishnupur	Moirang	Thanga Part I	Thanga Chingkha
+Bishnupur	Moirang	Thanga Part I	Thanga Karang and Champu Khangpok
+Bishnupur	Moirang	Thanga Part Ii	Thanga Ithing and Sendra
+Bishnupur	Moirang	Thanga Part Ii	Thanga Khunjem
+Bishnupur	Moirang	Thanga Part Ii	Thanga Moirangthem
+Bishnupur	Moirang	Thanga Part Ii	Thanga Ngaram
+Bishnupur	Moirang	Thanga Part Ii	Thanga Oinam
+Bishnupur	Moirang	Thanga Part Ii	Thanga Samukon
+Bishnupur	Moirang	Thanga Part Ii	Thanga Tongbram and Khoirom
+Bishnupur	Moirang	Thinungei	Toupokpi
+Bishnupur	Moirang	Torbung	Torbung
+Bishnupur	Moirang	Torbung	Torbung Bangla Waikhurok
+Bishnupur	Moirang	Torbung	Torbung Phougakchao Ikhai Part I
+Bishnupur	Moirang	Torbung	Torbung Phougakchao Ikhai Part II
+Bishnupur	Moirang	Tronglaobi Terakhongsangbi	Khudekpi
+Bishnupur	Moirang	Tronglaobi Terakhongsangbi	Kwakta Leimaram (SC)
+Bishnupur	Moirang	Tronglaobi Terakhongsangbi	Terakhongsangbi
+Bishnupur	Moirang	Tronglaobi Terakhongsangbi	Tronglaobi
+Bishnupur	Moirang	Wangoo	Ithai
+Bishnupur	Moirang	Wangoo	Ithai Khunou
+Bishnupur	Moirang	Wangoo	Laikhong
+Bishnupur	Moirang	Wangoo	Wangoo Awang (Wangoo Ahallup)
+Bishnupur	Moirang	Wangoo	Wangoo Makha (Wangoo Ahallup)
+Bishnupur	Moirang	Wangoo	Wangoo Mayai (Wangoo Ahallup)
+Bishnupur	Moirang	Wangoo	Wapokpi
+Bishnupur	Moirang	Wangoo-terakhong	Sagang Meitei
+Bishnupur	Moirang	Wangoo-terakhong	Sagolpat
+Bishnupur	Moirang	Wangoo-terakhong	Wangoo Keirap (Haotak Tampha khunou)
+Bishnupur	Moirang	Wangoo-terakhong	Wangoo Sabal
+Bishnupur	Moirang	Wangoo-terakhong	Wangoo Terakhong
+Bishnupur	Nambol	(इतर)	BALARAMKUL
+Bishnupur	Nambol	(इतर)	KABOWAKCHING
+Bishnupur	Nambol	(इतर)	KHATHONG
+Bishnupur	Nambol	(इतर)	KONGKHAM
+Bishnupur	Nambol	(इतर)	LAITONJAM
+Bishnupur	Nambol	(इतर)	MAIBAM
+Bishnupur	Nambol	(इतर)	NAMBOL AWANG
+Bishnupur	Nambol	(इतर)	NAMBOL BAZAR
+Bishnupur	Nambol	(इतर)	NAMBOL MAKHA
+Bishnupur	Nambol	(इतर)	NAOREM
+Bishnupur	Nambol	(इतर)	OINAM
+Bishnupur	Nambol	(इतर)	PHOIJING
+Bishnupur	Nambol	Irengbam	Irengbam
+Bishnupur	Nambol	Irengbam	Leimaram
+Bishnupur	Nambol	Irengbam	Namoikhul
+Bishnupur	Nambol	Irengbam	Sadu Koireng
+Bishnupur	Nambol	Ishok	Ishok-Terapokpi
+Bishnupur	Nambol	Ishok	Waheng Khuman
+Bishnupur	Nambol	Keinou	Keinou including Ayokpa Kabui
+Bishnupur	Nambol	Keinou	Ngaikhong Khunou
+Bishnupur	Nambol	Keinou	Yumnam Khunou
+Bishnupur	Nambol	Leimapokpam	Leimapokpam khunpham and Keiren Kabui
+Bishnupur	Nambol	Ngaikhong Khullen	Ngaikhong Khullen and Siphai
+Bishnupur	Nambol	Ngaikhong Khullen	Tengkhal Khunou
+Bishnupur	Nambol	Sanjenbam-pukhrambam	Kakyai Langpok
+Bishnupur	Nambol	Sanjenbam-pukhrambam	Lourembam
+Bishnupur	Nambol	Sanjenbam-pukhrambam	Pukhrambam Sanjembam including Thounaojam
+Bishnupur	Nambol	Utlou	Thiyam
+Bishnupur	Nambol	Utlou	Utlou
+Chandel	Chakpikarong	(इतर)	ARIIDAM
+Chandel	Chakpikarong	(इतर)	Aigejang
+Chandel	Chakpikarong	(इतर)	Aisi
+Chandel	Chakpikarong	(इतर)	Akaphe
+Chandel	Chakpikarong	(इतर)	Anal Khunou
+Chandel	Chakpikarong	(इतर)	B JANGNOMPHAI
+Chandel	Chakpikarong	(इतर)	B KANHLU
+Chandel	Chakpikarong	(इतर)	B SALEMPHAI
+Chandel	Chakpikarong	(इतर)	B THUMDI
+Chandel	Chakpikarong	(इतर)	B. GAMPHAJOL
+Chandel	Chakpikarong	(इतर)	BOIPU VENG
+Chandel	Chakpikarong	(इतर)	BONGPIJANG
+Chandel	Chakpikarong	(इतर)	Beaula
+Chandel	Chakpikarong	(इतर)	Bileijang
+Chandel	Chakpikarong	(इतर)	Bolchang Tampak
+Chandel	Chakpikarong	(इतर)	Bollok
+Chandel	Chakpikarong	(इतर)	C JANGMOUL
+Chandel	Chakpikarong	(इतर)	CAMBANG
+Chandel	Chakpikarong	(इतर)	CH. HRINGKHU (B)
+Chandel	Chakpikarong	(इतर)	CHAKPI KHUNOU
+Chandel	Chakpikarong	(इतर)	CHAKPI KHUSHI
+Chandel	Chakpikarong	(इतर)	CHAKPIKARONG BAZAR
+Chandel	Chakpikarong	(इतर)	CHARONGCHING
+Chandel	Chakpikarong	(इतर)	Ch.K.Hringkhu
+Chandel	Chakpikarong	(इतर)	Chahkap
+Chandel	Chakpikarong	(इतर)	Chakpikarong
+Chandel	Chakpikarong	(इतर)	Chakpimolbem
+Chandel	Chakpikarong	(इतर)	Charoiching
+Chandel	Chakpikarong	(इतर)	D CHOTHUL
+Chandel	Chakpikarong	(इतर)	D. Bethany
+Chandel	Chakpikarong	(इतर)	DAHRING
+Chandel	Chakpikarong	(इतर)	DOUGLAS
+Chandel	Chakpikarong	(इतर)	DUTIJOL
+Chandel	Chakpikarong	(इतर)	Dengkhu
+Chandel	Chakpikarong	(इतर)	GAMLEN
+Chandel	Chakpikarong	(इतर)	GAMNGAI
+Chandel	Chakpikarong	(इतर)	GELBUNGJANG
+Chandel	Chakpikarong	(इतर)	GELJANG
+Chandel	Chakpikarong	(इतर)	Gangpijang
+Chandel	Chakpikarong	(इतर)	Gelngai
+Chandel	Chakpikarong	(इतर)	Gunjil
+Chandel	Chakpikarong	(इतर)	H GAMNOM
+Chandel	Chakpikarong	(इतर)	HAIKHA (H)
+Chandel	Chakpikarong	(इतर)	HAIPHAI
+Chandel	Chakpikarong	(इतर)	HAPPY VALEY
+Chandel	Chakpikarong	(इतर)	HEBRON
+Chandel	Chakpikarong	(इतर)	HENGMOL
+Chandel	Chakpikarong	(इतर)	HIENGTAM
+Chandel	Chakpikarong	(इतर)	Haika
+Chandel	Chakpikarong	(इतर)	Haikha (L)
+Chandel	Chakpikarong	(इतर)	Hl. Bemung
+Chandel	Chakpikarong	(इतर)	Hnarelal
+Chandel	Chakpikarong	(इतर)	Hringkhu A.
+Chandel	Chakpikarong	(इतर)	Hringphe
+Chandel	Chakpikarong	(इतर)	JANGNOMPHAI
+Chandel	Chakpikarong	(इतर)	JONDINGPHAI
+Chandel	Chakpikarong	(इतर)	Jangdung
+Chandel	Chakpikarong	(इतर)	K CHAMLUN
+Chandel	Chakpikarong	(इतर)	K LEITUI
+Chandel	Chakpikarong	(इतर)	K.Bethel
+Chandel	Chakpikarong	(इतर)	K.Kangbung
+Chandel	Chakpikarong	(इतर)	K.Molnom
+Chandel	Chakpikarong	(इतर)	K.Phailen
+Chandel	Chakpikarong	(इतर)	KAHRINGLON
+Chandel	Chakpikarong	(इतर)	KANAN PHAI
+Chandel	Chakpikarong	(इतर)	KANKHU
+Chandel	Chakpikarong	(इतर)	KHIMDAM (M)
+Chandel	Chakpikarong	(इतर)	KHOLIM
+Chandel	Chakpikarong	(इतर)	KHUHRIN
+Chandel	Chakpikarong	(इतर)	KHULLEN KHUHRIN
+Chandel	Chakpikarong	(इतर)	KHUMBUNG
+Chandel	Chakpikarong	(इतर)	KHUNGJOL
+Chandel	Chakpikarong	(इतर)	KHUNGPA
+Chandel	Chakpikarong	(इतर)	KOLPIL TAMPAK
+Chandel	Chakpikarong	(इतर)	KOTLEN
+Chandel	Chakpikarong	(इतर)	Kanakangbung
+Chandel	Chakpikarong	(इतर)	Kanan
+Chandel	Chakpikarong	(इतर)	Kanaralveng
+Chandel	Chakpikarong	(इतर)	Kholmunlen
+Chandel	Chakpikarong	(इतर)	Khongnang Pheisabi
+Chandel	Chakpikarong	(इतर)	Khongtal
+Chandel	Chakpikarong	(इतर)	Khopijang
+Chandel	Chakpikarong	(इतर)	Khubung Khullen
+Chandel	Chakpikarong	(इतर)	Khubung Khunou
+Chandel	Chakpikarong	(इतर)	Khullenkhallet
+Chandel	Chakpikarong	(इतर)	Khumbungphe
+Chandel	Chakpikarong	(इतर)	Khumunnom
+Chandel	Chakpikarong	(इतर)	Khusi Tampak
+Chandel	Chakpikarong	(इतर)	Kotsophai
+Chandel	Chakpikarong	(इतर)	L CHAHMOL
+Chandel	Chakpikarong	(इतर)	L CHAHNOUJANG
+Chandel	Chakpikarong	(इतर)	L KANAN
+Chandel	Chakpikarong	(इतर)	L VENGNOM
+Chandel	Chakpikarong	(इतर)	L.Chengvol
+Chandel	Chakpikarong	(इतर)	L.Molhoi
+Chandel	Chakpikarong	(इतर)	L.Thingkangphai
+Chandel	Chakpikarong	(इतर)	LAVERTA
+Chandel	Chakpikarong	(इतर)	LEISENBUNG
+Chandel	Chakpikarong	(इतर)	LIMKHUDAM
+Chandel	Chakpikarong	(इतर)	Langching
+Chandel	Chakpikarong	(इतर)	Lhalpi
+Chandel	Chakpikarong	(इतर)	Lhongchin
+Chandel	Chakpikarong	(इतर)	Limkhurim
+Chandel	Chakpikarong	(इतर)	Longja
+Chandel	Chakpikarong	(इतर)	Lonkhu
+Chandel	Chakpikarong	(इतर)	Lonpi Khonou
+Chandel	Chakpikarong	(इतर)	M GAMNOM
+Chandel	Chakpikarong	(इतर)	M TUANGJANG
+Chandel	Chakpikarong	(इतर)	M. Molnoi
+Chandel	Chakpikarong	(इतर)	M. Munpi
+Chandel	Chakpikarong	(इतर)	M. Tolpijang
+Chandel	Chakpikarong	(इतर)	M. Zozamveng
+Chandel	Chakpikarong	(इतर)	MATEDAM
+Chandel	Chakpikarong	(इतर)	MESU
+Chandel	Chakpikarong	(इतर)	MOBING
+Chandel	Chakpikarong	(इतर)	MOLTINCHAN
+Chandel	Chakpikarong	(इतर)	MUNNOMJANG
+Chandel	Chakpikarong	(इतर)	Mollen
+Chandel	Chakpikarong	(इतर)	Molphei
+Chandel	Chakpikarong	(इतर)	Mongjang
+Chandel	Chakpikarong	(इतर)	N.Angbuwng
+Chandel	Chakpikarong	(इतर)	NAZARETH
+Chandel	Chakpikarong	(इतर)	NEW KANAN
+Chandel	Chakpikarong	(इतर)	NEW KEIPHAM
+Chandel	Chakpikarong	(इतर)	NEW LAMKA
+Chandel	Chakpikarong	(इतर)	NEW LEINAKAUT
+Chandel	Chakpikarong	(इतर)	NEW MOLBEM
+Chandel	Chakpikarong	(इतर)	NEW MOLNOM
+Chandel	Chakpikarong	(इतर)	NEW TUICHIN
+Chandel	Chakpikarong	(इतर)	NOVOKOM
+Chandel	Chakpikarong	(इतर)	Nungpan
+Chandel	Chakpikarong	(इतर)	P SALEM
+Chandel	Chakpikarong	(इतर)	P.Khudam
+Chandel	Chakpikarong	(इतर)	P.Thumpajol
+Chandel	Chakpikarong	(इतर)	PATJANG
+Chandel	Chakpikarong	(इतर)	PAVANGDAM
+Chandel	Chakpikarong	(इतर)	Paldai
+Chandel	Chakpikarong	(इतर)	Pamtujang
+Chandel	Chakpikarong	(इतर)	Peace Island
+Chandel	Chakpikarong	(इतर)	Phaijang
+Chandel	Chakpikarong	(इतर)	Phainom
+Chandel	Chakpikarong	(इतर)	Phiranmachet
+Chandel	Chakpikarong	(इतर)	Phoikon
+Chandel	Chakpikarong	(इतर)	RIINGCHUM
+Chandel	Chakpikarong	(इतर)	RUWNGKHAMPI
+Chandel	Chakpikarong	(इतर)	RUWNGTONG
+Chandel	Chakpikarong	(इतर)	Ravalon
+Chandel	Chakpikarong	(इतर)	Royal Chakpi Bazar
+Chandel	Chakpikarong	(इतर)	Rungchang
+Chandel	Chakpikarong	(इतर)	S MELNOMPHAI
+Chandel	Chakpikarong	(इतर)	S MUNNOMJANG
+Chandel	Chakpikarong	(इतर)	S THINGCHAM
+Chandel	Chakpikarong	(इतर)	S.Molnom
+Chandel	Chakpikarong	(इतर)	S.Sijang
+Chandel	Chakpikarong	(इतर)	S.Thingkangphai
+Chandel	Chakpikarong	(इतर)	SAHEIPHAI
+Chandel	Chakpikarong	(इतर)	SARA
+Chandel	Chakpikarong	(इतर)	SELPA
+Chandel	Chakpikarong	(इतर)	SELPAKHU
+Chandel	Chakpikarong	(इतर)	SILLEN
+Chandel	Chakpikarong	(इतर)	SIMLA
+Chandel	Chakpikarong	(इतर)	Sahumphei
+Chandel	Chakpikarong	(इतर)	Sajik Tampak
+Chandel	Chakpikarong	(इतर)	Sangni
+Chandel	Chakpikarong	(इतर)	Sarangtampak
+Chandel	Chakpikarong	(इतर)	Saronphai
+Chandel	Chakpikarong	(इतर)	Selkui
+Chandel	Chakpikarong	(इतर)	Shalluk
+Chandel	Chakpikarong	(इतर)	Singtom
+Chandel	Chakpikarong	(इतर)	Sokom
+Chandel	Chakpikarong	(इतर)	Songkong
+Chandel	Chakpikarong	(इतर)	Sothum
+Chandel	Chakpikarong	(इतर)	Sugnu Lamhang
+Chandel	Chakpikarong	(इतर)	Sugnu Lokhijang
+Chandel	Chakpikarong	(इतर)	Sugnu Tribal
+Chandel	Chakpikarong	(इतर)	Sugnu Zouveng
+Chandel	Chakpikarong	(इतर)	T LAYANGKHUPI
+Chandel	Chakpikarong	(इतर)	T MUNNOMJANG
+Chandel	Chakpikarong	(इतर)	T PHAIJOL
+Chandel	Chakpikarong	(इतर)	T ZANGNUAMPHAI
+Chandel	Chakpikarong	(इतर)	T ZION
+Chandel	Chakpikarong	(इतर)	T ZOUMUN
+Chandel	Chakpikarong	(इतर)	T ZOUMUNNOM
+Chandel	Chakpikarong	(इतर)	T.Bethel
+Chandel	Chakpikarong	(इतर)	T.Phaicham
+Chandel	Chakpikarong	(इतर)	T.Sijang
+Chandel	Chakpikarong	(इतर)	THALTEH
+Chandel	Chakpikarong	(इतर)	THELNABUNG
+Chandel	Chakpikarong	(इतर)	THITOLON
+Chandel	Chakpikarong	(इतर)	THUMKO
+Chandel	Chakpikarong	(इतर)	THUMPIJANG
+Chandel	Chakpikarong	(इतर)	TONALPA
+Chandel	Chakpikarong	(इतर)	TOTUN
+Chandel	Chakpikarong	(इतर)	TWILELON
+Chandel	Chakpikarong	(इतर)	Tampi
+Chandel	Chakpikarong	(इतर)	Teijang
+Chandel	Chakpikarong	(इतर)	Thingbongphai
+Chandel	Chakpikarong	(इतर)	Thorcham
+Chandel	Chakpikarong	(इतर)	Thungcheng
+Chandel	Chakpikarong	(इतर)	Toupokpi
+Chandel	Chakpikarong	(इतर)	Tuinou
+Chandel	Chakpikarong	(इतर)	Tuisamphai
+Chandel	Chakpikarong	(इतर)	U.Thingkangphai
+Chandel	Chakpikarong	(इतर)	Uchatampak
+Chandel	Chakpikarong	(इतर)	Utangpokpi
+Chandel	Chakpikarong	(इतर)	V.Haipijang
+Chandel	Chakpikarong	(इतर)	VANGKHO
+Chandel	Chakpikarong	(इतर)	VANGKHOMOL
+Chandel	Chakpikarong	(इतर)	WALKHUHRIN
+Chandel	Chakpikarong	(इतर)	Y KHUSHEPHE
+Chandel	Chakpikarong	(इतर)	Y. Kutha
+Chandel	Chakpikarong	(इतर)	Y.Phaisi
+Chandel	Chakpikarong	(इतर)	Y.Thingkangphai
+Chandel	Chandel	(इतर)	ABANA
+Chandel	Chandel	(इतर)	Abungkhu / Abungnikhu
+Chandel	Chandel	(इतर)	Aihang
+Chandel	Chandel	(इतर)	Anal Khullen
+Chandel	Chandel	(इतर)	Angkhel Chayang
+Chandel	Chandel	(इतर)	BETHEL HAPPYLANE
+Chandel	Chandel	(इतर)	BETUK
+Chandel	Chandel	(इतर)	BONGJANG
+Chandel	Chandel	(इतर)	Beru Anthi
+Chandel	Chandel	(इतर)	Beru Khudam
+Chandel	Chandel	(इतर)	Beru Molla Bung
+Chandel	Chandel	(इतर)	Beru Wangkhera
+Chandel	Chandel	(इतर)	Bolnidam
+Chandel	Chandel	(इतर)	CHANDOLPOKPI
+Chandel	Chandel	(इतर)	CHARANGCHING KHUNKHA
+Chandel	Chandel	(इतर)	CHENGKHU
+Chandel	Chandel	(इतर)	CHUMTHAR
+Chandel	Chandel	(इतर)	Challong
+Chandel	Chandel	(इतर)	Chandel Christian
+Chandel	Chandel	(इतर)	Chandel Khubol
+Chandel	Chandel	(इतर)	Chandel Khullen
+Chandel	Chandel	(इतर)	Chandrapoto
+Chandel	Chandel	(इतर)	Charang Ching Khunou
+Chandel	Chandel	(इतर)	Chingkhir
+Chandel	Chandel	(इतर)	Chothe Khunou
+Chandel	Chandel	(इतर)	Chothe Lungleh
+Chandel	Chandel	(इतर)	Chrang Ching Khullen
+Chandel	Chandel	(इतर)	DAAMPI
+Chandel	Chandel	(इतर)	Darchin
+Chandel	Chandel	(इतर)	Darku (Vomku)
+Chandel	Chandel	(इतर)	Duthang
+Chandel	Chandel	(इतर)	HEIGRUTAMPAK
+Chandel	Chandel	(इतर)	HNAHRINGKHU
+Chandel	Chandel	(इतर)	Hanatham
+Chandel	Chandel	(इतर)	Heibunglok
+Chandel	Chandel	(इतर)	Hongbiban
+Chandel	Chandel	(इतर)	JAPHOU BAZAR TOWN
+Chandel	Chandel	(इतर)	Julbalching
+Chandel	Chandel	(इतर)	KANANKHU
+Chandel	Chandel	(इतर)	KARYAMKHW
+Chandel	Chandel	(इतर)	KHANGDUNGYON
+Chandel	Chandel	(इतर)	KHUKTHAR
+Chandel	Chandel	(इतर)	KHULAIRAM
+Chandel	Chandel	(इतर)	KHUMHRING
+Chandel	Chandel	(इतर)	KHURINGKHU
+Chandel	Chandel	(इतर)	Kajiphung
+Chandel	Chandel	(इतर)	Kakching Mantak
+Chandel	Chandel	(इतर)	Kalika Lok
+Chandel	Chandel	(इतर)	Kapaam(Komlathabi)
+Chandel	Chandel	(इतर)	Keithelmanbi
+Chandel	Chandel	(इतर)	Khambathel
+Chandel	Chandel	(इतर)	Khongjon
+Chandel	Chandel	(इतर)	Khudei Khunou
+Chandel	Chandel	(इतर)	Khuninglung
+Chandel	Chandel	(इतर)	Khuringmul
+Chandel	Chandel	(इतर)	Komsen
+Chandel	Chandel	(इतर)	Kongpe (Kongpa)
+Chandel	Chandel	(इतर)	Kurkam
+Chandel	Chandel	(इतर)	Kurnoching
+Chandel	Chandel	(इतर)	L.COLONY (DERINGKHU)
+Chandel	Chandel	(इतर)	L.Thankam
+Chandel	Chandel	(इतर)	LAARPHUW
+Chandel	Chandel	(इतर)	LAMKANG KHUNJAI
+Chandel	Chandel	(इतर)	LARONG KHUNOU
+Chandel	Chandel	(इतर)	LIRUNGTABI
+Chandel	Chandel	(इतर)	LUNGHU
+Chandel	Chandel	(इतर)	LUNGTIM
+Chandel	Chandel	(इतर)	Lambung
+Chandel	Chandel	(इतर)	Lamkang Khunkha
+Chandel	Chandel	(इतर)	Lamkang Khunou
+Chandel	Chandel	(इतर)	Lamkang Khunthak
+Chandel	Chandel	(इतर)	Lamphou Chru
+Chandel	Chandel	(इतर)	Lamphou Pasana
+Chandel	Chandel	(इतर)	Larong Khullen
+Chandel	Chandel	(इतर)	Leingang Ching
+Chandel	Chandel	(इतर)	Leipung Tampak
+Chandel	Chandel	(इतर)	Leishokching
+Chandel	Chandel	(इतर)	Libung
+Chandel	Chandel	(इतर)	Litan
+Chandel	Chandel	(इतर)	Liwa Changning
+Chandel	Chandel	(इतर)	Liwa Khullen
+Chandel	Chandel	(इतर)	Liwa Maring
+Chandel	Chandel	(इतर)	Liwa Sarei
+Chandel	Chandel	(इतर)	MAHAMANI
+Chandel	Chandel	(इतर)	MANGKANG
+Chandel	Chandel	(इतर)	MANTAK
+Chandel	Chandel	(इतर)	MITONG RASANKHUR
+Chandel	Chandel	(इतर)	Maha Centre Bazar (East)
+Chandel	Chandel	(इतर)	Maha Centre Bazar(West)
+Chandel	Chandel	(इतर)	Mahau Tera
+Chandel	Chandel	(इतर)	Mantri Pantha
+Chandel	Chandel	(इतर)	Maribung
+Chandel	Chandel	(इतर)	Mittong
+Chandel	Chandel	(इतर)	Modi
+Chandel	Chandel	(इतर)	Monsang Pantha
+Chandel	Chandel	(इतर)	NEW KHONGJON
+Chandel	Chandel	(इतर)	NEW L. KHUNTHAK
+Chandel	Chandel	(इतर)	New Chayang
+Chandel	Chandel	(इतर)	New Wangparal
+Chandel	Chandel	(इतर)	Ngamkhu
+Chandel	Chandel	(इतर)	Nungkang Ching
+Chandel	Chandel	(इतर)	Nungphura
+Chandel	Chandel	(इतर)	OLD L. KHUNTHAK
+Chandel	Chandel	(इतर)	Oklu
+Chandel	Chandel	(इतर)	Old Wangparal
+Chandel	Chandel	(इतर)	P. Ralringkhu
+Chandel	Chandel	(इतर)	P. THAMLAPOKPI
+Chandel	Chandel	(इतर)	PHUNCHUNG
+Chandel	Chandel	(इतर)	Panchai
+Chandel	Chandel	(इतर)	Papaam
+Chandel	Chandel	(इतर)	Paraolen
+Chandel	Chandel	(इतर)	Pena Ching
+Chandel	Chandel	(इतर)	Phairan Khullen
+Chandel	Chandel	(इतर)	Phiran Leihao
+Chandel	Chandel	(इतर)	Phunansambum
+Chandel	Chandel	(इतर)	Purum Chumbang
+Chandel	Chandel	(इतर)	Purum Khullen
+Chandel	Chandel	(इतर)	Purum Lainingkhul
+Chandel	Chandel	(इतर)	Purum Pantha
+Chandel	Chandel	(इतर)	Purum Tampak
+Chandel	Chandel	(इतर)	REVERLANE
+Chandel	Chandel	(इतर)	RINGKHU
+Chandel	Chandel	(इतर)	RINGKHUMKHU
+Chandel	Chandel	(इतर)	SALEMTHAR
+Chandel	Chandel	(इतर)	SEKTAIKARONG
+Chandel	Chandel	(इतर)	SELZOL
+Chandel	Chandel	(इतर)	SHANGREIPHUNG
+Chandel	Chandel	(इतर)	SINADAM
+Chandel	Chandel	(इतर)	SOLAND
+Chandel	Chandel	(इतर)	T.Minou
+Chandel	Chandel	(इतर)	THANGKIN
+Chandel	Chandel	(इतर)	THOTCHANRAM
+Chandel	Chandel	(इतर)	THUMTAM
+Chandel	Chandel	(इतर)	Tarao Laimanai
+Chandel	Chandel	(इतर)	Thamlakhuren
+Chandel	Chandel	(इतर)	Thamlapokpi (L)
+Chandel	Chandel	(इतर)	Thamnapokpi
+Chandel	Chandel	(इतर)	Tokpa Ching
+Chandel	Chandel	(इतर)	Tonsen Khullen
+Chandel	Chandel	(इतर)	Tonsen Tampak
+Chandel	Chandel	(इतर)	Unapal
+Chandel	Chandel	(इतर)	Unopat
+Chandel	Chandel	(इतर)	Zaphou
+Chandel	Chandel	(इतर)	Ziontlang
+Chandel	Khengjoy	(इतर)	Aibol Jamkhomang
+Chandel	Khengjoy	(इतर)	Aibol Joupi
+Chandel	Khengjoy	(इतर)	Aivomjang
+Chandel	Khengjoy	(इतर)	Bonglon
+Chandel	Khengjoy	(इतर)	Bongmol Tampak
+Chandel	Khengjoy	(इतर)	Bonsi
+Chandel	Khengjoy	(इतर)	C.Gammon
+Chandel	Khengjoy	(इतर)	Ch.Bileijang
+Chandel	Khengjoy	(इतर)	Chahnoujang
+Chandel	Khengjoy	(इतर)	Chaljang
+Chandel	Khengjoy	(इतर)	Changpol
+Chandel	Khengjoy	(इतर)	Cheljang Joupi
+Chandel	Khengjoy	(इतर)	Chenkhopi
+Chandel	Khengjoy	(इतर)	G.Nisohoi
+Chandel	Khengjoy	(इतर)	GOBOK
+Chandel	Khengjoy	(इतर)	Gamphajol
+Chandel	Khengjoy	(इतर)	Gohok
+Chandel	Khengjoy	(इतर)	Gopijang
+Chandel	Khengjoy	(इतर)	H.Bungsanglep
+Chandel	Khengjoy	(इतर)	H.Hengcham
+Chandel	Khengjoy	(इतर)	Haimol
+Chandel	Khengjoy	(इतर)	Hengkhot
+Chandel	Khengjoy	(इतर)	Hengshi
+Chandel	Khengjoy	(इतर)	Hollenjang
+Chandel	Khengjoy	(इतर)	J.Lhangnom
+Chandel	Khengjoy	(इतर)	JM Moljol
+Chandel	Khengjoy	(इतर)	Joldam
+Chandel	Khengjoy	(इतर)	Joumol
+Chandel	Khengjoy	(इतर)	Joupi
+Chandel	Khengjoy	(इतर)	K.Savumpa
+Chandel	Khengjoy	(इतर)	K.Selhai
+Chandel	Khengjoy	(इतर)	K.Songgol
+Chandel	Khengjoy	(इतर)	KULJANG
+Chandel	Khengjoy	(इतर)	Kh.Thingenphai
+Chandel	Khengjoy	(इतर)	Khangbarol
+Chandel	Khengjoy	(इतर)	Khangtung
+Chandel	Khengjoy	(इतर)	Khengjang
+Chandel	Khengjoy	(इतर)	Khengjoy
+Chandel	Khengjoy	(इतर)	Khumkot
+Chandel	Khengjoy	(इतर)	Kotal Khunthak
+Chandel	Khengjoy	(इतर)	Kovang
+Chandel	Khengjoy	(इतर)	L.Bongjoi
+Chandel	Khengjoy	(इतर)	L.Gelmol
+Chandel	Khengjoy	(इतर)	LEISEN
+Chandel	Khengjoy	(इतर)	LHANGPIKOT
+Chandel	Khengjoy	(इतर)	Lajang
+Chandel	Khengjoy	(इतर)	Lamsat
+Chandel	Khengjoy	(इतर)	Lh.Jangnomphai
+Chandel	Khengjoy	(इतर)	M. BIJANGPHAI
+Chandel	Khengjoy	(इतर)	M. HOUPIJANG
+Chandel	Khengjoy	(इतर)	MAOKOT
+Chandel	Khengjoy	(इतर)	Molcham
+Chandel	Khengjoy	(इतर)	Moldennom
+Chandel	Khengjoy	(इतर)	Molkon
+Chandel	Khengjoy	(इतर)	Molngat
+Chandel	Khengjoy	(इतर)	Molpibung
+Chandel	Khengjoy	(इतर)	Moltuh
+Chandel	Khengjoy	(इतर)	Mombi
+Chandel	Khengjoy	(इतर)	N GAMNOM
+Chandel	Khengjoy	(इतर)	NEW BONGMOL
+Chandel	Khengjoy	(इतर)	Nabin
+Chandel	Khengjoy	(इतर)	Nakong
+Chandel	Khengjoy	(इतर)	New Somtal
+Chandel	Khengjoy	(इतर)	New Songjang
+Chandel	Khengjoy	(इतर)	New TS Laijang
+Chandel	Khengjoy	(इतर)	New Wayang (Changjal)
+Chandel	Khengjoy	(इतर)	OLD SAMTAL
+Chandel	Khengjoy	(इतर)	Old Changpol
+Chandel	Khengjoy	(इतर)	P. KHONOMPHAI
+Chandel	Khengjoy	(इतर)	P.ANNAJANG
+Chandel	Khengjoy	(इतर)	P.Chehjang
+Chandel	Khengjoy	(इतर)	PHAIPHENGKOT
+Chandel	Khengjoy	(इतर)	Phoilen
+Chandel	Khengjoy	(इतर)	S BONGJOI
+Chandel	Khengjoy	(इतर)	S.Lamphei
+Chandel	Khengjoy	(इतर)	S.Lhangnom
+Chandel	Khengjoy	(इतर)	Saibol Joupi
+Chandel	Khengjoy	(इतर)	Sehao
+Chandel	Khengjoy	(इतर)	Sehlon
+Chandel	Khengjoy	(इतर)	Sejang Theose
+Chandel	Khengjoy	(इतर)	Semol
+Chandel	Khengjoy	(इतर)	Songdop
+Chandel	Khengjoy	(इतर)	Songjang
+Chandel	Khengjoy	(इतर)	T. SEJANG
+Chandel	Khengjoy	(इतर)	T.Bollon
+Chandel	Khengjoy	(इतर)	T.Khonom
+Chandel	Khengjoy	(इतर)	T.Monglen
+Chandel	Khengjoy	(इतर)	T.Nampao
+Chandel	Khengjoy	(इतर)	T.VAKON
+Chandel	Khengjoy	(इतर)	TM DINGPI
+Chandel	Khengjoy	(इतर)	TUILENG
+Chandel	Khengjoy	(इतर)	Thingphai
+Chandel	Khengjoy	(इतर)	Toitung
+Chandel	Khengjoy	(इतर)	Tolbung
+Chandel	Khengjoy	(इतर)	Ts.Laijang
+Chandel	Khengjoy	(इतर)	Tuidam
+Chandel	Khengjoy	(इतर)	Tuikong
+Chandel	Khengjoy	(इतर)	Tupiching
+Chandel	Khengjoy	(इतर)	Tuyang
+Chandel	Khengjoy	(इतर)	WAILOU
+Chandel	Khengjoy	(इतर)	Wayang
+Chandel	Khengjoy	(इतर)	Yangoulen
+Chandel	Khengjoy	(इतर)	new changpol
+Churachandpur	Churachandpur	(इतर)	Awnchinkap Veng
+Churachandpur	Churachandpur	(इतर)	Bishanmual
+Churachandpur	Churachandpur	(इतर)	Buallian
+Churachandpur	Churachandpur	(इतर)	Bungmual
+Churachandpur	Churachandpur	(इतर)	Ccpur H.Q.
+Churachandpur	Churachandpur	(इतर)	Chengkonpang
+Churachandpur	Churachandpur	(इतर)	College Veng
+Churachandpur	Churachandpur	(इतर)	D Leikot
+Churachandpur	Churachandpur	(इतर)	Dorcas Veng
+Churachandpur	Churachandpur	(इतर)	Elim Veng
+Churachandpur	Churachandpur	(इतर)	Elite Veng
+Churachandpur	Churachandpur	(इतर)	Gangpimual
+Churachandpur	Churachandpur	(इतर)	Gelzang
+Churachandpur	Churachandpur	(इतर)	Gouchinkhup Veng
+Churachandpur	Churachandpur	(इतर)	Hebron Veng
+Churachandpur	Churachandpur	(इतर)	Hiangtam Lamka
+Churachandpur	Churachandpur	(इतर)	Hiangzo
+Churachandpur	Churachandpur	(इतर)	Hill Town (CT)
+Churachandpur	Churachandpur	(इतर)	Hmuia Veng
+Churachandpur	Churachandpur	(इतर)	Immanuel Khopi
+Churachandpur	Churachandpur	(इतर)	Joy Colony
+Churachandpur	Churachandpur	(इतर)	K Salem
+Churachandpur	Churachandpur	(इतर)	Kanaan Veng
+Churachandpur	Churachandpur	(इतर)	Kawnpui
+Churachandpur	Churachandpur	(इतर)	Kerith
+Churachandpur	Churachandpur	(इतर)	Khominthang
+Churachandpur	Churachandpur	(इतर)	L.Happyland
+Churachandpur	Churachandpur	(इतर)	L.Zoujang
+Churachandpur	Churachandpur	(इतर)	Lailam Veng
+Churachandpur	Churachandpur	(इतर)	Lairik Vaison
+Churachandpur	Churachandpur	(इतर)	Lalzomlien Veng
+Churachandpur	Churachandpur	(इतर)	Lamzang
+Churachandpur	Churachandpur	(इतर)	Lanva
+Churachandpur	Churachandpur	(इतर)	Lingsiphai
+Churachandpur	Churachandpur	(इतर)	M Khomunnom
+Churachandpur	Churachandpur	(इतर)	Manzahat Village
+Churachandpur	Churachandpur	(इतर)	Mata
+Churachandpur	Churachandpur	(इतर)	Matamualtam
+Churachandpur	Churachandpur	(इतर)	Mission Compound(Ccp)
+Churachandpur	Churachandpur	(इतर)	Mongjang Tampak
+Churachandpur	Churachandpur	(इतर)	Muizol
+Churachandpur	Churachandpur	(इतर)	NGHATHAL
+Churachandpur	Churachandpur	(इतर)	Neihsiel
+Churachandpur	Churachandpur	(इतर)	New Zoveng
+Churachandpur	Churachandpur	(इतर)	Ngathal
+Churachandpur	Churachandpur	(इतर)	Ngoiphai
+Churachandpur	Churachandpur	(इतर)	Pangjol
+Churachandpur	Churachandpur	(इतर)	Pearson
+Churachandpur	Churachandpur	(इतर)	Phaibem
+Churachandpur	Churachandpur	(इतर)	Rengkai (CT)
+Churachandpur	Churachandpur	(इतर)	S Munnuam
+Churachandpur	Churachandpur	(इतर)	Salem Veng
+Churachandpur	Churachandpur	(इतर)	Sim Veng
+Churachandpur	Churachandpur	(इतर)	Suangsiboh
+Churachandpur	Churachandpur	(इतर)	Suongsibok
+Churachandpur	Churachandpur	(इतर)	T Mimjang
+Churachandpur	Churachandpur	(इतर)	T. Bollen
+Churachandpur	Churachandpur	(इतर)	T.Bongpijang
+Churachandpur	Churachandpur	(इतर)	T.Lhangnom
+Churachandpur	Churachandpur	(इतर)	Tangmual
+Churachandpur	Churachandpur	(इतर)	Tangnuam
+Churachandpur	Churachandpur	(इतर)	Thengra Leirak
+Churachandpur	Churachandpur	(इतर)	Thingkangphai
+Churachandpur	Churachandpur	(इतर)	Tongdam
+Churachandpur	Churachandpur	(इतर)	Tualnuam
+Churachandpur	Churachandpur	(इतर)	V Bethel
+Churachandpur	Churachandpur	(इतर)	V. Khonuom
+Churachandpur	Churachandpur	(इतर)	V. Munhoih
+Churachandpur	Churachandpur	(इतर)	Vaal Veng
+Churachandpur	Churachandpur	(इतर)	Varok
+Churachandpur	Churachandpur	(इतर)	Vengnuam
+Churachandpur	Churachandpur	(इतर)	Vengnuam south
+Churachandpur	Churachandpur	(इतर)	W. Joujang
+Churachandpur	Churachandpur	(इतर)	Zenhang Lamka (CT)
+Churachandpur	Churachandpur	(इतर)	Zion Veng
+Churachandpur	Churachandpur	(इतर)	Zomi Bethel
+Churachandpur	Churachandpur	(इतर)	Zoumun
+Churachandpur	Churachandpur	(इतर)	Zoumunnuam
+Churachandpur	Churachandpur	(इतर)	Zoutuinuam
+Churachandpur	Henglep	(इतर)	Aina
+Churachandpur	Henglep	(इतर)	Ainujang
+Churachandpur	Henglep	(इतर)	B.Mongjang
+Churachandpur	Henglep	(इतर)	Bolkot
+Churachandpur	Henglep	(इतर)	Bungkot
+Churachandpur	Henglep	(इतर)	Chingmei Kuki
+Churachandpur	Henglep	(इतर)	Chongchin
+Churachandpur	Henglep	(इतर)	Chongkhojou
+Churachandpur	Henglep	(इतर)	Chothe Munpi
+Churachandpur	Henglep	(इतर)	D. Khoijim
+Churachandpur	Henglep	(इतर)	D. Munlui
+Churachandpur	Henglep	(इतर)	D.Loupum
+Churachandpur	Henglep	(इतर)	Dahtum
+Churachandpur	Henglep	(इतर)	Damjawl
+Churachandpur	Henglep	(इतर)	Dohjang
+Churachandpur	Henglep	(इतर)	Golenkot
+Churachandpur	Henglep	(इतर)	Gouthang
+Churachandpur	Henglep	(इतर)	Hengkom
+Churachandpur	Henglep	(इतर)	Henglep
+Churachandpur	Henglep	(इतर)	K. Phaijang
+Churachandpur	Henglep	(इतर)	K. Zoar
+Churachandpur	Henglep	(इतर)	K.Lonmoul
+Churachandpur	Henglep	(इतर)	K.Tuiliphai
+Churachandpur	Henglep	(इतर)	Kamkeilon
+Churachandpur	Henglep	(इतर)	Khanpi
+Churachandpur	Henglep	(इतर)	Khantang
+Churachandpur	Henglep	(इतर)	Kolchung
+Churachandpur	Henglep	(इतर)	Kolhen
+Churachandpur	Henglep	(इतर)	Kongjanglok
+Churachandpur	Henglep	(इतर)	Konpi
+Churachandpur	Henglep	(इतर)	L. Gamgiphai
+Churachandpur	Henglep	(इतर)	L. Khongbung
+Churachandpur	Henglep	(इतर)	L. Khonomjang
+Churachandpur	Henglep	(इतर)	L. Phailen
+Churachandpur	Henglep	(इतर)	L.Hengjang
+Churachandpur	Henglep	(इतर)	L.Khaopijang
+Churachandpur	Henglep	(इतर)	Lailong (S)
+Churachandpur	Henglep	(इतर)	Lailong(L)
+Churachandpur	Henglep	(इतर)	Lhanjang
+Churachandpur	Henglep	(इतर)	Lungchong
+Churachandpur	Henglep	(इतर)	M.Phaijang
+Churachandpur	Henglep	(इतर)	Mamong
+Churachandpur	Henglep	(इतर)	Maomual
+Churachandpur	Henglep	(इतर)	Molcham
+Churachandpur	Henglep	(इतर)	Moldak
+Churachandpur	Henglep	(इतर)	Moljen
+Churachandpur	Henglep	(इतर)	Molkhang
+Churachandpur	Henglep	(इतर)	Mollen
+Churachandpur	Henglep	(इतर)	Mollungthu
+Churachandpur	Henglep	(इतर)	Molnom
+Churachandpur	Henglep	(इतर)	Molzol
+Churachandpur	Henglep	(इतर)	Mongken
+Churachandpur	Henglep	(इतर)	Monglham
+Churachandpur	Henglep	(इतर)	Muibung
+Churachandpur	Henglep	(इतर)	Munpi
+Churachandpur	Henglep	(इतर)	N. Molngat
+Churachandpur	Henglep	(इतर)	N. Saikot
+Churachandpur	Henglep	(इतर)	N.Pansang
+Churachandpur	Henglep	(इतर)	Nabil Khuman
+Churachandpur	Henglep	(इतर)	Najang
+Churachandpur	Henglep	(इतर)	Naopanglon
+Churachandpur	Henglep	(इतर)	Neilen
+Churachandpur	Henglep	(इतर)	Neilen(Machet)
+Churachandpur	Henglep	(इतर)	Nungsai
+Churachandpur	Henglep	(इतर)	Old Phaisat
+Churachandpur	Henglep	(इतर)	P. Molcham
+Churachandpur	Henglep	(इतर)	P.Sejol
+Churachandpur	Henglep	(इतर)	Pakol
+Churachandpur	Henglep	(इतर)	Phaibatang
+Churachandpur	Henglep	(इतर)	Phaibong
+Churachandpur	Henglep	(इतर)	Phaihel
+Churachandpur	Henglep	(इतर)	Phaipijang
+Churachandpur	Henglep	(इतर)	Phaisat
+Churachandpur	Henglep	(इतर)	Phiran
+Churachandpur	Henglep	(इतर)	Phoipi
+Churachandpur	Henglep	(इतर)	Puaktam
+Churachandpur	Henglep	(इतर)	S. Khonom
+Churachandpur	Henglep	(इतर)	Saichang
+Churachandpur	Henglep	(इतर)	Saihum
+Churachandpur	Henglep	(इतर)	Sainoulien
+Churachandpur	Henglep	(इतर)	Sanglel
+Churachandpur	Henglep	(इतर)	Santing
+Churachandpur	Henglep	(इतर)	Santing (L)
+Churachandpur	Henglep	(इतर)	Selkap
+Churachandpur	Henglep	(इतर)	Selvung (Napphou)
+Churachandpur	Henglep	(इतर)	Songkong
+Churachandpur	Henglep	(इतर)	Songkongphai
+Churachandpur	Henglep	(इतर)	Songkot
+Churachandpur	Henglep	(इतर)	Songpha
+Churachandpur	Henglep	(इतर)	Songphu
+Churachandpur	Henglep	(इतर)	Songpijang
+Churachandpur	Henglep	(इतर)	T.Gamnom
+Churachandpur	Henglep	(इतर)	T.Gangpijang
+Churachandpur	Henglep	(इतर)	T.Khonomphai
+Churachandpur	Henglep	(इतर)	T.Lhanghoimol
+Churachandpur	Henglep	(इतर)	T.Sehjang
+Churachandpur	Henglep	(इतर)	Thangsi
+Churachandpur	Henglep	(इतर)	Thenjol
+Churachandpur	Henglep	(इतर)	Thinghejang
+Churachandpur	Henglep	(इतर)	Thingken
+Churachandpur	Henglep	(इतर)	Tongkhojou
+Churachandpur	Henglep	(इतर)	Tuikot
+Churachandpur	Henglep	(इतर)	Tuilaphai
+Churachandpur	Henglep	(इतर)	Tuilumjang
+Churachandpur	Henglep	(इतर)	Ukha Loikhai
+Churachandpur	Henglep	(इतर)	V.Munlai
+Churachandpur	Henglep	(इतर)	Vantungbung
+Churachandpur	Henglep	(इतर)	Vongmol
+Churachandpur	Henglep	(इतर)	Vungbuk
+Churachandpur	Kangvai	(इतर)	Aimol
+Churachandpur	Kangvai	(इतर)	B. Lungdeiphai
+Churachandpur	Kangvai	(इतर)	Bijang Gangte
+Churachandpur	Kangvai	(इतर)	Bijang Tampak
+Churachandpur	Kangvai	(इतर)	Bongmol
+Churachandpur	Kangvai	(इतर)	Bongphajol
+Churachandpur	Kangvai	(इतर)	Bunglon
+Churachandpur	Kangvai	(इतर)	Chaiba
+Churachandpur	Kangvai	(इतर)	Charoi Khullen
+Churachandpur	Kangvai	(इतर)	Digaijang
+Churachandpur	Kangvai	(इतर)	Dimdunlung
+Churachandpur	Kangvai	(इतर)	Dimjanglong
+Churachandpur	Kangvai	(इतर)	G. Khomunnom
+Churachandpur	Kangvai	(इतर)	G. Mongjang
+Churachandpur	Kangvai	(इतर)	Gaisemlong
+Churachandpur	Kangvai	(इतर)	Gothol
+Churachandpur	Kangvai	(इतर)	Heichanglok
+Churachandpur	Kangvai	(इतर)	Hengkapkot
+Churachandpur	Kangvai	(इतर)	Hengmol
+Churachandpur	Kangvai	(इतर)	Hermontang
+Churachandpur	Kangvai	(इतर)	Huikot
+Churachandpur	Kangvai	(इतर)	Humkot
+Churachandpur	Kangvai	(इतर)	Ingourok
+Churachandpur	Kangvai	(इतर)	Jikpi Tampak
+Churachandpur	Kangvai	(इतर)	K. Hengmol
+Churachandpur	Kangvai	(इतर)	K. Lhangjol
+Churachandpur	Kangvai	(इतर)	K. P. Thinghijang
+Churachandpur	Kangvai	(इतर)	K. Thenjang A
+Churachandpur	Kangvai	(इतर)	K. Thenjang B
+Churachandpur	Kangvai	(इतर)	K.Geljang
+Churachandpur	Kangvai	(इतर)	K.Hengcham
+Churachandpur	Kangvai	(इतर)	K.Kotlian
+Churachandpur	Kangvai	(इतर)	K.Lhangnom
+Churachandpur	Kangvai	(इतर)	K.Songjang
+Churachandpur	Kangvai	(इतर)	Kangathei
+Churachandpur	Kangvai	(इतर)	Kangoi Paolian
+Churachandpur	Kangvai	(इतर)	Kangvai
+Churachandpur	Kangvai	(इतर)	Keirap Khullen
+Churachandpur	Kangvai	(इतर)	Keirap Khunkha
+Churachandpur	Kangvai	(इतर)	Keirap Khunthak
+Churachandpur	Kangvai	(इतर)	Khoirentak Khuman
+Churachandpur	Kangvai	(इतर)	Khoirentak Khunou
+Churachandpur	Kangvai	(इतर)	Khousabung
+Churachandpur	Kangvai	(इतर)	Kokodan Dahlon
+Churachandpur	Kangvai	(इतर)	Kokodan Khullen
+Churachandpur	Kangvai	(इतर)	Kukimun
+Churachandpur	Kangvai	(इतर)	Kulbungphai
+Churachandpur	Kangvai	(इतर)	Kungpinaosen
+Churachandpur	Kangvai	(इतर)	L. Gelmol
+Churachandpur	Kangvai	(इतर)	L. Khengjang
+Churachandpur	Kangvai	(इतर)	L. Phaibung
+Churachandpur	Kangvai	(इतर)	L. Phaijang
+Churachandpur	Kangvai	(इतर)	L. Phaikholum
+Churachandpur	Kangvai	(इतर)	L. khomunnom (lamdan Kuki)
+Churachandpur	Kangvai	(इतर)	L.Boljol
+Churachandpur	Kangvai	(इतर)	L.Gamnomphai
+Churachandpur	Kangvai	(इतर)	L.Semol
+Churachandpur	Kangvai	(इतर)	L.Thingphai
+Churachandpur	Kangvai	(इतर)	Laikamolsau
+Churachandpur	Kangvai	(इतर)	Laimanai Kabui
+Churachandpur	Kangvai	(इतर)	Laimanai Kuki
+Churachandpur	Kangvai	(इतर)	Lamdan Kabui
+Churachandpur	Kangvai	(इतर)	Lamdan Kuki
+Churachandpur	Kangvai	(इतर)	Langjingmanbi
+Churachandpur	Kangvai	(इतर)	Leilon Khuman
+Churachandpur	Kangvai	(इतर)	Leinom
+Churachandpur	Kangvai	(इतर)	Leisanbung
+Churachandpur	Kangvai	(इतर)	Loilamkot
+Churachandpur	Kangvai	(इतर)	Louchulbung
+Churachandpur	Kangvai	(इतर)	Maichammun
+Churachandpur	Kangvai	(इतर)	Majuron Kabui
+Churachandpur	Kangvai	(इतर)	Majuron Kuki
+Churachandpur	Kangvai	(इतर)	Maovom
+Churachandpur	Kangvai	(इतर)	Masemjang
+Churachandpur	Kangvai	(इतर)	Matijang
+Churachandpur	Kangvai	(इतर)	Molngatphai
+Churachandpur	Kangvai	(इतर)	Molphai
+Churachandpur	Kangvai	(इतर)	Molphei Tampak
+Churachandpur	Kangvai	(इतर)	Motjang (Gothol machet)
+Churachandpur	Kangvai	(इतर)	Moulhoi
+Churachandpur	Kangvai	(इतर)	Mualhoih
+Churachandpur	Kangvai	(इतर)	Mualngat
+Churachandpur	Kangvai	(इतर)	Mualsang
+Churachandpur	Kangvai	(इतर)	N. Jalenphai
+Churachandpur	Kangvai	(इतर)	N. Molkot
+Churachandpur	Kangvai	(इतर)	N.Chingphei
+Churachandpur	Kangvai	(इतर)	N.Ningthiching
+Churachandpur	Kangvai	(इतर)	Nahlon
+Churachandpur	Kangvai	(इतर)	New Canaan
+Churachandpur	Kangvai	(इतर)	New Kungpi
+Churachandpur	Kangvai	(इतर)	New Zalenphai
+Churachandpur	Kangvai	(इतर)	Ngarian
+Churachandpur	Kangvai	(इतर)	Ningthiching
+Churachandpur	Kangvai	(इतर)	P. Boljang
+Churachandpur	Kangvai	(इतर)	P.Geljang
+Churachandpur	Kangvai	(इतर)	P.Gelmolkhunou
+Churachandpur	Kangvai	(इतर)	Pangjang
+Churachandpur	Kangvai	(इतर)	Pengjang
+Churachandpur	Kangvai	(इतर)	Phoisanbung
+Churachandpur	Kangvai	(इतर)	Phoisenphai
+Churachandpur	Kangvai	(इतर)	Pholjang
+Churachandpur	Kangvai	(इतर)	Pungchongjang
+Churachandpur	Kangvai	(इतर)	S. Lonphai
+Churachandpur	Kangvai	(इतर)	S.Kotlian
+Churachandpur	Kangvai	(इतर)	S.Nabil
+Churachandpur	Kangvai	(इतर)	Sadu Khoiroi
+Churachandpur	Kangvai	(इतर)	Senpangjang
+Churachandpur	Kangvai	(इतर)	Sijang
+Churachandpur	Kangvai	(इतर)	Silen
+Churachandpur	Kangvai	(इतर)	Songdo
+Churachandpur	Kangvai	(इतर)	T. Chavangphai
+Churachandpur	Kangvai	(इतर)	T. Molsangbung
+Churachandpur	Kangvai	(इतर)	T. Munjang
+Churachandpur	Kangvai	(इतर)	T.Thingjang
+Churachandpur	Kangvai	(इतर)	Teijang
+Churachandpur	Kangvai	(इतर)	Thengjang
+Churachandpur	Kangvai	(इतर)	Thoroilok
+Churachandpur	Kangvai	(इतर)	Thumkhonglok
+Churachandpur	Kangvai	(इतर)	Tokpa Kabui
+Churachandpur	Kangvai	(इतर)	Tonglhang
+Churachandpur	Kangvai	(इतर)	Torbung
+Churachandpur	Kangvai	(इतर)	Torbung Loklaiphai
+Churachandpur	Kangvai	(इतर)	Tuikong
+Churachandpur	Kangvai	(इतर)	Tumjangphai
+Churachandpur	Kangvai	(इतर)	Ujungmakhong
+Churachandpur	Kangvai	(इतर)	Ukhatampak
+Churachandpur	Kangvai	(इतर)	V. Kolmun
+Churachandpur	Kangvai	(इतर)	Zaingang Khuman
+Churachandpur	Kangvai	(इतर)	Zounoi
+Churachandpur	Mualnuam	(इतर)	B.Munpi
+Churachandpur	Mualnuam	(इतर)	Bualtang
+Churachandpur	Mualnuam	(इतर)	Kaihlam
+Churachandpur	Mualnuam	(इतर)	Khuanggin
+Churachandpur	Mualnuam	(इतर)	L. Phungchongjang
+Churachandpur	Mualnuam	(इतर)	Maite
+Churachandpur	Mualnuam	(इतर)	Mualhoihchiang
+Churachandpur	Mualnuam	(इतर)	Mualkui
+Churachandpur	Mualnuam	(इतर)	Mualnuam
+Churachandpur	Mualnuam	(इतर)	Phailiangbung
+Churachandpur	Mualnuam	(इतर)	Phaipheng
+Churachandpur	Mualnuam	(इतर)	Phunchongjang
+Churachandpur	Mualnuam	(इतर)	Sinjang
+Churachandpur	Mualnuam	(इतर)	Sinjawl
+Churachandpur	Mualnuam	(इतर)	Songtal
+Churachandpur	Mualnuam	(इतर)	Thiekbung
+Churachandpur	Mualnuam	(इतर)	Thuangtam
+Churachandpur	Mualnuam	(इतर)	Tuilijang
+Churachandpur	Mualnuam	(इतर)	Umtal
+Churachandpur	Saikot	(इतर)	Benazou
+Churachandpur	Saikot	(इतर)	Bohlui
+Churachandpur	Saikot	(इतर)	Dumsaumual
+Churachandpur	Saikot	(इतर)	G. Jangnom
+Churachandpur	Saikot	(इतर)	G. Tonjang
+Churachandpur	Saikot	(इतर)	Hmuntha Tampak
+Churachandpur	Saikot	(इतर)	K. Bungjang
+Churachandpur	Saikot	(इतर)	Khopuibung
+Churachandpur	Saikot	(इतर)	Khuangnung
+Churachandpur	Saikot	(इतर)	L.S. Kongjang
+Churachandpur	Saikot	(इतर)	M Saheiphai
+Churachandpur	Saikot	(इतर)	M. Saljang
+Churachandpur	Saikot	(इतर)	M.Semol
+Churachandpur	Saikot	(इतर)	Misao Lhavom
+Churachandpur	Saikot	(इतर)	Molhoiphai
+Churachandpur	Saikot	(इतर)	Mualbem
+Churachandpur	Saikot	(इतर)	Mualkot
+Churachandpur	Saikot	(इतर)	Mualpi
+Churachandpur	Saikot	(इतर)	Mualsan
+Churachandpur	Saikot	(इतर)	Mualvaphei
+Churachandpur	Saikot	(इतर)	N.S. Khojamphai
+Churachandpur	Saikot	(इतर)	Ngurte
+Churachandpur	Saikot	(इतर)	S. Moljol
+Churachandpur	Saikot	(इतर)	Saidan
+Churachandpur	Saikot	(इतर)	Saikot
+Churachandpur	Saikot	(इतर)	Saikul
+Churachandpur	Saikot	(इतर)	Saipum
+Churachandpur	Saikot	(इतर)	Sehken
+Churachandpur	Saikot	(इतर)	Sumtuhphai
+Churachandpur	Saikot	(इतर)	T.M. MONAPHAI
+Churachandpur	Saikot	(इतर)	Thenmuol
+Churachandpur	Saikot	(इतर)	Thingchom
+Churachandpur	Saikot	(इतर)	Tolyangkuki
+Churachandpur	Saikot	(इतर)	Tuaitengphai
+Churachandpur	Saikot	(इतर)	Tuibul
+Churachandpur	Saikot	(इतर)	Tuikham
+Churachandpur	Saikot	(इतर)	Tuikham Daizang
+Churachandpur	Saikot	(इतर)	Tuikhamphai
+Churachandpur	Saikot	(इतर)	Tuilehlong
+Churachandpur	Saikot	(इतर)	Tuithapi
+Churachandpur	Saikot	(इतर)	Valpakot
+Churachandpur	Saikot	(इतर)	Vengnomphai
+Churachandpur	Saikot	(इतर)	Zongmakot
+Churachandpur	Samulamlan	(इतर)	Berea
+Churachandpur	Samulamlan	(इतर)	Bonglushi
+Churachandpur	Samulamlan	(इतर)	Bungsanglian
+Churachandpur	Samulamlan	(इतर)	Changpikot
+Churachandpur	Samulamlan	(इतर)	Chehjang
+Churachandpur	Samulamlan	(इतर)	Chinglangmei
+Churachandpur	Samulamlan	(इतर)	D. Gellenjang
+Churachandpur	Samulamlan	(इतर)	D. Haolenjang
+Churachandpur	Samulamlan	(इतर)	D. Hermon
+Churachandpur	Samulamlan	(इतर)	D. Kangjam
+Churachandpur	Samulamlan	(इतर)	D. Moljang
+Churachandpur	Samulamlan	(इतर)	Dampi
+Churachandpur	Samulamlan	(इतर)	Dopkon
+Churachandpur	Samulamlan	(इतर)	G.Songgel
+Churachandpur	Samulamlan	(इतर)	Gamnomphai
+Churachandpur	Samulamlan	(इतर)	Gangpichai
+Churachandpur	Samulamlan	(इतर)	Gotengphai
+Churachandpur	Samulamlan	(इतर)	H.Gelbung
+Churachandpur	Samulamlan	(इतर)	H.Kotlian
+Churachandpur	Samulamlan	(इतर)	H.Vajang Khuman
+Churachandpur	Samulamlan	(इतर)	Haotak Keirap
+Churachandpur	Samulamlan	(इतर)	Haotak Khullen(Srs)
+Churachandpur	Samulamlan	(इतर)	Haotak Phailen
+Churachandpur	Samulamlan	(इतर)	K. Phaijol
+Churachandpur	Samulamlan	(इतर)	K. Salemjang
+Churachandpur	Samulamlan	(इतर)	Kamhang
+Churachandpur	Samulamlan	(इतर)	Khengmual
+Churachandpur	Samulamlan	(इतर)	Khodang
+Churachandpur	Samulamlan	(इतर)	Khonomphai
+Churachandpur	Samulamlan	(इतर)	Khuangmun
+Churachandpur	Samulamlan	(इतर)	Kulbung
+Churachandpur	Samulamlan	(इतर)	L. Cananphai
+Churachandpur	Samulamlan	(इतर)	L. Phainom
+Churachandpur	Samulamlan	(इतर)	Lailampat
+Churachandpur	Samulamlan	(इतर)	Lalambung
+Churachandpur	Samulamlan	(इतर)	Lamngsei Tampak
+Churachandpur	Samulamlan	(इतर)	Leiriphai
+Churachandpur	Samulamlan	(इतर)	Leisen Tampak
+Churachandpur	Samulamlan	(इतर)	Lhangnomphai
+Churachandpur	Samulamlan	(इतर)	Lhungjang
+Churachandpur	Samulamlan	(इतर)	M.Kananphai
+Churachandpur	Samulamlan	(इतर)	Maojang
+Churachandpur	Samulamlan	(इतर)	Moirang Mantak
+Churachandpur	Samulamlan	(इतर)	Molamphai
+Churachandpur	Samulamlan	(इतर)	Molhoiphai
+Churachandpur	Samulamlan	(इतर)	New Dampi
+Churachandpur	Samulamlan	(इतर)	Ngairong
+Churachandpur	Samulamlan	(इतर)	Nomjang (Srs)
+Churachandpur	Samulamlan	(इतर)	Nungthang Tampak
+Churachandpur	Samulamlan	(इतर)	O. Songlung
+Churachandpur	Samulamlan	(इतर)	Patjang
+Churachandpur	Samulamlan	(इतर)	Pumkot Minzang
+Churachandpur	Samulamlan	(इतर)	S. Hengcham
+Churachandpur	Samulamlan	(इतर)	S. Phaipijang
+Churachandpur	Samulamlan	(इतर)	S.Gangpijang
+Churachandpur	Samulamlan	(इतर)	SANACHING
+Churachandpur	Samulamlan	(इतर)	Sagang
+Churachandpur	Samulamlan	(इतर)	Saiton Khullen
+Churachandpur	Samulamlan	(इतर)	Saiton Khunou (Seitual)
+Churachandpur	Samulamlan	(इतर)	Samulamlan
+Churachandpur	Samulamlan	(इतर)	Saronphai
+Churachandpur	Samulamlan	(इतर)	Siden
+Churachandpur	Samulamlan	(इतर)	Sihjang (Srs)
+Churachandpur	Samulamlan	(इतर)	Songpher
+Churachandpur	Samulamlan	(इतर)	T. Lhangkichoi
+Churachandpur	Samulamlan	(इतर)	T. Munnomjang
+Churachandpur	Samulamlan	(इतर)	T. Shalom
+Churachandpur	Samulamlan	(इतर)	T.Kananphai
+Churachandpur	Samulamlan	(इतर)	T.Molkot
+Churachandpur	Samulamlan	(इतर)	TL Gamngai
+Churachandpur	Samulamlan	(इतर)	Thampilian
+Churachandpur	Samulamlan	(इतर)	Tuiringphaisen
+Churachandpur	Samulamlan	(इतर)	Vanghoiphai
+Churachandpur	Samulamlan	(इतर)	Waikhulok
+Churachandpur	Sangaikot	(इतर)	B.Kaljang
+Churachandpur	Sangaikot	(इतर)	B.Pangmual
+Churachandpur	Sangaikot	(इतर)	B.Salvaphai
+Churachandpur	Sangaikot	(इतर)	Chaljang
+Churachandpur	Sangaikot	(इतर)	D. Jangnom
+Churachandpur	Sangaikot	(इतर)	D. Khovangchoi
+Churachandpur	Sangaikot	(इतर)	Damjol
+Churachandpur	Sangaikot	(इतर)	Dongjang
+Churachandpur	Sangaikot	(इतर)	Dumlian (Salem)
+Churachandpur	Sangaikot	(इतर)	Dutezol
+Churachandpur	Sangaikot	(इतर)	G. Monglian
+Churachandpur	Sangaikot	(इतर)	G.Gamphajol
+Churachandpur	Sangaikot	(इतर)	G.Khonuam
+Churachandpur	Sangaikot	(इतर)	G.Molkon
+Churachandpur	Sangaikot	(इतर)	Goupibung
+Churachandpur	Sangaikot	(इतर)	Govajang
+Churachandpur	Sangaikot	(इतर)	Gunphai
+Churachandpur	Sangaikot	(इतर)	H. Bollen
+Churachandpur	Sangaikot	(इतर)	Haopi
+Churachandpur	Sangaikot	(इतर)	Haopi Vangmun
+Churachandpur	Sangaikot	(इतर)	Haopijang
+Churachandpur	Sangaikot	(इतर)	Hengken
+Churachandpur	Sangaikot	(इतर)	Hita Khunou
+Churachandpur	Sangaikot	(इतर)	Jangmun
+Churachandpur	Sangaikot	(इतर)	K. Janglenphai
+Churachandpur	Sangaikot	(इतर)	K.Jangnomphai
+Churachandpur	Sangaikot	(इतर)	K.Munhoi
+Churachandpur	Sangaikot	(इतर)	K.Siroi
+Churachandpur	Sangaikot	(इतर)	Kangleiphai
+Churachandpur	Sangaikot	(इतर)	Khuangkhaijang
+Churachandpur	Sangaikot	(इतर)	Kuwan
+Churachandpur	Sangaikot	(इतर)	L. KHAUKUAL
+Churachandpur	Sangaikot	(इतर)	L. Khonomphai
+Churachandpur	Sangaikot	(इतर)	L. Molnoi
+Churachandpur	Sangaikot	(इतर)	L. Muncham
+Churachandpur	Sangaikot	(इतर)	L.Alpha
+Churachandpur	Sangaikot	(इतर)	L.Gangpimual
+Churachandpur	Sangaikot	(इतर)	L.Phainom
+Churachandpur	Sangaikot	(इतर)	L.Songjangpat
+Churachandpur	Sangaikot	(इतर)	Lamlai
+Churachandpur	Sangaikot	(इतर)	Langvon
+Churachandpur	Sangaikot	(इतर)	Lhangnom
+Churachandpur	Sangaikot	(इतर)	Loibual
+Churachandpur	Sangaikot	(इतर)	Luihoihmolcham
+Churachandpur	Sangaikot	(इतर)	Lunggil
+Churachandpur	Sangaikot	(इतर)	M.B.Saichang
+Churachandpur	Sangaikot	(इतर)	M.Haopi Mollen
+Churachandpur	Sangaikot	(इतर)	M.Phaimol
+Churachandpur	Sangaikot	(इतर)	M.Phainom
+Churachandpur	Sangaikot	(इतर)	M.Saheiphai
+Churachandpur	Sangaikot	(इतर)	M.Teijang
+Churachandpur	Sangaikot	(इतर)	M.kholmual
+Churachandpur	Sangaikot	(इतर)	MN Tatjang
+Churachandpur	Sangaikot	(इतर)	Makhao (H)
+Churachandpur	Sangaikot	(इतर)	Makhao Bungmual
+Churachandpur	Sangaikot	(इतर)	Makhao Mollum
+Churachandpur	Sangaikot	(इतर)	Makhao Tampak
+Churachandpur	Sangaikot	(इतर)	Matijang
+Churachandpur	Sangaikot	(इतर)	Moldenphai
+Churachandpur	Sangaikot	(इतर)	Molphai
+Churachandpur	Sangaikot	(इतर)	Molvom (Srs)
+Churachandpur	Sangaikot	(इतर)	Mongbung
+Churachandpur	Sangaikot	(इतर)	Mongnelphai
+Churachandpur	Sangaikot	(इतर)	New Bijang
+Churachandpur	Sangaikot	(इतर)	New Khuakual
+Churachandpur	Sangaikot	(इतर)	P.Khomunnom
+Churachandpur	Sangaikot	(इतर)	P.N.Khovong
+Churachandpur	Sangaikot	(इतर)	Pantha
+Churachandpur	Sangaikot	(इतर)	Phaisan
+Churachandpur	Sangaikot	(इतर)	S.Gelbung
+Churachandpur	Sangaikot	(इतर)	S.Mongkot
+Churachandpur	Sangaikot	(इतर)	SL.Molcham
+Churachandpur	Sangaikot	(इतर)	Saiboh
+Churachandpur	Sangaikot	(इतर)	Sangaikot
+Churachandpur	Sangaikot	(इतर)	Selshi
+Churachandpur	Sangaikot	(इतर)	Singheu
+Churachandpur	Sangaikot	(इतर)	Songpeh
+Churachandpur	Sangaikot	(इतर)	Suanggual
+Churachandpur	Sangaikot	(इतर)	T. Gamnomjang
+Churachandpur	Sangaikot	(इतर)	T. Munnuam
+Churachandpur	Sangaikot	(इतर)	T.Khonom
+Churachandpur	Sangaikot	(इतर)	T.Khuangkhai
+Churachandpur	Sangaikot	(इतर)	T.Lailoiphai
+Churachandpur	Sangaikot	(इतर)	T.Leijang
+Churachandpur	Sangaikot	(इतर)	T.Phaijol
+Churachandpur	Sangaikot	(इतर)	Teisaljang
+Churachandpur	Sangaikot	(इतर)	Tuidam
+Churachandpur	Sangaikot	(इतर)	Tuining
+Churachandpur	Sangaikot	(इतर)	Tuiningkhal
+Churachandpur	Sangaikot	(इतर)	Tuinuphai
+Churachandpur	Sangaikot	(इतर)	Tuisomjang
+Churachandpur	Sangaikot	(इतर)	Tuitengjang
+Churachandpur	Sangaikot	(इतर)	Tuitum (J)
+Churachandpur	Sangaikot	(इतर)	Tuiveiphai
+Churachandpur	Sangaikot	(इतर)	Tuivelmual
+Churachandpur	Sangaikot	(इतर)	Walkhu
+Churachandpur	Sangaikot	(इतर)	Z.Khomunnom
+Churachandpur	Sangaikot	(इतर)	Zalenkot
+Churachandpur	Sangaikot	(इतर)	Zobethel
+Churachandpur	Sangaikot	(इतर)	Zomi Zion
+Churachandpur	Singngat	(इतर)	B. Tollen
+Churachandpur	Singngat	(इतर)	Behiang (V)
+Churachandpur	Singngat	(इतर)	Behiang Sialsi
+Churachandpur	Singngat	(इतर)	Behiang(H)
+Churachandpur	Singngat	(इतर)	Belbing
+Churachandpur	Singngat	(इतर)	Bongbal
+Churachandpur	Singngat	(इतर)	Buksau
+Churachandpur	Singngat	(इतर)	Chahnou
+Churachandpur	Singngat	(इतर)	Haijang
+Churachandpur	Singngat	(इतर)	Hangsum
+Churachandpur	Singngat	(इतर)	Hengjang
+Churachandpur	Singngat	(इतर)	Hiangdung
+Churachandpur	Singngat	(इतर)	Hiangmual
+Churachandpur	Singngat	(इतर)	Hiangtam (K)
+Churachandpur	Singngat	(इतर)	Hiangtam (V)
+Churachandpur	Singngat	(इतर)	Jangnuam
+Churachandpur	Singngat	(इतर)	K. Jaolen
+Churachandpur	Singngat	(इतर)	K. Thenjol
+Churachandpur	Singngat	(इतर)	Khomunnom
+Churachandpur	Singngat	(इतर)	Kullian
+Churachandpur	Singngat	(इतर)	L. Kanan
+Churachandpur	Singngat	(इतर)	L. Phaimol
+Churachandpur	Singngat	(इतर)	Lanchah
+Churachandpur	Singngat	(इतर)	Likhai
+Churachandpur	Singngat	(इतर)	Lunjang
+Churachandpur	Singngat	(इतर)	M. Buangmun
+Churachandpur	Singngat	(इतर)	M. Goshen
+Churachandpur	Singngat	(इतर)	M. Lunmual
+Churachandpur	Singngat	(इतर)	M.T. Geltam
+Churachandpur	Singngat	(इतर)	M.Tanglian
+Churachandpur	Singngat	(इतर)	Molbungjang
+Churachandpur	Singngat	(इतर)	Mongjang
+Churachandpur	Singngat	(इतर)	Muallum
+Churachandpur	Singngat	(इतर)	N. Khonom
+Churachandpur	Singngat	(इतर)	New Laizang
+Churachandpur	Singngat	(इतर)	Pakmual
+Churachandpur	Singngat	(इतर)	Panglian
+Churachandpur	Singngat	(इतर)	S. Belpuan
+Churachandpur	Singngat	(इतर)	S. Mollen
+Churachandpur	Singngat	(इतर)	S. Munpi
+Churachandpur	Singngat	(इतर)	S. Muvanlai
+Churachandpur	Singngat	(इतर)	S. Phaija
+Churachandpur	Singngat	(इतर)	S. Sehken
+Churachandpur	Singngat	(इतर)	S.Geltui
+Churachandpur	Singngat	(इतर)	S.Munhoi
+Churachandpur	Singngat	(इतर)	Saichang
+Churachandpur	Singngat	(इतर)	Sehngaljang
+Churachandpur	Singngat	(इतर)	Sialnah
+Churachandpur	Singngat	(इतर)	Simbuk
+Churachandpur	Singngat	(इतर)	Singngat
+Churachandpur	Singngat	(इतर)	Songjang
+Churachandpur	Singngat	(इतर)	Suangdoh
+Churachandpur	Singngat	(इतर)	Suangkuang
+Churachandpur	Singngat	(इतर)	Suangnal
+Churachandpur	Singngat	(इतर)	Suangphu
+Churachandpur	Singngat	(इतर)	Sumchinvum
+Churachandpur	Singngat	(इतर)	T. Khajang
+Churachandpur	Singngat	(इतर)	T. Kotlian
+Churachandpur	Singngat	(इतर)	T. Monglham
+Churachandpur	Singngat	(इतर)	T.Singtam
+Churachandpur	Singngat	(इतर)	Tangpijol
+Churachandpur	Singngat	(इतर)	Teikot
+Churachandpur	Singngat	(इतर)	Theigotang
+Churachandpur	Singngat	(इतर)	Tonjang
+Churachandpur	Singngat	(इतर)	Tuinuam
+Churachandpur	Singngat	(इतर)	V. Munpi
+Churachandpur	Singngat	(इतर)	Zabellei
+Churachandpur	Singngat	(इतर)	Zahong
+Churachandpur	Singngat	(इतर)	Zalenphai
+Churachandpur	Singngat	(इतर)	Zezaw
+Churachandpur	Singngat	(इतर)	Zoukhonuam
+Churachandpur	Suangdoh	(इतर)	Allusingtam
+Churachandpur	Suangdoh	(इतर)	Bualmual
+Churachandpur	Suangdoh	(इतर)	C.Tuiveljang
+Churachandpur	Suangdoh	(इतर)	Chiangpi
+Churachandpur	Suangdoh	(इतर)	Daijang
+Churachandpur	Suangdoh	(इतर)	Doupau
+Churachandpur	Suangdoh	(इतर)	Enpum
+Churachandpur	Suangdoh	(इतर)	G.Bualjang
+Churachandpur	Suangdoh	(इतर)	Kangkap
+Churachandpur	Suangdoh	(इतर)	Lungchin
+Churachandpur	Suangdoh	(इतर)	Lungthul (E)
+Churachandpur	Suangdoh	(इतर)	Lungthul (L)
+Churachandpur	Suangdoh	(इतर)	Lungthul (T)
+Churachandpur	Suangdoh	(इतर)	Maokot
+Churachandpur	Suangdoh	(इतर)	Mongken
+Churachandpur	Suangdoh	(इतर)	Mualjin
+Churachandpur	Suangdoh	(इतर)	Ngaljang
+Churachandpur	Suangdoh	(इतर)	P. Suahzahau
+Churachandpur	Suangdoh	(इतर)	Sialbu
+Churachandpur	Suangdoh	(इतर)	Tonglon (K)
+Churachandpur	Suangdoh	(इतर)	Tonglon (P)
+Churachandpur	Suangdoh	(इतर)	Tonglon (T)
+Churachandpur	Suangdoh	(इतर)	Tonglon(D)
+Churachandpur	Suangdoh	(इतर)	Tuikuimuallum
+Churachandpur	Suangdoh	(इतर)	Tuilakjang
+Churachandpur	Suangdoh	(इतर)	Tuimanjang
+Churachandpur	Suangdoh	(इतर)	Vokbual (M)
+Churachandpur	Suangdoh	(इतर)	Vokbual(L)
+Churachandpur	Tuibong	(इतर)	Agape
+Churachandpur	Tuibong	(इतर)	B. Gosen
+Churachandpur	Tuibong	(इतर)	B. Kholmun
+Churachandpur	Tuibong	(इतर)	B. Mualhoih
+Churachandpur	Tuibong	(इतर)	B. Phainom
+Churachandpur	Tuibong	(इतर)	B.AIJALON (MACHET)
+Churachandpur	Tuibong	(इतर)	B.PHAICHAM (MACHET)
+Churachandpur	Tuibong	(इतर)	B.VENGNOM (MACHET)
+Churachandpur	Tuibong	(इतर)	Bethel
+Churachandpur	Tuibong	(इतर)	Bethlehem
+Churachandpur	Tuibong	(इतर)	Bijang
+Churachandpur	Tuibong	(इतर)	Boljol
+Churachandpur	Tuibong	(इतर)	Changlei
+Churachandpur	Tuibong	(इतर)	D VAISON
+Churachandpur	Tuibong	(इतर)	D. Khonom
+Churachandpur	Tuibong	(इतर)	D. Molkon
+Churachandpur	Tuibong	(इतर)	D.M.Veng
+Churachandpur	Tuibong	(इतर)	D.Phailian
+Churachandpur	Tuibong	(इतर)	E. Bungjang
+Churachandpur	Tuibong	(इतर)	EBENEZER (MACHET)
+Churachandpur	Tuibong	(इतर)	Emmanuel Veng
+Churachandpur	Tuibong	(इतर)	Gammunnom
+Churachandpur	Tuibong	(इतर)	Gamnom
+Churachandpur	Tuibong	(इतर)	Gamphajang
+Churachandpur	Tuibong	(इतर)	Gangpijang
+Churachandpur	Tuibong	(इतर)	Gelmon Khuman
+Churachandpur	Tuibong	(इतर)	H. Bethlehem
+Churachandpur	Tuibong	(इतर)	H. PONPI
+Churachandpur	Tuibong	(इतर)	H.B.PHAICHAM (MACHET)
+Churachandpur	Tuibong	(इतर)	H.GAMNOM (MACHET)
+Churachandpur	Tuibong	(इतर)	H.MONGJANG (MACHET)
+Churachandpur	Tuibong	(इतर)	H.PHAINOM (MACHET)
+Churachandpur	Tuibong	(इतर)	HAOLAIKHOPI (MACHET)
+Churachandpur	Tuibong	(इतर)	HILJANG
+Churachandpur	Tuibong	(इतर)	Hengkot
+Churachandpur	Tuibong	(इतर)	Hmarveng
+Churachandpur	Tuibong	(इतर)	Hopeland
+Churachandpur	Tuibong	(इतर)	J.SILOJANG (MACHET)
+Churachandpur	Tuibong	(इतर)	JANGLENPHAI
+Churachandpur	Tuibong	(इतर)	JOLJAM
+Churachandpur	Tuibong	(इतर)	K. Gamnom
+Churachandpur	Tuibong	(इतर)	K. Khomunnom
+Churachandpur	Tuibong	(इतर)	K. Lhangnem
+Churachandpur	Tuibong	(इतर)	K. MONGJANG
+Churachandpur	Tuibong	(इतर)	K. Mollum
+Churachandpur	Tuibong	(इतर)	K. Munhoi
+Churachandpur	Tuibong	(इतर)	K. Munnom
+Churachandpur	Tuibong	(इतर)	K. Nivangphai
+Churachandpur	Tuibong	(इतर)	K. SALEMPHAI
+Churachandpur	Tuibong	(इतर)	K. Saronphai
+Churachandpur	Tuibong	(इतर)	K. Senai
+Churachandpur	Tuibong	(इतर)	K. Songdojang
+Churachandpur	Tuibong	(इतर)	K.MOLHOI (MACHET)
+Churachandpur	Tuibong	(इतर)	K.Salbung (Srs)
+Churachandpur	Tuibong	(इतर)	K.Thenjang
+Churachandpur	Tuibong	(इतर)	KHOMAWI
+Churachandpur	Tuibong	(इतर)	KIPMUNNOM (MACHET)
+Churachandpur	Tuibong	(इतर)	KOITE
+Churachandpur	Tuibong	(इतर)	Kamdou Veng
+Churachandpur	Tuibong	(इतर)	Kaprang
+Churachandpur	Tuibong	(इतर)	Khaopijang
+Churachandpur	Tuibong	(इतर)	Khengjang
+Churachandpur	Tuibong	(इतर)	Khochijang
+Churachandpur	Tuibong	(इतर)	Kholmun
+Churachandpur	Tuibong	(इतर)	Kholunphai
+Churachandpur	Tuibong	(इतर)	Khomoi
+Churachandpur	Tuibong	(इतर)	Khotuh
+Churachandpur	Tuibong	(इतर)	Khuga Tampak
+Churachandpur	Tuibong	(इतर)	Kim Commisariate
+Churachandpur	Tuibong	(इतर)	Kingkin
+Churachandpur	Tuibong	(इतर)	Kipgen Veng
+Churachandpur	Tuibong	(इतर)	Kotsohoi
+Churachandpur	Tuibong	(इतर)	L. Bolkot
+Churachandpur	Tuibong	(इतर)	L. Cilon
+Churachandpur	Tuibong	(इतर)	L. Deilhenphai
+Churachandpur	Tuibong	(इतर)	L. Lhanomphai
+Churachandpur	Tuibong	(इतर)	L. Phainom
+Churachandpur	Tuibong	(इतर)	L.GAMNOM (MACHET)
+Churachandpur	Tuibong	(इतर)	L.GAMNOMJANG (MACHET)
+Churachandpur	Tuibong	(इतर)	L.MOLVOM (MACHET)
+Churachandpur	Tuibong	(इतर)	L.Semol
+Churachandpur	Tuibong	(इतर)	LHANGKICHOI VENG (MACHET)
+Churachandpur	Tuibong	(इतर)	LHONGCHIN
+Churachandpur	Tuibong	(इतर)	Laijangkhopi
+Churachandpur	Tuibong	(इतर)	Lajangphai
+Churachandpur	Tuibong	(इतर)	Leijangkhopi
+Churachandpur	Tuibong	(इतर)	Leisang
+Churachandpur	Tuibong	(इतर)	Lenglakot
+Churachandpur	Tuibong	(इतर)	Lhangjol
+Churachandpur	Tuibong	(इतर)	Lhangnem
+Churachandpur	Tuibong	(इतर)	Lukhumbi
+Churachandpur	Tuibong	(इतर)	M. Bethel
+Churachandpur	Tuibong	(इतर)	M. Golan
+Churachandpur	Tuibong	(इतर)	M. Jamkim
+Churachandpur	Tuibong	(इतर)	M. Ramthar
+Churachandpur	Tuibong	(इतर)	M. Thingjabong
+Churachandpur	Tuibong	(इतर)	M.Nazarath
+Churachandpur	Tuibong	(इतर)	M.Songgel
+Churachandpur	Tuibong	(इतर)	MONGLENPHAI
+Churachandpur	Tuibong	(इतर)	Manniang Kho
+Churachandpur	Tuibong	(इतर)	Mata Lambulane
+Churachandpur	Tuibong	(इतर)	Molhoi (S)
+Churachandpur	Tuibong	(इतर)	Molnom
+Churachandpur	Tuibong	(इतर)	Molnomphai
+Churachandpur	Tuibong	(इतर)	Monghoiphai
+Churachandpur	Tuibong	(इतर)	Mongkot Khopi
+Churachandpur	Tuibong	(इतर)	N. Boljang
+Churachandpur	Tuibong	(इतर)	N. Molhoi
+Churachandpur	Tuibong	(इतर)	N.MOLSOPHAI (MACHET)
+Churachandpur	Tuibong	(इतर)	NA-AG (MACHET)
+Churachandpur	Tuibong	(इतर)	NEW HENGKOT (MACHET)
+Churachandpur	Tuibong	(इतर)	NEW KAPARANG (MACHET)
+Churachandpur	Tuibong	(इतर)	Ngahmunnom
+Churachandpur	Tuibong	(इतर)	Ngaloimol
+Churachandpur	Tuibong	(इतर)	Ngulzen Veng
+Churachandpur	Tuibong	(इतर)	P. Gamnom
+Churachandpur	Tuibong	(इतर)	Paniel
+Churachandpur	Tuibong	(इतर)	Pishgah Veng
+Churachandpur	Tuibong	(इतर)	S BUALKOT
+Churachandpur	Tuibong	(इतर)	S. Haijang
+Churachandpur	Tuibong	(इतर)	S. KHONOMPHAI (MACHET)
+Churachandpur	Tuibong	(इतर)	S. Kanan Veng
+Churachandpur	Tuibong	(इतर)	S. Kaplane
+Churachandpur	Tuibong	(इतर)	S. Kunglal Veng
+Churachandpur	Tuibong	(इतर)	S. Moldung
+Churachandpur	Tuibong	(इतर)	S. Monglenjang
+Churachandpur	Tuibong	(इतर)	S. Mongneljang
+Churachandpur	Tuibong	(इतर)	S.Bualjang
+Churachandpur	Tuibong	(इतर)	S.GAMNOMJANG (MACHET)
+Churachandpur	Tuibong	(इतर)	S.Khomunnom
+Churachandpur	Tuibong	(इतर)	S.Molcham
+Churachandpur	Tuibong	(इतर)	S.PHAIPIJANG
+Churachandpur	Tuibong	(इतर)	S.Theimol
+Churachandpur	Tuibong	(इतर)	SAIHENJANG (MACHET)
+Churachandpur	Tuibong	(इतर)	SELBUHJANG
+Churachandpur	Tuibong	(इतर)	ST CHULLOUPHAI
+Churachandpur	Tuibong	(इतर)	SYNOD VENG (MACHET)
+Churachandpur	Tuibong	(इतर)	Sabual
+Churachandpur	Tuibong	(इतर)	Salva Lhanbung
+Churachandpur	Tuibong	(इतर)	Seilal Veng
+Churachandpur	Tuibong	(इतर)	Sejang.
+Churachandpur	Tuibong	(इतर)	Sielmat
+Churachandpur	Tuibong	(इतर)	Silak
+Churachandpur	Tuibong	(इतर)	Sl. Chavangphai
+Churachandpur	Tuibong	(इतर)	Songpi
+Churachandpur	Tuibong	(इतर)	Songpi Kholui
+Churachandpur	Tuibong	(इतर)	T. Bethlehem
+Churachandpur	Tuibong	(इतर)	T. Dengmunnom
+Churachandpur	Tuibong	(इतर)	T. H. Bethsaida
+Churachandpur	Tuibong	(इतर)	T. Hengjang
+Churachandpur	Tuibong	(इतर)	T. Joujang
+Churachandpur	Tuibong	(इतर)	T. Lungmonphai
+Churachandpur	Tuibong	(इतर)	T. Moldennom
+Churachandpur	Tuibong	(इतर)	T. Muipha
+Churachandpur	Tuibong	(इतर)	T. Phaijang
+Churachandpur	Tuibong	(इतर)	T. Sijang
+Churachandpur	Tuibong	(इतर)	T. Songlei
+Churachandpur	Tuibong	(इतर)	T.Boljang
+Churachandpur	Tuibong	(इतर)	T.Champhai
+Churachandpur	Tuibong	(इतर)	T.N.VAISON (MACHET)
+Churachandpur	Tuibong	(इतर)	T.S.HENGMOL (MACHET)
+Churachandpur	Tuibong	(इतर)	T.ZION (MACHET)
+Churachandpur	Tuibong	(इतर)	TS Molkot
+Churachandpur	Tuibong	(इतर)	TUISOMJANG (MACHET)
+Churachandpur	Tuibong	(इतर)	Takvom
+Churachandpur	Tuibong	(इतर)	Teiseng
+Churachandpur	Tuibong	(इतर)	Telsing Bazar
+Churachandpur	Tuibong	(इतर)	Theikakpi
+Churachandpur	Tuibong	(इतर)	Thinghangjang
+Churachandpur	Tuibong	(इतर)	Thongkholui
+Churachandpur	Tuibong	(इतर)	Tollen
+Churachandpur	Tuibong	(इतर)	Tolphei
+Churachandpur	Tuibong	(इतर)	Tonglal
+Churachandpur	Tuibong	(इतर)	Tuibong
+Churachandpur	Tuibong	(इतर)	Tuibong DHQ
+Churachandpur	Tuibong	(इतर)	Tuijang
+Churachandpur	Tuibong	(इतर)	Tuingamjang
+Churachandpur	Tuibong	(इतर)	Tuinom Khopi
+Churachandpur	Tuibong	(इतर)	V. Yangnom
+Churachandpur	Tuibong	(इतर)	V.HERMON (MACHET)
+Churachandpur	Tuibong	(इतर)	V.L.KHONOM (MACHET)
+Churachandpur	Tuibong	(इतर)	V.L.ZOLEN (MACHET)
+Churachandpur	Tuibong	(इतर)	V.PATLEN (MACHET)
+Churachandpur	Tuibong	(इतर)	V.SINAI (MACHET)
+Churachandpur	Tuibong	(इतर)	Vajing
+Churachandpur	Tuibong	(इतर)	Vaozang
+Churachandpur	Tuibong	(इतर)	Yangnomphai
+Churachandpur	Tuibong	(इतर)	ZOHAR PHAICHAM (MACHET)
+Churachandpur	Tuibong	(इतर)	Zalenmun
+Churachandpur	Tuibong	(इतर)	Zomicolony
+Imphal East	Keirao Bitra	(इतर)	ANDRO
+Imphal East	Keirao Bitra	(इतर)	ARAPTI
+Imphal East	Keirao Bitra	Angtha	Angtha
+Imphal East	Keirao Bitra	Angtha	Huikap and Ngariyan Muslim
+Imphal East	Keirao Bitra	Angtha	Karpur Shungba Kabui
+Imphal East	Keirao Bitra	Angtha	Lemba Khul
+Imphal East	Keirao Bitra	Bamon Kampu	Bamon Kampu
+Imphal East	Keirao Bitra	Bamon Kampu	Gangapat
+Imphal East	Keirao Bitra	Bamon Kampu	Kalika
+Imphal East	Keirao Bitra	Bamon Kampu	Kongbam Nongthongbam Leikai Southern Laishram
+Imphal East	Keirao Bitra	Bamon Kampu	Machahal
+Imphal East	Keirao Bitra	Chanam Sandrok	Chanam Sandrok
+Imphal East	Keirao Bitra	Chanam Sandrok	Keirao-Wangkhem
+Imphal East	Keirao Bitra	Chanam Sandrok	Khanarok(Khandrok)
+Imphal East	Keirao Bitra	Chanam Sandrok	Phunan Maring
+Imphal East	Keirao Bitra	Chanam Sandrok	Thiyam-Konjil
+Imphal East	Keirao Bitra	Changamdabi	Changamdabi Mathak Makha and Mamang
+Imphal East	Keirao Bitra	Changamdabi	Nungaipokpi
+Imphal East	Keirao Bitra	Keirao	Keirao-Bitra and Chingdong Kabui
+Imphal East	Keirao Bitra	Keirao	Keirao-Langdum
+Imphal East	Keirao Bitra	Keirao	Langthrei Loukon
+Imphal East	Keirao Bitra	Keirao Makting	Keirao Makting
+Imphal East	Keirao Bitra	Keirao Makting	Urup
+Imphal East	Keirao Bitra	Kiyamgei Muslim Arapti	Arapti(excluding N.A)
+Imphal East	Keirao Bitra	Kiyamgei Muslim Arapti	Kiyamgei Muslim
+Imphal East	Keirao Bitra	Kiyamgei Muslim Arapti	Takhok Makha
+Imphal East	Keirao Bitra	Top Chingtha	Top-Chingtha Laimanai
+Imphal East	Keirao Bitra	Top Chingtha	Tulihal (Amujao Salam Awang fr Kaina rd to Tbl rvr
+Imphal East	Keirao Bitra	Tulihal	Kaina
+Imphal East	Keirao Bitra	Tulihal	Poiroukhongjil
+Imphal East	Keirao Bitra	Tulihal	Tulihal (Amujao Salam Makha fr kaina rd to tbl rvr
+Imphal East	Keirao Bitra	Tumukheng Moirang Purel	Itham
+Imphal East	Keirao Bitra	Tumukheng Moirang Purel	Monthou Keithelmanbi and Laikhong
+Imphal East	Keirao Bitra	Tumukheng Moirang Purel	NUNGBRANG
+Imphal East	Keirao Bitra	Tumukheng Moirang Purel	Tumukhong Moirang Purel
+Imphal East	Keirao Bitra	Uchekon Nongchup	Kongba Nandeibam Leikai
+Imphal East	Keirao Bitra	Uchekon Nongchup	Uchekon
+Imphal East	Keirao Bitra	Uchekon Nongchup	Uchekon Nandeibam Leikai
+Imphal East	Keirao Bitra	Uchekon Nongpok	Loumanbi
+Imphal East	Keirao Bitra	Uchekon Nongpok	Takhok Mapal (Awang)
+Imphal East	Keirao Bitra	Uchekon Nongpok	Uchekon Khunou
+Imphal East	Keirao Bitra	Uchekon Nongpok	Uchekon Kshetri Leikai
+Imphal East	Keirao Bitra	Yambem	Andro Khunou and Kamu Yaithibi
+Imphal East	Keirao Bitra	Yambem	Yambem and Yambem Khunou
+Imphal East	Porompat	(इतर)	BHEIGYABATI LEIKAI
+Imphal East	Porompat	(इतर)	CHINGMEIRONG NONGCHUP
+Imphal East	Porompat	(इतर)	CHINGMEIRONG NONGPOK
+Imphal East	Porompat	(इतर)	HAFFIZ HATTA
+Imphal East	Porompat	(इतर)	KABO LEIKAI
+Imphal East	Porompat	(इतर)	KONJENG POILA
+Imphal East	Porompat	(इतर)	LAIPHAM SIPHAI
+Imphal East	Porompat	(इतर)	MANTRIPUKRI
+Imphal East	Porompat	(इतर)	NONGPOK INGKHOL
+Imphal East	Porompat	(इतर)	PALACE COMPOUND
+Imphal East	Porompat	(इतर)	SOIBAM LEIKAI
+Imphal East	Porompat	(इतर)	TELIPATI
+Imphal East	Porompat	(इतर)	WANGKHEI NONGPOK
+Imphal East	Porompat	(इतर)	WANGKHEI PANCHIM
+Imphal East	Porompat	(इतर)	WANGKHEIRAKPAM LEIKAI
+Imphal East	Porompat	Bashikhong	Bashikhong
+Imphal East	Porompat	Bashikhong	Kitna Pannung
+Imphal East	Porompat	Bashikhong	Wangkhei Loumanbi
+Imphal East	Porompat	Heingang	Heingang (CT)
+Imphal East	Porompat	Kairang Khomidok	Kairang Khunou
+Imphal East	Porompat	Kairang Khomidok	Kairang Muslim
+Imphal East	Porompat	Kairang Khomidok	Khomidok
+Imphal East	Porompat	Kangla	Angom Leikai
+Imphal East	Porompat	Kangla	Kangla Sangomsang
+Imphal East	Porompat	Kangla	Kangla Siphai
+Imphal East	Porompat	Kangla	Phaknung
+Imphal East	Porompat	Kangla	Sawombung Kabui Khunou Khongnangkhong Mana Ingkhol
+Imphal East	Porompat	Khongman	Khongman
+Imphal East	Porompat	Khurai Chingangbam Leikai	Khurai Chingangbam Leikai (CT)
+Imphal East	Porompat	Khurai Chingangbam Leikai	Kongkham Leikai (Part)
+Imphal East	Porompat	Khurai Khaidem Leikai	Khurai Khaidem Leikai
+Imphal East	Porompat	Khurai Khaidem Leikai	Khurai Khongnangkhong
+Imphal East	Porompat	Khurai Konsam Leikai	Khurai Konsam Leikai
+Imphal East	Porompat	Khurai Konsam Leikai	Nandeibam Leikai North East bouded by Don Bosco Road and Loukon
+Imphal East	Porompat	Khurai Nandeibam Leikai	Nandeibam Leikai North West bounded by Don BoscoRd
+Imphal East	Porompat	Khurai Nandeibam Leikai	Puthem Leikai
+Imphal East	Porompat	Khurai Nandeibam Leikai	Sorokhaibam Leikai West of Achom Leikai
+Imphal East	Porompat	Khurai Nandeibam Leikai	Thoidingjam Leikai
+Imphal East	Porompat	Kiyamgei	Khoirom Leikai
+Imphal East	Porompat	Kiyamgei	Kiyamgei Awang Leikai and Kiyamgei Mayai Leikai
+Imphal East	Porompat	Kiyamgei	Lilong Kabui Shantipur
+Imphal East	Porompat	Kontha Khabam	Achanbigei
+Imphal East	Porompat	Kontha Khabam	Kontha Khabam
+Imphal East	Porompat	Kshetrigao Pt I	Kshetri Awang Leikai
+Imphal East	Porompat	Kshetrigao Pt I	Kshetri Bengoon Awang Leikai
+Imphal East	Porompat	Kshetrigao Pt I	Kshetri Bengoon Makha Leikai
+Imphal East	Porompat	Kshetrigao Pt I	Kshetri Chandam Awang Leikai
+Imphal East	Porompat	Kshetrigao Pt I	Kshetri Mayai Leikai
+Imphal East	Porompat	Kshetrigao Pt Ii	Keikhu Mamang Leikai including Chandam Makha Leikai
+Imphal East	Porompat	Kshetrigao Pt Ii	Keikhu Muslim
+Imphal East	Porompat	Kshetrigao Pt Ii	Khergao Awang Leikai ( Sabal Leikai )
+Imphal East	Porompat	Kshetrigao Pt Ii	Khergao Makha Leikai
+Imphal East	Porompat	Laipham Khunou	Kairang Meitei
+Imphal East	Porompat	Laipham Khunou	Kontha Ahallup
+Imphal East	Porompat	Laipham Khunou	Laipham Khunou (CT)
+Imphal East	Porompat	Laipham Khunou	Nagaram
+Imphal East	Porompat	Lairikyengbam Leikai	Lairikyengbam Leikai (CT)
+Imphal East	Porompat	Laishram Leikai	Laishram Leikai
+Imphal East	Porompat	Laishram Leikai	Sorokhaibam Leikai (East of Achom Leikai)
+Imphal East	Porompat	Laishram Leikai	Thongam Leikai
+Imphal East	Porompat	Luwangsangbam	Koirengei Kabui
+Imphal East	Porompat	Luwangsangbam	Lamlongei
+Imphal East	Porompat	Luwangsangbam	Luwangsangbam (CT)
+Imphal East	Porompat	Luwangsangbam	Matai Basti
+Imphal East	Porompat	Moirang Kampu	Khurai Ningthoubung
+Imphal East	Porompat	Moirang Kampu	Kongpal Ningthoubung
+Imphal East	Porompat	Moirang Kampu	Moirang Kampu Sajeb
+Imphal East	Porompat	Moirang Kampu	Moirangkampu Khewa Mapal
+Imphal East	Porompat	Naharup	Keikhu Kabui
+Imphal East	Porompat	Naharup	Makhapat
+Imphal East	Porompat	Naharup	Naharup
+Imphal East	Porompat	Naharup	Thangbrijao
+Imphal East	Porompat	Naharup	Wakha Meetei and Kabui
+Imphal East	Porompat	Nilakuthi	Keikol
+Imphal East	Porompat	Nilakuthi	Koirengei Meitei
+Imphal East	Porompat	Nilakuthi	Maibakhul
+Imphal East	Porompat	Nilakuthi	Mongjam
+Imphal East	Porompat	Nilakuthi	Nilakuthi
+Imphal East	Porompat	Nilakuthi	Potsangbam Khunou
+Imphal East	Porompat	Nilakuthi	Tera Kareng
+Imphal East	Porompat	Thambalkhong	Kongba Nongthombam (Thambalkhong Laishram Leikai)
+Imphal East	Porompat	Thambalkhong	Porompat Laishram Leikai
+Imphal East	Porompat	Thambalkhong	Porompat Sabal Leikai (Thambalkhong)
+Imphal East	Porompat	Thambalkhong	Wangkhei Thambalkhong
+Imphal East	Porompat	Thongju Pt I	Thongju Nameirakpam Laishram Selungba Waikhom Ning
+Imphal East	Porompat	Thongju Pt Ii	Korou Nameirakpam Urikhinbam Laishram Leikai Pheija Leitong Chingkham Waikhom Khongnangkhong
+Imphal East	Porompat	Top Dusara	Top Dusara Imphal
+Imphal East	Porompat	Top Dusara	Top Dusara Khabam
+Imphal East	Porompat	Top Naoria	Chanam Leikai (Wangkhei)
+Imphal East	Porompat	Top Naoria	Porompat Kshetri Leikai
+Imphal East	Porompat	Top Naoria	Porompat Muslim
+Imphal East	Porompat	Top Naoria	Porompat Mutum Leikai
+Imphal East	Porompat	Top Naoria	Top Naoriya
+Imphal East	Porompat	Torban Kshetri Leikai	Torban (Torban Kshetri Leikai)Pebiya Pandit Leikai
+Imphal East	Sawombung	(इतर)	CHALOU
+Imphal East	Sawombung	(इतर)	LAMLAI
+Imphal East	Sawombung	(इतर)	NAPET
+Imphal East	Sawombung	Haraorou Tangkham	Chingkhu
+Imphal East	Sawombung	Haraorou Tangkham	Haraorou
+Imphal East	Sawombung	Haraorou Tangkham	Isheiga Khunou
+Imphal East	Sawombung	Haraorou Tangkham	Ishingthembi
+Imphal East	Sawombung	Haraorou Tangkham	Morok Ingkhol
+Imphal East	Sawombung	Haraorou Tangkham	Ngairangbam
+Imphal East	Sawombung	Haraorou Tangkham	Sambei
+Imphal East	Sawombung	Haraorou Tangkham	Sarouthel
+Imphal East	Sawombung	Haraorou Tangkham	Sinam
+Imphal East	Sawombung	Haraorou Tangkham	Tangkham
+Imphal East	Sawombung	Haraorou Tangkham	Wangkhei Khunou
+Imphal East	Sawombung	Haraorou Tangkham	Yumnam Khunou
+Imphal East	Sawombung	Kairang Khomidok	Khabeisoi
+Imphal East	Sawombung	Kairang Khomidok	Thangjam Khunou
+Imphal East	Sawombung	Khundrakpam	Khundrakpam
+Imphal East	Sawombung	Khundrakpam	Khundrakpam Awang Ithai Mapal
+Imphal East	Sawombung	Khundrakpam	Taorem and Khuningthek
+Imphal East	Sawombung	Makeng - Dolaithabi	Aisan Nepali
+Imphal East	Sawombung	Makeng - Dolaithabi	Hangoipat
+Imphal East	Sawombung	Makeng - Dolaithabi	Khongjil Khongjai
+Imphal East	Sawombung	Makeng - Dolaithabi	Leitanpokpi
+Imphal East	Sawombung	Makeng - Dolaithabi	Makeng Chonglou
+Imphal East	Sawombung	Makeng - Dolaithabi	Makeng Ngulrou
+Imphal East	Sawombung	Makeng - Dolaithabi	Matakhong
+Imphal East	Sawombung	Makeng - Dolaithabi	Purum Khunou(Koupak)
+Imphal East	Sawombung	Makeng - Dolaithabi	Sadu Koireng (Sadu Yengkhuman Meitei and Nepali)
+Imphal East	Sawombung	Makeng - Dolaithabi	Sadu Lampak
+Imphal East	Sawombung	Makeng - Dolaithabi	Sadu Longa Kairang(Dolaithabi)
+Imphal East	Sawombung	Nongren Chingnungkok	Chingnungkhok
+Imphal East	Sawombung	Nongren Chingnungkok	Heirok
+Imphal East	Sawombung	Nongren Chingnungkok	Kakching
+Imphal East	Sawombung	Nongren Chingnungkok	Kameng Nongada
+Imphal East	Sawombung	Nongren Chingnungkok	Nongdam
+Imphal East	Sawombung	Nongren Chingnungkok	Nongren
+Imphal East	Sawombung	Nongren Chingnungkok	Oksu Ningthemcha Khul
+Imphal East	Sawombung	Pukhao	Khewa Company
+Imphal East	Sawombung	Pukhao	Pukhao Ahallup
+Imphal East	Sawombung	Pukhao	Pukhao Khabam
+Imphal East	Sawombung	Pukhao	Pukhao Laipham
+Imphal East	Sawombung	Pukhao	Pukhao Naharup
+Imphal East	Sawombung	Pukhao	Pukhao Santipur
+Imphal East	Sawombung	Pukhao	Sagolmang
+Imphal East	Sawombung	Pukhao	Yumnam Patlou
+Imphal East	Sawombung	Pungdongbam	Huidrom
+Imphal East	Sawombung	Pungdongbam	Keibi Lousangkhong
+Imphal East	Sawombung	Pungdongbam	Pungdongbam
+Imphal East	Sawombung	Pungdongbam	Sekta
+Imphal East	Sawombung	Sawombung	Itam
+Imphal East	Sawombung	Sawombung	Iyampal(Yourbung Khunjao and Khunou)
+Imphal East	Sawombung	Sawombung	Nungoi
+Imphal East	Sawombung	Sawombung	Sawombung Kabui Khunjao and Kabui Wangma
+Imphal East	Sawombung	Sawombung	Sawombung Thongkhong(Meitei)
+Imphal East	Sawombung	Takhel	Chingkhei Khullen
+Imphal East	Sawombung	Takhel	Kambongput Panthabi
+Imphal East	Sawombung	Takhel	KamuChingjil
+Imphal East	Sawombung	Takhel	Kharasom
+Imphal East	Sawombung	Takhel	Salakhul
+Imphal East	Sawombung	Takhel	Sangsabi
+Imphal East	Sawombung	Takhel	Sanjenbam Khullen
+Imphal East	Sawombung	Takhel	Sanjenbam Khunou
+Imphal East	Sawombung	Takhel	Takhel
+Imphal East	Sawombung	Tellou Chana Sheijang	Chana
+Imphal East	Sawombung	Tellou Chana Sheijang	Chonthabakhul
+Imphal East	Sawombung	Tellou Chana Sheijang	Gwaltabi
+Imphal East	Sawombung	Tellou Chana Sheijang	Laikot
+Imphal East	Sawombung	Tellou Chana Sheijang	Leimakhong Mapal
+Imphal East	Sawombung	Tellou Chana Sheijang	Loyaram Tangkhul
+Imphal East	Sawombung	Tellou Chana Sheijang	Sabungkhok
+Imphal East	Sawombung	Tellou Chana Sheijang	Sabungkhok khunou
+Imphal East	Sawombung	Tellou Chana Sheijang	Seijang
+Imphal East	Sawombung	Tellou Chana Sheijang	Sunurok Pangal Sanasabi
+Imphal East	Sawombung	Tellou Chana Sheijang	Tellou
+Imphal East	Sawombung	Tellou Chana Sheijang	Thamnapokpi
+Imphal East	Sawombung	Tellou Chana Sheijang	Yaingangpokpi
+Imphal East	Sawombung	Uyumpok	Keibi Khullen and Khunou
+Imphal East	Sawombung	Uyumpok	Keibi Kumuda and Chanung
+Imphal East	Sawombung	Uyumpok	Lamboikhul (Tiger Camp)
+Imphal East	Sawombung	Uyumpok	Lamoikhul (Ireima)
+Imphal East	Sawombung	Uyumpok	Saimom Leikai
+Imphal East	Sawombung	Uyumpok	Taretkhul
+Imphal East	Sawombung	Uyumpok	Terapur
+Imphal East	Sawombung	Uyumpok	Uyumpok
+Imphal East	Sawombung	Uyumpok	Uyumpok Muslim
+Imphal East	Sawombung	Uyumpok	Wakhong
+Imphal East	Sawombung	Waiton	Chinga Tejpur
+Imphal East	Sawombung	Waiton	Mani Yaishkul
+Imphal East	Sawombung	Waiton	Pangei Nepali and Meitei
+Imphal East	Sawombung	Waiton	Pourabi
+Imphal East	Sawombung	Waiton	Sawombung Lamkhai
+Imphal East	Sawombung	Waiton	Wairi
+Imphal East	Sawombung	Waiton	Waiton
+Imphal West	Lamphelpat	(इतर)	BABUPARA
+Imphal West	Lamphelpat	(इतर)	BIJOY GOVINDA
+Imphal West	Lamphelpat	(इतर)	CHINGAKHAM LEIKAI
+Imphal West	Lamphelpat	(इतर)	CHINGAMAKHA
+Imphal West	Lamphelpat	(इतर)	CHINGAMATHAK
+Imphal West	Lamphelpat	(इतर)	HEINOUKHONGNEMBI
+Imphal West	Lamphelpat	(इतर)	IROISEMBA
+Imphal West	Lamphelpat	(इतर)	KABO LEIKAI NONGCHUP
+Imphal West	Lamphelpat	(इतर)	KANGLA
+Imphal West	Lamphelpat	(इतर)	KEISHAMTHONG
+Imphal West	Lamphelpat	(इतर)	KHAGEMPALLI
+Imphal West	Lamphelpat	(इतर)	KHWAI BAZAR
+Imphal West	Lamphelpat	(इतर)	KHWAI LALAMBUNG
+Imphal West	Lamphelpat	(इतर)	LALAMBUNG
+Imphal West	Lamphelpat	(इतर)	LAMPHELPAT
+Imphal West	Lamphelpat	(इतर)	MEITEI LANGOL
+Imphal West	Lamphelpat	(इतर)	NINGTHOUJAM LEIKAI
+Imphal West	Lamphelpat	(इतर)	OINAM THINGEL
+Imphal West	Lamphelpat	(इतर)	POLICE BAZAR
+Imphal West	Lamphelpat	(इतर)	SAGOLBAND
+Imphal West	Lamphelpat	(इतर)	SINGJAMEI
+Imphal West	Lamphelpat	(इतर)	TARUNG
+Imphal West	Lamphelpat	(इतर)	THANGMEIBAND
+Imphal West	Lamphelpat	(इतर)	THARON
+Imphal West	Lamphelpat	(इतर)	URIPOK
+Imphal West	Lamphelpat	Maibam Leikai	Ahongsangbam Leikai
+Imphal West	Lamphelpat	Maibam Leikai	Laiphrakpam Leikai
+Imphal West	Lamphelpat	Maibam Leikai	Maibam Leikai
+Imphal West	Lamphelpat	Mongsangei	Chintham Leikai
+Imphal West	Lamphelpat	Mongsangei	Ningthemcha Karong
+Imphal West	Lamphelpat	Mongsangei	Yangam Leikai(Heirangoithong West)
+Imphal West	Lamphelpat	Naoria Pakhanglakpa Heinoukhongnembi	Heinoukhongnembi(excluding MA)
+Imphal West	Lamphelpat	Naoria Pakhanglakpa Heinoukhongnembi	Irom Leikai
+Imphal West	Lamphelpat	Naoria Pakhanglakpa Heinoukhongnembi	Keisham Leikai
+Imphal West	Lamphelpat	Oinam Thingel	Oinam Thingel ex MA ie Khongnang Pheidekpi Waikhom
+Imphal West	Lamphelpat	Oinam Thingel	Sorokhaibam Leikai
+Imphal West	Lamphelpat	Sagaiprou Mamang	Lourembam Leikai
+Imphal West	Lamphelpat	Sagolband Sapam Leikai	Sagolband Sapam Leirak
+Imphal West	Lamphelpat	Sagolband Thounaojam Leikai	Sagolband Thounaojam Leikai Excluding I M A
+Imphal West	Lamphelpat	Takyel	Takyel Khongban
+Imphal West	Lamphelpat	Takyel	Takyel Kolom Leikai
+Imphal West	Lamsang	(इतर)	Laingamkhul
+Imphal West	Lamsang	(इतर)	Lamdeng
+Imphal West	Lamsang	(इतर)	Lamdeng Khunou
+Imphal West	Lamsang	(इतर)	Lamsang
+Imphal West	Lamsang	(इतर)	Sekmai
+Imphal West	Lamsang	(इतर)	Taothong
+Imphal West	Lamsang	Awang Khunou	Awangkhunou
+Imphal West	Lamsang	Awang Khunou	Salam Keikhu
+Imphal West	Lamsang	Awang Khunou	Tharoijam Excluding Keithelmacha
+Imphal West	Lamsang	Kanglatongbi	Bijaya Nagar
+Imphal West	Lamsang	Kanglatongbi	Fourth AR Colony
+Imphal West	Lamsang	Kanglatongbi	Hathikhuwa
+Imphal West	Lamsang	Kanglatongbi	Kanglatongbi Mandir
+Imphal West	Lamsang	Kanglatongbi	Mantriband Bazar
+Imphal West	Lamsang	Kanglatongbi	Pangaltabi
+Imphal West	Lamsang	Kanglatongbi	Sekmai Mantriband
+Imphal West	Lamsang	Kanglatongbi	Shantipur and Subedar Basti
+Imphal West	Lamsang	Kanglatongbi	Tispari
+Imphal West	Lamsang	Khonghampat	Khamaram
+Imphal West	Lamsang	Khonghampat	Khonghampat Mantri Leikai
+Imphal West	Lamsang	Khonghampat	Khonghampat and Khonghampat Khunou
+Imphal West	Lamsang	Khonghampat	Loitang Khullen
+Imphal West	Lamsang	Khonghampat	Loitang Shandum and Ukasoi
+Imphal West	Lamsang	Khonghampat	Pheidinga
+Imphal West	Lamsang	Khurkhul	Kanto Khulen
+Imphal West	Lamsang	Khurkhul	Keingam and Kanta Sabal Leikai
+Imphal West	Lamsang	Khurkhul	Khurkhul Makha and Awang Leikai
+Imphal West	Lamsang	Khurkhul	Moibung Khunou
+Imphal West	Lamsang	Khurkhul	Nongthomband
+Imphal West	Lamsang	Khurkhul	Sekmai Sabal Leikai
+Imphal West	Lamsang	Lairenkabi Kadangband	Atong Khunou Atom Khuman
+Imphal West	Lamsang	Lairenkabi Kadangband	Haorang Keiren
+Imphal West	Lamsang	Lairenkabi Kadangband	Kadangband
+Imphal West	Lamsang	Lairenkabi Kadangband	Kangtabi
+Imphal West	Lamsang	Lairenkabi Kadangband	Kha Lairenkabi
+Imphal West	Lamsang	Lairenkabi Kadangband	Lairenkabi Awang
+Imphal West	Lamsang	Lairenkabi Kadangband	Lairensajik
+Imphal West	Lamsang	Lairenkabi Kadangband	Lamlongei
+Imphal West	Lamsang	Lairenkabi Kadangband	Palangsoi
+Imphal West	Lamsang	Lairenkabi Kadangband	Sairem Khul
+Imphal West	Lamsang	Lairenkabi Kadangband	Sanjenbam
+Imphal West	Lamsang	Maklang	Haorang Sabal
+Imphal West	Lamsang	Maklang	Kiyam
+Imphal West	Lamsang	Maklang	Luker Loitong
+Imphal West	Lamsang	Maklang	Maklang Karong Kachikhul
+Imphal West	Lamsang	Maklang	Sangaithel Longa Keireng
+Imphal West	Lamsang	Maklang	Thangjing Khullen
+Imphal West	Lamsang	Mayang Langjing	Akham
+Imphal West	Lamsang	Mayang Langjing	Heibongpokpi
+Imphal West	Lamsang	Mayang Langjing	Kamong and Mana Ingkhol
+Imphal West	Lamsang	Mayang Langjing	Lambal
+Imphal West	Lamsang	Mayang Langjing	Lamsang Khunou
+Imphal West	Lamsang	Mayang Langjing	MayangLangjing Tanning and Tamang
+Imphal West	Lamsang	Mayang Langjing	Ngariyanbam
+Imphal West	Lamsang	Moidangpok	New Keithelmanbi
+Imphal West	Lamsang	Ngairangbam	Ngairangbam
+Imphal West	Lamsang	Phayeng	Kangchup Chingkhong
+Imphal West	Lamsang	Phayeng	Kharam Koireng
+Imphal West	Lamsang	Phayeng	Koutruk
+Imphal West	Lamsang	Phayeng	Phayeng
+Imphal West	Lamsang	Phayeng	Tairenpokpi
+Imphal West	Lamsang	Phumlou	Leitang Laikinthabi
+Imphal West	Lamsang	Phumlou	Loitang Khunou
+Imphal West	Lamsang	Phumlou	Phumlou
+Imphal West	Lamsang	Phumlou	Senjam Chirang
+Imphal West	Lamsang	Potsangbam	Awang Laikinthabi
+Imphal West	Lamsang	Potsangbam	Maharabi
+Imphal West	Lamsang	Potsangbam	Potsangbam Khullen Wabagai Khoiru
+Imphal West	Lamsang	Potsangbam	Potsangbam Thouriphi
+Imphal West	Lamsang	Potsangbam	Tendongyan
+Imphal West	Lamsang	Potsangbam	Tingri Terapokpi Chandirok Yaipalpokpi
+Imphal West	Patsoi	Bijoy Govinda	Loukrakpam Tongbram Khuraijam Leikai
+Imphal West	Patsoi	Changangei	Changangei
+Imphal West	Patsoi	Changangei	Tabungkhok
+Imphal West	Patsoi	Kangmong	Heikrujam Pt I West Imp low level canal LLI Div II
+Imphal West	Patsoi	Kangmong	Kangmong Maisnam Tongbram Langeljam
+Imphal West	Patsoi	Konthoujam	KonthoujamKhabamBamdiar
+Imphal West	Patsoi	Lamjaotongba	Aramji Kabui
+Imphal West	Patsoi	Lamjaotongba	Khamnam Leirak
+Imphal West	Patsoi	Lamjaotongba	Loukham Leirak
+Imphal West	Patsoi	Lamjaotongba	Lukram Leirak
+Imphal West	Patsoi	Lamjaotongba	Sadokpam Leikai
+Imphal West	Patsoi	Lamjaotongba	Sangaiprou Kabui
+Imphal West	Patsoi	Lamjaotongba	Yambem Leirak
+Imphal West	Patsoi	Lamjaotongba	Yengkhom Leirak
+Imphal West	Patsoi	Langjing	Langjing Part I
+Imphal West	Patsoi	Langjing	Langjing Part II
+Imphal West	Patsoi	Langjing	Moirang Hanuba leirak excluding maning leirak
+Imphal West	Patsoi	Langjing	Soyam Leirak
+Imphal West	Patsoi	Moidangpok	Khumbong Part I (West of Maklang river)
+Imphal West	Patsoi	Moidangpok	Moidangpok Khullen
+Imphal West	Patsoi	Moidangpok	Moidangpok Khunou
+Imphal West	Patsoi	Moidangpok	Sajirok
+Imphal West	Patsoi	Ngairangbam	Khaidem
+Imphal West	Patsoi	Ngairangbam	Khumbong Part II(East of Maklang river)
+Imphal West	Patsoi	Patsoi	Patsoi Part I Part II Part III Part IV
+Imphal West	Patsoi	Patsoi	Tharoijam Keithelmacha
+Imphal West	Patsoi	Sagolband Sapam Leikai	Konthoujam Leikai
+Imphal West	Patsoi	Sagolband Sapam Leikai	Mayai Koibi Chabungbam Leikai
+Imphal West	Patsoi	Sagolband Thounaojam Leikai	Ghari
+Imphal West	Patsoi	Sagolband Thounaojam Leikai	Mayai Koibi Ningthoujam Leikai
+Imphal West	Patsoi	Sagolband Thounaojam Leikai	Sangaiprou Maning
+Imphal West	Patsoi	Takyel	Moiranghanuba Maning Leikai Leirak Macha
+Imphal West	Patsoi	Yarou Bamdiar Khabi Bamdiar	Awang Jiri
+Imphal West	Patsoi	Yarou Bamdiar Khabi Bamdiar	Heikrujam Pt II East Imp low levl canal LLI Div II
+Imphal West	Patsoi	Yarou Bamdiar Khabi Bamdiar	Top Khabi
+Imphal West	Patsoi	Yarou Bamdiar Khabi Bamdiar	Yarou Bamdiar (excluding Khabam Bamdiar)
+Imphal West	Patsoi	Yurembam	Sagoltongba Lanshonbi bazar
+Imphal West	Patsoi	Yurembam	Yurembam
+Imphal West	Wangoi	(इतर)	BENGOON
+Imphal West	Wangoi	(इतर)	BITRA UROKHONG
+Imphal West	Wangoi	(इतर)	CHABUNG COMPANY
+Imphal West	Wangoi	(इतर)	CHAJING PART-I
+Imphal West	Wangoi	(इतर)	CHAJING PART-II
+Imphal West	Wangoi	(इतर)	CHIRAI
+Imphal West	Wangoi	(इतर)	HAOREIBI
+Imphal West	Wangoi	(इतर)	KARAM
+Imphal West	Wangoi	(इतर)	KOKCHAI
+Imphal West	Wangoi	(इतर)	LAIPHRAKPAM
+Imphal West	Wangoi	(इतर)	LAKU HUIDROM
+Imphal West	Wangoi	(इतर)	LANGTHABAL KUNJA
+Imphal West	Wangoi	(इतर)	MAYANG IMPHAL
+Imphal West	Wangoi	(इतर)	MUTUM PHIBOU
+Imphal West	Wangoi	(इतर)	NARAN KONJIL
+Imphal West	Wangoi	(इतर)	OINAM SAWOMBUNG
+Imphal West	Wangoi	(इतर)	SHAMUROU
+Imphal West	Wangoi	(इतर)	THIYAM LEISHANGKHONG
+Imphal West	Wangoi	(इतर)	WANGOI
+Imphal West	Wangoi	(इतर)	WANGOI TOP
+Imphal West	Wangoi	Hiyangthang	Hiyangthang
+Imphal West	Wangoi	Hiyangthang	Langthabal Khoubum Chingthak and Chingkha
+Imphal West	Wangoi	Hiyangthang	Naral Konjil (excluding N.A)
+Imphal West	Wangoi	Hiyangthang	Pallak
+Imphal West	Wangoi	Hiyangthang	Takhellambam Konjil
+Imphal West	Wangoi	Hiyangthang	Tarahei Konjil
+Imphal West	Wangoi	Kodompokpi	Kodompokpi
+Imphal West	Wangoi	Kodompokpi	Meitram
+Imphal West	Wangoi	Lairenjam Meijrao	Govinda Gram Wakching Khullen
+Imphal West	Wangoi	Lairenjam Meijrao	Irom Meijrao
+Imphal West	Wangoi	Lairenjam Meijrao	Lairenjam
+Imphal West	Wangoi	Langthabal - Mantrikhong Naorem Leikai	Langthabal Mantrikhong
+Imphal West	Wangoi	Langthabal - Mantrikhong Naorem Leikai	Naorem Leikai
+Imphal West	Wangoi	Langthabal - Mantrikhong Naorem Leikai	Oinam Leikai
+Imphal West	Wangoi	Langthabal Ningombam	Langthabal Lep
+Imphal West	Wangoi	Langthabal Ningombam	Langthabal Phuramakhong
+Imphal West	Wangoi	Langthabal Ningombam	Ningombam
+Imphal West	Wangoi	Laphupat Komlakhong	Komlakhong
+Imphal West	Wangoi	Laphupat Komlakhong	Laphupat Tera
+Imphal West	Wangoi	Malom	Malom Tulihal
+Imphal West	Wangoi	Malom	Malom Tuliyaima
+Imphal West	Wangoi	Mongsangei	Mongsangei
+Imphal West	Wangoi	Phoubakchao Sekmaijin	Hangoon
+Imphal West	Wangoi	Phoubakchao Sekmaijin	Phoubakchao
+Imphal West	Wangoi	Phoubakchao Sekmaijin	Thongam
+Imphal West	Wangoi	Sagaiprou Mamang	Sangaiprou Mamang
+Imphal West	Wangoi	Samushang Bitra Urokhong	Bitra Urokhong Iram Siphai excluding N.A
+Imphal West	Wangoi	Samushang Bitra Urokhong	Chongtham Kona
+Imphal West	Wangoi	Samushang Bitra Urokhong	Samushang
+Imphal West	Wangoi	Uchiwa	Hayel
+Imphal West	Wangoi	Uchiwa	Uchiwa
+Jiribam	Borobekra	Latingkhal	Baibeni Naga
+Jiribam	Jiribam	(इतर)	BABUPARA
+Jiribam	Jiribam	(इतर)	KALINAGAR
+Jiribam	Jiribam	(इतर)	KAMARANGHA KUKU PUNJI
+Jiribam	Jiribam	Borobekra	Bhomikpara
+Jiribam	Jiribam	Borobekra	Bhutangkhal Bengali
+Jiribam	Jiribam	Borobekra	Bhutangkhal Kuki
+Jiribam	Jiribam	Borobekra	Borobokra
+Jiribam	Jiribam	Borobekra	Borobokra Tomalganj Bazar
+Jiribam	Jiribam	Borobekra	Chhotobokra Bengali
+Jiribam	Jiribam	Borobekra	Chotobekra
+Jiribam	Jiribam	Borobekra	Harinagar
+Jiribam	Jiribam	Borobekra	Jatrapur
+Jiribam	Jiribam	Borobekra	Kaisel Punjee
+Jiribam	Jiribam	Borobekra	Kaya Punji
+Jiribam	Jiribam	Borobekra	Lama Bhutangkhal Bengali
+Jiribam	Jiribam	Borobekra	Lama Bhutangkhal Kuki
+Jiribam	Jiribam	Borobekra	Lamabhutangkhal
+Jiribam	Jiribam	Borobekra	Satrapur
+Jiribam	Jiribam	Dibong	Bakhal Ningthembam Nungchappi
+Jiribam	Jiribam	Dibong	Champanagar Meitei
+Jiribam	Jiribam	Dibong	Champanagar Muslim
+Jiribam	Jiribam	Dibong	Chindong Leikai
+Jiribam	Jiribam	Dibong	Chingdong Leikai Kuki
+Jiribam	Jiribam	Dibong	Dibong
+Jiribam	Jiribam	Dibong	Islamabad
+Jiribam	Jiribam	Dibong	Kadomtala
+Jiribam	Jiribam	Dibong	Kunjabon
+Jiribam	Jiribam	Dibong	Mahadevpur
+Jiribam	Jiribam	Dibong	Rasidpur
+Jiribam	Jiribam	Hilghat	Babukhal
+Jiribam	Jiribam	Hilghat	Bidyanagar
+Jiribam	Jiribam	Hilghat	Boroikhal Pt I
+Jiribam	Jiribam	Hilghat	Boroikhal Pt II
+Jiribam	Jiribam	Hilghat	Harinagar Meitei
+Jiribam	Jiribam	Hilghat	Hilghat
+Jiribam	Jiribam	Hilghat	Hilghat Khunou Gularthel
+Jiribam	Jiribam	Hilghat	Jarolpokpi
+Jiribam	Jiribam	Hilghat	Kamaranga
+Jiribam	Jiribam	Hilghat	Kamrangha Kuki
+Jiribam	Jiribam	Hilghat	Narandher Basa
+Jiribam	Jiribam	Hilghat	New Alipur
+Jiribam	Jiribam	Hilghat	Sabhughat
+Jiribam	Jiribam	Hilghat	Uchathel
+Jiribam	Jiribam	Hilghat	Yairalpokpi
+Jiribam	Jiribam	Jakuradhor	Choudhurikhal
+Jiribam	Jiribam	Jakuradhor	Dholakhal
+Jiribam	Jiribam	Jakuradhor	Durgapur
+Jiribam	Jiribam	Jakuradhor	Guakhal
+Jiribam	Jiribam	Jakuradhor	Jakuradhor Part Ii
+Jiribam	Jiribam	Jakuradhor	Jakuradhor Pt-I
+Jiribam	Jiribam	Jakuradhor	Madhupur
+Jiribam	Jiribam	Jakuradhor	Narayanpur
+Jiribam	Jiribam	Jakuradhor	Samkhan Punjee
+Jiribam	Jiribam	Jakuradhor	Thangboi Punjee
+Jiribam	Jiribam	Jakuradhor	Tupidhor
+Jiribam	Jiribam	Latingkhal	Abom Punjee Khasia
+Jiribam	Jiribam	Latingkhal	Baibeni Bengali
+Jiribam	Jiribam	Latingkhal	Berabak
+Jiribam	Jiribam	Latingkhal	Binselu
+Jiribam	Jiribam	Latingkhal	Chandranathpur
+Jiribam	Jiribam	Latingkhal	Jirimukh
+Jiribam	Jiribam	Latingkhal	Khadagar
+Jiribam	Jiribam	Latingkhal	Latingkhal
+Jiribam	Jiribam	Latingkhal	Makhabosti
+Jiribam	Jiribam	Latingkhal	Maljol Kuki
+Jiribam	Jiribam	Latingkhal	Nungphou
+Jiribam	Jiribam	Latingkhal	Tilka Company
+Jiribam	Jiribam	Sonapur	Aglapur Alipur
+Jiribam	Jiribam	Sonapur	Ahamadabad
+Jiribam	Jiribam	Sonapur	Kashimpur
+Jiribam	Jiribam	Sonapur	Lalpani
+Jiribam	Jiribam	Sonapur	Leishabithal Meitei
+Jiribam	Jiribam	Sonapur	Leishabithel Kuki
+Jiribam	Jiribam	Sonapur	Mongbung
+Jiribam	Jiribam	Sonapur	Mulargao
+Jiribam	Jiribam	Sonapur	Nunkhal
+Jiribam	Jiribam	Sonapur	Sonapur Pt I
+Jiribam	Jiribam	Sonapur	Sonapur Pt II
+Kakching	Kakching	(इतर)	Aimol Khunou
+Kakching	Kakching	(इतर)	Elangkhangpokpi
+Kakching	Kakching	(इतर)	KAKCHING KHULLEN-I
+Kakching	Kakching	(इतर)	KAKCHING KHULLEN-II
+Kakching	Kakching	(इतर)	KAKCHING KHULLEN-III
+Kakching	Kakching	(इतर)	KAKCHING WAIRI-I
+Kakching	Kakching	(इतर)	KAKCHING WAIRI-II
+Kakching	Kakching	(इतर)	Kangoi
+Kakching	Kakching	Arong Nongmaikhong	Komnao
+Kakching	Kakching	Arong Nongmaikhong	Nongmaikhong (Arong Nongmaikhong)
+Kakching	Kakching	Arong Nongmaikhong	Sarik Konjin
+Kakching	Kakching	Arong Nongmaikhong	Tokpaching
+Kakching	Kakching	Chairel	Wangjing Khunou
+Kakching	Kakching	Hayel Hangoon	Hangoon
+Kakching	Kakching	Hayel Hangoon	Hayel
+Kakching	Kakching	Hayel Hangoon	Uchiwa Shanthel
+Kakching	Kakching	Hayel Hangoon	Wabagai Partly Tera Pishak
+Kakching	Kakching	Hiyanglam	Hiyanglam Part I
+Kakching	Kakching	Hiyanglam	Hiyanglam Part II
+Kakching	Kakching	Irengband	Hawairou
+Kakching	Kakching	Irengband	Irengband
+Kakching	Kakching	Irengband	Mairembam
+Kakching	Kakching	Irengband	Sora West
+Kakching	Kakching	Irong Chesaba	Irong Chesaba
+Kakching	Kakching	Keirak	Keirak
+Kakching	Kakching	Keirak	Mantak ST
+Kakching	Kakching	Langmeidong	Langmeidong
+Kakching	Kakching	Maibam Uchiwa	Heibong Makhong
+Kakching	Kakching	Maibam Uchiwa	Khelakhong
+Kakching	Kakching	Maibam Uchiwa	Maibam Konjil
+Kakching	Kakching	Maibam Uchiwa	Uchiwa
+Kakching	Kakching	Mayeng Lamjao	Laimanai
+Kakching	Kakching	Mayeng Lamjao	Mayenglamjao
+Kakching	Kakching	Mayeng Lamjao	Tejpur
+Kakching	Kakching	Pallel	Bijoypur
+Kakching	Kakching	Pallel	Kuraopokpi
+Kakching	Kakching	Pallel	Molnoi ST
+Kakching	Kakching	Pallel	Pallel
+Kakching	Kakching	Pallel	Sora East
+Kakching	Kakching	Pallel	Unapal
+Kakching	Kakching	Pangaltabi	Pangaltabi
+Kakching	Kakching	Sekmaijin	Khoidum
+Kakching	Kakching	Sekmaijin	Laphupat Khunou
+Kakching	Kakching	Sekmaijin	Sekmaijin
+Kakching	Kakching	Serou	Kekrupokpi ST
+Kakching	Kakching	Serou	Shinam Thingangphai ST
+Kakching	Kakching	Wabagai	Wabagai
+Kakching	Kakching	Wangoo	Hongbiband ST
+Kakching	Kakching	Wangoo	Morrangkhom Maring ST
+Kakching	Kakching	Wangoo	Yangremphai ST
+Kakching	Kakching	Wangoo	wangoo Warukok
+Kakching	Waikhong	(इतर)	KAKCHING KHUNOU-I
+Kakching	Waikhong	(इतर)	KAKCHING KHUNOU-II
+Kakching	Waikhong	(इतर)	SUGUNU
+Kakching	Waikhong	(इतर)	THONGAM
+Kakching	Waikhong	Arong Nongmaikhong	Arong
+Kakching	Waikhong	Arong Nongmaikhong	Arong Khunou
+Kakching	Waikhong	Chairel	Chairel
+Kakching	Waikhong	Chairel	Nungoo including Sagol Lambi
+Kakching	Waikhong	Langmeidong	Thounaojam
+Kakching	Waikhong	Pangaltabi	Tangjeng
+Kakching	Waikhong	Serou	Serou
+Kakching	Waikhong	Waikhong	Elangkhangpokpi Incuding Yangdong
+Kakching	Waikhong	Waikhong	Thongjao
+Kakching	Waikhong	Waikhong	Waikhong Laimanai
+Kakching	Waikhong	Waikhong	Waikhong Ningthoumanai
+Kakching	Waikhong	Wangoo	Wangoo
+Kamjong	Kamjong	(इतर)	Aishi
+Kamjong	Kamjong	(इतर)	Bungpa Khullen
+Kamjong	Kamjong	(इतर)	Bungpa Khunou
+Kamjong	Kamjong	(इतर)	Chassad
+Kamjong	Kamjong	(इतर)	Grihang
+Kamjong	Kamjong	(इतर)	Huimin Thana
+Kamjong	Kamjong	(इतर)	Kangpat Khullen
+Kamjong	Kamjong	(इतर)	Kangpat Khunou
+Kamjong	Kamjong	(इतर)	Khoikai
+Kamjong	Kamjong	(इतर)	Kongkan
+Kamjong	Kamjong	(इतर)	Kultuk
+Kamjong	Kamjong	(इतर)	Lakhan
+Kamjong	Kamjong	(इतर)	Meiti
+Kamjong	Kamjong	(इतर)	Molvailup
+Kamjong	Kamjong	(इतर)	Ningchou
+Kamjong	Kamjong	(इतर)	Ningthi
+Kamjong	Kamjong	(इतर)	Phaikok
+Kamjong	Kamjong	(इतर)	Phaimol
+Kamjong	Kamjong	(इतर)	Phange
+Kamjong	Kamjong	(इतर)	Pihang
+Kamjong	Kamjong	(इतर)	RAMPHOI
+Kamjong	Kamjong	(इतर)	Sampui
+Kamjong	Kamjong	(इतर)	Skipe
+Kamjong	Kamjong	(इतर)	Z.Choro
+Kamjong	Kasom Khullen	(इतर)	Ashang Khullen
+Kamjong	Kasom Khullen	(इतर)	BOHORAM
+Kamjong	Kasom Khullen	(इतर)	Bungpun
+Kamjong	Kasom Khullen	(इतर)	Chakama
+Kamjong	Kasom Khullen	(इतर)	Chingshou
+Kamjong	Kasom Khullen	(इतर)	Chongdan
+Kamjong	Kasom Khullen	(इतर)	Itham
+Kamjong	Kasom Khullen	(इतर)	K. Ashang Khullen
+Kamjong	Kasom Khullen	(इतर)	K.Leihaoram
+Kamjong	Kasom Khullen	(इतर)	KONGLEIRAM
+Kamjong	Kasom Khullen	(इतर)	Kangkum
+Kamjong	Kasom Khullen	(इतर)	Kangoi
+Kamjong	Kasom Khullen	(इतर)	Kashung
+Kamjong	Kasom Khullen	(इतर)	Kasom Khullen
+Kamjong	Kasom Khullen	(इतर)	Kasom Khunou
+Kamjong	Kasom Khullen	(इतर)	Kasom Somrei
+Kamjong	Kasom Khullen	(इतर)	Khamlang
+Kamjong	Kasom Khullen	(इतर)	Kharam Khullen
+Kamjong	Kasom Khullen	(इतर)	Khoiripok
+Kamjong	Kasom Khullen	(इतर)	Khongle
+Kamjong	Kasom Khullen	(इतर)	Khunthak
+Kamjong	Kasom Khullen	(इतर)	Lairam Khullen
+Kamjong	Kasom Khullen	(इतर)	Lairam Phungka
+Kamjong	Kasom Khullen	(इतर)	Makan
+Kamjong	Kasom Khullen	(इतर)	Manthouram
+Kamjong	Kasom Khullen	(इतर)	Mawai
+Kamjong	Kasom Khullen	(इतर)	NAMBASHI HORTON
+Kamjong	Kasom Khullen	(इतर)	NGARUMPHUNG
+Kamjong	Kasom Khullen	(इतर)	Nambashi Kachumram
+Kamjong	Kasom Khullen	(इतर)	Nambashi Khullen
+Kamjong	Kasom Khullen	(इतर)	Nambashi Valley
+Kamjong	Kasom Khullen	(इतर)	Nambshi Khunou
+Kamjong	Kasom Khullen	(इतर)	Nongdam
+Kamjong	Kasom Khullen	(इतर)	Nongdam ( K )
+Kamjong	Kasom Khullen	(इतर)	Punomram
+Kamjong	Kasom Khullen	(इतर)	REISHANGPHUNG
+Kamjong	Kasom Khullen	(इतर)	SOMTHAR
+Kamjong	Kasom Khullen	(इतर)	Shangpunram
+Kamjong	Kasom Khullen	(इतर)	Shungriphai
+Kamjong	Kasom Khullen	(इतर)	T. Natuiang
+Kamjong	Kasom Khullen	(इतर)	TAMARAM
+Kamjong	Kasom Khullen	(इतर)	Tarong
+Kamjong	Kasom Khullen	(इतर)	Wanglee
+Kamjong	Kasom Khullen	(इतर)	Yeasem
+Kamjong	Phungyar	(इतर)	Alang
+Kamjong	Phungyar	(इतर)	Chadong(T)
+Kamjong	Phungyar	(इतर)	Chungkai
+Kamjong	Phungyar	(इतर)	H. Goda
+Kamjong	Phungyar	(इतर)	Honkhuiphung
+Kamjong	Phungyar	(इतर)	KUMRAM
+Kamjong	Phungyar	(इतर)	Khambi
+Kamjong	Phungyar	(इतर)	Khongjal
+Kamjong	Phungyar	(इतर)	Koso
+Kamjong	Phungyar	(इतर)	LEINGANGCHING
+Kamjong	Phungyar	(इतर)	Lamlai Khunou
+Kamjong	Phungyar	(इतर)	Leishi
+Kamjong	Phungyar	(इतर)	Leiting
+Kamjong	Phungyar	(इतर)	Louphong
+Kamjong	Phungyar	(इतर)	Loushing
+Kamjong	Phungyar	(इतर)	Loushing Khunthak
+Kamjong	Phungyar	(इतर)	Lungphu
+Kamjong	Phungyar	(इतर)	MAILIANG
+Kamjong	Phungyar	(इतर)	Marou
+Kamjong	Phungyar	(इतर)	NGAYOPHUNG
+Kamjong	Phungyar	(इतर)	Nongman
+Kamjong	Phungyar	(इतर)	Patbung
+Kamjong	Phungyar	(इतर)	Phalang
+Kamjong	Phungyar	(इतर)	Phungyar
+Kamjong	Phungyar	(इतर)	Punge
+Kamjong	Phungyar	(इतर)	RAMREI
+Kamjong	Phungyar	(इतर)	Riha(T)
+Kamjong	Phungyar	(इतर)	Shakok
+Kamjong	Phungyar	(इतर)	Shingkap
+Kamjong	Phungyar	(इतर)	Shingta
+Kamjong	Phungyar	(इतर)	Sikibung
+Kamjong	Phungyar	(इतर)	Sorathen
+Kamjong	Phungyar	(इतर)	Sorbung
+Kamjong	Phungyar	(इतर)	Sorde
+Kamjong	Phungyar	(इतर)	T. Hundung Khullen
+Kamjong	Phungyar	(इतर)	T. Hundung Khunou
+Kamjong	Phungyar	(इतर)	Thawai(K)
+Kamjong	Phungyar	(इतर)	Thawai(T)
+Kamjong	Phungyar	(इतर)	Tusom
+Kamjong	Sahamphung	(इतर)	Apong
+Kamjong	Sahamphung	(इतर)	Chahong Khullen
+Kamjong	Sahamphung	(इतर)	Chahong Khunou
+Kamjong	Sahamphung	(इतर)	Chamu
+Kamjong	Sahamphung	(इतर)	Changa
+Kamjong	Sahamphung	(इतर)	Chatric
+Kamjong	Sahamphung	(इतर)	Gambal
+Kamjong	Sahamphung	(इतर)	Hangkou
+Kamjong	Sahamphung	(इतर)	Kachouphung(K)
+Kamjong	Sahamphung	(इतर)	Kachouphung(T)
+Kamjong	Sahamphung	(इतर)	Khayang
+Kamjong	Sahamphung	(इतर)	Lanchah
+Kamjong	Sahamphung	(इतर)	Langli
+Kamjong	Sahamphung	(इतर)	Lankhe
+Kamjong	Sahamphung	(इतर)	Maku
+Kamjong	Sahamphung	(इतर)	Maokot
+Kamjong	Sahamphung	(इतर)	Mapum
+Kamjong	Sahamphung	(इतर)	Matiyang
+Kamjong	Sahamphung	(इतर)	Pushing
+Kamjong	Sahamphung	(इतर)	Roni
+Kamjong	Sahamphung	(इतर)	Rusheah
+Kamjong	Sahamphung	(इतर)	Sahamphung
+Kamjong	Sahamphung	(इतर)	Shingcha
+Kamjong	Sahamphung	(इतर)	Yentem
+Kamjong	Sahamphung	(इतर)	Zingsui
+Kangpokpi	Bungte Chiru	(इतर)	Bungte Chiru
+Kangpokpi	Bungte Chiru	(इतर)	Bungte Khullen
+Kangpokpi	Bungte Chiru	(इतर)	CHAHJOL JOUPI
+Kangpokpi	Bungte Chiru	(इतर)	Chini Ingkhol
+Kangpokpi	Bungte Chiru	(इतर)	Haibung
+Kangpokpi	Bungte Chiru	(इतर)	Ichum Keirap
+Kangpokpi	Bungte Chiru	(इतर)	Joupi
+Kangpokpi	Bungte Chiru	(इतर)	KHOIROK (DOLANG KHUNOU)
+Kangpokpi	Bungte Chiru	(इतर)	Khoripok
+Kangpokpi	Bungte Chiru	(इतर)	Laimaton Thangbuh
+Kangpokpi	Bungte Chiru	(इतर)	Loibol Khullen
+Kangpokpi	Bungte Chiru	(इतर)	Loibol Khunou
+Kangpokpi	Bungte Chiru	(इतर)	Manamjang
+Kangpokpi	Bungte Chiru	(इतर)	Mongbung Tongneh
+Kangpokpi	Bungte Chiru	(इतर)	Nunggang (Chongphun)
+Kangpokpi	Bungte Chiru	(इतर)	Nungsai Chiru
+Kangpokpi	Bungte Chiru	(इतर)	P. AIGEJANG (A. LHUNKHOJANG)
+Kangpokpi	Bungte Chiru	(इतर)	Parengba
+Kangpokpi	Bungte Chiru	(इतर)	SIANGAI NAMDAI
+Kangpokpi	Bungte Chiru	(इतर)	Sadar Joute
+Kangpokpi	Bungte Chiru	(इतर)	Sadu Chiru
+Kangpokpi	Bungte Chiru	(इतर)	Salem Khoirok
+Kangpokpi	Bungte Chiru	(इतर)	Tingkai Khullen
+Kangpokpi	Bungte Chiru	(इतर)	Tingkai Khunou
+Kangpokpi	Bungte Chiru	(इतर)	Tuikhang Aimol
+Kangpokpi	Bungte Chiru	(इतर)	WAINEM
+Kangpokpi	Bungte Chiru	(इतर)	Waroiching Kuki
+Kangpokpi	Champhai	(इतर)	Aimol
+Kangpokpi	Champhai	(इतर)	Ameladara
+Kangpokpi	Champhai	(इतर)	BUNGJANG
+Kangpokpi	Champhai	(इतर)	Bolsang
+Kangpokpi	Champhai	(इतर)	Bongmol
+Kangpokpi	Champhai	(इतर)	C.Lamjang
+Kangpokpi	Champhai	(इतर)	CHALJANG PART II
+Kangpokpi	Champhai	(इतर)	CHUCHEKHOP (B)
+Kangpokpi	Champhai	(इतर)	CHUCHEKHOP (C)
+Kangpokpi	Champhai	(इतर)	Canaanphai
+Kangpokpi	Champhai	(इतर)	Chandmari
+Kangpokpi	Champhai	(इतर)	Chandraman
+Kangpokpi	Champhai	(इतर)	Chingloubung
+Kangpokpi	Champhai	(इतर)	Chuchekhop (A) Irang Pt I
+Kangpokpi	Champhai	(इतर)	Dahalthari
+Kangpokpi	Champhai	(इतर)	Daili
+Kangpokpi	Champhai	(इतर)	Dhori Ghari
+Kangpokpi	Champhai	(इतर)	Dulen
+Kangpokpi	Champhai	(इतर)	Gamnomphai
+Kangpokpi	Champhai	(इतर)	Gopibung Kuki
+Kangpokpi	Champhai	(इतर)	Gopibung Nepali
+Kangpokpi	Champhai	(इतर)	H. Vengnom
+Kangpokpi	Champhai	(इतर)	Haijang
+Kangpokpi	Champhai	(इतर)	Haipi
+Kangpokpi	Champhai	(इतर)	Harup Maohing
+Kangpokpi	Champhai	(इतर)	Hengbung
+Kangpokpi	Champhai	(इतर)	J. Munnom
+Kangpokpi	Champhai	(इतर)	Janglenphai
+Kangpokpi	Champhai	(इतर)	Jangmol
+Kangpokpi	Champhai	(इतर)	Jangnom
+Kangpokpi	Champhai	(इतर)	K. Gamnom
+Kangpokpi	Champhai	(इतर)	K. MOLJOL
+Kangpokpi	Champhai	(इतर)	K. Sajal
+Kangpokpi	Champhai	(इतर)	K. Songtun
+Kangpokpi	Champhai	(इतर)	Kailenjang
+Kangpokpi	Champhai	(इतर)	Kazanga
+Kangpokpi	Champhai	(इतर)	Keithelmanbi
+Kangpokpi	Champhai	(इतर)	Kharkhola
+Kangpokpi	Champhai	(इतर)	Kholjang
+Kangpokpi	Champhai	(इतर)	Khommunom
+Kangpokpi	Champhai	(इतर)	Khonom
+Kangpokpi	Champhai	(इतर)	Kongpao
+Kangpokpi	Champhai	(इतर)	Laikot
+Kangpokpi	Champhai	(इतर)	Laloi
+Kangpokpi	Champhai	(इतर)	Lhangnom
+Kangpokpi	Champhai	(इतर)	Lhangnomphai
+Kangpokpi	Champhai	(इतर)	Liyai Kalapahar
+Kangpokpi	Champhai	(इतर)	Lower Thanamba
+Kangpokpi	Champhai	(इतर)	Lungphou
+Kangpokpi	Champhai	(इतर)	M.Ningthoupham
+Kangpokpi	Champhai	(इतर)	Mahabir
+Kangpokpi	Champhai	(इतर)	Mahika
+Kangpokpi	Champhai	(इतर)	Makuli
+Kangpokpi	Champhai	(इतर)	Maohing Kuki
+Kangpokpi	Champhai	(इतर)	Maramei
+Kangpokpi	Champhai	(इतर)	Mayangkhang
+Kangpokpi	Champhai	(इतर)	Mayangkhang Khunou
+Kangpokpi	Champhai	(इतर)	Molsang
+Kangpokpi	Champhai	(इतर)	Mounnagam
+Kangpokpi	Champhai	(इतर)	N.Changoubung
+Kangpokpi	Champhai	(इतर)	N.Phungchoijang
+Kangpokpi	Champhai	(इतर)	NATHELJANG FOR T. BETHEL
+Kangpokpi	Champhai	(इतर)	Natheljang
+Kangpokpi	Champhai	(इतर)	Ngahmun
+Kangpokpi	Champhai	(इतर)	P. KHOTHAH PART II
+Kangpokpi	Champhai	(इतर)	P.Khothah
+Kangpokpi	Champhai	(इतर)	P.Moljang
+Kangpokpi	Champhai	(इतर)	Parsain
+Kangpokpi	Champhai	(इतर)	Paspati
+Kangpokpi	Champhai	(इतर)	Phoibung
+Kangpokpi	Champhai	(इतर)	Phyapau
+Kangpokpi	Champhai	(इतर)	S. Happy Land
+Kangpokpi	Champhai	(इतर)	S. Jalenmoul
+Kangpokpi	Champhai	(इतर)	S. Khomunnom
+Kangpokpi	Champhai	(इतर)	S. THOUNGKHULLUI
+Kangpokpi	Champhai	(इतर)	S.Changoubung
+Kangpokpi	Champhai	(इतर)	S.Jalenmol
+Kangpokpi	Champhai	(इतर)	S.Khonomphai
+Kangpokpi	Champhai	(इतर)	S.M.Gilgal
+Kangpokpi	Champhai	(इतर)	S.Molnom
+Kangpokpi	Champhai	(इतर)	Sadim Kuki
+Kangpokpi	Champhai	(इतर)	Saikotjang
+Kangpokpi	Champhai	(इतर)	Saipimol Holjang
+Kangpokpi	Champhai	(इतर)	Santing (West)
+Kangpokpi	Champhai	(इतर)	Santolabari
+Kangpokpi	Champhai	(इतर)	Satikhola
+Kangpokpi	Champhai	(इतर)	Simol
+Kangpokpi	Champhai	(इतर)	Songjang Khunou
+Kangpokpi	Champhai	(इतर)	Songpekjang
+Kangpokpi	Champhai	(इतर)	Songtun (J)
+Kangpokpi	Champhai	(इतर)	T. Khonomphai
+Kangpokpi	Champhai	(इतर)	T. PHAICHAM
+Kangpokpi	Champhai	(इतर)	T. TUINOM
+Kangpokpi	Champhai	(इतर)	T.Aviall
+Kangpokpi	Champhai	(इतर)	T.Lhanghoi
+Kangpokpi	Champhai	(इतर)	TAGARAMPHUNG YAIKONGPAO
+Kangpokpi	Champhai	(इतर)	Taphou Kuki
+Kangpokpi	Champhai	(इतर)	Tokpa Naga
+Kangpokpi	Champhai	(इतर)	Tokpa Nepali
+Kangpokpi	Champhai	(इतर)	Tujang Pt. I
+Kangpokpi	Champhai	(इतर)	Tujang Pt. Ii
+Kangpokpi	Champhai	(इतर)	Tumnoupokpi
+Kangpokpi	Champhai	(इतर)	Upper Kalapahar
+Kangpokpi	Champhai	(इतर)	V.Changoubung
+Kangpokpi	Champhai	(इतर)	Washangpung
+Kangpokpi	Champhai	(इतर)	West Haipi
+Kangpokpi	Champhai	(इतर)	West Selsi
+Kangpokpi	Champhai	(इतर)	West Tuipajang
+Kangpokpi	Island	(इतर)	B.Phainom
+Kangpokpi	Island	(इतर)	Bethelphai
+Kangpokpi	Island	(इतर)	Bewlahland
+Kangpokpi	Island	(इतर)	Bongbal Khullen
+Kangpokpi	Island	(इतर)	C.Moljol
+Kangpokpi	Island	(इतर)	Chaningpokpi
+Kangpokpi	Island	(इतर)	Gotangkot
+Kangpokpi	Island	(इतर)	Haokhongching
+Kangpokpi	Island	(इतर)	Happy Land
+Kangpokpi	Island	(इतर)	Heirokland
+Kangpokpi	Island	(इतर)	Island Tangkhul
+Kangpokpi	Island	(इतर)	K Saronphai
+Kangpokpi	Island	(इतर)	K.Hengjang
+Kangpokpi	Island	(इतर)	K.Nungmanbi
+Kangpokpi	Island	(इतर)	Kamu Koireng
+Kangpokpi	Island	(इतर)	Kamu Lairok
+Kangpokpi	Island	(इतर)	Kamu Maring
+Kangpokpi	Island	(इतर)	Kamu Saichang
+Kangpokpi	Island	(इतर)	Kamu Tampak
+Kangpokpi	Island	(इतर)	Kamu Tangnom
+Kangpokpi	Island	(इतर)	Kamu Themdoi
+Kangpokpi	Island	(इतर)	Kamuching
+Kangpokpi	Island	(इतर)	Kaprang
+Kangpokpi	Island	(इतर)	Karpur Sungba
+Kangpokpi	Island	(इतर)	Keihao Tangkhul
+Kangpokpi	Island	(इतर)	Keirou Chingdong Kabui
+Kangpokpi	Island	(इतर)	Kharam Tangkhul
+Kangpokpi	Island	(इतर)	Komla Ching
+Kangpokpi	Island	(इतर)	Kwarok Maring
+Kangpokpi	Island	(इतर)	L.Molnom
+Kangpokpi	Island	(इतर)	L.Songphel
+Kangpokpi	Island	(इतर)	LISHAMLOK
+Kangpokpi	Island	(इतर)	Laikoiching
+Kangpokpi	Island	(इतर)	Laiphrok Maring
+Kangpokpi	Island	(इतर)	Lairok Vaiphei
+Kangpokpi	Island	(इतर)	Leingangpokpi
+Kangpokpi	Island	(इतर)	Leishiphung
+Kangpokpi	Island	(इतर)	Lemba Khul
+Kangpokpi	Island	(इतर)	MONGLHAM
+Kangpokpi	Island	(इतर)	Maphou Kuki
+Kangpokpi	Island	(इतर)	Moirangpan
+Kangpokpi	Island	(इतर)	Molkonbung
+Kangpokpi	Island	(इतर)	N.Heikon
+Kangpokpi	Island	(इतर)	N.Mollen
+Kangpokpi	Island	(इतर)	N.Terakhong
+Kangpokpi	Island	(इतर)	New Salem
+Kangpokpi	Island	(इतर)	Ngarumphung
+Kangpokpi	Island	(इतर)	Ngoupikhong Vaiphei
+Kangpokpi	Island	(इतर)	Nongmaiching Tampak
+Kangpokpi	Island	(इतर)	Nongmaipal
+Kangpokpi	Island	(इतर)	Nongpok Centre
+Kangpokpi	Island	(इतर)	Nungkot Khuman
+Kangpokpi	Island	(इतर)	Nungkot Kom
+Kangpokpi	Island	(इतर)	PHAWOIBI
+Kangpokpi	Island	(इतर)	Phainom
+Kangpokpi	Island	(इतर)	Pheitaiching
+Kangpokpi	Island	(इतर)	Phunal Maring
+Kangpokpi	Island	(इतर)	Poirou Tangkhul
+Kangpokpi	Island	(इतर)	Rishophung
+Kangpokpi	Island	(इतर)	S Elimphai
+Kangpokpi	Island	(इतर)	S. BOUNGJANG
+Kangpokpi	Island	(इतर)	S.Kanan
+Kangpokpi	Island	(इतर)	Sada Lungthar
+Kangpokpi	Island	(इतर)	Saichang
+Kangpokpi	Island	(इतर)	Salam Patong
+Kangpokpi	Island	(इतर)	Saman Tangkhul
+Kangpokpi	Island	(इतर)	Sandangsemba Maring
+Kangpokpi	Island	(इतर)	Sandangsenba Kabui
+Kangpokpi	Island	(इतर)	Selhao Vaiphei
+Kangpokpi	Island	(इतर)	Silent(Tangkhul)
+Kangpokpi	Island	(इतर)	Siloijang
+Kangpokpi	Island	(इतर)	South Lousing
+Kangpokpi	Island	(इतर)	THANGJA (VAIPHEI)
+Kangpokpi	Island	(इतर)	Tangkhul Khullen
+Kangpokpi	Island	(इतर)	Teraphai
+Kangpokpi	Island	(इतर)	Th.Salemphai
+Kangpokpi	Island	(इतर)	Thangjingpokpi
+Kangpokpi	Island	(इतर)	Thayong
+Kangpokpi	Island	(इतर)	Tombi Hangbu
+Kangpokpi	Island	(इतर)	Tongko Tangkhul
+Kangpokpi	Island	(इतर)	Tuisenphai
+Kangpokpi	Island	(इतर)	Uran Chiru
+Kangpokpi	Island	(इतर)	Vaiphei Pakai
+Kangpokpi	Island	(इतर)	Waithou Chiru
+Kangpokpi	Island	(इतर)	Zerukanan
+Kangpokpi	Kangchup Geljang	(इतर)	Bethel
+Kangpokpi	Kangchup Geljang	(इतर)	Bijang
+Kangpokpi	Kangchup Geljang	(इतर)	Ch. Ebenezer
+Kangpokpi	Kangchup Geljang	(इतर)	Charoipandongba Kabui
+Kangpokpi	Kangchup Geljang	(इतर)	Haraothel
+Kangpokpi	Kangchup Geljang	(इतर)	Ireng Naga
+Kangpokpi	Kangchup Geljang	(इतर)	K.Phaijol
+Kangpokpi	Kangchup Geljang	(इतर)	Kangchup Chingkhong
+Kangpokpi	Kangchup Geljang	(इतर)	Kangchup Chiru
+Kangpokpi	Kangchup Geljang	(इतर)	Kangchup Geljang
+Kangpokpi	Kangchup Geljang	(इतर)	Kangchup Khul Bangla
+Kangpokpi	Kangchup Geljang	(इतर)	Kangchup Makhong
+Kangpokpi	Kangchup Geljang	(इतर)	Kangchup Patbung
+Kangpokpi	Kangchup Geljang	(इतर)	Kangchup Patjang
+Kangpokpi	Kangchup Geljang	(इतर)	Kangchup Ponlen
+Kangpokpi	Kangchup Geljang	(इतर)	Kangchup Songlung
+Kangpokpi	Kangchup Geljang	(इतर)	Kangchup Tuikon
+Kangpokpi	Kangchup Geljang	(इतर)	Kharam Pallen
+Kangpokpi	Kangchup Geljang	(इतर)	Kharam Thadoi
+Kangpokpi	Kangchup Geljang	(इतर)	Kharam Vaiphei
+Kangpokpi	Kangchup Geljang	(इतर)	Khokhen
+Kangpokpi	Kangchup Geljang	(इतर)	Khonglong Kabui
+Kangpokpi	Kangchup Geljang	(इतर)	Konsa Khul
+Kangpokpi	Kangchup Geljang	(इतर)	Kotlen
+Kangpokpi	Kangchup Geljang	(इतर)	L Munlai
+Kangpokpi	Kangchup Geljang	(इतर)	L Saronphai
+Kangpokpi	Kangchup Geljang	(इतर)	L. Hengjol
+Kangpokpi	Kangchup Geljang	(इतर)	L. Munlui
+Kangpokpi	Kangchup Geljang	(इतर)	L.Chamchai
+Kangpokpi	Kangchup Geljang	(इतर)	L.Hengjang
+Kangpokpi	Kangchup Geljang	(इतर)	L.Jangnomphai (Veitumkhunou)
+Kangpokpi	Kangchup Geljang	(इतर)	Langdeibung
+Kangpokpi	Kangchup Geljang	(इतर)	Lanthungching
+Kangpokpi	Kangchup Geljang	(इतर)	Leilon Khunou
+Kangpokpi	Kangchup Geljang	(इतर)	Leilon Phaijang
+Kangpokpi	Kangchup Geljang	(इतर)	Leilon Phoikot
+Kangpokpi	Kangchup Geljang	(इतर)	Leilon Vaiphei
+Kangpokpi	Kangchup Geljang	(इतर)	Leimakhong
+Kangpokpi	Kangchup Geljang	(इतर)	Leimakhong Mission Veng
+Kangpokpi	Kangchup Geljang	(इतर)	Longa Koireng
+Kangpokpi	Kangchup Geljang	(इतर)	Longjang
+Kangpokpi	Kangchup Geljang	(इतर)	Maha Kabui
+Kangpokpi	Kangchup Geljang	(इतर)	Molhoi
+Kangpokpi	Kangchup Geljang	(इतर)	NC Phai
+Kangpokpi	Kangchup Geljang	(इतर)	Nakhujang
+Kangpokpi	Kangchup Geljang	(इतर)	Namthanjang Rongmei
+Kangpokpi	Kangchup Geljang	(इतर)	Natop Boljang
+Kangpokpi	Kangchup Geljang	(इतर)	Natop Kabui
+Kangpokpi	Kangchup Geljang	(इतर)	Natop Kuki
+Kangpokpi	Kangchup Geljang	(इतर)	New Keithelmanbi
+Kangpokpi	Kangchup Geljang	(इतर)	P.Molding
+Kangpokpi	Kangchup Geljang	(इतर)	Pholjang
+Kangpokpi	Kangchup Geljang	(इतर)	Puandaijang
+Kangpokpi	Kangchup Geljang	(इतर)	Ramgailong
+Kangpokpi	Kangchup Geljang	(इतर)	S.Laijang
+Kangpokpi	Kangchup Geljang	(इतर)	S.Sehjang
+Kangpokpi	Kangchup Geljang	(इतर)	Salem Lhouthang
+Kangpokpi	Kangchup Geljang	(इतर)	Samuk
+Kangpokpi	Kangchup Geljang	(इतर)	Shantinagar
+Kangpokpi	Kangchup Geljang	(इतर)	Sinam Jonhol
+Kangpokpi	Kangchup Geljang	(इतर)	Sinam Khaithong
+Kangpokpi	Kangchup Geljang	(इतर)	Singda Kuki
+Kangpokpi	Kangchup Geljang	(इतर)	Songjang Waphong
+Kangpokpi	Kangchup Geljang	(इतर)	T.Laijang
+Kangpokpi	Kangchup Geljang	(इतर)	Thangjing Chiru
+Kangpokpi	Kangchup Geljang	(इतर)	Thanglong Molbung
+Kangpokpi	Kangchup Geljang	(इतर)	Thingkongjang
+Kangpokpi	Kangchup Geljang	(इतर)	Veitum Khullen
+Kangpokpi	Kangchup Geljang	(इतर)	Waphong Inthan
+Kangpokpi	Kangpokpi	(इतर)	Bethany
+Kangpokpi	Kangpokpi	(इतर)	Chamnagam
+Kangpokpi	Kangpokpi	(इतर)	Chawangkining
+Kangpokpi	Kangpokpi	(इतर)	KANGPOKPI WARD NO. 10
+Kangpokpi	Kangpokpi	(इतर)	KANGPOKPI WARD NO. 11
+Kangpokpi	Kangpokpi	(इतर)	KANGPOKPI WARD NO. 12
+Kangpokpi	Kangpokpi	(इतर)	KANGPOKPI WARD NO. 13
+Kangpokpi	Kangpokpi	(इतर)	KANGPOKPI WARD NO. 14
+Kangpokpi	Kangpokpi	(इतर)	KANGPOKPI WARD NO. 5
+Kangpokpi	Kangpokpi	(इतर)	KANGPOKPI WARD NO. 6
+Kangpokpi	Kangpokpi	(इतर)	KANGPOKPI WARD NO. 7
+Kangpokpi	Kangpokpi	(इतर)	KANGPOKPI WARD NO. 8
+Kangpokpi	Kangpokpi	(इतर)	KANGPOKPI WARD NO. 9
+Kangpokpi	Kangpokpi	(इतर)	Kalapahar
+Kangpokpi	Kangpokpi	(इतर)	Kali Kholla Nepali
+Kangpokpi	Kangpokpi	(इतर)	Kangpokpi Ward No.1
+Kangpokpi	Kangpokpi	(इतर)	Kangpokpi Ward No.16
+Kangpokpi	Kangpokpi	(इतर)	Kangpokpi Ward No.2
+Kangpokpi	Kangpokpi	(इतर)	Kangpokpi Ward No.3
+Kangpokpi	Kangpokpi	(इतर)	Kangpokpi Ward No.4
+Kangpokpi	Kangpokpi	(इतर)	L. Songtun
+Kangpokpi	Kangpokpi	(इतर)	Leishangphung
+Kangpokpi	Kangpokpi	(इतर)	Lhangnom
+Kangpokpi	Kangpokpi	(इतर)	Manidara
+Kangpokpi	Kangpokpi	(इतर)	Maohing Nepali
+Kangpokpi	Kangpokpi	(इतर)	Molhoi
+Kangpokpi	Kangpokpi	(इतर)	N. Gamhoi
+Kangpokpi	Kangpokpi	(इतर)	N. Teijang
+Kangpokpi	Kangpokpi	(इतर)	N. Teikhang
+Kangpokpi	Kangpokpi	(इतर)	New Zalen
+Kangpokpi	Kangpokpi	(इतर)	Noon Pani Nepali
+Kangpokpi	Kangpokpi	(इतर)	Phaimol
+Kangpokpi	Kangpokpi	(इतर)	Phyapou
+Kangpokpi	Kangpokpi	(इतर)	Saronphai
+Kangpokpi	Kangpokpi	(इतर)	Songpekjang Nepali
+Kangpokpi	Kangpokpi	(इतर)	T. Khullen
+Kangpokpi	Kangpokpi	(इतर)	Toribari
+Kangpokpi	Kangpokpi	(इतर)	Tuilangphai
+Kangpokpi	Kangpokpi	(इतर)	kangpokpi Ward No.17
+Kangpokpi	Lhungtin	(इतर)	B.Bolyang
+Kangpokpi	Lhungtin	(इतर)	B.Khayang
+Kangpokpi	Lhungtin	(इतर)	C. KHOLLEN
+Kangpokpi	Lhungtin	(इतर)	C.Aisan
+Kangpokpi	Lhungtin	(इतर)	Chahmol
+Kangpokpi	Lhungtin	(इतर)	Chingdai Khunou
+Kangpokpi	Lhungtin	(इतर)	Chonjang
+Kangpokpi	Lhungtin	(इतर)	Denglen
+Kangpokpi	Lhungtin	(इतर)	Dongsum
+Kangpokpi	Lhungtin	(इतर)	Gallam
+Kangpokpi	Lhungtin	(इतर)	Gampum
+Kangpokpi	Lhungtin	(इतर)	Gangpikon
+Kangpokpi	Lhungtin	(इतर)	H. LHANGJOL
+Kangpokpi	Lhungtin	(इतर)	H. Yangnom
+Kangpokpi	Lhungtin	(इतर)	JK Lunglhaimun
+Kangpokpi	Lhungtin	(इतर)	K.Khonom
+Kangpokpi	Lhungtin	(इतर)	Khongbal Kuki
+Kangpokpi	Lhungtin	(इतर)	Laikot Kom
+Kangpokpi	Lhungtin	(इतर)	Laikot Phaijol
+Kangpokpi	Lhungtin	(इतर)	Leplen
+Kangpokpi	Lhungtin	(इतर)	Lhangsom
+Kangpokpi	Lhungtin	(इतर)	Lhungtin
+Kangpokpi	Lhungtin	(इतर)	Makeng Ngamneh
+Kangpokpi	Lhungtin	(इतर)	Maojang
+Kangpokpi	Lhungtin	(इतर)	Molcham
+Kangpokpi	Lhungtin	(इतर)	Moljol
+Kangpokpi	Lhungtin	(इतर)	Molkon
+Kangpokpi	Lhungtin	(इतर)	Molkon Bazar
+Kangpokpi	Lhungtin	(इतर)	Mongjang
+Kangpokpi	Lhungtin	(इतर)	Mongneljang
+Kangpokpi	Lhungtin	(इतर)	N Molhoiphai
+Kangpokpi	Lhungtin	(इतर)	N.Phailen
+Kangpokpi	Lhungtin	(इतर)	NEW SAIBOL
+Kangpokpi	Lhungtin	(इतर)	Naphai
+Kangpokpi	Lhungtin	(इतर)	Ng. Phainom
+Kangpokpi	Lhungtin	(इतर)	Nomjang
+Kangpokpi	Lhungtin	(इतर)	P.Phaimol
+Kangpokpi	Lhungtin	(इतर)	PHAIKON
+Kangpokpi	Lhungtin	(इतर)	PULEIJANG
+Kangpokpi	Lhungtin	(इतर)	S.Khonomphai
+Kangpokpi	Lhungtin	(इतर)	SOMPHUNG
+Kangpokpi	Lhungtin	(इतर)	Samusong (Chahmol)
+Kangpokpi	Lhungtin	(इतर)	Simol
+Kangpokpi	Lhungtin	(इतर)	Siyang
+Kangpokpi	Lhungtin	(इतर)	Songbem
+Kangpokpi	Lhungtin	(इतर)	Songphel Khullen
+Kangpokpi	Lhungtin	(इतर)	T.Gamnom
+Kangpokpi	Lhungtin	(इतर)	TWICHIN
+Kangpokpi	Lhungtin	(इतर)	TWISOMJANG
+Kangpokpi	Lhungtin	(इतर)	Tengkonphai
+Kangpokpi	Lhungtin	(इतर)	Thingphai
+Kangpokpi	Lhungtin	(इतर)	Tingpibung
+Kangpokpi	Lhungtin	(इतर)	Urangpat
+Kangpokpi	Lhungtin	(इतर)	WALPABUNG
+Kangpokpi	Saikul	(इतर)	A. Geljang
+Kangpokpi	Saikul	(इतर)	A.Longa Koireng
+Kangpokpi	Saikul	(इतर)	A.Phainom
+Kangpokpi	Saikul	(इतर)	A.Tuisomjang
+Kangpokpi	Saikul	(इतर)	Aigejang
+Kangpokpi	Saikul	(इतर)	Ankhumbung
+Kangpokpi	Saikul	(इतर)	Belei
+Kangpokpi	Saikul	(इतर)	Chalkot
+Kangpokpi	Saikul	(इतर)	Challouphai
+Kangpokpi	Saikul	(इतर)	Changsang
+Kangpokpi	Saikul	(इतर)	Changsang Yangmol(Changsang Machet)
+Kangpokpi	Saikul	(इतर)	Chingdai Khullen
+Kangpokpi	Saikul	(इतर)	Chingmang
+Kangpokpi	Saikul	(इतर)	Dimjang
+Kangpokpi	Saikul	(इतर)	E.Mullam
+Kangpokpi	Saikul	(इतर)	Ekouphai
+Kangpokpi	Saikul	(इतर)	Ekpan Chingkha
+Kangpokpi	Saikul	(इतर)	GUNPHAIBUNG
+Kangpokpi	Saikul	(इतर)	Gangpiyang
+Kangpokpi	Saikul	(इतर)	Govajang
+Kangpokpi	Saikul	(इतर)	Gunphaijang
+Kangpokpi	Saikul	(इतर)	Gwaltabi Kuki
+Kangpokpi	Saikul	(इतर)	H. MOLLEN
+Kangpokpi	Saikul	(इतर)	H.Champhai
+Kangpokpi	Saikul	(इतर)	H.Gelmol
+Kangpokpi	Saikul	(इतर)	H.Khopibung
+Kangpokpi	Saikul	(इतर)	H.Moulhoi
+Kangpokpi	Saikul	(इतर)	HAIBUNG
+Kangpokpi	Saikul	(इतर)	Happy Valley
+Kangpokpi	Saikul	(इतर)	ICHAIGOJANG
+Kangpokpi	Saikul	(इतर)	Ichailamlan
+Kangpokpi	Saikul	(इतर)	K. LAITUI
+Kangpokpi	Saikul	(इतर)	KHAJANG
+Kangpokpi	Saikul	(इतर)	Khamenlok
+Kangpokpi	Saikul	(इतर)	Khokon
+Kangpokpi	Saikul	(इतर)	Khongbal Tangkhul
+Kangpokpi	Saikul	(इतर)	Khongnangpokpi
+Kangpokpi	Saikul	(इतर)	Khouchangbung
+Kangpokpi	Saikul	(इतर)	Kuljang
+Kangpokpi	Saikul	(इतर)	L Louzawl
+Kangpokpi	Saikul	(इतर)	L. Lhangjol
+Kangpokpi	Saikul	(इतर)	L.Chayang
+Kangpokpi	Saikul	(इतर)	L.Layang
+Kangpokpi	Saikul	(इतर)	LEIKOT
+Kangpokpi	Saikul	(इतर)	LHUNGJANG
+Kangpokpi	Saikul	(इतर)	Lairok Kom
+Kangpokpi	Saikul	(इतर)	Luwang Sangol
+Kangpokpi	Saikul	(इतर)	M. BUNGLUNG
+Kangpokpi	Saikul	(इतर)	M. KHOLMOL
+Kangpokpi	Saikul	(इतर)	MAKOKCHING B
+Kangpokpi	Saikul	(इतर)	Maibung Kom
+Kangpokpi	Saikul	(इतर)	Maibung Likli
+Kangpokpi	Saikul	(इतर)	Makokching
+Kangpokpi	Saikul	(इतर)	Mapao Christian
+Kangpokpi	Saikul	(इतर)	Mapao Khullen
+Kangpokpi	Saikul	(इतर)	Mapao Thangal
+Kangpokpi	Saikul	(इतर)	Molkot
+Kangpokpi	Saikul	(इतर)	Molvom (Heinoupokpi)
+Kangpokpi	Saikul	(इतर)	N. Boljang
+Kangpokpi	Saikul	(इतर)	N.Chaljang
+Kangpokpi	Saikul	(इतर)	N.Zilphai
+Kangpokpi	Saikul	(इतर)	Natjang
+Kangpokpi	Saikul	(इतर)	New Saikul
+Kangpokpi	Saikul	(इतर)	Ngakhapat
+Kangpokpi	Saikul	(इतर)	Nungka
+Kangpokpi	Saikul	(इतर)	Old Boljang
+Kangpokpi	Saikul	(इतर)	P.Khonomphai
+Kangpokpi	Saikul	(इतर)	PANGJANG
+Kangpokpi	Saikul	(इतर)	PURUM GELJANG
+Kangpokpi	Saikul	(इतर)	Phaijang
+Kangpokpi	Saikul	(इतर)	Phaileng
+Kangpokpi	Saikul	(इतर)	Purum Khullen
+Kangpokpi	Saikul	(इतर)	Purum Likli
+Kangpokpi	Saikul	(इतर)	S.Bolkot
+Kangpokpi	Saikul	(इतर)	S.Mongbung
+Kangpokpi	Saikul	(इतर)	S.Phailenkot
+Kangpokpi	Saikul	(इतर)	SAIJANG
+Kangpokpi	Saikul	(इतर)	SONGPHEJANG
+Kangpokpi	Saikul	(इतर)	Sadu Koireng
+Kangpokpi	Saikul	(इतर)	Saikul
+Kangpokpi	Saikul	(इतर)	Saikul Hill Town
+Kangpokpi	Saikul	(इतर)	Satang Kuki
+Kangpokpi	Saikul	(इतर)	Sinam Kom
+Kangpokpi	Saikul	(इतर)	Songjang
+Kangpokpi	Saikul	(इतर)	T Gojang
+Kangpokpi	Saikul	(इतर)	T. JORDANPHAI
+Kangpokpi	Saikul	(इतर)	T. LAMKAJANG
+Kangpokpi	Saikul	(इतर)	T. THANGKAN
+Kangpokpi	Saikul	(इतर)	T.Goyang
+Kangpokpi	Saikul	(इतर)	T.Wakanphai
+Kangpokpi	Saikul	(इतर)	Thangal Bazar
+Kangpokpi	Saikul	(इतर)	Thangal Surung
+Kangpokpi	Saikul	(इतर)	Thangkanphai
+Kangpokpi	Saikul	(इतर)	Thingjang
+Kangpokpi	Saikul	(इतर)	Thingsat
+Kangpokpi	Saikul	(इतर)	Thombol
+Kangpokpi	Saikul	(इतर)	Tuisomjang
+Kangpokpi	Saikul	(इतर)	Tusam
+Kangpokpi	Saikul	(इतर)	Twichamphai
+Kangpokpi	Saikul	(इतर)	Twinomjang
+Kangpokpi	Saikul	(इतर)	Utonglok
+Kangpokpi	Saikul	(इतर)	Wakan
+Kangpokpi	Saikul	(इतर)	Y.Langkhong
+Kangpokpi	Saikul	(इतर)	YANGNOI
+Kangpokpi	Saikul	(इतर)	Yangnomphai
+Kangpokpi	Saitu-Gamphazol	(इतर)	A.Songpijang
+Kangpokpi	Saitu-Gamphazol	(इतर)	Bethany
+Kangpokpi	Saitu-Gamphazol	(इतर)	Bethsaida
+Kangpokpi	Saitu-Gamphazol	(इतर)	Bolkot
+Kangpokpi	Saitu-Gamphazol	(इतर)	Bongjol
+Kangpokpi	Saitu-Gamphazol	(इतर)	C. Joujang
+Kangpokpi	Saitu-Gamphazol	(इतर)	C.Joujang
+Kangpokpi	Saitu-Gamphazol	(इतर)	C.Munnom
+Kangpokpi	Saitu-Gamphazol	(इतर)	C.Phailen
+Kangpokpi	Saitu-Gamphazol	(इतर)	CH. OLLIM
+Kangpokpi	Saitu-Gamphazol	(इतर)	CHANGSANG
+Kangpokpi	Saitu-Gamphazol	(इतर)	CHARHAZARE
+Kangpokpi	Saitu-Gamphazol	(इतर)	Chalbol
+Kangpokpi	Saitu-Gamphazol	(इतर)	Chalbung
+Kangpokpi	Saitu-Gamphazol	(इतर)	Charhazar
+Kangpokpi	Saitu-Gamphazol	(इतर)	Dwarika Nepali
+Kangpokpi	Saitu-Gamphazol	(इतर)	E.Sapermeina
+Kangpokpi	Saitu-Gamphazol	(इतर)	G. HENGJANG
+Kangpokpi	Saitu-Gamphazol	(इतर)	G. KHOLEP
+Kangpokpi	Saitu-Gamphazol	(इतर)	G. Songlung
+Kangpokpi	Saitu-Gamphazol	(इतर)	G.Bunglen
+Kangpokpi	Saitu-Gamphazol	(इतर)	G.Gelbung
+Kangpokpi	Saitu-Gamphazol	(इतर)	G.Lhangsom
+Kangpokpi	Saitu-Gamphazol	(इतर)	G.Phalbung
+Kangpokpi	Saitu-Gamphazol	(इतर)	G.Thangbuh
+Kangpokpi	Saitu-Gamphazol	(इतर)	GOSHEN
+Kangpokpi	Saitu-Gamphazol	(इतर)	GOVAJANG
+Kangpokpi	Saitu-Gamphazol	(इतर)	Gamgiphai
+Kangpokpi	Saitu-Gamphazol	(इतर)	Gamnom Sapermeina
+Kangpokpi	Saitu-Gamphazol	(इतर)	Goungaiphai
+Kangpokpi	Saitu-Gamphazol	(इतर)	H. JANGMUNNOM
+Kangpokpi	Saitu-Gamphazol	(इतर)	HAIPIJANG
+Kangpokpi	Saitu-Gamphazol	(इतर)	HERMON
+Kangpokpi	Saitu-Gamphazol	(इतर)	HN. CHAMPHAI
+Kangpokpi	Saitu-Gamphazol	(इतर)	Haijol
+Kangpokpi	Saitu-Gamphazol	(इतर)	Haiken
+Kangpokpi	Saitu-Gamphazol	(इतर)	Harup Kuki
+Kangpokpi	Saitu-Gamphazol	(इतर)	Hengjang
+Kangpokpi	Saitu-Gamphazol	(इतर)	J. JALENMUN
+Kangpokpi	Saitu-Gamphazol	(इतर)	J. LHANGHOI
+Kangpokpi	Saitu-Gamphazol	(इतर)	J. TUIPHAI
+Kangpokpi	Saitu-Gamphazol	(इतर)	JANGMUNNOM
+Kangpokpi	Saitu-Gamphazol	(इतर)	JOULEN
+Kangpokpi	Saitu-Gamphazol	(इतर)	Jampi
+Kangpokpi	Saitu-Gamphazol	(इतर)	Joujang
+Kangpokpi	Saitu-Gamphazol	(इतर)	K. GAMNOMPHAI (T. GUNPHAI)
+Kangpokpi	Saitu-Gamphazol	(इतर)	K. HAIJOL
+Kangpokpi	Saitu-Gamphazol	(इतर)	K. MOLLEN
+Kangpokpi	Saitu-Gamphazol	(इतर)	K. PHOIPI
+Kangpokpi	Saitu-Gamphazol	(इतर)	K. SELSI
+Kangpokpi	Saitu-Gamphazol	(इतर)	K.C.Home
+Kangpokpi	Saitu-Gamphazol	(इतर)	K.Lhangnom
+Kangpokpi	Saitu-Gamphazol	(इतर)	K.Orphanage
+Kangpokpi	Saitu-Gamphazol	(इतर)	K.Phoibung
+Kangpokpi	Saitu-Gamphazol	(इतर)	K.S. LHANGNOM
+Kangpokpi	Saitu-Gamphazol	(इतर)	K.Songlung
+Kangpokpi	Saitu-Gamphazol	(इतर)	KANGLATONGBI MOLLEN
+Kangpokpi	Saitu-Gamphazol	(इतर)	KHOIMUNLEN
+Kangpokpi	Saitu-Gamphazol	(इतर)	KHONGKHAIJANG
+Kangpokpi	Saitu-Gamphazol	(इतर)	Khengjang
+Kangpokpi	Saitu-Gamphazol	(इतर)	Khochal
+Kangpokpi	Saitu-Gamphazol	(इतर)	Khokheng
+Kangpokpi	Saitu-Gamphazol	(इतर)	Kholep
+Kangpokpi	Saitu-Gamphazol	(इतर)	Khonomjang
+Kangpokpi	Saitu-Gamphazol	(इतर)	Khunkhu Kuki
+Kangpokpi	Saitu-Gamphazol	(इतर)	Khunkhu Naga
+Kangpokpi	Saitu-Gamphazol	(इतर)	Kolpechang Kuki
+Kangpokpi	Saitu-Gamphazol	(इतर)	Kolpechang Nepali
+Kangpokpi	Saitu-Gamphazol	(इतर)	Kontam
+Kangpokpi	Saitu-Gamphazol	(इतर)	Koubru Leikha
+Kangpokpi	Saitu-Gamphazol	(इतर)	L. AWLMUN
+Kangpokpi	Saitu-Gamphazol	(इतर)	L. GAMHOI
+Kangpokpi	Saitu-Gamphazol	(इतर)	L. GUNPHAI
+Kangpokpi	Saitu-Gamphazol	(इतर)	L. Gamngai
+Kangpokpi	Saitu-Gamphazol	(इतर)	L. Mangjol
+Kangpokpi	Saitu-Gamphazol	(इतर)	L. SIMOL
+Kangpokpi	Saitu-Gamphazol	(इतर)	L.Khomunnom
+Kangpokpi	Saitu-Gamphazol	(इतर)	L.Mangjol
+Kangpokpi	Saitu-Gamphazol	(इतर)	L.Singhol
+Kangpokpi	Saitu-Gamphazol	(इतर)	LINGSIPHAI
+Kangpokpi	Saitu-Gamphazol	(इतर)	Laikong Avenue
+Kangpokpi	Saitu-Gamphazol	(इतर)	Leikhampokpi
+Kangpokpi	Saitu-Gamphazol	(इतर)	Leikot
+Kangpokpi	Saitu-Gamphazol	(इतर)	Lhangjol
+Kangpokpi	Saitu-Gamphazol	(इतर)	Lhangkhichoi
+Kangpokpi	Saitu-Gamphazol	(इतर)	Lhongching
+Kangpokpi	Saitu-Gamphazol	(इतर)	Lower Khengjang
+Kangpokpi	Saitu-Gamphazol	(इतर)	M.Jangnomphai
+Kangpokpi	Saitu-Gamphazol	(इतर)	M.Songpi
+Kangpokpi	Saitu-Gamphazol	(इतर)	MACHANGRAM
+Kangpokpi	Saitu-Gamphazol	(इतर)	MOLNOI
+Kangpokpi	Saitu-Gamphazol	(इतर)	MONGTUNG
+Kangpokpi	Saitu-Gamphazol	(इतर)	MOULTHANG
+Kangpokpi	Saitu-Gamphazol	(इतर)	Makhan
+Kangpokpi	Saitu-Gamphazol	(इतर)	Mapao Kanglatongbi
+Kangpokpi	Saitu-Gamphazol	(इतर)	Moljol
+Kangpokpi	Saitu-Gamphazol	(इतर)	Molthang
+Kangpokpi	Saitu-Gamphazol	(इतर)	Mongpijang
+Kangpokpi	Saitu-Gamphazol	(इतर)	Mongyang
+Kangpokpi	Saitu-Gamphazol	(इतर)	Motbung
+Kangpokpi	Saitu-Gamphazol	(इतर)	Motbung Nepali
+Kangpokpi	Saitu-Gamphazol	(इतर)	Motjang
+Kangpokpi	Saitu-Gamphazol	(इतर)	N. CHAMPHAI
+Kangpokpi	Saitu-Gamphazol	(इतर)	N. CHANGBUNG
+Kangpokpi	Saitu-Gamphazol	(इतर)	N.Khonom
+Kangpokpi	Saitu-Gamphazol	(इतर)	N.Songlung
+Kangpokpi	Saitu-Gamphazol	(इतर)	New Selsi
+Kangpokpi	Saitu-Gamphazol	(इतर)	O.S. TUINOM
+Kangpokpi	Saitu-Gamphazol	(इतर)	P. JALENPHAI
+Kangpokpi	Saitu-Gamphazol	(इतर)	P. KHONOMJANG
+Kangpokpi	Saitu-Gamphazol	(इतर)	P. ZOMUN
+Kangpokpi	Saitu-Gamphazol	(इतर)	PHAIZAWL
+Kangpokpi	Saitu-Gamphazol	(इतर)	Pangjang
+Kangpokpi	Saitu-Gamphazol	(इतर)	Pangmol
+Kangpokpi	Saitu-Gamphazol	(इतर)	Pangsang
+Kangpokpi	Saitu-Gamphazol	(इतर)	Phailenkot
+Kangpokpi	Saitu-Gamphazol	(इतर)	Phoibi
+Kangpokpi	Saitu-Gamphazol	(इतर)	Phoilen
+Kangpokpi	Saitu-Gamphazol	(इतर)	S. Hengmol
+Kangpokpi	Saitu-Gamphazol	(इतर)	S. Khajang
+Kangpokpi	Saitu-Gamphazol	(इतर)	S. SIMTOL
+Kangpokpi	Saitu-Gamphazol	(इतर)	S. TOILOU
+Kangpokpi	Saitu-Gamphazol	(इतर)	S. VENGNOM
+Kangpokpi	Saitu-Gamphazol	(इतर)	S.Bolen
+Kangpokpi	Saitu-Gamphazol	(इतर)	S.Boungpi
+Kangpokpi	Saitu-Gamphazol	(इतर)	S.Buning
+Kangpokpi	Saitu-Gamphazol	(इतर)	S.Chajang
+Kangpokpi	Saitu-Gamphazol	(इतर)	S.Gamnomjang
+Kangpokpi	Saitu-Gamphazol	(इतर)	S.Lhangnom
+Kangpokpi	Saitu-Gamphazol	(इतर)	S.M. MUNNOM
+Kangpokpi	Saitu-Gamphazol	(इतर)	S.Silen
+Kangpokpi	Saitu-Gamphazol	(इतर)	SK. LHANGNOM
+Kangpokpi	Saitu-Gamphazol	(इतर)	SN. SOTOL (SELSI)
+Kangpokpi	Saitu-Gamphazol	(इतर)	SP. NGAIMUN
+Kangpokpi	Saitu-Gamphazol	(इतर)	Saitu
+Kangpokpi	Saitu-Gamphazol	(इतर)	Saitu Sapermeina
+Kangpokpi	Saitu-Gamphazol	(इतर)	Salem
+Kangpokpi	Saitu-Gamphazol	(इतर)	Santing
+Kangpokpi	Saitu-Gamphazol	(इतर)	Sapermeina
+Kangpokpi	Saitu-Gamphazol	(इतर)	Seloi
+Kangpokpi	Saitu-Gamphazol	(इतर)	Simol
+Kangpokpi	Saitu-Gamphazol	(इतर)	Sipijang
+Kangpokpi	Saitu-Gamphazol	(इतर)	Songjang Khullen
+Kangpokpi	Saitu-Gamphazol	(इतर)	T. CHALBUNG
+Kangpokpi	Saitu-Gamphazol	(इतर)	T. CHALJANG
+Kangpokpi	Saitu-Gamphazol	(इतर)	T. KIPLOU
+Kangpokpi	Saitu-Gamphazol	(इतर)	T. SAPARMEINA
+Kangpokpi	Saitu-Gamphazol	(इतर)	T. SIMOL
+Kangpokpi	Saitu-Gamphazol	(इतर)	T. SONGLUNG (K. JOUTE)
+Kangpokpi	Saitu-Gamphazol	(इतर)	T. ZALENPHAI
+Kangpokpi	Saitu-Gamphazol	(इतर)	T.S. VENGNOM
+Kangpokpi	Saitu-Gamphazol	(इतर)	TALOULONG
+Kangpokpi	Saitu-Gamphazol	(इतर)	THINGLENJAO
+Kangpokpi	Saitu-Gamphazol	(इतर)	Taniulong Langka
+Kangpokpi	Saitu-Gamphazol	(इतर)	Thanglong Kabui
+Kangpokpi	Saitu-Gamphazol	(इतर)	Thingbongjang
+Kangpokpi	Saitu-Gamphazol	(इतर)	Thomjang
+Kangpokpi	Saitu-Gamphazol	(इतर)	Tuipajang
+Kangpokpi	Saitu-Gamphazol	(इतर)	U.Sapermeina
+Kangpokpi	Saitu-Gamphazol	(इतर)	UPPER PHAILENGKOT PT-II
+Kangpokpi	Saitu-Gamphazol	(इतर)	W.Buning
+Kangpokpi	Saitu-Gamphazol	(इतर)	Wajang Mangkhosum
+Kangpokpi	Saitu-Gamphazol	(इतर)	ZALENBUNG
+Kangpokpi	T Vaichong	(इतर)	12 Miles It Road
+Kangpokpi	T Vaichong	(इतर)	Bajaghara
+Kangpokpi	T Vaichong	(इतर)	Bileijang
+Kangpokpi	T Vaichong	(इतर)	Bollen
+Kangpokpi	T Vaichong	(इतर)	C Chalkot
+Kangpokpi	T Vaichong	(इतर)	Chalwa
+Kangpokpi	T Vaichong	(इतर)	GROUPING CENTRE SONGBHUPHAI
+Kangpokpi	T Vaichong	(इतर)	Gelbung
+Kangpokpi	T Vaichong	(इतर)	Geljang
+Kangpokpi	T Vaichong	(इतर)	Gelnel
+Kangpokpi	T Vaichong	(इतर)	Ghimithari
+Kangpokpi	T Vaichong	(इतर)	Gorkha Harup
+Kangpokpi	T Vaichong	(इतर)	Gorkha Tapon
+Kangpokpi	T Vaichong	(इतर)	Govajang
+Kangpokpi	T Vaichong	(इतर)	Haimol
+Kangpokpi	T Vaichong	(इतर)	Harup Khopi
+Kangpokpi	T Vaichong	(इतर)	Harup Naga
+Kangpokpi	T Vaichong	(इतर)	Has Pukhri
+Kangpokpi	T Vaichong	(इतर)	Holjang
+Kangpokpi	T Vaichong	(इतर)	Jhil
+Kangpokpi	T Vaichong	(इतर)	Kharkhari
+Kangpokpi	T Vaichong	(इतर)	Kharpani
+Kangpokpi	T Vaichong	(इतर)	Khollen
+Kangpokpi	T Vaichong	(इतर)	Kolghari
+Kangpokpi	T Vaichong	(इतर)	L. Sehjang
+Kangpokpi	T Vaichong	(इतर)	Lamchok
+Kangpokpi	T Vaichong	(इतर)	Leisang
+Kangpokpi	T Vaichong	(इतर)	Lhungjang
+Kangpokpi	T Vaichong	(इतर)	M.Chaljang
+Kangpokpi	T Vaichong	(इतर)	Makui Asang
+Kangpokpi	T Vaichong	(इतर)	Makui Mayangkhang
+Kangpokpi	T Vaichong	(इतर)	Makui Naga
+Kangpokpi	T Vaichong	(इतर)	Manedra
+Kangpokpi	T Vaichong	(इतर)	Maokot
+Kangpokpi	T Vaichong	(इतर)	N.Teikhang
+Kangpokpi	T Vaichong	(इतर)	Naibet
+Kangpokpi	T Vaichong	(इतर)	Panikheti
+Kangpokpi	T Vaichong	(इतर)	Paodel Basti
+Kangpokpi	T Vaichong	(इतर)	Phoikon
+Kangpokpi	T Vaichong	(इतर)	Riyar Tahar
+Kangpokpi	T Vaichong	(इतर)	S. SELSI
+Kangpokpi	T Vaichong	(इतर)	School Parganda
+Kangpokpi	T Vaichong	(इतर)	Selsi
+Kangpokpi	T Vaichong	(इतर)	Songjang Pakang
+Kangpokpi	T Vaichong	(इतर)	Songjang Phailen
+Kangpokpi	T Vaichong	(इतर)	Songpijang
+Kangpokpi	T Vaichong	(इतर)	T.Waichong
+Kangpokpi	T Vaichong	(इतर)	TAPON NAMSAN
+Kangpokpi	T Vaichong	(इतर)	THALDARA
+Kangpokpi	T Vaichong	(इतर)	THEBRAM
+Kangpokpi	T Vaichong	(इतर)	TUIJANG VAICHONG
+Kangpokpi	T Vaichong	(इतर)	Tahar Basti
+Kangpokpi	T Vaichong	(इतर)	Tapon Naga
+Kangpokpi	T Vaichong	(इतर)	Thanamba
+Kangpokpi	T Vaichong	(इतर)	Thonglang Akutpa
+Kangpokpi	T Vaichong	(इतर)	Thonglang Atongba
+Kangpokpi	T Vaichong	(इतर)	Thulochor
+Kangpokpi	T Vaichong	(इतर)	Timsina
+Kangpokpi	T Vaichong	(इतर)	V KHOLEN
+Kangpokpi	T Vaichong	(इतर)	W. JOUPI
+Noney	Haochong	(इतर)	Abungchiang
+Noney	Haochong	(इतर)	Bakwa
+Noney	Haochong	(इतर)	Guangram
+Noney	Haochong	(इतर)	Haochong
+Noney	Haochong	(इतर)	Ijeirong
+Noney	Haochong	(इतर)	Kabui Khullen
+Noney	Haochong	(इतर)	Kajinglong
+Noney	Haochong	(इतर)	Karuangmuan
+Noney	Haochong	(इतर)	Khumji
+Noney	Haochong	(इतर)	Luangchum
+Noney	Haochong	(इतर)	Makhuam (Marangjing)
+Noney	Haochong	(इतर)	Puichi
+Noney	Haochong	(इतर)	Pungmon
+Noney	Haochong	(इतर)	Rangkhung
+Noney	Haochong	(इतर)	Taobam
+Noney	Haochong	(इतर)	Thingra
+Noney	Khoupum	(इतर)	Chingmei Kabui
+Noney	Khoupum	(इतर)	GANGLUAN
+Noney	Khoupum	(इतर)	GOITANG
+Noney	Khoupum	(इतर)	Gahtao (Satu)
+Noney	Khoupum	(इतर)	Khoupum
+Noney	Khoupum	(इतर)	Leishok
+Noney	Khoupum	(इतर)	Lubanglong
+Noney	Khoupum	(इतर)	Molphei
+Noney	Khoupum	(इतर)	Namkaolong(Luwanglong Khunou)
+Noney	Khoupum	(इतर)	Nungbai
+Noney	Khoupum	(इतर)	Nungnang
+Noney	Khoupum	(इतर)	Pungsan
+Noney	Khoupum	(इतर)	Ragailong
+Noney	Khoupum	(इतर)	Tamlok
+Noney	Khoupum	(इतर)	Taosang
+Noney	Longmai	(इतर)	Bitiang
+Noney	Longmai	(इतर)	Charoi Chakotlong I
+Noney	Longmai	(इतर)	Charoichakotlong ii
+Noney	Longmai	(इतर)	Dollang
+Noney	Longmai	(इतर)	Joujangtek
+Noney	Longmai	(इतर)	Lamdangmei
+Noney	Longmai	(इतर)	Noney
+Noney	Longmai	(इतर)	Nungsai
+Noney	Longmai	(इतर)	Shangji
+Noney	Longmai	(इतर)	Thangal
+Noney	Nungba	(इतर)	BWANRUANGH
+Noney	Nungba	(इतर)	Bijang
+Noney	Nungba	(इतर)	Bolphai
+Noney	Nungba	(इतर)	Changjal
+Noney	Nungba	(इतर)	Chongmun
+Noney	Nungba	(इतर)	Gallon
+Noney	Nungba	(इतर)	K.Daveijang
+Noney	Nungba	(इतर)	Kambiron
+Noney	Nungba	(इतर)	Kekrunaga
+Noney	Nungba	(इतर)	Khongsang
+Noney	Nungba	(इतर)	Laihaojang
+Noney	Nungba	(इतर)	Leikot
+Noney	Nungba	(इतर)	Lenglong
+Noney	Nungba	(इतर)	Longkaiphun
+Noney	Nungba	(इतर)	Longphailum
+Noney	Nungba	(इतर)	Longpi
+Noney	Nungba	(इतर)	Mongjarongkhunou
+Noney	Nungba	(इतर)	Muktikhullen
+Noney	Nungba	(इतर)	Muktina
+Noney	Nungba	(इतर)	Nungba
+Noney	Nungba	(इतर)	Nungthut
+Noney	Nungba	(इतर)	Okoklong
+Noney	Nungba	(इतर)	RONGDAI
+Noney	Nungba	(इतर)	S.Molbung
+Noney	Nungba	(इतर)	Sekjang
+Noney	Nungba	(इतर)	Sempat Gangte
+Noney	Nungba	(इतर)	Sempat Naga
+Noney	Nungba	(इतर)	T.Khongmol
+Noney	Nungba	(इतर)	T.Molbung
+Noney	Nungba	(इतर)	Taikhang
+Noney	Nungba	(इतर)	Thingou
+Noney	Nungba	(इतर)	Tuiphai
+Pherzawl	Thanlon	(इतर)	Aibulon
+Pherzawl	Thanlon	(इतर)	Bualmual
+Pherzawl	Thanlon	(इतर)	Bukpi
+Pherzawl	Thanlon	(इतर)	Bungjang
+Pherzawl	Thanlon	(इतर)	Bungpilon
+Pherzawl	Thanlon	(इतर)	C.Zalen
+Pherzawl	Thanlon	(इतर)	Dailon
+Pherzawl	Thanlon	(इतर)	Dialkhai
+Pherzawl	Thanlon	(इतर)	Galkapkot
+Pherzawl	Thanlon	(इतर)	Gamhui
+Pherzawl	Thanlon	(इतर)	Hanship
+Pherzawl	Thanlon	(इतर)	Khajang
+Pherzawl	Thanlon	(इतर)	Khoken
+Pherzawl	Thanlon	(इतर)	Khuangjang
+Pherzawl	Thanlon	(इतर)	Leijangphai
+Pherzawl	Thanlon	(इतर)	Milongmun
+Pherzawl	Thanlon	(इतर)	Mong-On
+Pherzawl	Thanlon	(इतर)	Mualpheng
+Pherzawl	Thanlon	(इतर)	Muikot
+Pherzawl	Thanlon	(इतर)	Muntha
+Pherzawl	Thanlon	(इतर)	Natheilbok
+Pherzawl	Thanlon	(इतर)	New Muntha
+Pherzawl	Thanlon	(इतर)	Palkhuang
+Pherzawl	Thanlon	(इतर)	Pamjal
+Pherzawl	Thanlon	(इतर)	Pangen
+Pherzawl	Thanlon	(इतर)	Phaijang
+Pherzawl	Thanlon	(इतर)	Phainuam
+Pherzawl	Thanlon	(इतर)	Phaitong
+Pherzawl	Thanlon	(इतर)	Sainoujang
+Pherzawl	Thanlon	(इतर)	Saite
+Pherzawl	Thanlon	(इतर)	Savaipaih
+Pherzawl	Thanlon	(इतर)	Suangpekmun
+Pherzawl	Thanlon	(इतर)	Suangsang
+Pherzawl	Thanlon	(इतर)	Sumtuh (Sumtuk)
+Pherzawl	Thanlon	(इतर)	Suohthumphai
+Pherzawl	Thanlon	(इतर)	T. Maojang
+Pherzawl	Thanlon	(इतर)	T. Phaikholum
+Pherzawl	Thanlon	(इतर)	Tallian
+Pherzawl	Thanlon	(इतर)	Tangnuam
+Pherzawl	Thanlon	(इतर)	Thanlon
+Pherzawl	Thanlon	(इतर)	Thenzol
+Pherzawl	Thanlon	(इतर)	Tongkham
+Pherzawl	Thanlon	(इतर)	Tuiku Muallum
+Pherzawl	Thanlon	(इतर)	Tuipiphai
+Pherzawl	Thanlon	(इतर)	Vaipheimual
+Pherzawl	Thanlon	(इतर)	Zoupi
+Pherzawl	Thanlon	(इतर)	Zoutung
+Pherzawl	Tipaimukh	(इतर)	Damdei
+Pherzawl	Tipaimukh	(इतर)	Hmar Maulien
+Pherzawl	Tipaimukh	(इतर)	Leisen
+Pherzawl	Tipaimukh	(इतर)	Loibuol
+Pherzawl	Tipaimukh	(इतर)	Lungthulien
+Pherzawl	Tipaimukh	(इतर)	Parbung
+Pherzawl	Tipaimukh	(इतर)	Parvachom
+Pherzawl	Tipaimukh	(इतर)	Pherzawl
+Pherzawl	Tipaimukh	(इतर)	Rovakot
+Pherzawl	Tipaimukh	(इतर)	Senvon
+Pherzawl	Tipaimukh	(इतर)	Serhmun
+Pherzawl	Tipaimukh	(इतर)	Sipuikon/Tipaimukh
+Pherzawl	Tipaimukh	(इतर)	Taithu
+Pherzawl	Tipaimukh	(इतर)	Tallan
+Pherzawl	Tipaimukh	(इतर)	Thingpan
+Pherzawl	Tipaimukh	(इतर)	Tinsuong
+Pherzawl	Tipaimukh	(इतर)	Tipaimukh
+Pherzawl	Tipaimukh	(इतर)	Tuolbung
+Pherzawl	Vangai Range	(इतर)	Ankhasuo(Sibapurikhal)
+Pherzawl	Vangai Range	(इतर)	Buangmun
+Pherzawl	Vangai Range	(इतर)	Chingmun
+Pherzawl	Vangai Range	(इतर)	Doltang
+Pherzawl	Vangai Range	(इतर)	Henchungpunji
+Pherzawl	Vangai Range	(इतर)	Henchungpunji(M)
+Pherzawl	Vangai Range	(इतर)	Jakrador-Phaimuol
+Pherzawl	Vangai Range	(इतर)	Jeisuo
+Pherzawl	Vangai Range	(इतर)	Kangreng
+Pherzawl	Vangai Range	(इतर)	Kangrengdor
+Pherzawl	Vangai Range	(इतर)	Kasurbali
+Pherzawl	Vangai Range	(इतर)	Kh. Jaikhan
+Pherzawl	Vangai Range	(इतर)	Khangbor
+Pherzawl	Vangai Range	(इतर)	Lower Kharkhuplien
+Pherzawl	Vangai Range	(इतर)	Moinador
+Pherzawl	Vangai Range	(इतर)	Muolkhangthol
+Pherzawl	Vangai Range	(इतर)	Ngampabung
+Pherzawl	Vangai Range	(इतर)	Nungsekpunji
+Pherzawl	Vangai Range	(इतर)	P.Munlian
+Pherzawl	Vangai Range	(इतर)	P.Munte
+Pherzawl	Vangai Range	(इतर)	Patpuihmun
+Pherzawl	Vangai Range	(इतर)	Phailien
+Pherzawl	Vangai Range	(इतर)	Phailienthangpunji
+Pherzawl	Vangai Range	(इतर)	Phulpui
+Pherzawl	Vangai Range	(इतर)	Saikulphai
+Pherzawl	Vangai Range	(इतर)	Sartuinek
+Pherzawl	Vangai Range	(इतर)	Savomphai
+Pherzawl	Vangai Range	(इतर)	Suangphumun
+Pherzawl	Vangai Range	(इतर)	Thingkal
+Pherzawl	Vangai Range	(इतर)	Thingkaldor
+Pherzawl	Vangai Range	(इतर)	Thingpuikuol
+Pherzawl	Vangai Range	(इतर)	Tieulien
+Pherzawl	Vangai Range	(इतर)	Tuaitengmun
+Pherzawl	Vangai Range	(इतर)	Tuisen (Notunlalpani)
+Pherzawl	Vangai Range	(इतर)	Upper Kharkhuplien
+Senapati	Chilivai Phaibung	(इतर)	Khongdei Khuman
+Senapati	Chilivai Phaibung	(इतर)	Khongdei Ngawar
+Senapati	Chilivai Phaibung	(इतर)	Khongdei Shimphung
+Senapati	Chilivai Phaibung	(इतर)	Kodom Khavii
+Senapati	Chilivai Phaibung	(इतर)	Kodom Khullen
+Senapati	Chilivai Phaibung	(इतर)	Lakhamei
+Senapati	Chilivai Phaibung	(इतर)	Lower Phaibung
+Senapati	Chilivai Phaibung	(इतर)	Ngari Khullen
+Senapati	Chilivai Phaibung	(इतर)	Ngari Lishang
+Senapati	Chilivai Phaibung	(इतर)	Ngari Raidolumai
+Senapati	Chilivai Phaibung	(इतर)	Phaibung Khullen
+Senapati	Chilivai Phaibung	(इतर)	Phaibung Khunou
+Senapati	Chilivai Phaibung	(इतर)	SIRONG SHOFII
+Senapati	Chilivai Phaibung	(इतर)	Shirong
+Senapati	Chilivai Phaibung	(इतर)	THIWA
+Senapati	Chilivai Phaibung	(इतर)	THIWA SONGDO
+Senapati	Chilivai Phaibung	(इतर)	Thiwa
+Senapati	Chilivai Phaibung	(इतर)	Thiwa Songdo
+Senapati	Paomata	(इतर)	AFII
+Senapati	Paomata	(इतर)	Chingmei Khullen
+Senapati	Paomata	(इतर)	Chingmei Khunou
+Senapati	Paomata	(इतर)	Katafiimei
+Senapati	Paomata	(इतर)	Khaikho
+Senapati	Paomata	(इतर)	Laii
+Senapati	Paomata	(इतर)	Laii Sarafii
+Senapati	Paomata	(इतर)	Liyai Khullen
+Senapati	Paomata	(इतर)	Liyai Khunou
+Senapati	Paomata	(इतर)	MAKHUFII
+Senapati	Paomata	(इतर)	Maiba
+Senapati	Paomata	(इतर)	Maiba Vaofii
+Senapati	Paomata	(इतर)	New Laii
+Senapati	Paomata	(इतर)	Paomata Centre
+Senapati	Paomata	(इतर)	Phuba Khuman
+Senapati	Paomata	(इतर)	Phuba Thapham
+Senapati	Paomata	(इतर)	Rakhutao
+Senapati	Paomata	(इतर)	Saranamei
+Senapati	Paomata	(इतर)	Saranamei Khaikho
+Senapati	Paomata	(इतर)	Tungam Afii
+Senapati	Paomata	(इतर)	Tungam Khullen
+Senapati	Paomata	(इतर)	Tungam Makhufii
+Senapati	Paomata	(इतर)	Tungjoy
+Senapati	Paomata	(इतर)	Tungjoy Rikhubumai
+Senapati	Purul	(इतर)	Chofii
+Senapati	Purul	(इतर)	Kapao
+Senapati	Purul	(इतर)	Keiye
+Senapati	Purul	(इतर)	Koide Makha
+Senapati	Purul	(इतर)	Koide Mathak
+Senapati	Purul	(इतर)	Laila
+Senapati	Purul	(इतर)	Ngamju
+Senapati	Purul	(इतर)	Oinam
+Senapati	Purul	(इतर)	Purul Akutpa
+Senapati	Purul	(इतर)	Purul Atongba
+Senapati	Purul	(इतर)	Purul Rosofii
+Senapati	Purul	(इतर)	Raafii
+Senapati	Purul	(इतर)	Thingba Khullen
+Senapati	Purul	(इतर)	Thingba Khunou
+Senapati	Song Song	(इतर)	Chowainu
+Senapati	Song Song	(इतर)	KAIBI
+Senapati	Song Song	(इतर)	Kalinamei
+Senapati	Song Song	(इतर)	Kayinu
+Senapati	Song Song	(इतर)	Makhel
+Senapati	Song Song	(इतर)	Phikomai
+Senapati	Song Song	(इतर)	Pudunamei
+Senapati	Song Song	(इतर)	Punanamei
+Senapati	Song Song	(इतर)	Rabunamei
+Senapati	Song Song	(इतर)	Robve Solephe
+Senapati	Song Song	(इतर)	Shajouba
+Senapati	Song Song	(इतर)	Song Song
+Senapati	Song Song	(इतर)	Tobumei
+Senapati	Tadubi	(इतर)	Angkailongdi
+Senapati	Tadubi	(इतर)	Chakumei
+Senapati	Tadubi	(इतर)	Chowainamei Khullen
+Senapati	Tadubi	(इतर)	Chowainamei Khunou
+Senapati	Tadubi	(इतर)	Emefiithumai
+Senapati	Tadubi	(इतर)	Emesiiphro
+Senapati	Tadubi	(इतर)	Kathikho
+Senapati	Tadubi	(इतर)	Katomai Makeng
+Senapati	Tadubi	(इतर)	Katomei
+Senapati	Tadubi	(इतर)	Katomei Centre
+Senapati	Tadubi	(इतर)	Keibi
+Senapati	Tadubi	(इतर)	Khabung
+Senapati	Tadubi	(इतर)	Khabung Karong
+Senapati	Tadubi	(इतर)	Khamsom
+Senapati	Tadubi	(इतर)	Khongnem
+Senapati	Tadubi	(इतर)	Khridziiphi
+Senapati	Tadubi	(इतर)	Lairoching
+Senapati	Tadubi	(इतर)	MARAM KHULAKPA
+Senapati	Tadubi	(इतर)	Makeng Cheijinba Katomei
+Senapati	Tadubi	(इतर)	Makhan Centre
+Senapati	Tadubi	(इतर)	Makhan Khullen
+Senapati	Tadubi	(इतर)	Makhan Khuman
+Senapati	Tadubi	(इतर)	Makhan Lovadziiho
+Senapati	Tadubi	(इतर)	Makhrelui
+Senapati	Tadubi	(इतर)	Mao Karong
+Senapati	Tadubi	(इतर)	Mao Marafii
+Senapati	Tadubi	(इतर)	Mao Pundung
+Senapati	Tadubi	(इतर)	Maram Bazar
+Senapati	Tadubi	(इतर)	Maram Centre
+Senapati	Tadubi	(इतर)	Maram Kavanam
+Senapati	Tadubi	(इतर)	Maram Khunou
+Senapati	Tadubi	(इतर)	Maram Makha Sagei
+Senapati	Tadubi	(इतर)	Maram Mathak Sagei
+Senapati	Tadubi	(इतर)	Maram Ramlung
+Senapati	Tadubi	(इतर)	Maram Sagonbam
+Senapati	Tadubi	(इतर)	Namgailong Rongmei
+Senapati	Tadubi	(इतर)	New Magaimai
+Senapati	Tadubi	(इतर)	New Makhan
+Senapati	Tadubi	(इतर)	New Maram
+Senapati	Tadubi	(इतर)	Ngatan
+Senapati	Tadubi	(इतर)	Puni Pfosemai
+Senapati	Tadubi	(इतर)	Rikhumai Taphou
+Senapati	Tadubi	(इतर)	Sadim Naga (Emesho Sadim)
+Senapati	Tadubi	(इतर)	Sorbung
+Senapati	Tadubi	(इतर)	Tadubi
+Senapati	Tadubi	(इतर)	Takaimai
+Senapati	Tadubi	(इतर)	Taklung
+Senapati	Tadubi	(इतर)	Taphou Naga
+Senapati	Tadubi	(इतर)	Taphou Ngaihang
+Senapati	Tadubi	(इतर)	Taphou Oneame
+Senapati	Tadubi	(इतर)	Taphou Padunamai
+Senapati	Tadubi	(इतर)	Taphou Phyamai
+Senapati	Tadubi	(इतर)	Tingsong
+Senapati	Tadubi	(इतर)	Tingsong Khullen
+Senapati	Tadubi	(इतर)	Tusii Ngaonii Khumai (Senapati)
+Senapati	Willong	(इतर)	BENDRAMAI
+Senapati	Willong	(इतर)	Chakha
+Senapati	Willong	(इतर)	KANGJANG
+Senapati	Willong	(इतर)	Kamalong
+Senapati	Willong	(इतर)	Kamen
+Senapati	Willong	(इतर)	Kenelu
+Senapati	Willong	(इतर)	Makulongdi
+Senapati	Willong	(इतर)	Nsebekie
+Senapati	Willong	(इतर)	Oklong
+Senapati	Willong	(इतर)	Oklong Khunou
+Senapati	Willong	(इतर)	Oklong Maryam
+Senapati	Willong	(इतर)	Pumdumlung
+Senapati	Willong	(इतर)	Rajamei
+Senapati	Willong	(इतर)	Sangkunglung
+Senapati	Willong	(इतर)	Shang Khumei
+Senapati	Willong	(इतर)	Tamphung
+Senapati	Willong	(इतर)	Willong Khullen
+Senapati	Willong	(इतर)	Willong Khunou
+Senapati	Willong	(इतर)	Yangkhullen
+Senapati	Willong	(इतर)	Yangkhunou
+Senapati	Willong	(इतर)	ZUIMI (THUIYENG)
+Senapati	Willong	(इतर)	Zenamei
+Senapati	Willong	(इतर)	Zenamyi
+Tamenglong	Tamenglong	(इतर)	AMANA
+Tamenglong	Tamenglong	(इतर)	Bamgaijang
+Tamenglong	Tamenglong	(इतर)	CHINGKHIULUANG
+Tamenglong	Tamenglong	(इतर)	CHIULUAN
+Tamenglong	Tamenglong	(इतर)	Chaengdai
+Tamenglong	Tamenglong	(इतर)	DIMTHANLONG
+Tamenglong	Tamenglong	(इतर)	DUILUAN
+Tamenglong	Tamenglong	(इतर)	DUITHANLUANG
+Tamenglong	Tamenglong	(इतर)	Dailong
+Tamenglong	Tamenglong	(इतर)	Duigailong
+Tamenglong	Tamenglong	(इतर)	EDEN HILL
+Tamenglong	Tamenglong	(इतर)	GADAILONG
+Tamenglong	Tamenglong	(इतर)	GREENLAND
+Tamenglong	Tamenglong	(इतर)	GUIGAILONG
+Tamenglong	Tamenglong	(इतर)	HAPPY VILLA
+Tamenglong	Tamenglong	(इतर)	HOUGAILUANG
+Tamenglong	Tamenglong	(इतर)	KHANGCHIULUAN
+Tamenglong	Tamenglong	(इतर)	KHOUPILUANG
+Tamenglong	Tamenglong	(इतर)	Kahulong
+Tamenglong	Tamenglong	(इतर)	LUANGDI
+Tamenglong	Tamenglong	(इतर)	LUNGYINAM
+Tamenglong	Tamenglong	(इतर)	MODEL VILLAGE
+Tamenglong	Tamenglong	(इतर)	NAMKAOLONG
+Tamenglong	Tamenglong	(इतर)	NAMLALONG
+Tamenglong	Tamenglong	(इतर)	NEIGAILONG
+Tamenglong	Tamenglong	(इतर)	NEW CANAAN
+Tamenglong	Tamenglong	(इतर)	NEW LAMBULANE
+Tamenglong	Tamenglong	(इतर)	NEW SALEM
+Tamenglong	Tamenglong	(इतर)	PHALONG
+Tamenglong	Tamenglong	(इतर)	PUCHING
+Tamenglong	Tamenglong	(इतर)	RAMGAILONG
+Tamenglong	Tamenglong	(इतर)	RAMPHANLUANG
+Tamenglong	Tamenglong	(इतर)	RIGUNLONG
+Tamenglong	Tamenglong	(इतर)	Ramlalong
+Tamenglong	Tamenglong	(इतर)	Sempang
+Tamenglong	Tamenglong	(इतर)	Shangrungpang
+Tamenglong	Tamenglong	(इतर)	Sonram
+Tamenglong	Tamenglong	(इतर)	TAMENGLONG VILLAGE
+Tamenglong	Tamenglong	(इतर)	Tabanglong
+Tamenglong	Tamenglong	(इतर)	Tharon
+Tamenglong	Tamenglong	(इतर)	UTOPIA
+Tamenglong	Tamenglong North	(इतर)	Atangkhullen
+Tamenglong	Tamenglong North	(इतर)	Atangkhunou
+Tamenglong	Tamenglong North	(इतर)	CHATON-II
+Tamenglong	Tamenglong North	(इतर)	Chaton I
+Tamenglong	Tamenglong North	(इतर)	Dikiuram
+Tamenglong	Tamenglong North	(इतर)	Dunnong
+Tamenglong	Tamenglong North	(इतर)	Illeng
+Tamenglong	Tamenglong North	(इतर)	KADI-II
+Tamenglong	Tamenglong North	(इतर)	KADI-IV
+Tamenglong	Tamenglong North	(इतर)	KHUNDONG-II
+Tamenglong	Tamenglong North	(इतर)	KUILONG-II
+Tamenglong	Tamenglong North	(इतर)	KUILONG-III
+Tamenglong	Tamenglong North	(इतर)	Kabonram
+Tamenglong	Tamenglong North	(इतर)	Kadi I
+Tamenglong	Tamenglong North	(इतर)	Kadi III
+Tamenglong	Tamenglong North	(इतर)	Kawalong
+Tamenglong	Tamenglong North	(इतर)	Khundong I
+Tamenglong	Tamenglong North	(इतर)	Konphung
+Tamenglong	Tamenglong North	(इतर)	Kuilong-I
+Tamenglong	Tamenglong North	(इतर)	LOWER TAKOU
+Tamenglong	Tamenglong North	(इतर)	Lamlaba
+Tamenglong	Tamenglong North	(इतर)	Langmei
+Tamenglong	Tamenglong North	(इतर)	Langpram
+Tamenglong	Tamenglong North	(इतर)	Lasan
+Tamenglong	Tamenglong North	(इतर)	Lenglong
+Tamenglong	Tamenglong North	(इतर)	Makuinong
+Tamenglong	Tamenglong North	(इतर)	NEW LEMTA
+Tamenglong	Tamenglong North	(इतर)	NEW THENJANG
+Tamenglong	Tamenglong North	(इतर)	Nallong
+Tamenglong	Tamenglong North	(इतर)	Nurathen
+Tamenglong	Tamenglong North	(इतर)	Old Lemta
+Tamenglong	Tamenglong North	(इतर)	Old Thenjang
+Tamenglong	Tamenglong North	(इतर)	Pallong
+Tamenglong	Tamenglong North	(इतर)	Piulong
+Tamenglong	Tamenglong North	(इतर)	S. Songpibung
+Tamenglong	Tamenglong North	(इतर)	SOJAMPHAI
+Tamenglong	Tamenglong North	(इतर)	TABAM
+Tamenglong	Tamenglong North	(इतर)	Taipram
+Tamenglong	Tamenglong North	(इतर)	Tamah
+Tamenglong	Tamenglong North	(इतर)	Tamei
+Tamenglong	Tamenglong North	(इतर)	UPPER TAKOU
+Tamenglong	Tamenglong West	(इतर)	Aben
+Tamenglong	Tamenglong West	(इतर)	Atengba
+Tamenglong	Tamenglong West	(इतर)	Azuram
+Tamenglong	Tamenglong West	(इतर)	Charinapang
+Tamenglong	Tamenglong West	(इतर)	Chingkao
+Tamenglong	Tamenglong West	(इतर)	Chingkhonglong
+Tamenglong	Tamenglong West	(इतर)	Chramram
+Tamenglong	Tamenglong West	(इतर)	Impa
+Tamenglong	Tamenglong West	(इतर)	Impa Ningdi
+Tamenglong	Tamenglong West	(इतर)	Inem
+Tamenglong	Tamenglong West	(इतर)	J. Pabram
+Tamenglong	Tamenglong West	(इतर)	KATANG BEUKAM
+Tamenglong	Tamenglong West	(इतर)	Kaimai Kuki
+Tamenglong	Tamenglong West	(इतर)	Kaimai Naga
+Tamenglong	Tamenglong West	(इतर)	Kaiphundai Naga
+Tamenglong	Tamenglong West	(इतर)	Kamrangkha Khasi
+Tamenglong	Tamenglong West	(इतर)	Kandihang
+Tamenglong	Tamenglong West	(इतर)	Katang
+Tamenglong	Tamenglong West	(इतर)	Katangnam
+Tamenglong	Tamenglong West	(इतर)	Katiang
+Tamenglong	Tamenglong West	(इतर)	Khedagar Khasi
+Tamenglong	Tamenglong West	(इतर)	Kulbung
+Tamenglong	Tamenglong West	(इतर)	Lhangnom
+Tamenglong	Tamenglong West	(इतर)	Longchai
+Tamenglong	Tamenglong West	(इतर)	Longjon
+Tamenglong	Tamenglong West	(इतर)	Magulong
+Tamenglong	Tamenglong West	(इतर)	Mandu
+Tamenglong	Tamenglong West	(इतर)	Maokot
+Tamenglong	Tamenglong West	(इतर)	Muktokhal
+Tamenglong	Tamenglong West	(इतर)	Namtiram I
+Tamenglong	Tamenglong West	(इतर)	Namtiram II
+Tamenglong	Tamenglong West	(इतर)	New Chingkao
+Tamenglong	Tamenglong West	(इतर)	New Magulong
+Tamenglong	Tamenglong West	(इतर)	New Mandu
+Tamenglong	Tamenglong West	(इतर)	New Phellong
+Tamenglong	Tamenglong West	(इतर)	Ngahmunphai
+Tamenglong	Tamenglong West	(इतर)	Njingning
+Tamenglong	Tamenglong West	(इतर)	Njungkok
+Tamenglong	Tamenglong West	(इतर)	Nungkao
+Tamenglong	Tamenglong West	(इतर)	Oinamlong
+Tamenglong	Tamenglong West	(इतर)	Old Kaiphundai Kuki
+Tamenglong	Tamenglong West	(इतर)	Old Phellong
+Tamenglong	Tamenglong West	(इतर)	Pangkotphai
+Tamenglong	Tamenglong West	(इतर)	Pangmol
+Tamenglong	Tamenglong West	(इतर)	Phaitol
+Tamenglong	Tamenglong West	(इतर)	Phoklong
+Tamenglong	Tamenglong West	(इतर)	Pumram
+Tamenglong	Tamenglong West	(इतर)	Rangkekiulong
+Tamenglong	Tamenglong West	(इतर)	Sibilong
+Tamenglong	Tamenglong West	(इतर)	T. Motbung
+Tamenglong	Tamenglong West	(इतर)	Taijijang
+Tamenglong	Tamenglong West	(इतर)	Taningjam
+Tamenglong	Tamenglong West	(इतर)	Tatbung
+Tamenglong	Tamenglong West	(इतर)	Teguaram
+Tamenglong	Tamenglong West	(इतर)	Thingchamphai
+Tamenglong	Tamenglong West	(इतर)	Thingtudbung
+Tamenglong	Tamenglong West	(इतर)	Thiulon
+Tamenglong	Tamenglong West	(इतर)	Tollen
+Tamenglong	Tamenglong West	(इतर)	Tongtao
+Tamenglong	Tamenglong West	(इतर)	Tousem Khunou
+Tamenglong	Tamenglong West	(इतर)	Tousem khullen
+Tamenglong	Tamenglong West	(इतर)	Vanchengphai
+Tamenglong	Tamenglong West	(इतर)	Vangaichungpao
+Tamenglong	Tamenglong West	(इतर)	zeiladjang
+Tengnoupal	Machi	(इतर)	Biyang
+Tengnoupal	Machi	(इतर)	Bongli
+Tengnoupal	Machi	(इतर)	Bongmol
+Tengnoupal	Machi	(इतर)	CHINGKHAN YONYER
+Tengnoupal	Machi	(इतर)	Chatong
+Tengnoupal	Machi	(इतर)	Chingjaroi
+Tengnoupal	Machi	(इतर)	ETUL RAMYANG
+Tengnoupal	Machi	(इतर)	Gomi
+Tengnoupal	Machi	(इतर)	Haikakpokpi
+Tengnoupal	Machi	(इतर)	Haikot
+Tengnoupal	Machi	(इतर)	Heinoukhong
+Tengnoupal	Machi	(इतर)	Hengyang
+Tengnoupal	Machi	(इतर)	KANDANG
+Tengnoupal	Machi	(इतर)	KANEMRAM
+Tengnoupal	Machi	(इतर)	KARYAM
+Tengnoupal	Machi	(इतर)	KHUKANTRIM
+Tengnoupal	Machi	(इतर)	Kangoi Khullen
+Tengnoupal	Machi	(इतर)	Kangoi Khunou
+Tengnoupal	Machi	(इतर)	Keipham
+Tengnoupal	Machi	(इतर)	Khangshim
+Tengnoupal	Machi	(इतर)	Khoibu
+Tengnoupal	Machi	(इतर)	Khudei Khuman
+Tengnoupal	Machi	(इतर)	Khukarthil
+Tengnoupal	Machi	(इतर)	Khulsaibung(Karongthel)
+Tengnoupal	Machi	(इतर)	Khunbi
+Tengnoupal	Machi	(इतर)	Khunbi Tuinem
+Tengnoupal	Machi	(इतर)	Khunbi Tuisen
+Tengnoupal	Machi	(इतर)	Koijam
+Tengnoupal	Machi	(इतर)	Konaitong
+Tengnoupal	Machi	(इतर)	Kulyang
+Tengnoupal	Machi	(इतर)	Kuraopokpi
+Tengnoupal	Machi	(इतर)	Laiching Kangshang
+Tengnoupal	Machi	(इतर)	Laiching Khullen
+Tengnoupal	Machi	(इतर)	Laiching Khunou
+Tengnoupal	Machi	(इतर)	Laiching Maipuo
+Tengnoupal	Machi	(इतर)	Laiching Minou
+Tengnoupal	Machi	(इतर)	Lamlong Christian
+Tengnoupal	Machi	(इतर)	Lamlong Khullen
+Tengnoupal	Machi	(इतर)	Langol
+Tengnoupal	Machi	(इतर)	Langol Khunou
+Tengnoupal	Machi	(इतर)	Leithao
+Tengnoupal	Machi	(इतर)	M.Ringpam
+Tengnoupal	Machi	(इतर)	MARINGTHEL
+Tengnoupal	Machi	(इतर)	MK KANRILNA
+Tengnoupal	Machi	(इतर)	MOKANTHANGKHU
+Tengnoupal	Machi	(इतर)	Machi
+Tengnoupal	Machi	(इतर)	Maohlang
+Tengnoupal	Machi	(इतर)	Maringphai
+Tengnoupal	Machi	(इतर)	Marryland
+Tengnoupal	Machi	(इतर)	Molphei
+Tengnoupal	Machi	(इतर)	N WASHAPHAI
+Tengnoupal	Machi	(इतर)	New Foundland
+Tengnoupal	Machi	(इतर)	Nungourok
+Tengnoupal	Machi	(इतर)	Nungtak
+Tengnoupal	Machi	(इतर)	P CHINGYAIKHU
+Tengnoupal	Machi	(इतर)	P.S.Kananyao
+Tengnoupal	Machi	(इतर)	Parengtong
+Tengnoupal	Machi	(इतर)	Pelyang
+Tengnoupal	Machi	(इतर)	Phaimancham
+Tengnoupal	Machi	(इतर)	Phoilenching
+Tengnoupal	Machi	(इतर)	Phunchong
+Tengnoupal	Machi	(इतर)	Phungthil
+Tengnoupal	Machi	(इतर)	REPHIDIM
+Tengnoupal	Machi	(इतर)	RINGDOM
+Tengnoupal	Machi	(इतर)	RUNGCHAN
+Tengnoupal	Machi	(इतर)	Sairel
+Tengnoupal	Machi	(इतर)	Salemphai
+Tengnoupal	Machi	(इतर)	Salemram
+Tengnoupal	Machi	(इतर)	Samanphai
+Tengnoupal	Machi	(इतर)	Samukom
+Tengnoupal	Machi	(इतर)	Seloiyang
+Tengnoupal	Machi	(इतर)	Semang
+Tengnoupal	Machi	(इतर)	Sl. Zoungam
+Tengnoupal	Machi	(इतर)	T HUIMOL
+Tengnoupal	Machi	(इतर)	TUIRANKHU
+Tengnoupal	Machi	(इतर)	Tengkonbung
+Tengnoupal	Machi	(इतर)	Thabikeithel
+Tengnoupal	Machi	(इतर)	Thallem
+Tengnoupal	Machi	(इतर)	Thamlai
+Tengnoupal	Machi	(इतर)	Thingkangbung
+Tengnoupal	Machi	(इतर)	Tollen
+Tengnoupal	Machi	(इतर)	Tonghlang
+Tengnoupal	Machi	(इतर)	Tuisimi
+Tengnoupal	Machi	(इतर)	WANGKHAI
+Tengnoupal	Machi	(इतर)	WASHANGRAM
+Tengnoupal	Machi	(इतर)	Wabaching
+Tengnoupal	Machi	(इतर)	Yamolching
+Tengnoupal	Moreh	(इतर)	B.Bongjang
+Tengnoupal	Moreh	(इतर)	BONGBAL KHULLEN
+Tengnoupal	Moreh	(इतर)	C. MOULHOI
+Tengnoupal	Moreh	(इतर)	CANAN VENG
+Tengnoupal	Moreh	(इतर)	CHAVANGPHAI
+Tengnoupal	Moreh	(इतर)	Ch. Tengnoupal
+Tengnoupal	Moreh	(इतर)	Chikim
+Tengnoupal	Moreh	(इतर)	Chonjang
+Tengnoupal	Moreh	(इतर)	D. Mounnaphai
+Tengnoupal	Moreh	(इतर)	D. SEIVANGKHO
+Tengnoupal	Moreh	(इतर)	D. ZALENBUNG
+Tengnoupal	Moreh	(इतर)	E.M. LHANGHOI
+Tengnoupal	Moreh	(इतर)	EN EL LHANGKIM
+Tengnoupal	Moreh	(इतर)	GANGGAM
+Tengnoupal	Moreh	(इतर)	Govajang
+Tengnoupal	Moreh	(इतर)	H. LHANGCHAM
+Tengnoupal	Moreh	(इतर)	H. WANOMJANG
+Tengnoupal	Moreh	(इतर)	H.Mongjang
+Tengnoupal	Moreh	(इतर)	H.T. GAMNOMPHAI
+Tengnoupal	Moreh	(इतर)	HAOLENPHAI
+Tengnoupal	Moreh	(इतर)	HEINOUMAKHONG
+Tengnoupal	Moreh	(इतर)	HERMON
+Tengnoupal	Moreh	(इतर)	HOME GUARD VENG
+Tengnoupal	Moreh	(इतर)	J. SONGPEJANG
+Tengnoupal	Moreh	(इतर)	JALENPHAI K
+Tengnoupal	Moreh	(इतर)	JANGOUPHAI
+Tengnoupal	Moreh	(इतर)	JT PARBUNG
+Tengnoupal	Moreh	(इतर)	K .Zalenmoul
+Tengnoupal	Moreh	(इतर)	K. Moulshang
+Tengnoupal	Moreh	(इतर)	KHONGNANGTHABE
+Tengnoupal	Moreh	(इतर)	KWATHA KHUNOU
+Tengnoupal	Moreh	(इतर)	Khonomphai
+Tengnoupal	Moreh	(इतर)	Kwatha
+Tengnoupal	Moreh	(इतर)	L TUOLBUNG
+Tengnoupal	Moreh	(इतर)	L. GELMOUL
+Tengnoupal	Moreh	(इतर)	L. MOLPHEI
+Tengnoupal	Moreh	(इतर)	L. PHAIMOUL
+Tengnoupal	Moreh	(इतर)	L. Phunchong
+Tengnoupal	Moreh	(इतर)	L. YOUJANG
+Tengnoupal	Moreh	(इतर)	LHANGKICHOI VENG
+Tengnoupal	Moreh	(इतर)	LHANKHONGCHING B
+Tengnoupal	Moreh	(इतर)	LOUBUK LEIKAI
+Tengnoupal	Moreh	(इतर)	Langkhongching
+Tengnoupal	Moreh	(इतर)	Leibi
+Tengnoupal	Moreh	(इतर)	Leisan Tengnoupal
+Tengnoupal	Moreh	(इतर)	M THOMJANG
+Tengnoupal	Moreh	(इतर)	M. CHAHNOU
+Tengnoupal	Moreh	(इतर)	M. KHUMJANG
+Tengnoupal	Moreh	(इतर)	M. MONGKOT
+Tengnoupal	Moreh	(इतर)	M. MOULHOINOM
+Tengnoupal	Moreh	(इतर)	M. SHIMOUL
+Tengnoupal	Moreh	(इतर)	MAKHA LEIKAI
+Tengnoupal	Moreh	(इतर)	MATHAK LEIKAI
+Tengnoupal	Moreh	(इतर)	MAYAI LEIKAI
+Tengnoupal	Moreh	(इतर)	MISSION VENG
+Tengnoupal	Moreh	(इतर)	MONGYAMBE
+Tengnoupal	Moreh	(इतर)	MOTHA
+Tengnoupal	Moreh	(इतर)	MOULHOI VENG
+Tengnoupal	Moreh	(इतर)	Maipi Mangsom
+Tengnoupal	Moreh	(इतर)	Maojang
+Tengnoupal	Moreh	(इतर)	N. Champhai
+Tengnoupal	Moreh	(इतर)	N. GANGPIJANG
+Tengnoupal	Moreh	(इतर)	N.Gamnom
+Tengnoupal	Moreh	(इतर)	NEPALI BASTI
+Tengnoupal	Moreh	(इतर)	NEW KHUNOU
+Tengnoupal	Moreh	(इतर)	NEW MOLLENPHAI
+Tengnoupal	Moreh	(इतर)	NEW MOREH
+Tengnoupal	Moreh	(इतर)	NEW TOULPHAI
+Tengnoupal	Moreh	(इतर)	NG. MOULNOM
+Tengnoupal	Moreh	(इतर)	NGAMKHAL VENG
+Tengnoupal	Moreh	(इतर)	New Leikot
+Tengnoupal	Moreh	(इतर)	New Mongjang
+Tengnoupal	Moreh	(इतर)	New Shijang
+Tengnoupal	Moreh	(इतर)	P. MOULLEN
+Tengnoupal	Moreh	(इतर)	PHAICHAM VENG
+Tengnoupal	Moreh	(इतर)	S. CANANPHAI
+Tengnoupal	Moreh	(इतर)	S. LHANGKICHOI
+Tengnoupal	Moreh	(इतर)	S. M. Lhangjol.
+Tengnoupal	Moreh	(इतर)	S.Khudengthabi
+Tengnoupal	Moreh	(इतर)	S.Moljol
+Tengnoupal	Moreh	(इतर)	SAHEI
+Tengnoupal	Moreh	(इतर)	SHIJANG VENG
+Tengnoupal	Moreh	(इतर)	SL GAMMON
+Tengnoupal	Moreh	(इतर)	SL. MUNPI
+Tengnoupal	Moreh	(इतर)	ST JANGNOMPHAI
+Tengnoupal	Moreh	(इतर)	ST. MOULLENPHAI
+Tengnoupal	Moreh	(इतर)	T TONGLHANG
+Tengnoupal	Moreh	(इतर)	T. CHATONG
+Tengnoupal	Moreh	(इतर)	T. DAMPI
+Tengnoupal	Moreh	(इतर)	T. GAMNOM
+Tengnoupal	Moreh	(इतर)	T. LANGKICHOI
+Tengnoupal	Moreh	(इतर)	T. LHANGNOMPHAI
+Tengnoupal	Moreh	(इतर)	T. Maipi
+Tengnoupal	Moreh	(इतर)	T. SONGPIJANG
+Tengnoupal	Moreh	(इतर)	T.Khonomjang
+Tengnoupal	Moreh	(इतर)	T.L. CHULOU
+Tengnoupal	Moreh	(इतर)	T.M. ZOUMUNNUAM
+Tengnoupal	Moreh	(इतर)	T.SAHEI GAMMON
+Tengnoupal	Moreh	(इतर)	T.V. GAMNOMPHAI
+Tengnoupal	Moreh	(इतर)	T.Yangnom
+Tengnoupal	Moreh	(इतर)	TAMIL SANGAM
+Tengnoupal	Moreh	(इतर)	TL. HAIJANG
+Tengnoupal	Moreh	(इतर)	TUREL WANGMA
+Tengnoupal	Moreh	(इतर)	Tinnu Munjang
+Tengnoupal	Moreh	(इतर)	Touthang Bongmol
+Tengnoupal	Moreh	(इतर)	Tuipi Mate
+Tengnoupal	Moreh	(इतर)	Y. NGAHMUN
+Tengnoupal	Moreh	(इतर)	Yangoubung
+Tengnoupal	Moreh	(इतर)	Yangoupokpi
+Tengnoupal	Moreh	(इतर)	Yangoutubi
+Tengnoupal	Moreh	(इतर)	ZION VENG
+Tengnoupal	Tengnoupal	(इतर)	A.Chandonpokpi
+Tengnoupal	Tengnoupal	(इतर)	A.Chingnunghut
+Tengnoupal	Tengnoupal	(इतर)	A.Khudamphai
+Tengnoupal	Tengnoupal	(इतर)	A.Khullen
+Tengnoupal	Tengnoupal	(इतर)	A.Khunjai
+Tengnoupal	Tengnoupal	(इतर)	A.Kombirei
+Tengnoupal	Tengnoupal	(इतर)	A.Ngairong
+Tengnoupal	Tengnoupal	(इतर)	A.Saitu
+Tengnoupal	Tengnoupal	(इतर)	A.Tampak
+Tengnoupal	Tengnoupal	(इतर)	AIMOL MOLHUI
+Tengnoupal	Tengnoupal	(इतर)	ATOU YUNG
+Tengnoupal	Tengnoupal	(इतर)	Aigijang
+Tengnoupal	Tengnoupal	(इतर)	Angbrasu
+Tengnoupal	Tengnoupal	(इतर)	B.Sangreng
+Tengnoupal	Tengnoupal	(इतर)	BETHEL
+Tengnoupal	Tengnoupal	(इतर)	Beauralam
+Tengnoupal	Tengnoupal	(इतर)	C. Gamnom
+Tengnoupal	Tengnoupal	(इतर)	CANANPAAM
+Tengnoupal	Tengnoupal	(इतर)	CHANRING
+Tengnoupal	Tengnoupal	(इतर)	CHAVAANKHU
+Tengnoupal	Tengnoupal	(इतर)	Chahmol
+Tengnoupal	Tengnoupal	(इतर)	Chehlep
+Tengnoupal	Tengnoupal	(इतर)	Choktong
+Tengnoupal	Tengnoupal	(इतर)	DOLLENBUNG
+Tengnoupal	Tengnoupal	(इतर)	Damjol
+Tengnoupal	Tengnoupal	(इतर)	GANGPIJANG
+Tengnoupal	Tengnoupal	(इतर)	H.Kotlenphai
+Tengnoupal	Tengnoupal	(इतर)	H.Wajang
+Tengnoupal	Tengnoupal	(इतर)	HOLLEN
+Tengnoupal	Tengnoupal	(इतर)	HP MOLLEN
+Tengnoupal	Tengnoupal	(इतर)	Island
+Tengnoupal	Tengnoupal	(इतर)	J GAMNGAI
+Tengnoupal	Tengnoupal	(इतर)	JORDONKHUW
+Tengnoupal	Tengnoupal	(इतर)	KAOPAKHUPI
+Tengnoupal	Tengnoupal	(इतर)	KARINGKHU
+Tengnoupal	Tengnoupal	(इतर)	KHAOKHA
+Tengnoupal	Tengnoupal	(इतर)	KHOPIMUN
+Tengnoupal	Tengnoupal	(इतर)	KHOPINOM
+Tengnoupal	Tengnoupal	(इतर)	KHUDEI LOIKONG
+Tengnoupal	Tengnoupal	(इतर)	KHUKANDANG
+Tengnoupal	Tengnoupal	(इतर)	KHWARKHUREN
+Tengnoupal	Tengnoupal	(इतर)	KOTESUM
+Tengnoupal	Tengnoupal	(इतर)	KSENDAMPI
+Tengnoupal	Tengnoupal	(इतर)	KULSONA
+Tengnoupal	Tengnoupal	(इतर)	Kambang Khullen
+Tengnoupal	Tengnoupal	(इतर)	Kambang Khunou
+Tengnoupal	Tengnoupal	(इतर)	Kanankhuren
+Tengnoupal	Tengnoupal	(इतर)	Khaosat
+Tengnoupal	Tengnoupal	(इतर)	Kharou Khullen
+Tengnoupal	Tengnoupal	(इतर)	Kharou Khunou
+Tengnoupal	Tengnoupal	(इतर)	Khongkhang
+Tengnoupal	Tengnoupal	(इतर)	Khudei Khullen
+Tengnoupal	Tengnoupal	(इतर)	Khudei Laipham
+Tengnoupal	Tengnoupal	(इतर)	L CHAMPHAI
+Tengnoupal	Tengnoupal	(इतर)	L KHONOM
+Tengnoupal	Tengnoupal	(इतर)	L KULRAM
+Tengnoupal	Tengnoupal	(इतर)	L MONNAPHAI
+Tengnoupal	Tengnoupal	(इतर)	L PHALPIJANG
+Tengnoupal	Tengnoupal	(इतर)	L.Phaijang
+Tengnoupal	Tengnoupal	(इतर)	L.Sijang
+Tengnoupal	Tengnoupal	(इतर)	LAMNOM
+Tengnoupal	Tengnoupal	(इतर)	LAMRINKHUW
+Tengnoupal	Tengnoupal	(इतर)	LHANGKICHOI
+Tengnoupal	Tengnoupal	(इतर)	LHUNNAJANG
+Tengnoupal	Tengnoupal	(इतर)	Lamjangtombi
+Tengnoupal	Tengnoupal	(इतर)	Lamlong Khunou
+Tengnoupal	Tengnoupal	(इतर)	Leitan
+Tengnoupal	Tengnoupal	(इतर)	Loikong
+Tengnoupal	Tengnoupal	(इतर)	M TUINOM
+Tengnoupal	Tengnoupal	(इतर)	MOLIMPHAI
+Tengnoupal	Tengnoupal	(इतर)	MULTIMKHU
+Tengnoupal	Tengnoupal	(इतर)	MUNNOM
+Tengnoupal	Tengnoupal	(इतर)	Mankang Khunthak
+Tengnoupal	Tengnoupal	(इतर)	Modenphai
+Tengnoupal	Tengnoupal	(इतर)	Moirengthel
+Tengnoupal	Tengnoupal	(इतर)	Molnoi
+Tengnoupal	Tengnoupal	(इतर)	Molnom
+Tengnoupal	Tengnoupal	(इतर)	Moyon Khullen
+Tengnoupal	Tengnoupal	(इतर)	N MONGJANG
+Tengnoupal	Tengnoupal	(इतर)	N TINKHONOM
+Tengnoupal	Tengnoupal	(इतर)	N. SATANG
+Tengnoupal	Tengnoupal	(इतर)	NAZERETH
+Tengnoupal	Tengnoupal	(इतर)	NEW EDEN
+Tengnoupal	Tengnoupal	(इतर)	NG BETHANY
+Tengnoupal	Tengnoupal	(इतर)	NOMPHAI
+Tengnoupal	Tengnoupal	(इतर)	Narum
+Tengnoupal	Tengnoupal	(इतर)	P KHONOMPHAI
+Tengnoupal	Tengnoupal	(इतर)	P KONGJANG
+Tengnoupal	Tengnoupal	(इतर)	PANGBUL
+Tengnoupal	Tengnoupal	(इतर)	PHUNTHAKHUW
+Tengnoupal	Tengnoupal	(इतर)	PUNGNONRAM
+Tengnoupal	Tengnoupal	(इतर)	Phaichambung
+Tengnoupal	Tengnoupal	(इतर)	Phalbung
+Tengnoupal	Tengnoupal	(इतर)	RIVERLANE
+Tengnoupal	Tengnoupal	(इतर)	RUNGSHIM
+Tengnoupal	Tengnoupal	(इतर)	Rilam Centre
+Tengnoupal	Tengnoupal	(इतर)	Ringkhudam
+Tengnoupal	Tengnoupal	(इतर)	S LHANGHOI
+Tengnoupal	Tengnoupal	(इतर)	S MOTJANG
+Tengnoupal	Tengnoupal	(इतर)	S.D.Munjang
+Tengnoupal	Tengnoupal	(इतर)	S.P.Saichang
+Tengnoupal	Tengnoupal	(इतर)	SALNEM
+Tengnoupal	Tengnoupal	(इतर)	SANADAM
+Tengnoupal	Tengnoupal	(इतर)	SELLIH
+Tengnoupal	Tengnoupal	(इतर)	SINAL AIMOL
+Tengnoupal	Tengnoupal	(इतर)	SM MOLTHENG
+Tengnoupal	Tengnoupal	(इतर)	Saibol
+Tengnoupal	Tengnoupal	(इतर)	Sairel Saisem
+Tengnoupal	Tengnoupal	(इतर)	Saivom
+Tengnoupal	Tengnoupal	(इतर)	Satang
+Tengnoupal	Tengnoupal	(इतर)	Senam
+Tengnoupal	Tengnoupal	(इतर)	Sita
+Tengnoupal	Tengnoupal	(इतर)	T CHAMPHAI
+Tengnoupal	Tengnoupal	(इतर)	T NABIL
+Tengnoupal	Tengnoupal	(इतर)	T TUISOMJANG
+Tengnoupal	Tengnoupal	(इतर)	T.Lhangnom
+Tengnoupal	Tengnoupal	(इतर)	T.Minou
+Tengnoupal	Tengnoupal	(इतर)	TH GAMNOM
+Tengnoupal	Tengnoupal	(इतर)	TN JALENPHAI
+Tengnoupal	Tengnoupal	(इतर)	Tatjang
+Tengnoupal	Tengnoupal	(इतर)	Tengnoupal
+Tengnoupal	Tengnoupal	(इतर)	Teraphai
+Tengnoupal	Tengnoupal	(इतर)	Theimungkung
+Tengnoupal	Tengnoupal	(इतर)	Tuisomjang
+Tengnoupal	Tengnoupal	(इतर)	Wakshu
+Tengnoupal	Tengnoupal	(इतर)	Youjang (Mate)
+Tengnoupal	Tengnoupal	(इतर)	Youngkhul
+Tengnoupal	Tengnoupal	(इतर)	Zion
+Thoubal	Lilong	(इतर)	CHAOBOK
+Thoubal	Lilong	(इतर)	Chaobok
+Thoubal	Lilong	(इतर)	HAOREIBI
+Thoubal	Lilong	(इतर)	Hangool
+Thoubal	Lilong	(इतर)	Haoreibi
+Thoubal	Lilong	(इतर)	Hayel
+Thoubal	Lilong	(इतर)	LILONG
+Thoubal	Lilong	(इतर)	OINAM
+Thoubal	Lilong	Khekman	Keibung
+Thoubal	Lilong	Khekman	Khekman
+Thoubal	Lilong	Leishangthem	Irong Thokchom
+Thoubal	Lilong	Leishangthem	Leisangthem
+Thoubal	Lilong	Leishangthem	Thoudam
+Thoubal	Lilong	Moijing	Moijing
+Thoubal	Lilong	Moijing	Waithou
+Thoubal	Lilong	Oinam Sawombung	Laiphrakpam
+Thoubal	Lilong	Oinam Sawombung	Oinam
+Thoubal	Lilong	Turel Ahanbi Atoukhong	Atoukhong
+Thoubal	Lilong	Turel Ahanbi Atoukhong	Nungei
+Thoubal	Lilong	Turel Ahanbi Atoukhong	Turel Ahanbi Upakthong Makha
+Thoubal	Thoubal	(इतर)	ATHOKPAM
+Thoubal	Thoubal	(इतर)	BAMON LEIKAI
+Thoubal	Thoubal	(इतर)	BISHNUNAHA
+Thoubal	Thoubal	(इतर)	Bumpa Khullen
+Thoubal	Thoubal	(इतर)	CHARANGPAT MAMANG
+Thoubal	Thoubal	(इतर)	HAOKHA MAMANG
+Thoubal	Thoubal	(इतर)	Hayel Labuk
+Thoubal	Thoubal	(इतर)	Heirok Pt 1 ie Heirok Haitupokpi Heirok Pt 1 Maning Leikai Heirok Pt 1 Mayai Leikai ie Western Side of Lai Leirak
+Thoubal	Thoubal	(इतर)	Heirok Pt-II (P)
+Thoubal	Thoubal	(इतर)	KANGSAMARAM
+Thoubal	Thoubal	(इतर)	KEKRU
+Thoubal	Thoubal	(इतर)	Kangdabi
+Thoubal	Thoubal	(इतर)	Khangabok Pt-I
+Thoubal	Thoubal	(इतर)	Laiphrakpam
+Thoubal	Thoubal	(इतर)	NONGKHANGKHONG
+Thoubal	Thoubal	(इतर)	OKRAM HANJABA
+Thoubal	Thoubal	(इतर)	OKRAM WANGMATABA
+Thoubal	Thoubal	(इतर)	PHOUDEL
+Thoubal	Thoubal	(इतर)	SHIKHONG
+Thoubal	Thoubal	(इतर)	SangaiyumphamCherapur
+Thoubal	Thoubal	(इतर)	THOUBAL ACHOUBA
+Thoubal	Thoubal	(इतर)	THOUBAL WANGMATABA
+Thoubal	Thoubal	(इतर)	UKHONGSANG
+Thoubal	Thoubal	(इतर)	WANGJING
+Thoubal	Thoubal	(इतर)	Wangbal Pt I
+Thoubal	Thoubal	(इतर)	Wangbal Pt II
+Thoubal	Thoubal	(इतर)	Yaithibi Khunou
+Thoubal	Thoubal	Charangpat	Charangpat
+Thoubal	Thoubal	Charangpat	Charangpat Maklang
+Thoubal	Thoubal	Charangpat	Nepra Company
+Thoubal	Thoubal	Heirok Pt I	Heirok Part I (Pt)
+Thoubal	Thoubal	Heirok Pt Ii	Dagarok
+Thoubal	Thoubal	Heirok Pt Ii	Heirok Chingdompok
+Thoubal	Thoubal	Heirok Pt Ii	Heirok Khunou
+Thoubal	Thoubal	Heirok Pt Ii	Heirok Part I I (Pt)
+Thoubal	Thoubal	Heirok Pt Ii	Heirok Pt II ie Heirok Pt II Mayai Leikai and Heirok Khunou Heirok Pt II Maning Leikai ie Western side of NA
+Thoubal	Thoubal	Heirok Pt Iii	Heirok Pt III ie Heirok Pt I Mayai Leikai Eastern side of Lai Leirak Ngarnuthel Kabo Leikai Litan Wangma and Ingouglok
+Thoubal	Thoubal	Kangyambem	Kangthokchao
+Thoubal	Thoubal	Kangyambem	Kangyambem
+Thoubal	Thoubal	Khangabok Pt I	Hayel Labuk
+Thoubal	Thoubal	Khangabok Pt I	Khangabok Pt 1 ie Khangabok Awang Leikai and Khangabok Khunou Pt I and Khulakpam Leikai Partly Khongnang Akangbi Leirak Awang
+Thoubal	Thoubal	Khangabok Pt Ii	Khangabok Pt II That is i Khangabok Khulakpam Khongnang Akangbi Makha Leirak II Khangabok Mayai Leikai III Maisnam Leikai
+Thoubal	Thoubal	Khangabok Pt Iii	Khangabok Pt III that is I Khangabok Makha Mamang II Khangabok Makha Maning III Tangkha Leikai IV Khangabok Khunou Pt III
+Thoubal	Thoubal	Langathel	Langathel
+Thoubal	Thoubal	Langathel	Phundrei
+Thoubal	Thoubal	Leirongthel Ningel	Chandrakhong
+Thoubal	Thoubal	Leirongthel Ningel	G Phainom and Phainem
+Thoubal	Thoubal	Leirongthel Ningel	Irong Mathak Tangkhul
+Thoubal	Thoubal	Leirongthel Ningel	Kakmayai
+Thoubal	Thoubal	Leirongthel Ningel	Khoirom
+Thoubal	Thoubal	Leirongthel Ningel	Komlaching
+Thoubal	Thoubal	Leirongthel Ningel	Leirongthel
+Thoubal	Thoubal	Leirongthel Ningel	Leirongthel Pitra
+Thoubal	Thoubal	Leirongthel Ningel	Malom
+Thoubal	Thoubal	Leirongthel Ningel	Mayaikeithel
+Thoubal	Thoubal	Leirongthel Ningel	Ningel
+Thoubal	Thoubal	Leirongthel Ningel	Nongmaiching Tampak
+Thoubal	Thoubal	Leirongthel Ningel	Nongpok Centre
+Thoubal	Thoubal	Leirongthel Ningel	Nongpok Phayang
+Thoubal	Thoubal	Leirongthel Ningel	Phanjangkhong
+Thoubal	Thoubal	Leirongthel Ningel	Phouoibi
+Thoubal	Thoubal	Leirongthel Ningel	Phungten
+Thoubal	Thoubal	Leirongthel Ningel	Somrei
+Thoubal	Thoubal	Leirongthel Ningel	Soraland
+Thoubal	Thoubal	Leirongthel Ningel	Tangkhul Khullen
+Thoubal	Thoubal	Leirongthel Ningel	Uchanpokpi
+Thoubal	Thoubal	Lourembam	Bengi
+Thoubal	Thoubal	Lourembam	Heinganglok
+Thoubal	Thoubal	Lourembam	Icham Kunou
+Thoubal	Thoubal	Lourembam	Ingourok
+Thoubal	Thoubal	Lourembam	Kharam
+Thoubal	Thoubal	Lourembam	Kwarok Maring and New Miland
+Thoubal	Thoubal	Lourembam	Langmeithel
+Thoubal	Thoubal	Lourembam	Lourembam
+Thoubal	Thoubal	Lourembam	New Foundland Tolen Maghet
+Thoubal	Thoubal	Lourembam	Nungthar
+Thoubal	Thoubal	Lourembam	Pechi
+Thoubal	Thoubal	Lourembam	Thingangbung
+Thoubal	Thoubal	Lourembam	Thokchom
+Thoubal	Thoubal	Samaram	Khongjom
+Thoubal	Thoubal	Samaram	Samaram
+Thoubal	Thoubal	Sangaiyumpham Pt 1	Mairen Khul
+Thoubal	Thoubal	Sangaiyumpham Pt 1	Puleipokpi
+Thoubal	Thoubal	Sangaiyumpham Pt 1	Sangaiyumpham
+Thoubal	Thoubal	Sangaiyumpham Pt 1	Sangaiyumpham Pt I Sangaiyumpham Sabal Leikai
+Thoubal	Thoubal	Sangaiyumpham Pt Ii	Cherapur
+Thoubal	Thoubal	Sangaiyumpham Pt Ii	Lamding
+Thoubal	Thoubal	Sangaiyumpham Pt Ii	Sangaiyumpham
+Thoubal	Thoubal	Sapam	Chingtham
+Thoubal	Thoubal	Sapam	Sapam
+Thoubal	Thoubal	Tekcham	Langthabal Khunou Yaithibi Khunou
+Thoubal	Thoubal	Tekcham	Papal
+Thoubal	Thoubal	Tekcham	Tekcham
+Thoubal	Thoubal	Tentha	Tentha
+Thoubal	Thoubal	Turel Ahanbi Atoukhong	Haoreibi Laishram Khong
+Thoubal	Thoubal	Wangbal	Kairembikhok
+Thoubal	Thoubal	Wangbal	Saram Tangkhul
+Thoubal	Thoubal	Wangbal	Uyal
+Thoubal	Thoubal	Wangbal	Wangbal
+Thoubal	Thoubal	Wangjing	Wangjing Hedamba
+Thoubal	Thoubal	Wangjing	Wangjing Heitupokpi
+Thoubal	Thoubal	Wangjing	Wangjing Tekcham Leikai
+Thoubal	Thoubal	Wangkhem	Huidrom Leikai
+Thoubal	Thoubal	Wangkhem	Kabrang
+Thoubal	Thoubal	Wangkhem	Lisham Lok
+Thoubal	Thoubal	Wangkhem	Singa Muslim
+Thoubal	Thoubal	Wangkhem	Thoubal Khunou
+Thoubal	Thoubal	Wangkhem	Wangkhem
+Ukhrul	Chingai	(इतर)	Challow
+Ukhrul	Chingai	(इतर)	Chingai
+Ukhrul	Chingai	(इतर)	Huishu
+Ukhrul	Chingai	(इतर)	Kalhang
+Ukhrul	Chingai	(इतर)	Khamasom
+Ukhrul	Chingai	(इतर)	Khamasom Phungrei
+Ukhrul	Chingai	(इतर)	Kongai
+Ukhrul	Chingai	(इतर)	Kuirei
+Ukhrul	Chingai	(इतर)	Marem
+Ukhrul	Chingai	(इतर)	Maremphung
+Ukhrul	Chingai	(इतर)	Namrei
+Ukhrul	Chingai	(इतर)	Ngahui
+Ukhrul	Chingai	(इतर)	Nungbi Khullen
+Ukhrul	Chingai	(इतर)	Nungbi Khunou
+Ukhrul	Chingai	(इतर)	Paoyi(Peh)
+Ukhrul	Chingai	(इतर)	Phungcham
+Ukhrul	Chingai	(इतर)	Poi
+Ukhrul	Jessami	(इतर)	Chingjaroi Christian
+Ukhrul	Jessami	(इतर)	Chingjaroi Khullen
+Ukhrul	Jessami	(इतर)	Chingjaroi Khunou
+Ukhrul	Jessami	(इतर)	Jessami
+Ukhrul	Jessami	(इतर)	Kharasom
+Ukhrul	Jessami	(इतर)	New Tusom
+Ukhrul	Jessami	(इतर)	Razai Khullen
+Ukhrul	Jessami	(इतर)	Razai Khunou
+Ukhrul	Jessami	(इतर)	Soraphung
+Ukhrul	Jessami	(इतर)	Tusom Christian
+Ukhrul	Jessami	(इतर)	Tusom Khullen
+Ukhrul	Jessami	(इतर)	Wahong
+Ukhrul	Lm	(इतर)	Champhung
+Ukhrul	Lm	(इतर)	Hoomi(Huime)
+Ukhrul	Lm	(इतर)	Jalembung (Zalenbung)
+Ukhrul	Lm	(इतर)	Kachai
+Ukhrul	Lm	(इतर)	Khamanom
+Ukhrul	Lm	(इतर)	L Phungthar(Phungthar)
+Ukhrul	Lm	(इतर)	Lamlai Chingphei
+Ukhrul	Lm	(इतर)	Lamlang
+Ukhrul	Lm	(इतर)	Maichon
+Ukhrul	Lm	(इतर)	Mollen Kamsei
+Ukhrul	Lm	(इतर)	Molnom
+Ukhrul	Lm	(इतर)	Moulsohoi
+Ukhrul	Lm	(इतर)	Mullam
+Ukhrul	Lm	(इतर)	Ngainga(Ngaimu)
+Ukhrul	Lm	(इतर)	Pashong
+Ukhrul	Lm	(इतर)	Phalee
+Ukhrul	Lm	(इतर)	Pharung
+Ukhrul	Lm	(इतर)	Seikhor
+Ukhrul	Lm	(इतर)	Shongphel
+Ukhrul	Lm	(इतर)	Sinakeithei(Sanakeithel)
+Ukhrul	Lm	(इतर)	Sirarakhong
+Ukhrul	Lm	(इतर)	Somdal
+Ukhrul	Lm	(इतर)	Tanrui(Leisan)
+Ukhrul	Lm	(इतर)	Teinem
+Ukhrul	Lm	(इतर)	Tolloi(Talui)
+Ukhrul	Lm	(इतर)	Tora
+Ukhrul	Lm	(इतर)	Tungou
+Ukhrul	Lm	(इतर)	Yaolen(Chepu Yaolen )
+Ukhrul	Ukhrul	(इतर)	Choithar
+Ukhrul	Ukhrul	(इतर)	Hatha
+Ukhrul	Ukhrul	(इतर)	Huining(Halang)
+Ukhrul	Ukhrul	(इतर)	Hungpung
+Ukhrul	Ukhrul	(इतर)	Khangkhui Khullen
+Ukhrul	Ukhrul	(इतर)	Khangkhui Khunou
+Ukhrul	Ukhrul	(इतर)	Lambui
+Ukhrul	Ukhrul	(इतर)	Langdang
+Ukhrul	Ukhrul	(इतर)	Leiyaram
+Ukhrul	Ukhrul	(इतर)	Litan
+Ukhrul	Ukhrul	(इतर)	Litan Sareikhong
+Ukhrul	Ukhrul	(इतर)	Lunghar
+Ukhrul	Ukhrul	(इतर)	Lungshang Chingkha
+Ukhrul	Ukhrul	(इतर)	Lungshang Chingthak
+Ukhrul	Ukhrul	(इतर)	Mangkot Chepu
+Ukhrul	Ukhrul	(इतर)	Mayophung
+Ukhrul	Ukhrul	(इतर)	Muirei
+Ukhrul	Ukhrul	(इतर)	New Cannon
+Ukhrul	Ukhrul	(इतर)	Nungou
+Ukhrul	Ukhrul	(इतर)	Nungshong Khullen
+Ukhrul	Ukhrul	(इतर)	Nungshong Khunou
+Ukhrul	Ukhrul	(इतर)	Shangching
+Ukhrul	Ukhrul	(इतर)	Shangkai
+Ukhrul	Ukhrul	(इतर)	Shangshak Khullen
+Ukhrul	Ukhrul	(इतर)	Shangshak Khunou
+Ukhrul	Ukhrul	(इतर)	Shiroy Chingkha
+Ukhrul	Ukhrul	(इतर)	Shiroy Chingthak
+Ukhrul	Ukhrul	(इतर)	Shokvao
+Ukhrul	Ukhrul	(इतर)	Sihai Khullen
+Ukhrul	Ukhrul	(इतर)	Sihai Khunou
+Ukhrul	Ukhrul	(इतर)	T.Chanhong
+Ukhrul	Ukhrul	(इतर)	T.M.Kasom
+Ukhrul	Ukhrul	(इतर)	Tushen(Tushar)
+Ukhrul	Ukhrul	(इतर)	Ukhrul (CT)
+Ukhrul	Ukhrul	(इतर)	Wunghon

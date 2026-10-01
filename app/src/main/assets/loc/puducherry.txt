@@ -1,0 +1,172 @@
+Karaikal	Karaikal Taluk	Keezhamanai	Kizhamanai
+Karaikal	Karaikal Taluk	Kottucherry (north)	Kottucherry
+Karaikal	Karaikal Taluk	Kottucherry(south)	Kottucherry
+Karaikal	Karaikal Taluk	Neravy(north)	Neravy
+Karaikal	Karaikal Taluk	Neravy(south)	Neravy
+Karaikal	Karaikal Taluk	Poovam	Poovam
+Karaikal	Karaikal Taluk	T.r. Pattinam (east)	Keezhaiyur (North)
+Karaikal	Karaikal Taluk	T.r. Pattinam (east)	Keezhaiyur (South)
+Karaikal	Karaikal Taluk	T.r.pattinam(north)	Thirumalairayanpattinam (CT)
+Karaikal	Karaikal Taluk	T.r.pattinam(south)	Polagam
+Karaikal	Karaikal Taluk	T.r.pattinam(south)	Thirumalairayanpattinam (CT)
+Karaikal	Karaikal Taluk	Thiruvettakudy	Thiruvettakudy
+Karaikal	Karaikal Taluk	Vanjoor	Vanjiur
+Karaikal	Karaikal Taluk	Varichikudy	Varichikudy (North)
+Karaikal	Karaikal Taluk	Varichikudy	Varichikudy (South)
+Karaikal	Karaikal Taluk	Vizhidiyur	Vizhidiur
+Karaikal	Thirunallar Taluk	Ambagarathur	Ambagarathur
+Karaikal	Thirunallar Taluk	Karukkankudy	Karukankudy
+Karaikal	Thirunallar Taluk	Karukkankudy	Puthakudy
+Karaikal	Thirunallar Taluk	Karukkankudy	Thevamapuram
+Karaikal	Thirunallar Taluk	Kurumbagaram	Kurumbagaram
+Karaikal	Thirunallar Taluk	Melakasakudy	Melakasakudy
+Karaikal	Thirunallar Taluk	Nallambal	Nallambal
+Karaikal	Thirunallar Taluk	Nallambal	Nallazhundur
+Karaikal	Thirunallar Taluk	Nedungadu	Nedungadu
+Karaikal	Thirunallar Taluk	Pettai	Pettai
+Karaikal	Thirunallar Taluk	Ponbethy	Ponbethy
+Karaikal	Thirunallar Taluk	Sellur	Sellur
+Karaikal	Thirunallar Taluk	Sellur	Thennankudy
+Karaikal	Thirunallar Taluk	Sethur	Sethur
+Karaikal	Thirunallar Taluk	Surakkudy	Sorakudy
+Karaikal	Thirunallar Taluk	Thirunallar(north)	Keezhavoor (Part)
+Karaikal	Thirunallar Taluk	Thirunallar(north)	Subrayapuram
+Karaikal	Thirunallar Taluk	Thirunallar(north)	Thirunallar
+Karaikal	Thirunallar Taluk	Thirunallar(south)	Thirunallar
+Pondicherry	Bahour Taluk	(इतर)	Aranganoor
+Pondicherry	Bahour Taluk	(इतर)	Bahour
+Pondicherry	Bahour Taluk	(इतर)	Irulansanthai
+Pondicherry	Bahour Taluk	(इतर)	Kaduvanoor
+Pondicherry	Bahour Taluk	(इतर)	Karaiyamputhur
+Pondicherry	Bahour Taluk	(इतर)	Kirumampakkam
+Pondicherry	Bahour Taluk	(इतर)	Krishnavaram
+Pondicherry	Bahour Taluk	(इतर)	Kudiyiruppupalayam
+Pondicherry	Bahour Taluk	(इतर)	Kuruvinatham
+Pondicherry	Bahour Taluk	(इतर)	Manamedu
+Pondicherry	Bahour Taluk	(इतर)	Manapet
+Pondicherry	Bahour Taluk	(इतर)	Outchimedu
+Pondicherry	Bahour Taluk	(इतर)	Panayadikuppam
+Pondicherry	Bahour Taluk	(इतर)	Pannithittu
+Pondicherry	Bahour Taluk	(इतर)	Parikalpattu
+Pondicherry	Bahour Taluk	(इतर)	Pillaiyarkuppam
+Pondicherry	Bahour Taluk	(इतर)	Seliamedu
+Pondicherry	Bahour Taluk	(इतर)	Soriankuppam
+Pondicherry	Bahour Taluk	(इतर)	UTCHIMEDU
+Pondicherry	Bahour Taluk	Bahour(east)	Bahour
+Pondicherry	Bahour Taluk	Bahour(west)	Bahour
+Pondicherry	Bahour Taluk	Embalam	Embalam
+Pondicherry	Bahour Taluk	Eripakkam	Eripakkam
+Pondicherry	Bahour Taluk	Kalmandapam	Kalmandapam
+Pondicherry	Bahour Taluk	Kalmandapam	Pandasozhanur
+Pondicherry	Bahour Taluk	Karayamputhur	Karaiyamputhur
+Pondicherry	Bahour Taluk	Karayamputhur	Panayadikuppam
+Pondicherry	Bahour Taluk	Kariamanickam	Kariamanickam
+Pondicherry	Bahour Taluk	Karikalampakkam	Karikkalampakkam
+Pondicherry	Bahour Taluk	Kirumampakkam	Kirumampakkam
+Pondicherry	Bahour Taluk	Korkadu	Korkadu
+Pondicherry	Bahour Taluk	Krishnavaram	Krishnavaram
+Pondicherry	Bahour Taluk	Krishnavaram	Outchimedu
+Pondicherry	Bahour Taluk	Krishnavaram	UTCHIMEDU
+Pondicherry	Bahour Taluk	Kudiyeruppupalayam	Kudiyiruppupalayam
+Pondicherry	Bahour Taluk	Kuruvinatham	Irulansanthai
+Pondicherry	Bahour Taluk	Kuruvinatham	Kuruvinatham
+Pondicherry	Bahour Taluk	Maducarai(east)	Madukarai
+Pondicherry	Bahour Taluk	Maducarai(west)	Madukarai
+Pondicherry	Bahour Taluk	Manamedu	Kaduvanoor
+Pondicherry	Bahour Taluk	Manamedu	Manamedu
+Pondicherry	Bahour Taluk	Manapet	Manapet
+Pondicherry	Bahour Taluk	Nettapakkam	Nettapakkam
+Pondicherry	Bahour Taluk	Pannithittu	Pannithittu
+Pondicherry	Bahour Taluk	Parikalpattu	Parikalpattu
+Pondicherry	Bahour Taluk	Pillayarkuppam	Pillaiyarkuppam
+Pondicherry	Bahour Taluk	Seliamedu	Aranganoor
+Pondicherry	Bahour Taluk	Seliamedu	Seliamedu
+Pondicherry	Bahour Taluk	Sembiampalayam	Sembianpalayam
+Pondicherry	Bahour Taluk	Sooramangalam	Sooramangalam
+Pondicherry	Bahour Taluk	Soriankuppam	Soriankuppam
+Pondicherry	Ozhukarai Taluk	(इतर)	ALANKUPPAM
+Pondicherry	Ozhukarai Taluk	(इतर)	KALAPET
+Pondicherry	Ozhukarai Taluk	(इतर)	KARUVADIKUPPAM
+Pondicherry	Ozhukarai Taluk	(इतर)	OZHUKARAI
+Pondicherry	Ozhukarai Taluk	(इतर)	PILLAICHAVADY
+Pondicherry	Ozhukarai Taluk	(इतर)	REDDIARPALAYAM
+Pondicherry	Ozhukarai Taluk	(इतर)	SARAM
+Pondicherry	Ozhukarai Taluk	(इतर)	THATTANCHAVADI
+Pondicherry	Puducherry Taluk	(इतर)	Andiarpalayam
+Pondicherry	Puducherry Taluk	(इतर)	ManavelI
+Pondicherry	Puducherry Taluk	(इतर)	POORANANKUPPAM
+Pondicherry	Puducherry Taluk	(इतर)	PUDUPALAYAM
+Pondicherry	Puducherry Taluk	(इतर)	THENGAITHITTU
+Pondicherry	Puducherry Taluk	(इतर)	Thavalakuppam
+Pondicherry	Puducherry Taluk	(इतर)	Thimmanaickenpalayam
+Pondicherry	Puducherry Taluk	Abishegapakkam	Abishegapakkam
+Pondicherry	Puducherry Taluk	Andiyarpalayam	Andiarpalayam
+Pondicherry	Puducherry Taluk	Ariankuppam	Ariyankuppam
+Pondicherry	Puducherry Taluk	Ariankuppam(west)	Ariyankuppam
+Pondicherry	Puducherry Taluk	Dr. Radhakrishnan Nagar	Ariyankuppam
+Pondicherry	Puducherry Taluk	Kakkayanthope	Kakkayanthope
+Pondicherry	Puducherry Taluk	Manavely	ManavelI
+Pondicherry	Puducherry Taluk	Manavely (North)	ManavelI
+Pondicherry	Puducherry Taluk	Manavely(south)	ManavelI
+Pondicherry	Puducherry Taluk	Nallavadu	Nallavadu
+Pondicherry	Puducherry Taluk	Nonankuppam	Ariyankuppam
+Pondicherry	Puducherry Taluk	Nonankuppam	Thavalakuppam
+Pondicherry	Puducherry Taluk	Odaively	Ariyankuppam
+Pondicherry	Puducherry Taluk	Poornankuppam	POORANANKUPPAM
+Pondicherry	Puducherry Taluk	Poornankuppam	Thavalakuppam
+Pondicherry	Puducherry Taluk	Thavalakuppam	Thavalakuppam
+Pondicherry	Puducherry Taluk	Thimmanaickanpalayam	Thimmanaickenpalayam
+Pondicherry	Puducherry Taluk	Veerampattinam	Veerampattinam
+Pondicherry	Villianur Taluk	Ariyur (North)	Ariyur
+Pondicherry	Villianur Taluk	Ariyur (South)	Ariyur
+Pondicherry	Villianur Taluk	Chettipet	Chettypet
+Pondicherry	Villianur Taluk	Chettipet	Manalipet
+Pondicherry	Villianur Taluk	Kalitheerthalkuppam (West)	Kalitheerthalkuppam
+Pondicherry	Villianur Taluk	Kalitheerthalkuppam (east)	Kalitheerthalkuppam
+Pondicherry	Villianur Taluk	Kanuvapet	Kanuvapet
+Pondicherry	Villianur Taluk	Katterikuppam	Kattery
+Pondicherry	Villianur Taluk	Katterikuppam	Kuppam
+Pondicherry	Villianur Taluk	Kodathur	Kodathur
+Pondicherry	Villianur Taluk	Koodapakkam	Goodapakkam
+Pondicherry	Villianur Taluk	Koonichampet	Kunichempet
+Pondicherry	Villianur Taluk	Kottaimedu	Kottai Medu
+Pondicherry	Villianur Taluk	Krishnavaram	Pudukuppam
+Pondicherry	Villianur Taluk	Kurumbapet	Kurumbapet
+Pondicherry	Villianur Taluk	Madagadipet	Madagadipet
+Pondicherry	Villianur Taluk	Mangalam	Mangalam
+Pondicherry	Villianur Taluk	Mannadipet	Mannadipet
+Pondicherry	Villianur Taluk	Odiampet (East)	Odiampet (OG)
+Pondicherry	Villianur Taluk	Odiampet (West)	Odiampet (OG)
+Pondicherry	Villianur Taluk	Pillayarkuppam	Pillaiyarkuppam
+Pondicherry	Villianur Taluk	Pillayarkuppam	Ramanathapuram
+Pondicherry	Villianur Taluk	Porayur Agaram	OLAVAIKAL
+Pondicherry	Villianur Taluk	Porayur Agaram	Oussudu
+Pondicherry	Villianur Taluk	Sandhaipudukuppam	Sandai Pudukuppam
+Pondicherry	Villianur Taluk	Sanyasikuppam	Sanniyasikuppam
+Pondicherry	Villianur Taluk	Sathamangalam	Kizhur
+Pondicherry	Villianur Taluk	Sathamangalam	Manakuppam
+Pondicherry	Villianur Taluk	Sathamangalam	Sathamangalam
+Pondicherry	Villianur Taluk	Sedurapet	Karasoor
+Pondicherry	Villianur Taluk	Sedurapet	Sedarapet
+Pondicherry	Villianur Taluk	Sellipet	Sellipet
+Pondicherry	Villianur Taluk	Sivarandagam	Sivarandagam
+Pondicherry	Villianur Taluk	Sorapet	Sorapet
+Pondicherry	Villianur Taluk	Sorapet	Vambupet
+Pondicherry	Villianur Taluk	Sulthanpet	Sulthanpet
+Pondicherry	Villianur Taluk	Sulthanpet (south)	Sulthanpet
+Pondicherry	Villianur Taluk	Suthukeni	Suthukeny
+Pondicherry	Villianur Taluk	Suthukeni	Thethampakkam
+Pondicherry	Villianur Taluk	T.Palayam-M.Palayam	Madagadipet
+Pondicherry	Villianur Taluk	T.Palayam-M.Palayam	Thirubuvanai
+Pondicherry	Villianur Taluk	Thirubuvanai	Thirubuvanai
+Pondicherry	Villianur Taluk	Thirukanji	Thirukanchi
+Pondicherry	Villianur Taluk	Thirukanur	Thirukkanur
+Pondicherry	Villianur Taluk	Thiruvandarkoil	Thiruvandarkoil
+Pondicherry	Villianur Taluk	Thondamanatham	Thondamanatham
+Pondicherry	Villianur Taluk	Thondamanatham	Thuthipet
+Pondicherry	Villianur Taluk	Uruvayar	Perungalur
+Pondicherry	Villianur Taluk	Uruvayar	Uruvaiyar
+Pondicherry	Villianur Taluk	Vadhanur	Vadanur
+Pondicherry	Villianur Taluk	Villianur	Villianur (CT)
+Pondicherry	Villianur Taluk	Villianur (East)	Villianur (CT)
+Pondicherry	Villianur Taluk	Villianur (west)	Villianur (CT)

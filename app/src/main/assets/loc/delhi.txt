@@ -1,0 +1,221 @@
+Central	Civil Lines	(इतर)	Burari (CT)
+Central	Civil Lines	(इतर)	Jagat Pur ilaqa Delhi
+Central	Civil Lines	(इतर)	Jagat Pur ilaqa Shahdara (un-inhabited)
+Central	Civil Lines	(इतर)	Jharoda Majra Burari (CT)
+Central	Civil Lines	(इतर)	Kamal Pur Majra Burari (CT)
+Central	Civil Lines	(इतर)	Mukand Pur (CT)
+Central	Civil Lines	(इतर)	Salem Pur Majra Burari
+East	Gandhi Nagar	(इतर)	Shakar Pur Baramad (CT)
+East	Mayur Vihar	(इतर)	Chilla Saroda Bangar (CT)
+East	Mayur Vihar	(इतर)	Chilla Saroda Khadar (CT)
+East	Mayur Vihar	(इतर)	Dallo Pura (CT)
+East	Mayur Vihar	(इतर)	Gharoli (CT)
+East	Mayur Vihar	(इतर)	Kondli (CT)
+East	Preet Vihar	(इतर)	Gharonda Neemka Bangar alias Patpar Ganj (CT)
+East	Preet Vihar	(इतर)	Shamas Pur
+New Delhi	Delhi Cantonment	(इतर)	Moradabad Pahari (CT)
+New Delhi	Vasant Vihar	(इतर)	Ghitorni (CT)
+New Delhi	Vasant Vihar	(इतर)	Kapas Hera (CT)
+New Delhi	Vasant Vihar	(इतर)	Kusum Pur (CT)
+New Delhi	Vasant Vihar	(इतर)	Malik Pur Kohi alias Rang Puri (CT)
+New Delhi	Vasant Vihar	(इतर)	Rajokri (CT)
+New Delhi	Vasant Vihar	(इतर)	Sambhalka (CT)
+North	Alipur	(इतर)	Akbar Pur Majra
+North	Alipur	(इतर)	Ali Pur (CT)
+North	Alipur	(इतर)	Bakhtawar Pur (CT)
+North	Alipur	(इतर)	Bankauli (CT)
+North	Alipur	(इतर)	Bodh Pur Bija Pur
+North	Alipur	(इतर)	Fateh Pur Jat
+North	Alipur	(इतर)	Garhi Khasru
+North	Alipur	(इतर)	Hamid Pur
+North	Alipur	(इतर)	Hiranki
+North	Alipur	(इतर)	Ibrahim Pur (CT)
+North	Alipur	(इतर)	Jhangola
+North	Alipur	(इतर)	Kham Pur
+North	Alipur	(इतर)	Khera Kalan (CT)
+North	Alipur	(इतर)	Libas Pur (CT)
+North	Alipur	(इतर)	Mohd. Pur Ramzan Pur
+North	Alipur	(इतर)	Mukhmel Pur (CT)
+North	Alipur	(इतर)	Nangli Poona
+North	Alipur	(इतर)	Palla
+North	Alipur	(इतर)	Qadi Pur (CT)
+North	Alipur	(इतर)	Qullak Pur
+North	Alipur	(इतर)	Sahibabad Daulat Pur (CT)
+North	Alipur	(इतर)	Singhola
+North	Alipur	(इतर)	Singhu
+North	Alipur	(इतर)	Siras Pur (CT)
+North	Alipur	(इतर)	Sunger Pur Delhi
+North	Alipur	(इतर)	Sunger Pur Shahdara (un-inhabited)
+North	Alipur	(इतर)	Taj Pur Kalan
+North	Alipur	(इतर)	Tehri Daulat Pur (Un-inhabited)
+North	Alipur	(इतर)	Tigi Pur
+North	Alipur	(इतर)	Zind Pur
+North	Model Town	(इतर)	Bhalswa Jahangir Pur (CT)
+North	Model Town	(इतर)	Shanjar Pur(un-inhabited)
+North	Narela	(इतर)	Bankner (CT)
+North	Narela	(इतर)	Barwala (CT)
+North	Narela	(इतर)	Bawana (CT)
+North	Narela	(इतर)	Bazid Pur Thakran
+North	Narela	(इतर)	Bhor Garh (CT)
+North	Narela	(इतर)	Darya Pur Kalan (CT)
+North	Narela	(इतर)	Ghoga
+North	Narela	(इतर)	Hareoli
+North	Narela	(इतर)	Holambi Kalan
+North	Narela	(इतर)	Holambi Khurd
+North	Narela	(इतर)	Iradat Nagar alias Naya Bans
+North	Narela	(इतर)	Kankar Khera
+North	Narela	(इतर)	Katewara
+North	Narela	(इतर)	Khera Khurd (CT)
+North	Narela	(इतर)	Kureni
+North	Narela	(इतर)	Lam Pur
+North	Narela	(इतर)	Mamoor Pur
+North	Narela	(इतर)	Mungesh Pur
+North	Narela	(इतर)	Nangal Thakran
+North	Narela	(इतर)	Ochandi
+North	Narela	(इतर)	Pansali
+North	Narela	(इतर)	Pehlad Pur Bangar (CT)
+North	Narela	(इतर)	Pooth Khurd (CT)
+North	Narela	(इतर)	Raja Pur Kalan (Un-inhabited)
+North	Narela	(इतर)	Sanoth
+North	Narela	(इतर)	Shah Pur Garhi
+North	Narela	(इतर)	Sultan Pur Dabas
+North	Narela	(इतर)	Tikri Khurd (CT)
+North East	Karawal Nagar	(इतर)	Badar Pur Khadar
+North East	Karawal Nagar	(इतर)	Baqiabad (CT)
+North East	Karawal Nagar	(इतर)	Bihari Pur
+North East	Karawal Nagar	(इतर)	Jiwan Pur alias Johri Pur (CT)
+North East	Karawal Nagar	(इतर)	Karawal Nagar (CT)
+North East	Karawal Nagar	(इतर)	Pur Delhi
+North East	Karawal Nagar	(इतर)	Pur Shahdara
+North East	Karawal Nagar	(इतर)	Saba Pur Delhi
+North East	Karawal Nagar	(इतर)	Saba Pur Shahdara
+North East	Karawal Nagar	(इतर)	Sadat Pur Gujran (CT)
+North East	Karawal Nagar	(इतर)	Sadat Pur Musalmanan (un-inhabited)
+North East	Seelam Pur	(इतर)	Dayal Pur (CT)
+North East	Seelam Pur	(इतर)	Garhi Mendu
+North East	Seelam Pur	(इतर)	Khajoori Khas (CT)
+North East	Seelam Pur	(इतर)	Khan Pur Dhani (CT)
+North East	Seelam Pur	(इतर)	Mir Pur Turk (CT)
+North East	Seelam Pur	(इतर)	Sher Pur
+North East	Seelam Pur	(इतर)	Tukhmir Pur (CT)
+North East	Yamuna Vihar	(इतर)	Gokal Pur (CT)
+North East	Yamuna Vihar	(इतर)	Mustafabad (CT)
+North East	Yamuna Vihar	(इतर)	Ziauddin Pur (CT)
+North West	Kanjhawala	(इतर)	Budhan Pur
+North West	Kanjhawala	(इतर)	Chand Pur
+North West	Kanjhawala	(इतर)	Chatesar
+North West	Kanjhawala	(इतर)	Garhi Rindhala
+North West	Kanjhawala	(इतर)	Gheora (CT)
+North West	Kanjhawala	(इतर)	Jat Khor
+North West	Kanjhawala	(इतर)	Jonti
+North West	Kanjhawala	(इतर)	Kanjhawala (CT)
+North West	Kanjhawala	(इतर)	Karala (CT)
+North West	Kanjhawala	(इतर)	Lad Pur (CT)
+North West	Kanjhawala	(इतर)	Mohammad Pur Majri (CT)
+North West	Kanjhawala	(इतर)	Nizam Pur Rashid Pur
+North West	Kanjhawala	(इतर)	Punjab Khor
+North West	Kanjhawala	(इतर)	Qutab Garh (CT)
+North West	Kanjhawala	(इतर)	Salah Pur Majra
+North West	Rohini	(इतर)	Begum Pur (CT)
+North West	Rohini	(इतर)	Kirari Suleman Nagar (CT)
+North West	Rohini	(इतर)	Madan Pur Dabas
+North West	Rohini	(इतर)	Mubarak Pur Dabas (CT)
+North West	Rohini	(इतर)	Nithari (CT)
+North West	Rohini	(इतर)	Pooth Kalan (CT)
+North West	Rohini	(इतर)	Rani Khera (CT)
+North West	Rohini	(इतर)	Rasool Pur
+North West	Rohini	(इतर)	Sultan Pur Majra (CT)
+North West	Saraswati Vihar	(इतर)	Saoda
+Shahdara	Seema Puri	(इतर)	Mandoli (CT)
+Shahdara	Shahdara	(इतर)	Babar Pur (CT)
+Shahdara	Shahdara	(इतर)	Jaffrabad (CT)
+South	Hauz Khas	(इतर)	Deoli (CT)
+South	Hauz Khas	(इतर)	Saidul Azaib (CT)
+South	Mehrauli	(इतर)	Aya Nagar (CT)
+South	Mehrauli	(इतर)	Chandan Hola (CT)
+South	Mehrauli	(इतर)	Dera Mandi (CT)
+South	Mehrauli	(इतर)	Fateh Pur Beri (CT)
+South	Mehrauli	(इतर)	Gadai Pur
+South	Mehrauli	(इतर)	Jona Pur (CT)
+South	Mehrauli	(इतर)	Sultan Pur (CT)
+South	Saket	(इतर)	Asola (CT)
+South	Saket	(इतर)	Bhati (CT)
+South	Saket	(इतर)	Chattar Pur (CT)
+South	Saket	(इतर)	Maidan Garhi (CT)
+South	Saket	(इतर)	Neb Sarai (CT)
+South	Saket	(इतर)	Raj Pur Khurd (CT)
+South	Saket	(इतर)	Satberi
+South	Saket	(इतर)	Shahur Pur
+South	Saket	(इतर)	Tigri (CT)
+South East	Defence Colony	(इतर)	Saidabad (CT)
+South East	Kalkaji	(इतर)	Pul Pehlad (CT)
+South East	Sarita Vihar	(इतर)	Aali (CT)
+South East	Sarita Vihar	(इतर)	Jait Pur (CT)
+South East	Sarita Vihar	(इतर)	Kotla Mahigiran (CT)
+South East	Sarita Vihar	(इतर)	Mithe Pur (CT)
+South East	Sarita Vihar	(इतर)	Molar Band (CT)
+South East	Sarita Vihar	(इतर)	Taj Pul (CT)
+South West	Dwarka	(इतर)	Nangli Sakrawati (CT)
+South West	Kapeshera	(इतर)	Asalat Pur Khawad
+South West	Kapeshera	(इतर)	Chhawala (CT)
+South West	Kapeshera	(इतर)	Darya Pur Khurd
+South West	Kapeshera	(इतर)	Daulat Pur
+South West	Kapeshera	(इतर)	Deorala
+South West	Kapeshera	(इतर)	Dindar Pur (CT)
+South West	Kapeshera	(इतर)	Goela Khurd
+South West	Kapeshera	(इतर)	Goman Hera
+South West	Kapeshera	(इतर)	Hasan Pur
+South West	Kapeshera	(इतर)	Jain Pur(Un-inhabited)
+South West	Kapeshera	(इतर)	Jhatikra
+South West	Kapeshera	(इतर)	Kangan Heri
+South West	Kapeshera	(इतर)	Kharkhari Jatmal
+South West	Kapeshera	(इतर)	Kharkhari Rond
+South West	Kapeshera	(इतर)	Nanak Heri
+South West	Kapeshera	(इतर)	Paprawat
+South West	Kapeshera	(इतर)	Pindwala Kalan
+South West	Kapeshera	(इतर)	Pindwala Khurd
+South West	Kapeshera	(इतर)	Raghu Pur
+South West	Kapeshera	(इतर)	Raota
+South West	Kapeshera	(इतर)	Rewla Kham Pur
+South West	Kapeshera	(इतर)	Salah Pur
+South West	Kapeshera	(इतर)	Shikar Pur
+South West	Kapeshera	(इतर)	Taj Pur Khurd
+South West	Najafgarh	(इतर)	Badhosra
+South West	Najafgarh	(इतर)	Baqar Garh
+South West	Najafgarh	(इतर)	Dhansa
+South West	Najafgarh	(इतर)	Dichaon Kalan
+South West	Najafgarh	(इतर)	Ghalib Pur
+South West	Najafgarh	(इतर)	Isa Pur
+South West	Najafgarh	(इतर)	Jaffar Pur Kalan (CT)
+South West	Najafgarh	(इतर)	Jharoda Kalan (CT)
+South West	Najafgarh	(इतर)	Jhuljhuli
+South West	Najafgarh	(इतर)	Kair (CT)
+South West	Najafgarh	(इतर)	Kharkhari Nahar
+South West	Najafgarh	(इतर)	Khera (CT)
+South West	Najafgarh	(इतर)	Khera Dabar
+South West	Najafgarh	(इतर)	Malik Pur zer-Najafgarh
+South West	Najafgarh	(इतर)	Mitraon (CT)
+South West	Najafgarh	(इतर)	Mundhela Kalan
+South West	Najafgarh	(इतर)	Mundhela Khurd
+South West	Najafgarh	(इतर)	Qazi Pur
+South West	Najafgarh	(इतर)	Qutab Pur
+South West	Najafgarh	(इतर)	Roshan Pura alias Dichaon Khurd (CT)
+South West	Najafgarh	(इतर)	Samas Pur Khalsa
+South West	Najafgarh	(इतर)	Sarang Pur
+South West	Najafgarh	(इतर)	Sher Pur Deri
+South West	Najafgarh	(इतर)	Surakh Pur
+South West	Najafgarh	(इतर)	Surera
+South West	Najafgarh	(इतर)	Ujwa (CT)
+West	Patel Nagar	(इतर)	Hastsal (CT)
+West	Patel Nagar	(इतर)	Raja Pur Khurd (CT)
+West	Punjabi Bagh	(इतर)	Bakkar Wala (CT)
+West	Punjabi Bagh	(इतर)	Bapraula (CT)
+West	Punjabi Bagh	(इतर)	Jaffar Pur alias Hiran Kudna
+West	Punjabi Bagh	(इतर)	Mundka (CT)
+West	Punjabi Bagh	(इतर)	Nangloi Jat (CT)
+West	Punjabi Bagh	(इतर)	Neel Wal
+West	Punjabi Bagh	(इतर)	Nilothi (CT)
+West	Punjabi Bagh	(इतर)	Quammruddin Nagar (CT)
+West	Punjabi Bagh	(इतर)	Shafi Pur Ranhola (CT)
+West	Punjabi Bagh	(इतर)	Tikri Kalan (CT)
+West	Punjabi Bagh	(इतर)	Tilang Pur Kotla (CT)

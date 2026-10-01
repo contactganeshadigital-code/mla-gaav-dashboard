@@ -2,7 +2,10 @@ package com.ganeshadigital.mlagaav
 
 import android.content.Context
 import android.content.Intent
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.lazy.LazyColumn
+import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material3.*
@@ -10,6 +13,7 @@ import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
@@ -110,15 +114,59 @@ fun ConfirmDialog(text: String, onYes: () -> Unit, onNo: () -> Unit) {
     )
 }
 
+const val OTHER_VILLAGE = "✏️ इतर (स्वतः टाका)"
+
+@Composable
+fun SearchPicker(label: String, value: String, options: List<String>, enabled: Boolean = true, onSelect: (String) -> Unit) {
+    var open by remember { mutableStateOf(false) }
+    Column(Modifier.fillMaxWidth()) {
+        Text(label, fontSize = 12.sp)
+        OutlinedButton(onClick = { open = true }, enabled = enabled, modifier = Modifier.fillMaxWidth()) {
+            Text(if (value.isBlank()) "निवडा" else value, modifier = Modifier.weight(1f), maxLines = 1)
+            Text("▾")
+        }
+    }
+    if (open) {
+        var q by remember { mutableStateOf("") }
+        val list = remember(q, options) { if (q.isBlank()) options else options.filter { it.contains(q, ignoreCase = true) } }
+        AlertDialog(
+            onDismissRequest = { open = false },
+            title = { Text(label) },
+            text = {
+                Column {
+                    OutlinedTextField(
+                        value = q, onValueChange = { q = it }, label = { Text("शोधा") },
+                        singleLine = true, modifier = Modifier.fillMaxWidth()
+                    )
+                    Spacer(Modifier.height(8.dp))
+                    LazyColumn(Modifier.heightIn(max = 360.dp)) {
+                        items(list) { o ->
+                            Text(
+                                o,
+                                Modifier.fillMaxWidth().clickable { onSelect(o); open = false }.padding(vertical = 12.dp)
+                            )
+                            HorizontalDivider()
+                        }
+                    }
+                }
+            },
+            confirmButton = { TextButton(onClick = { open = false }) { Text("बंद") } }
+        )
+    }
+}
+
 @Composable
 fun VillageDialog(initial: Village?, prefill: Village?, onDismiss: () -> Unit, onSave: (Village) -> Unit) {
+    val ctx = LocalContext.current
     // For a new village, State/District/Taluka/GP are pre-filled from the last village added
     val base = initial ?: prefill
+    val states = remember { LocationData.states(ctx) }
     var state by remember { mutableStateOf(base?.state ?: "") }
     var district by remember { mutableStateOf(base?.district ?: "") }
     var taluka by remember { mutableStateOf(base?.taluka ?: "") }
     var gp by remember { mutableStateOf(base?.gp ?: "") }
     var name by remember { mutableStateOf(initial?.name ?: "") }
+    var manual by remember { mutableStateOf(false) }
     var pin by remember { mutableStateOf(initial?.pincode ?: base?.pincode ?: "") }
     var pop by remember { mutableStateOf(initial?.population?.toString() ?: "") }
     var hh by remember { mutableStateOf(initial?.households?.toString() ?: "") }
@@ -126,16 +174,24 @@ fun VillageDialog(initial: Village?, prefill: Village?, onDismiss: () -> Unit, o
     var contact by remember { mutableStateOf(initial?.contact ?: "") }
     var notes by remember { mutableStateOf(initial?.notes ?: "") }
     var err by remember { mutableStateOf("") }
+
+    val tree = remember(state) { if (state.isBlank()) null else LocationData.load(ctx, state) }
+    val districts = tree?.keys?.toList() ?: emptyList()
+    val talukas = tree?.get(district)?.keys?.toList() ?: emptyList()
+    val gps = tree?.get(district)?.get(taluka)?.keys?.toList() ?: emptyList()
+    val villages = tree?.get(district)?.get(taluka)?.get(gp)?.sorted() ?: emptyList()
+    val isManual = manual || (name.isNotBlank() && name !in villages)
+
     FormDialog(
         title = if (initial == null) "नवीन गाव" else "गाव संपादित करा",
         onDismiss = onDismiss,
         onSave = {
             when {
-                state.isBlank() -> err = "राज्य टाका"
-                district.isBlank() -> err = "जिल्हा टाका"
-                taluka.isBlank() -> err = "तालुका टाका"
-                gp.isBlank() -> err = "ग्रामपंचायत टाका"
-                name.isBlank() -> err = "गावाचे नाव टाका"
+                state.isBlank() -> err = "राज्य निवडा"
+                district.isBlank() -> err = "जिल्हा निवडा"
+                taluka.isBlank() -> err = "तालुका निवडा"
+                gp.isBlank() -> err = "ग्रामपंचायत निवडा"
+                name.isBlank() -> err = "गाव निवडा / नाव टाका"
                 pin.length != 6 -> err = "पिन कोड 6 अंकी हवा"
                 else -> onSave(
                     Village(initial?.id ?: newId(), state.trim(), district.trim(), taluka.trim(),
@@ -146,11 +202,30 @@ fun VillageDialog(initial: Village?, prefill: Village?, onDismiss: () -> Unit, o
             }
         }
     ) {
-        Field("राज्य *", state, { state = it; err = "" })
-        Field("जिल्हा *", district, { district = it; err = "" })
-        Field("तालुका *", taluka, { taluka = it; err = "" })
-        Field("ग्रामपंचायत *", gp, { gp = it; err = "" })
-        Field("गावाचे नाव *", name, { name = it; err = "" })
+        SearchPicker("राज्य *", state, states) {
+            if (it != state) { state = it; district = ""; taluka = ""; gp = ""; name = ""; manual = false }
+            err = ""
+        }
+        SearchPicker("जिल्हा *", district, districts, enabled = state.isNotBlank()) {
+            if (it != district) { district = it; taluka = ""; gp = ""; name = ""; manual = false }
+            err = ""
+        }
+        SearchPicker("तालुका *", taluka, talukas, enabled = district.isNotBlank()) {
+            if (it != taluka) { taluka = it; gp = ""; name = ""; manual = false }
+            err = ""
+        }
+        SearchPicker("ग्रामपंचायत *", gp, gps, enabled = taluka.isNotBlank()) {
+            if (it != gp) { gp = it; name = ""; manual = false }
+            err = ""
+        }
+        SearchPicker(
+            "गाव *", if (manual && name.isBlank()) OTHER_VILLAGE else name,
+            villages + OTHER_VILLAGE, enabled = gp.isNotBlank()
+        ) {
+            if (it == OTHER_VILLAGE) { manual = true; name = "" } else { manual = false; name = it }
+            err = ""
+        }
+        if (isManual) Field("गावाचे नाव टाका *", name, { name = it; err = "" })
         Field("पिन कोड *", pin, { if (it.length <= 6 && it.all(Char::isDigit)) { pin = it; err = "" } }, number = true)
         Field("लोकसंख्या", pop, { pop = it }, number = true)
         Field("कुटुंबे", hh, { hh = it }, number = true)

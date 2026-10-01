@@ -1,0 +1,415 @@
+North Goa	Bardez	Aldona	Calvim
+North Goa	Bardez	Aldona	Corjuem
+North Goa	Bardez	Aldona	Ponolem
+North Goa	Bardez	Anjuna-caisua	Anjuna (CT)
+North Goa	Bardez	Arpora-nagoa	Arpora
+North Goa	Bardez	Arpora-nagoa	Nagoa
+North Goa	Bardez	Assagao	Assagao
+North Goa	Bardez	Assanora	Assonora
+North Goa	Bardez	Assanora	Moitem
+North Goa	Bardez	Bastora	Bastora
+North Goa	Bardez	Calangute	Calangute (CT)
+North Goa	Bardez	Camurli	Camurlim
+North Goa	Bardez	Candolim	Calangute (CT)
+North Goa	Bardez	Candolim	Candolim (CT)
+North Goa	Bardez	Candolim	Marra
+North Goa	Bardez	Colvale	Colvale (CT)
+North Goa	Bardez	Guirim	Guirim (CT)
+North Goa	Bardez	Moira	Moira (CT)
+North Goa	Bardez	Nachinola	Nachinola
+North Goa	Bardez	Nadora	Nadora
+North Goa	Bardez	Nerul	Nerul (CT)
+North Goa	Bardez	Oxel	Oxel
+North Goa	Bardez	Parra	Parra
+North Goa	Bardez	Penha-de-france	Penha-de-Franca (CT)
+North Goa	Bardez	Pilerne - Marra	Marra
+North Goa	Bardez	Pilerne - Marra	Pilerne (CT)
+North Goa	Bardez	Pirna	Pirna
+North Goa	Bardez	Pomburpa, Olaulim	Olaulim
+North Goa	Bardez	Pomburpa, Olaulim	Pomburpa
+North Goa	Bardez	Pomburpa, Olaulim	Salvador do Mundo (CT)
+North Goa	Bardez	Reis-magos	Reis Magos (CT)
+North Goa	Bardez	Revora	Revora
+North Goa	Bardez	Saligao	Saligao (CT)
+North Goa	Bardez	Salvador-do-mundo	Salvador do Mundo (CT)
+North Goa	Bardez	Sangolda	Sangolda
+North Goa	Bardez	Siolim Marna	Marna
+North Goa	Bardez	Siolim Marna	Siolim (CT)
+North Goa	Bardez	Siolim-sodiem	Siolim (CT)
+North Goa	Bardez	Sirsaim	Sircaim
+North Goa	Bardez	Socorro	Socorro (CT)
+North Goa	Bardez	Thivim	Tivim
+North Goa	Bardez	Ucassaim-paliem-punola	Paliem
+North Goa	Bardez	Ucassaim-paliem-punola	Punola
+North Goa	Bardez	Ucassaim-paliem-punola	Ucassaim
+North Goa	Bardez	Verla Canca	Canca
+North Goa	Bardez	Verla Canca	Verla
+North Goa	Bicholim	(इतर)	Bordem
+North Goa	Bicholim	(इतर)	Lamgao
+North Goa	Bicholim	(इतर)	Virdi
+North Goa	Bicholim	Advalpal	Adwalpale
+North Goa	Bicholim	Amona	Amone
+North Goa	Bicholim	Cudnem	Cudnem
+North Goa	Bicholim	Harvalem	Harvalem
+North Goa	Bicholim	Karapur-sarvan	Carapur (CT)
+North Goa	Bicholim	Karapur-sarvan	Sarvona
+North Goa	Bicholim	Latambarcem	Latambarcem
+North Goa	Bicholim	Mayem	Aturli
+North Goa	Bicholim	Mayem	Maem
+North Goa	Bicholim	Mencurem Dumacem	Dumacem
+North Goa	Bicholim	Mencurem Dumacem	Mencurem
+North Goa	Bicholim	Mulgao	Mulgao
+North Goa	Bicholim	Nagargao	Vainguinim
+North Goa	Bicholim	Naroa	Naroa
+North Goa	Bicholim	Navelim	Navelim
+North Goa	Bicholim	Ona Maulinguem Curchirem	Curchirem
+North Goa	Bicholim	Ona Maulinguem Curchirem	Maulinguem North
+North Goa	Bicholim	Ona Maulinguem Curchirem	Ona
+North Goa	Bicholim	Pale, Cotombi	Cotombi
+North Goa	Bicholim	Pale, Cotombi	Pale (CT)
+North Goa	Bicholim	Piligao	Piligao
+North Goa	Bicholim	Salem	Salem
+North Goa	Bicholim	Sirigao	Sirigao
+North Goa	Bicholim	Surla	Surla
+North Goa	Bicholim	Velguem	Velguem
+North Goa	Pernem	Agarwada Chopdem	Agarvado
+North Goa	Pernem	Agarwada Chopdem	Chopdem
+North Goa	Pernem	Alorna	Alorna
+North Goa	Pernem	Arambol	Arambol (CT)
+North Goa	Pernem	Casnem, Amberem,poroscodem	Amberem
+North Goa	Pernem	Casnem, Amberem,poroscodem	Casnem
+North Goa	Pernem	Casnem, Amberem,poroscodem	Poroscodem
+North Goa	Pernem	Chandel Hasapur	Chandel
+North Goa	Pernem	Corgao	Corgao
+North Goa	Pernem	Dhargal	Dargalim
+North Goa	Pernem	Ibrampur	Ibrampur
+North Goa	Pernem	Kasarvanem	Cansarvornem
+North Goa	Pernem	Keri Terecol	Querim
+North Goa	Pernem	Keri Terecol	Tiracol
+North Goa	Pernem	Mandrem	Mandrem (CT)
+North Goa	Pernem	Morjim	Morjim (CT)
+North Goa	Pernem	Ozarim	Ozorim
+North Goa	Pernem	Paliem	Paliem
+North Goa	Pernem	Parcem	Parcem (CT)
+North Goa	Pernem	Tamboxem, Mopa, Uguem	Mopa
+North Goa	Pernem	Tamboxem, Mopa, Uguem	Tamboxem
+North Goa	Pernem	Tamboxem, Mopa, Uguem	Uguem
+North Goa	Pernem	Torxem	Torxem
+North Goa	Pernem	Tuem	Tuem
+North Goa	Pernem	Varkhand Nagzar	Varconda
+North Goa	Pernem	Virnoda	Virnora
+North Goa	Satari	(इतर)	Massordem
+North Goa	Satari	(इतर)	Nanus
+North Goa	Satari	(इतर)	Velus
+North Goa	Satari	Birondem	Advoi
+North Goa	Satari	Birondem	Ansolem
+North Goa	Satari	Birondem	Birondem
+North Goa	Satari	Birondem	Padeli
+North Goa	Satari	Birondem	Sanvorcem
+North Goa	Satari	Birondem	Vantem
+North Goa	Satari	Cotodem	Ambeli
+North Goa	Satari	Cotodem	Assodem
+North Goa	Satari	Cotodem	Codqui
+North Goa	Satari	Cotodem	Cotorem
+North Goa	Satari	Cotodem	Govanem
+North Goa	Satari	Cotodem	Malpona
+North Goa	Satari	Cotodem	Siranguli
+North Goa	Satari	Cotodem	Sirsodem
+North Goa	Satari	Cotodem	Velguem
+North Goa	Satari	Cotodem	Xelopo-Curdo
+North Goa	Satari	Dongurli-thane	Choraundem
+North Goa	Satari	Dongurli-thane	Dongurli
+North Goa	Satari	Dongurli-thane	Golauli
+North Goa	Satari	Dongurli-thane	Ivrem-Buzruco
+North Goa	Satari	Dongurli-thane	Ivrem-Curdo
+North Goa	Satari	Dongurli-thane	Naneli
+North Goa	Satari	Dongurli-thane	Pale
+North Goa	Satari	Dongurli-thane	Rivem
+North Goa	Satari	Dongurli-thane	Surla
+North Goa	Satari	Guleli	Conquirem
+North Goa	Satari	Guleli	Damocem
+North Goa	Satari	Guleli	Guleli
+North Goa	Satari	Guleli	Melauli
+North Goa	Satari	Honda	Buimpal
+North Goa	Satari	Honda	Onda (CT)
+North Goa	Satari	Honda	Saleli
+North Goa	Satari	Honda	Sonus-Vonvoliem
+North Goa	Satari	Mauxi	Compordem
+North Goa	Satari	Mauxi	Dabem
+North Goa	Satari	Mauxi	Mauzi
+North Goa	Satari	Mauxi	Naguem
+North Goa	Satari	Mauxi	Zormen
+North Goa	Satari	Mayem	Vainguinim
+North Goa	Satari	Morlem	Morlem
+North Goa	Satari	Nagargao	Ambedem
+North Goa	Satari	Nagargao	Bombedem
+North Goa	Satari	Nagargao	Carambolim- Brama
+North Goa	Satari	Nagargao	Codal
+North Goa	Satari	Nagargao	Davem
+North Goa	Satari	Nagargao	Derodem
+North Goa	Satari	Nagargao	Edorem
+North Goa	Satari	Nagargao	Maloli
+North Goa	Satari	Nagargao	Nagargao
+North Goa	Satari	Nagargao	Nanorem
+North Goa	Satari	Nagargao	Satorem
+North Goa	Satari	Nagargao	Satrem
+North Goa	Satari	Nagargao	Sigonem
+North Goa	Satari	Nagargao	Ustem
+North Goa	Satari	Nagargao	Xelopo-Buzruco
+North Goa	Satari	Nagargao	Zarani
+North Goa	Satari	Pissurlem	Codiem
+North Goa	Satari	Pissurlem	Cumarconda
+North Goa	Satari	Pissurlem	Pissurlem
+North Goa	Satari	Pissurlem	Ponocem
+North Goa	Satari	Pissurlem	Vaguriem
+North Goa	Satari	Poriem	Podocem
+North Goa	Satari	Poriem	Poriem
+North Goa	Satari	Querim	Anjunem
+North Goa	Satari	Querim	Gonteli
+North Goa	Satari	Querim	Gululem
+North Goa	Satari	Querim	Ponsuli
+North Goa	Satari	Querim	Quelaudem
+North Goa	Satari	Querim	Querim
+North Goa	Satari	Querim	Ravona
+North Goa	Satari	Querim	Siroli
+North Goa	Satari	Sanvordem	Carambolim-Bozruco
+North Goa	Satari	Sanvordem	Caranzol
+North Goa	Satari	Sanvordem	Codvol
+North Goa	Satari	Sanvordem	Cudcem
+North Goa	Satari	Sanvordem	Pendral
+North Goa	Satari	Sanvordem	Sanvordem
+North Goa	Satari	Sanvordem	Sonal
+North Goa	Tiswadi	Azossim-mandur	Azossim
+North Goa	Tiswadi	Azossim-mandur	Mandur
+North Goa	Tiswadi	Batim	Batim
+North Goa	Tiswadi	Batim	Gancim
+North Goa	Tiswadi	Carambolim	Carambolim
+North Goa	Tiswadi	Chimbel	Chimbel (CT)
+North Goa	Tiswadi	Chimbel	Morambi-O-Grande (Merces) (OG)
+North Goa	Tiswadi	Chodan-madel	Ambarim
+North Goa	Tiswadi	Chodan-madel	Caraim
+North Goa	Tiswadi	Chodan-madel	Chorao
+North Goa	Tiswadi	Corlim	Corlim (CT)
+North Goa	Tiswadi	Cumbharjua	Cumbarjua (CT)
+North Goa	Tiswadi	Cumbharjua	Gandaulim
+North Goa	Tiswadi	Curca, Bambolim, Talaulim	Bambolim (CT)
+North Goa	Tiswadi	Curca, Bambolim, Talaulim	Curca
+North Goa	Tiswadi	Curca, Bambolim, Talaulim	Goalim Moula
+North Goa	Tiswadi	Curca, Bambolim, Talaulim	Talaulim
+North Goa	Tiswadi	Goltim-navelim	Goltim
+North Goa	Tiswadi	Goltim-navelim	Navelim
+North Goa	Tiswadi	Merces	Morambi-O-Grande (Merces) (OG)
+North Goa	Tiswadi	Merces	Morambi-O-Pequeno (Merces) (OG)
+North Goa	Tiswadi	Merces	Murda (CT)
+North Goa	Tiswadi	Merces	Renovadi (OG)
+North Goa	Tiswadi	Neura	Neura-O-Grande
+North Goa	Tiswadi	Neura	Neura-O-Pequeno
+North Goa	Tiswadi	Sao Lourence(agassaim)	Mercurim (CT)
+North Goa	Tiswadi	Sao Matias	Capao
+North Goa	Tiswadi	Sao Matias	Malar
+North Goa	Tiswadi	Sao Matias	Naroa
+North Goa	Tiswadi	Se-old-goa	Bainguinim
+North Goa	Tiswadi	Se-old-goa	Ella
+North Goa	Tiswadi	Se-old-goa	Panelim (OG)
+North Goa	Tiswadi	Siridao-pale	Siridao
+North Goa	Tiswadi	St. Andre	Goa Velha (CT)
+North Goa	Tiswadi	St. Cruz	Calapor (CT)
+North Goa	Tiswadi	St. Cruz	Cujira (OG)
+North Goa	Tiswadi	St. Estevam	Jua (CT)
+North Goa	Tiswadi	Taleigao	Durgawadi (OG) (Part)
+North Goa	Tiswadi	Taleigao	Taleigao (OG) (Part)
+South Goa	Canacona	(इतर)	Chaudi
+South Goa	Canacona	(इतर)	Nagorcem - Palolem
+South Goa	Canacona	Agonda	Agonda
+South Goa	Canacona	Cola	Cola
+South Goa	Canacona	Cotigao	Cotigao
+South Goa	Canacona	Gaondongri	Gaodongrem
+South Goa	Canacona	Loliem-polem	Anjadip
+South Goa	Canacona	Loliem-polem	Loliem
+South Goa	Canacona	Poinguinim	Poinguinim
+South Goa	Canacona	Shristhal	Canacona
+South Goa	Dharbandora	Colem	Caranzol
+South Goa	Dharbandora	Colem	Colem
+South Goa	Dharbandora	Colem	Sigao
+South Goa	Dharbandora	Colem	Sonauli
+South Goa	Dharbandora	Dharbandora	Darbandora
+South Goa	Dharbandora	Dharbandora	Piliem
+South Goa	Dharbandora	Kirlapal-dabhal	Bandoli
+South Goa	Dharbandora	Kirlapal-dabhal	Camarconda
+South Goa	Dharbandora	Kirlapal-dabhal	Codli
+South Goa	Dharbandora	Kirlapal-dabhal	Cormonem
+South Goa	Dharbandora	Kirlapal-dabhal	Moissal
+South Goa	Dharbandora	Mollem	Molem
+South Goa	Dharbandora	Mollem	Sangod
+South Goa	Dharbandora	Sancordem	Aglote
+South Goa	Dharbandora	Sancordem	Sancordem
+South Goa	Dharbandora	Sancordem	Surla
+South Goa	Mormugao	Cansaulim-arossim-cuelim	Arossim
+South Goa	Mormugao	Cansaulim-arossim-cuelim	Cansaulim
+South Goa	Mormugao	Cansaulim-arossim-cuelim	Cuelim
+South Goa	Mormugao	Chicalim	Chicalim (CT)
+South Goa	Mormugao	Chicalim	Dabolim
+South Goa	Mormugao	Chicalim	Sao Jacinto Island
+South Goa	Mormugao	Chicalim	Sao Jorge Island
+South Goa	Mormugao	Chicolna-bogmalo	Chicolna
+South Goa	Mormugao	Cortalim	Cortalim (CT)
+South Goa	Mormugao	Quelossim	Quelossim
+South Goa	Mormugao	Sancoale	Sancoale (CT)
+South Goa	Mormugao	Velsao-pale	Issorcim
+South Goa	Mormugao	Velsao-pale	Pale
+South Goa	Mormugao	Velsao-pale	Velsao
+South Goa	Ponda	Bandora	Bandora (CT)
+South Goa	Ponda	Betora-nirancal	Betora
+South Goa	Ponda	Betora-nirancal	Codar
+South Goa	Ponda	Betora-nirancal	Conxem
+South Goa	Ponda	Betora-nirancal	Nirancal
+South Goa	Ponda	Betqui, Candola	Betqui
+South Goa	Ponda	Betqui, Candola	Candola (CT)
+South Goa	Ponda	Bhoma-adcolna	Adcolna
+South Goa	Ponda	Bhoma-adcolna	Boma
+South Goa	Ponda	Borim	Borim (CT)
+South Goa	Ponda	Curti-khandepar	Candepar
+South Goa	Ponda	Curti-khandepar	Curti (CT)
+South Goa	Ponda	Durbhat	Durbhat
+South Goa	Ponda	Kundaim	Cundaim
+South Goa	Ponda	Marcaim	Marcaim (CT)
+South Goa	Ponda	Panchawadi	Ponchavadi
+South Goa	Ponda	Quela	Quela (CT)
+South Goa	Ponda	Querim	Querim
+South Goa	Ponda	Shiroda	Siroda
+South Goa	Ponda	Talaulim	Telaulim
+South Goa	Ponda	Talaulim	Vadi
+South Goa	Ponda	Tivrem-orgao	Orgao (CT)
+South Goa	Ponda	Tivrem-orgao	Tivrem
+South Goa	Ponda	Usgao-ganjem	Gangem
+South Goa	Ponda	Usgao-ganjem	Usgao (CT)
+South Goa	Ponda	Veling-priol	Cuncoliem
+South Goa	Ponda	Veling-priol	Priol (CT)
+South Goa	Ponda	Veling-priol	Velinga
+South Goa	Ponda	Verem-vaghurme	Savoi-Verem
+South Goa	Ponda	Verem-vaghurme	Vagurbem
+South Goa	Ponda	Volvoi	Volvoi
+South Goa	Quepem	(इतर)	Cacora
+South Goa	Quepem	(इतर)	Deao
+South Goa	Quepem	Ambaulim	Ambaulim
+South Goa	Quepem	Assolda	Assolda
+South Goa	Quepem	Assolda	Odar
+South Goa	Quepem	Assolda	Xelvona
+South Goa	Quepem	Assolda	Xic-Xelvona
+South Goa	Quepem	Avedem-cotombi	Avedem
+South Goa	Quepem	Avedem-cotombi	Chaifi
+South Goa	Quepem	Avedem-cotombi	Cotombi
+South Goa	Quepem	Balli-adnem	Adnem
+South Goa	Quepem	Balli-adnem	Bali
+South Goa	Quepem	Balli-adnem	Bendordem
+South Goa	Quepem	Balli-adnem	Cordem
+South Goa	Quepem	Balli-adnem	Tiloi
+South Goa	Quepem	Barcem	Barcem
+South Goa	Quepem	Barcem	Gocoldem
+South Goa	Quepem	Barcem	Padi
+South Goa	Quepem	Barcem	Quedem
+South Goa	Quepem	Barcem	Quisconda
+South Goa	Quepem	Caurem	Cavorem
+South Goa	Quepem	Caurem	Cazur
+South Goa	Quepem	Caurem	Corla
+South Goa	Quepem	Caurem	Maina
+South Goa	Quepem	Caurem	Mangal
+South Goa	Quepem	Caurem	Pirla
+South Goa	Quepem	Caurem	Sulcorna
+South Goa	Quepem	Fatorpa-quitol	Fatorpa
+South Goa	Quepem	Molcornem	Molcarnem
+South Goa	Quepem	Molcornem	Molcopona
+South Goa	Quepem	Molcornem	Nagvem
+South Goa	Quepem	Molcornem	Undorna
+South Goa	Quepem	Molcornem	Zanodem
+South Goa	Quepem	Morpirla	Morpila
+South Goa	Quepem	Naqueri-betul	Naquerim
+South Goa	Quepem	Naqueri-betul	Quitol
+South Goa	Quepem	Rivona	Colomba
+South Goa	Quepem	Rivona	Rivona
+South Goa	Quepem	Xeldem	Sirvoi
+South Goa	Quepem	Xeldem	Xeldem (CT)
+South Goa	Salcete	(इतर)	Cuncolim
+South Goa	Salcete	(इतर)	Talvorda
+South Goa	Salcete	(इतर)	Varoda
+South Goa	Salcete	Ambelim	Ambelim
+South Goa	Salcete	Aquem Baixo	Aquem (CT)
+South Goa	Salcete	Assolna	Assolna
+South Goa	Salcete	Benaulim	Adsulim
+South Goa	Salcete	Benaulim	Benaulim (CT)
+South Goa	Salcete	Benaulim	Cana
+South Goa	Salcete	Betalbatim	Betalbatim
+South Goa	Salcete	Betalbatim	Gonsua
+South Goa	Salcete	Camurlim	Camurlim
+South Goa	Salcete	Carmona	Carmona
+South Goa	Salcete	Cavelossim	Cavelossim
+South Goa	Salcete	Chandor-cavorim	Cavorim
+South Goa	Salcete	Chandor-cavorim	Chandor
+South Goa	Salcete	Chinchinim- Deussa	Chinchinim (CT)
+South Goa	Salcete	Chinchinim- Deussa	Deussua
+South Goa	Salcete	Colva	Colva
+South Goa	Salcete	Colva	Gandaulim
+South Goa	Salcete	Colva	Sernabatim
+South Goa	Salcete	Colva	Vanelim
+South Goa	Salcete	Curtorim	Curtorim (CT)
+South Goa	Salcete	Davorlim Dicarpale	Davorlim (CT)
+South Goa	Salcete	Davorlim Dicarpale	Dicarpale
+South Goa	Salcete	Dramapur- Sirlim	Dramapur
+South Goa	Salcete	Dramapur- Sirlim	Sirlim
+South Goa	Salcete	Guirdolim	Guirdolim
+South Goa	Salcete	Loutulim	Loutulim
+South Goa	Salcete	Macasana	Macasana
+South Goa	Salcete	Majorda	Calata
+South Goa	Salcete	Majorda	Majorda
+South Goa	Salcete	Majorda	Utorda
+South Goa	Salcete	Nagoa	Nagoa
+South Goa	Salcete	Navelim	Navelim (CT)
+South Goa	Salcete	Nuvem	Nuvem (CT)
+South Goa	Salcete	Orlim	Orlim
+South Goa	Salcete	Paroda	Mulem
+South Goa	Salcete	Paroda	Paroda
+South Goa	Salcete	Rachol	Rachol
+South Goa	Salcete	Raia	Raia (CT)
+South Goa	Salcete	Rumdamol-davorlim	Davorlim (CT)
+South Goa	Salcete	Sarzora	Sarzora
+South Goa	Salcete	Seraulim	Duncolim
+South Goa	Salcete	Seraulim	Seraulim
+South Goa	Salcete	St. Jose-de-areal	Sao Jose de Areal (CT)
+South Goa	Salcete	Telaulim	Talaulim
+South Goa	Salcete	Varca	Varca (CT)
+South Goa	Salcete	Velim	Velim
+South Goa	Salcete	Verna	Verna (CT)
+South Goa	Sanguem	Bhati	Bati
+South Goa	Sanguem	Bhati	Cumbari
+South Goa	Sanguem	Bhati	Dongor
+South Goa	Sanguem	Bhati	Naiquinim
+South Goa	Sanguem	Bhati	Potrem
+South Goa	Sanguem	Bhati	Sigonem
+South Goa	Sanguem	Bhati	Tudou
+South Goa	Sanguem	Bhati	Viliena
+South Goa	Sanguem	Curdi	Curdi
+South Goa	Sanguem	Curdi	Curpem
+South Goa	Sanguem	Curdi	Porteem
+South Goa	Sanguem	Kalay(kalem)	Boma
+South Goa	Sanguem	Kalay(kalem)	Calem
+South Goa	Sanguem	Kalay(kalem)	Costi
+South Goa	Sanguem	Kalay(kalem)	Dongurli
+South Goa	Sanguem	Kalay(kalem)	Dudal
+South Goa	Sanguem	Kalay(kalem)	Maulinguem
+South Goa	Sanguem	Kalay(kalem)	Oxel
+South Goa	Sanguem	Neturlim	Netorli
+South Goa	Sanguem	Neturlim	Nundem
+South Goa	Sanguem	Neturlim	Verlem
+South Goa	Sanguem	Neturlim	Vichundrem
+South Goa	Sanguem	Sanvordem	Antoriem
+South Goa	Sanguem	Sanvordem	Comproi
+South Goa	Sanguem	Sanvordem	Coranginim
+South Goa	Sanguem	Sanvordem	Rumbrem
+South Goa	Sanguem	Sanvordem	Santona
+South Goa	Sanguem	Sanvordem	Sanvordem (CT)
+South Goa	Sanguem	Uguem	Cotarli
+South Goa	Sanguem	Uguem	Muguli
+South Goa	Sanguem	Uguem	Patiem
+South Goa	Sanguem	Uguem	Salauli
+South Goa	Sanguem	Uguem	Uguem
+South Goa	Sanguem	Uguem	Xelpem

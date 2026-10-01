@@ -1,0 +1,1453 @@
+Dhalai	Ambassa	(इतर)	Auliraipara
+Dhalai	Ambassa	(इतर)	Bagmara
+Dhalai	Ambassa	(इतर)	Balaram
+Dhalai	Ambassa	(इतर)	Baluchhera
+Dhalai	Ambassa	(इतर)	Batabari
+Dhalai	Ambassa	(इतर)	Chakmapara
+Dhalai	Ambassa	(इतर)	Dangamapara
+Dhalai	Ambassa	(इतर)	Ganganagar
+Dhalai	Ambassa	(इतर)	Gangaprasadpara
+Dhalai	Ambassa	(इतर)	Gurudhanpara
+Dhalai	Ambassa	(इतर)	Harimangalpara
+Dhalai	Ambassa	(इतर)	Jagannathpur
+Dhalai	Ambassa	(इतर)	Kamalachhera
+Dhalai	Ambassa	(इतर)	Kanchanpur
+Dhalai	Ambassa	(इतर)	Kanthalbari
+Dhalai	Ambassa	(इतर)	Karamapara
+Dhalai	Ambassa	(इतर)	Karnamunipara
+Dhalai	Ambassa	(इतर)	Khamupara
+Dhalai	Ambassa	(इतर)	Khowaipar
+Dhalai	Ambassa	(इतर)	Kulai
+Dhalai	Ambassa	(इतर)	Kulai Reserve Forest
+Dhalai	Ambassa	(इतर)	Kulai Reserve Forest Extension
+Dhalai	Ambassa	(इतर)	Lalchhari
+Dhalai	Ambassa	(इतर)	Lalchhera
+Dhalai	Ambassa	(इतर)	Paschim Nalichhera
+Dhalai	Ambassa	(इतर)	Purba Nalichhera
+Dhalai	Ambassa	(इतर)	Pustaraipara
+Dhalai	Ambassa	(इतर)	Radharambari
+Dhalai	Ambassa	(इतर)	Raipasa
+Dhalai	Ambassa	(इतर)	Sardingkhapara
+Dhalai	Ambassa	(इतर)	Satbhaiyapara
+Dhalai	Ambassa	(इतर)	Siddhapara
+Dhalai	Ambassa	(इतर)	Sikaribari
+Dhalai	Ambassa	(इतर)	Tetaiya
+Dhalai	Ambassa	(इतर)	Ulemchhera
+Dhalai	Ambassa	Basudeb Para	Purba Nalichhera
+Dhalai	Ambassa	East Nalicherra	Purba Nalichhera
+Dhalai	Ambassa	Kekmachera	Kanchanpur
+Dhalai	Ambassa	Kekmachera	Kulai
+Dhalai	Ambassa	Kulai	Kulai
+Dhalai	Ambassa	North Nalicherra	Purba Nalichhera
+Dhalai	Ambassa	West Balaram	Balaram
+Dhalai	Ambassa	West Lalchari	Lalchhari
+Dhalai	Gandacherra	(इतर)	Barabari
+Dhalai	Gandacherra	(इतर)	Bhagirathpara
+Dhalai	Gandacherra	(इतर)	Birchandranagar
+Dhalai	Gandacherra	(इतर)	Boalkhali
+Dhalai	Gandacherra	(इतर)	Bulangbasa
+Dhalai	Gandacherra	(इतर)	Chitrajhari
+Dhalai	Gandacherra	(इतर)	Dalapatipara
+Dhalai	Gandacherra	(इतर)	Dhalajhari
+Dhalai	Gandacherra	(इतर)	Jagabandhupara
+Dhalai	Gandacherra	(इतर)	Jarulchhera
+Dhalai	Gandacherra	(इतर)	Jinaraipara
+Dhalai	Gandacherra	(इतर)	Joyrampur
+Dhalai	Gandacherra	(इतर)	Kamala Asram
+Dhalai	Gandacherra	(इतर)	Kamalakhal
+Dhalai	Gandacherra	(इतर)	Khedarkut
+Dhalai	Gandacherra	(इतर)	Lakshmipur
+Dhalai	Gandacherra	(इतर)	Malyansing
+Dhalai	Gandacherra	(इतर)	Paschim Gandachhera
+Dhalai	Gandacherra	(इतर)	Paschim Kalyansingh
+Dhalai	Gandacherra	(इतर)	Paschim Potachhera
+Dhalai	Gandacherra	(इतर)	Paschim Raima
+Dhalai	Gandacherra	(इतर)	Purba Gandachhera
+Dhalai	Gandacherra	(इतर)	Purba Kalyansing
+Dhalai	Gandacherra	(इतर)	Purba Potachhera
+Dhalai	Gandacherra	(इतर)	Purba Raima
+Dhalai	Gandacherra	(इतर)	Ramnagar
+Dhalai	Gandacherra	(इतर)	Ranipukur
+Dhalai	Gandacherra	(इतर)	Ratannagar
+Dhalai	Gandacherra	(इतर)	Sardeng
+Dhalai	Gandacherra	(इतर)	Sarma
+Dhalai	Gandacherra	(इतर)	Sipasing
+Dhalai	Gandacherra	(इतर)	Sukraichhera
+Dhalai	Gandacherra	(इतर)	Thakurchhera
+Dhalai	Gandacherra	(इतर)	Tuichhama
+Dhalai	Gandacherra	(इतर)	Utachhera
+Dhalai	Gandacherra	(इतर)	Uttaraipara
+Dhalai	Kamalpur	(इतर)	Abhangha
+Dhalai	Kamalpur	(इतर)	Aparaskar
+Dhalai	Kamalpur	(इतर)	Baralutma
+Dhalai	Kamalpur	(इतर)	Chankap
+Dhalai	Kamalpur	(इतर)	Chhetrai
+Dhalai	Kamalpur	(इतर)	Chotosurma
+Dhalai	Kamalpur	(इतर)	Duraichhera
+Dhalai	Kamalpur	(इतर)	Jamthumbari
+Dhalai	Kamalpur	(इतर)	Kachuchhera
+Dhalai	Kamalpur	(इतर)	Kamalpur
+Dhalai	Kamalpur	(इतर)	Katalutma
+Dhalai	Kamalpur	(इतर)	Lambuchhera
+Dhalai	Kamalpur	(इतर)	Latiachhera
+Dhalai	Kamalpur	(इतर)	Longtarai Reserve Forest
+Dhalai	Kamalpur	(इतर)	Mahabir
+Dhalai	Kamalpur	(इतर)	Maharani
+Dhalai	Kamalpur	(इतर)	Mendi
+Dhalai	Kamalpur	(इतर)	Michhuria
+Dhalai	Kamalpur	(इतर)	Nakful
+Dhalai	Kamalpur	(इतर)	Panboa
+Dhalai	Kamalpur	(इतर)	Paschim Daluchhera
+Dhalai	Kamalpur	(इतर)	Purba Daluchhera
+Dhalai	Kamalpur	(इतर)	Salema
+Dhalai	Kamalpur	(इतर)	Simbhuchak
+Dhalai	Kamalpur	(इतर)	Srirampur
+Dhalai	Kamalpur	Avanga	Abhangha
+Dhalai	Kamalpur	Baligaon	Ganganagar
+Dhalai	Kamalpur	Bamancherra	Bamanchhera
+Dhalai	Kamalpur	Baralutma	Baralutma
+Dhalai	Kamalpur	Bilashcherra	Dakshin Bilaschhera
+Dhalai	Kamalpur	Bilashcherra	Ganganagar
+Dhalai	Kamalpur	Bilashcherra	Uttar Bilaschhera
+Dhalai	Kamalpur	Chankap	Chankap
+Dhalai	Kamalpur	Choto Surma	Chotosurma
+Dhalai	Kamalpur	Chulubari	Chulubari
+Dhalai	Kamalpur	Dabbari	Dabbari
+Dhalai	Kamalpur	Dabbari	Michhuria
+Dhalai	Kamalpur	Debicherra	Debichhera
+Dhalai	Kamalpur	Duraishib Bari	Duraichhera
+Dhalai	Kamalpur	Duraishib Bari	Halhali
+Dhalai	Kamalpur	East Dalucherra	Paschim Daluchhera
+Dhalai	Kamalpur	East Dalucherra	Purba Daluchhera
+Dhalai	Kamalpur	East Lamboochara	Lambuchhera
+Dhalai	Kamalpur	East Lamboochara	Srirampur
+Dhalai	Kamalpur	Halhali	Halhali
+Dhalai	Kamalpur	Halhali	Nakful
+Dhalai	Kamalpur	Halhuli	Barasurma
+Dhalai	Kamalpur	Halhuli	Halhuli
+Dhalai	Kamalpur	Halhuli	Panchasi
+Dhalai	Kamalpur	Harerkhola	Harerkhola
+Dhalai	Kamalpur	Kalachari	Kalachhari
+Dhalai	Kamalpur	Kuchainala	Kuchainala
+Dhalai	Kamalpur	Mahabir	Mahabir
+Dhalai	Kamalpur	Manikbhandar	Manikbhandar
+Dhalai	Kamalpur	Maracherra	Marachhera
+Dhalai	Kamalpur	Mayachari	Bishnupur
+Dhalai	Kamalpur	Mayachari	Dakshin Bilaschhera
+Dhalai	Kamalpur	Mayachari	Mayachhari
+Dhalai	Kamalpur	Mechuria	Jamthumbari
+Dhalai	Kamalpur	Mechuria	Michhuria
+Dhalai	Kamalpur	Mohanpur	Mohanpur
+Dhalai	Kamalpur	Noagaon	Noagao
+Dhalai	Kamalpur	North Halhali	Halhali
+Dhalai	Kamalpur	North Kachucherra	Kachuchhera
+Dhalai	Kamalpur	Salema	Salema
+Dhalai	Kamalpur	Santirbazar	Katalutma
+Dhalai	Kamalpur	Singinala	Maharani
+Dhalai	Kamalpur	Singinala	Salema
+Dhalai	Kamalpur	South Kalachari	Kalachhari
+Dhalai	Kamalpur	South Manikbhandar	Manikbhandar
+Dhalai	Kamalpur	West Dalucherra	Paschim Daluchhera
+Dhalai	Kamalpur	West Dalucherra	Purba Daluchhera
+Dhalai	Kamalpur	West Kuchainala	Darangtilla
+Dhalai	Kamalpur	West Kuchainala	Kuchainala
+Dhalai	Kamalpur	West Kuchainala	Methirmia
+Dhalai	Longtharai Valley	(इतर)	Central Catchment Reserve Forest
+Dhalai	Longtharai Valley	(इतर)	Chhailengta
+Dhalai	Longtharai Valley	(इतर)	Dakshin Dhumachhera
+Dhalai	Longtharai Valley	(इतर)	Dakshin Longtarai
+Dhalai	Longtharai Valley	(इतर)	Debchhera
+Dhalai	Longtharai Valley	(इतर)	Demchhera
+Dhalai	Longtharai Valley	(इतर)	Deo Reserve Forest
+Dhalai	Longtharai Valley	(इतर)	Durgachhera
+Dhalai	Longtharai Valley	(इतर)	Gaynama
+Dhalai	Longtharai Valley	(इतर)	Ghagrachhera
+Dhalai	Longtharai Valley	(इतर)	Jamirchhera
+Dhalai	Longtharai Valley	(इतर)	Jarulchhera
+Dhalai	Longtharai Valley	(इतर)	Joychandrapara
+Dhalai	Longtharai Valley	(इतर)	Kanchanchhera
+Dhalai	Longtharai Valley	(इतर)	Kanthalchhera
+Dhalai	Longtharai Valley	(इतर)	Karatichhera
+Dhalai	Longtharai Valley	(इतर)	Lalchhera
+Dhalai	Longtharai Valley	(इतर)	Longtarai Reserve Forest
+Dhalai	Longtharai Valley	(इतर)	Makarchhera
+Dhalai	Longtharai Valley	(इतर)	Manikpur
+Dhalai	Longtharai Valley	(इतर)	Manu
+Dhalai	Longtharai Valley	(इतर)	Manu Chhailengta Reserve Forest
+Dhalai	Longtharai Valley	(इतर)	Maynama
+Dhalai	Longtharai Valley	(इतर)	Nalkata
+Dhalai	Longtharai Valley	(इतर)	Paschim Chhamanu
+Dhalai	Longtharai Valley	(इतर)	Paschim Karamchhera
+Dhalai	Longtharai Valley	(इतर)	Paschim Machli
+Dhalai	Longtharai Valley	(इतर)	Purba Chhamanu
+Dhalai	Longtharai Valley	(इतर)	Purba Karamchhera
+Dhalai	Longtharai Valley	(इतर)	Purba Machli
+Dhalai	Longtharai Valley	(इतर)	Sadhujanpara
+Dhalai	Longtharai Valley	(इतर)	Sonapur
+Dhalai	Longtharai Valley	(इतर)	Ultachhera
+Dhalai	Longtharai Valley	(इतर)	Uttar Dhumachhera
+Dhalai	Longtharai Valley	(इतर)	Uttar Longtarai
+Gomati	Amarpur	(इतर)	Amarpur
+Gomati	Amarpur	(इतर)	Ampichhera
+Gomati	Amarpur	(इतर)	Ampinagar
+Gomati	Amarpur	(इतर)	Baisyamanipara
+Gomati	Amarpur	(इतर)	Bampur
+Gomati	Amarpur	(इतर)	Baramura Debatamura Reserve Forest
+Gomati	Amarpur	(इतर)	Birganj
+Gomati	Amarpur	(इतर)	Chenchua
+Gomati	Amarpur	(इतर)	Dakshin Chhangang
+Gomati	Amarpur	(इतर)	Dakshin Taidu
+Gomati	Amarpur	(इतर)	Dalak
+Gomati	Amarpur	(इतर)	Debbari
+Gomati	Amarpur	(इतर)	Dhanlekha
+Gomati	Amarpur	(इतर)	Ekjanchhera
+Gomati	Amarpur	(इतर)	Gamaichhera
+Gomati	Amarpur	(इतर)	Ghungia
+Gomati	Amarpur	(इतर)	Haripur
+Gomati	Amarpur	(इतर)	Jambukchhera
+Gomati	Amarpur	(इतर)	Kamlaipara
+Gomati	Amarpur	(इतर)	Kurmachhera
+Gomati	Amarpur	(इतर)	Melchhi
+Gomati	Amarpur	(इतर)	Natun bazar
+Gomati	Amarpur	(इतर)	Paharpur
+Gomati	Amarpur	(इतर)	Palkuchhera
+Gomati	Amarpur	(इतर)	Paschim Duluma
+Gomati	Amarpur	(इतर)	Paschim Kalajhari Reserve Forest
+Gomati	Amarpur	(इतर)	Paschim Sarbang
+Gomati	Amarpur	(इतर)	Paschim Taichhlong
+Gomati	Amarpur	(इतर)	Purba Duluma
+Gomati	Amarpur	(इतर)	Purba Kalajhari Reserve Forest
+Gomati	Amarpur	(इतर)	Purba Malbasa
+Gomati	Amarpur	(इतर)	Purba Sarbang
+Gomati	Amarpur	(इतर)	Purba Taichhlong
+Gomati	Amarpur	(इतर)	Rajkang
+Gomati	Amarpur	(इतर)	Rangkang
+Gomati	Amarpur	(इतर)	Sonachhera
+Gomati	Amarpur	(इतर)	Taidudhepha
+Gomati	Amarpur	(इतर)	Tairbhuma
+Gomati	Amarpur	(इतर)	Uttar Chelagang
+Gomati	Amarpur	(इतर)	Uttar Chhangang
+Gomati	Amarpur	(इतर)	Uttar Taidu
+Gomati	Amarpur	Bampur	Bampur
+Gomati	Amarpur	Birganj	Birganj
+Gomati	Amarpur	Debbari	Debbari
+Gomati	Amarpur	East Rangamati	Rangamati
+Gomati	Amarpur	Mailak	Birganj
+Gomati	Amarpur	Rangamati	Rangamati
+Gomati	Amarpur	Rangkang	Rangkang
+Gomati	Amarpur	Thakchara	Rajkang
+Gomati	Amarpur	West Dalak	Dalak
+Gomati	Amarpur	West Dalak	Paschim Malbasa
+Gomati	Amarpur	West Malbasa	Paschim Malbasa
+Gomati	Karbook	(इतर)	Bagachatal
+Gomati	Karbook	(इतर)	Barabil
+Gomati	Karbook	(इतर)	Baramura Debatamura Reserve Forest
+Gomati	Karbook	(इतर)	Chakpur
+Gomati	Karbook	(इतर)	Dakshin Chelagang
+Gomati	Karbook	(इतर)	Dakshin Ekchhari
+Gomati	Karbook	(इतर)	Dakshin Karbook
+Gomati	Karbook	(इतर)	Desharampara
+Gomati	Karbook	(इतर)	Gorakapa
+Gomati	Karbook	(इतर)	Ichhachhari
+Gomati	Karbook	(इतर)	Jarimura
+Gomati	Karbook	(इतर)	Kaptali
+Gomati	Karbook	(इतर)	Laogang
+Gomati	Karbook	(इतर)	Lebachhera
+Gomati	Karbook	(इतर)	Mukchhari
+Gomati	Karbook	(इतर)	Paschim Ekchhari
+Gomati	Karbook	(इतर)	Paschim Karbook
+Gomati	Karbook	(इतर)	Paschim Manikyadewan
+Gomati	Karbook	(इतर)	Patichhari
+Gomati	Karbook	(इतर)	Purba Karbook
+Gomati	Karbook	(इतर)	Purba Manikyadewan
+Gomati	Karbook	(इतर)	Rambhadra
+Gomati	Karbook	(इतर)	Silachhari
+Gomati	Karbook	(इतर)	Suknachhari
+Gomati	Karbook	(इतर)	Uttar Ekchhari
+Gomati	Udaipur	(इतर)	Amtali
+Gomati	Udaipur	(इतर)	Badurpathar
+Gomati	Udaipur	(इतर)	Bagma
+Gomati	Udaipur	(इतर)	Baisabari
+Gomati	Udaipur	(इतर)	Chandrapur Reserve Forest
+Gomati	Udaipur	(इतर)	Chapia Para
+Gomati	Udaipur	(इतर)	Chhaimaroa
+Gomati	Udaipur	(इतर)	Chharthai
+Gomati	Udaipur	(इतर)	Dakshin Baramura Debtamura Reserve Forest
+Gomati	Udaipur	(इतर)	Dakshin Brajendranagar
+Gomati	Udaipur	(इतर)	Dakshin Maharani
+Gomati	Udaipur	(इतर)	Dhuptali
+Gomati	Udaipur	(इतर)	Fulkumari
+Gomati	Udaipur	(इतर)	Gandhari
+Gomati	Udaipur	(इतर)	Garjanmura
+Gomati	Udaipur	(इतर)	Garji Reserve Forest
+Gomati	Udaipur	(इतर)	Garjichhera
+Gomati	Udaipur	(इतर)	Hirapur
+Gomati	Udaipur	(इतर)	Jitendranagar
+Gomati	Udaipur	(इतर)	Kanchigang Reserve Forest
+Gomati	Udaipur	(इतर)	Khupilong
+Gomati	Udaipur	(इतर)	Killa
+Gomati	Udaipur	(इतर)	Lakshmipati
+Gomati	Udaipur	(इतर)	Paschim Magpushkarini
+Gomati	Udaipur	(इतर)	Purba Brajendranagar
+Gomati	Udaipur	(इतर)	Purba Magpushkarini
+Gomati	Udaipur	(इतर)	Radhakishorepur Reserve Forest
+Gomati	Udaipur	(इतर)	Raiyabari
+Gomati	Udaipur	(इतर)	Rajarbag
+Gomati	Udaipur	(इतर)	Rani
+Gomati	Udaipur	(इतर)	Samukchhera
+Gomati	Udaipur	(इतर)	Shilghati
+Gomati	Udaipur	(इतर)	Taiharchum
+Gomati	Udaipur	(इतर)	Udaipur
+Gomati	Udaipur	(इतर)	Uttar Baramura Debtamura Reserve Forest
+Gomati	Udaipur	(इतर)	Uttar Brajendranagar
+Gomati	Udaipur	(इतर)	Uttar Maharani
+Gomati	Udaipur	Amtali	Amtali
+Gomati	Udaipur	Amtali	Garjanmura
+Gomati	Udaipur	Amtali	Shilghati
+Gomati	Udaipur	Bagabasa	Bagabasa
+Gomati	Udaipur	Barabaiya	Barabhaiya
+Gomati	Udaipur	Barabaiya	Radhakishorepur Reserve Forest
+Gomati	Udaipur	Chandrapur Colony	Chandrapur Reserve Forest
+Gomati	Udaipur	Chandrapur Colony	Dakshin Chandrapur
+Gomati	Udaipur	Chandrapur R.f	Chandrapur Reserve Forest
+Gomati	Udaipur	Chandrapur Village	Dakshin Chandrapur
+Gomati	Udaipur	Chandrapur Village	Uttar Chandrapur
+Gomati	Udaipur	Chattaria	Chhataria
+Gomati	Udaipur	Dhajanagar	Chhataria
+Gomati	Udaipur	Dhajanagar	Dhwajanagar
+Gomati	Udaipur	Dudhpushkarini	Dudhpushkarini
+Gomati	Udaipur	Dudhpushkarini	Hurijala
+Gomati	Udaipur	East Barabaiya	Barabhaiya
+Gomati	Udaipur	East Barabaiya	Radhakishorepur Reserve Forest
+Gomati	Udaipur	East Dhajanagar	Dhwajanagar
+Gomati	Udaipur	East Dhajanagar	Gakulpur
+Gomati	Udaipur	East Dhajanagar	Radhakishorepur Reserve Forest
+Gomati	Udaipur	East Gokulpur	Gakulpur
+Gomati	Udaipur	East Gokulpur	Radhakishorepur Reserve Forest
+Gomati	Udaipur	East Kunjaban	Fulkumari
+Gomati	Udaipur	East Mirza	Jitendranagar
+Gomati	Udaipur	East Palatana	Palatana
+Gomati	Udaipur	Fotamati	Photamati
+Gomati	Udaipur	Fulkumari	Fulkumari
+Gomati	Udaipur	Gakulpur	Dhwajanagar
+Gomati	Udaipur	Gakulpur	Gakulpur
+Gomati	Udaipur	Gakulpur	Radhakishorepur Reserve Forest
+Gomati	Udaipur	Gangacherra	Gangachhera
+Gomati	Udaipur	Garjanmura	Amtali
+Gomati	Udaipur	Garjanmura	Garjanmura
+Gomati	Udaipur	Garjanmura	Radhakishorepur Reserve Forest
+Gomati	Udaipur	Garjeecherra	Garjichhera
+Gomati	Udaipur	Hadra	Garjanmura
+Gomati	Udaipur	Hadra	Hadra
+Gomati	Udaipur	Holakhet	Gangachhera
+Gomati	Udaipur	Holakhet	Paschim Magpushkarini
+Gomati	Udaipur	Hurijala	Dudhpushkarini
+Gomati	Udaipur	Hurijala	Hurijala
+Gomati	Udaipur	Ichacherra	Dudhpushkarini
+Gomati	Udaipur	Ichacherra	Kakraban
+Gomati	Udaipur	Ichacherra	Palatana
+Gomati	Udaipur	Indiranagar	Dakshin Chandrapur
+Gomati	Udaipur	Indiranagar	Uttar Chandrapur
+Gomati	Udaipur	Jamjuri	Jamjuri
+Gomati	Udaipur	Jamjuri	Rajdharnagar
+Gomati	Udaipur	Jowalikhamar	Paschim Magpushkarini
+Gomati	Udaipur	Kakraban	Kakraban
+Gomati	Udaipur	Karaiyamurra	Karaiyamura
+Gomati	Udaipur	Khilpara	Khilpara
+Gomati	Udaipur	Kunjaban	Fulkumari
+Gomati	Udaipur	Kushamara	Kakraban
+Gomati	Udaipur	Laxmipati	Lakshmipati
+Gomati	Udaipur	Maharani	Gandhari
+Gomati	Udaipur	Maharani	Uttar Maharani
+Gomati	Udaipur	Matabari	Matarbari
+Gomati	Udaipur	Mirza	Upendranagar
+Gomati	Udaipur	Murapara	Murapara
+Gomati	Udaipur	North Chandrapur	Uttar Chandrapur
+Gomati	Udaipur	North Kalaban	Garji Reserve Forest
+Gomati	Udaipur	North Maharani	Hirapur
+Gomati	Udaipur	North Maharani	Uttar Maharani
+Gomati	Udaipur	North Shalgarah	Salgara
+Gomati	Udaipur	North Tulamura	Garji Reserve Forest
+Gomati	Udaipur	North Tulamura	Jitendranagar
+Gomati	Udaipur	Palatana	Palatana
+Gomati	Udaipur	Pitra	Pitra
+Gomati	Udaipur	Rajnagar	Rajnagar
+Gomati	Udaipur	Rangamati	Gakulpur
+Gomati	Udaipur	Rangamati	Radhakishorepur Reserve Forest
+Gomati	Udaipur	Rani	Rani
+Gomati	Udaipur	Shalgarah	Salgara
+Gomati	Udaipur	Shilghati	Shilghati
+Gomati	Udaipur	Simsima	Garji Reserve Forest
+Gomati	Udaipur	Simsima	Garjichhera
+Gomati	Udaipur	South Bagma	Bagma
+Gomati	Udaipur	South Matabari	Matarbari
+Gomati	Udaipur	South Mirza	Jitendranagar
+Gomati	Udaipur	South Mirza	Samukchhera
+Gomati	Udaipur	South Mirza	Upendranagar
+Gomati	Udaipur	South Murapara	Murapara
+Gomati	Udaipur	South Murapara	Paschim Magpushkarini
+Gomati	Udaipur	Tepania	Chhataria
+Gomati	Udaipur	Tepania	Dhwajanagar
+Gomati	Udaipur	Tepania	Radhakishorepur Reserve Forest
+Gomati	Udaipur	Tepania	Tepania
+Gomati	Udaipur	Tulamura	Dhuptali
+Gomati	Udaipur	Tulamura	Jitendranagar
+Gomati	Udaipur	West Dhajanagar	Dhwajanagar
+Gomati	Udaipur	West Khilpara	Khilpara
+Gomati	Udaipur	West Khupilong	Khupilong
+Gomati	Udaipur	West Khupilong	Radhakishorepur Reserve Forest
+Khowai	Khowai	(इतर)	Akharabari
+Khowai	Khowai	(इतर)	Asharambari
+Khowai	Khowai	(इतर)	Badlabari
+Khowai	Khowai	(इतर)	Bagabil
+Khowai	Khowai	(इतर)	Banbazar
+Khowai	Khowai	(इतर)	Chamubasti
+Khowai	Khowai	(इतर)	Chebri
+Khowai	Khowai	(इतर)	Dakshin Padmabil
+Khowai	Khowai	(इतर)	Dakshin Pramodnagar
+Khowai	Khowai	(इतर)	Dakshin Ramchandraghat
+Khowai	Khowai	(इतर)	Dhalabil
+Khowai	Khowai	(इतर)	Ganki
+Khowai	Khowai	(इतर)	Gayamanibari
+Khowai	Khowai	(इतर)	Khengrabari
+Khowai	Khowai	(इतर)	Khowai
+Khowai	Khowai	(इतर)	Maidanbari
+Khowai	Khowai	(इतर)	Mainakbari
+Khowai	Khowai	(इतर)	Paglabari
+Khowai	Khowai	(इतर)	Paschim Bachaibari
+Khowai	Khowai	(इतर)	Paschim Belchhera
+Khowai	Khowai	(इतर)	Paschim Champachhera
+Khowai	Khowai	(इतर)	Paschim Karangichhera
+Khowai	Khowai	(इतर)	Paschim Lakshmichhera
+Khowai	Khowai	(इतर)	Paschim Rajnagar
+Khowai	Khowai	(इतर)	Purba Bachaibari
+Khowai	Khowai	(इतर)	Purba Belchhera
+Khowai	Khowai	(इतर)	Purba Champachhera
+Khowai	Khowai	(इतर)	Purba Karangichhera
+Khowai	Khowai	(इतर)	Purba Lakshmichhera
+Khowai	Khowai	(इतर)	Purba Rajnagar
+Khowai	Khowai	(इतर)	Purba Ramchandraghat
+Khowai	Khowai	(इतर)	Purba Singichhera
+Khowai	Khowai	(इतर)	Ramdayalbari
+Khowai	Khowai	(इतर)	Ramkrishnabari
+Khowai	Khowai	(इतर)	Ratanpur
+Khowai	Khowai	(इतर)	Remachhera
+Khowai	Khowai	(इतर)	Shantinagar
+Khowai	Khowai	(इतर)	Shikaribari
+Khowai	Khowai	(इतर)	Sonatala
+Khowai	Khowai	(इतर)	Sukhiabari
+Khowai	Khowai	(इतर)	Tuichingrambari
+Khowai	Khowai	(इतर)	Tuihachingbari
+Khowai	Khowai	(इतर)	Uttar Padmabil
+Khowai	Khowai	(इतर)	Uttar Pramodnagar
+Khowai	Khowai	(इतर)	Uttar Ramchandraghat
+Khowai	Khowai	(इतर)	Yajnakabrabari
+Khowai	Khowai	Bagan	Dhalabil
+Khowai	Khowai	Barabil	Paschim Singichhera
+Khowai	Khowai	Dhalabil	Dhalabil
+Khowai	Khowai	East Chebri	Chebri
+Khowai	Khowai	East Ganki	Ganki
+Khowai	Khowai	East Ramchandra Ghat	Purba Ramchandraghat
+Khowai	Khowai	East Sonatala	Sonatala
+Khowai	Khowai	Gournagar	Gournagar
+Khowai	Khowai	Jambura	Ganki
+Khowai	Khowai	Laxmi Narayanpur	Lakshminarayanpur
+Khowai	Khowai	Madhya Ganki	Ganki
+Khowai	Khowai	Madhya Singicherra	Paschim Singichhera
+Khowai	Khowai	Madhya Singicherra	Purba Singichhera
+Khowai	Khowai	North Chebri	Chebri
+Khowai	Khowai	North Ramchandra Ghat	Uttar Ramchandraghat
+Khowai	Khowai	North Singicherra	Paschim Singichhera
+Khowai	Khowai	North Singicherra	Purba Singichhera
+Khowai	Khowai	Paharmura	Dhalabil
+Khowai	Khowai	Paharmura	Paharmura
+Khowai	Khowai	Samatal Padmabil	Uttar Padmabil
+Khowai	Khowai	Santinagar	Shantinagar
+Khowai	Khowai	Sepaihour	Purba Singichhera
+Khowai	Khowai	Sonatala	Sonatala
+Khowai	Khowai	South Singicherra	Paschim Singichhera
+Khowai	Khowai	West Chebri	Chebri
+Khowai	Khowai	West Ganki	Ganki
+Khowai	Khowai	West Singicherra	Paschim Singichhera
+Khowai	Khowai	West Sonatala	Sonatala
+Khowai	Teliamura	(इतर)	Atharamura Reserve Forest
+Khowai	Teliamura	(इतर)	Dakshin Gakulnagar
+Khowai	Teliamura	(इतर)	Dakshin Maharani
+Khowai	Teliamura	(इतर)	Dakshin Pulinpur
+Khowai	Teliamura	(इतर)	Durgapur
+Khowai	Teliamura	(इतर)	Dwarikapur
+Khowai	Teliamura	(इतर)	Ghilatali
+Khowai	Teliamura	(इतर)	Hawaibari
+Khowai	Teliamura	(इतर)	Kamalnagar
+Khowai	Teliamura	(इतर)	Karaibari
+Khowai	Teliamura	(इतर)	Krishnapur
+Khowai	Teliamura	(इतर)	Kunjaban
+Khowai	Teliamura	(इतर)	Lakshmipur
+Khowai	Teliamura	(इतर)	Madhya Kalyanpur
+Khowai	Teliamura	(इतर)	Maharanipur
+Khowai	Teliamura	(इतर)	Moharchhera
+Khowai	Teliamura	(इतर)	Nonachhera Reserve Forest
+Khowai	Teliamura	(इतर)	Paschim Kalyanpur
+Khowai	Teliamura	(इतर)	Purba Kalyanpur
+Khowai	Teliamura	(इतर)	Ramkrishnapur
+Khowai	Teliamura	(इतर)	Sardu Karkari
+Khowai	Teliamura	(इतर)	Sriramkhara
+Khowai	Teliamura	(इतर)	Teliamura
+Khowai	Teliamura	(इतर)	Teliamura Reserve Forest
+Khowai	Teliamura	(इतर)	Uttar Gakulnagar
+Khowai	Teliamura	(इतर)	Uttar Ghilatali
+Khowai	Teliamura	(इतर)	Uttar Pulinpur
+Khowai	Teliamura	Brahmacherra	Brahmachhera
+Khowai	Teliamura	Chakmaghat	Lakshmipur
+Khowai	Teliamura	Durgapur	Durgapur
+Khowai	Teliamura	Dwarikapur	Dwarikapur
+Khowai	Teliamura	East Kalyanpur	Purba Kalyanpur
+Khowai	Teliamura	East Kunjaban	Kunjaban
+Khowai	Teliamura	Gamaibari	Teliamura Reserve Forest
+Khowai	Teliamura	Ghilatali	Ghilatali
+Khowai	Teliamura	Howaibari	Hawaibari
+Khowai	Teliamura	Jagannathbari	Moharchhera
+Khowai	Teliamura	Kalyanpur	Madhya Kalyanpur
+Khowai	Teliamura	Kamalnagar	Kamalnagar
+Khowai	Teliamura	Khashia Mangal	Teliamura Reserve Forest
+Khowai	Teliamura	Laxmipur	Lakshmipur
+Khowai	Teliamura	Madhya Krishnapur	Krishnapur
+Khowai	Teliamura	Maiganga	Krishnapur
+Khowai	Teliamura	Moharcherra	Moharchhera
+Khowai	Teliamura	North Kamalnagar	Kamalnagar
+Khowai	Teliamura	North Krishnapur	Krishnapur
+Khowai	Teliamura	Promodnagar	Uttar Ghilatali
+Khowai	Teliamura	Rupa Cherra	Teliamura Reserve Forest
+Khowai	Teliamura	South Durgapur	Durgapur
+Khowai	Teliamura	South Ghilatali	Ghilatali
+Khowai	Teliamura	South Krishnapur	Krishnapur
+Khowai	Teliamura	Tuichindrai	Tuichindrai
+Khowai	Teliamura	Vivekananda Nagar	Teliamura
+Khowai	Teliamura	West Dwarikapur	Dwarikapur
+Khowai	Teliamura	West Ghilatali	Uttar Ghilatali
+Khowai	Teliamura	West Howaibari	Hawaibari
+Khowai	Teliamura	West Howaibari	Tuichindrai
+Khowai	Teliamura	West Teliamura	Teliamura
+North Tripura	Dharmanagar	(इतर)	Bagbasa
+North Tripura	Dharmanagar	(इतर)	Balidhum
+North Tripura	Dharmanagar	(इतर)	Chandpur
+North Tripura	Dharmanagar	(इतर)	Dharmanagar
+North Tripura	Dharmanagar	(इतर)	Ganganagar
+North Tripura	Dharmanagar	(इतर)	Paschim Halflong
+North Tripura	Dharmanagar	(इतर)	Paschim Tilthai
+North Tripura	Dharmanagar	(इतर)	Rajnagar
+North Tripura	Dharmanagar	(इतर)	Sanichhera
+North Tripura	Dharmanagar	Algapur	Baruakandi
+North Tripura	Dharmanagar	Bagbasa	Bagbasa
+North Tripura	Dharmanagar	Baghan	Kadamtala
+North Tripura	Dharmanagar	Bargul	Saraspur
+North Tripura	Dharmanagar	Baruakandi	Baruakandi
+North Tripura	Dharmanagar	Bhagyapur	Bhagyapur
+North Tripura	Dharmanagar	Bishnupur	Bishnupur
+North Tripura	Dharmanagar	Brajendra Nagar	Brajendranagar
+North Tripura	Dharmanagar	Chandrapur	Baruakandi
+North Tripura	Dharmanagar	Charupasa	Uptakhali
+North Tripura	Dharmanagar	Churaibari	Churaibari
+North Tripura	Dharmanagar	Dewanpasa	Dewanpassa
+North Tripura	Dharmanagar	Dhupirbond	Dhupirband
+North Tripura	Dharmanagar	East Churaibari	Churaibari
+North Tripura	Dharmanagar	East Fulbari	Churaibari
+North Tripura	Dharmanagar	East Hurua	Hurua
+North Tripura	Dharmanagar	East Tilthai	Purba Tilthai
+North Tripura	Dharmanagar	Fulbari	Churaibari
+North Tripura	Dharmanagar	Gobindapur	Pratyekrai
+North Tripura	Dharmanagar	Huplong	Paschim Halflong
+North Tripura	Dharmanagar	Huplong	Purba Halflong
+North Tripura	Dharmanagar	Ichailalcherra	Icchailalchhera
+North Tripura	Dharmanagar	Jubarajnagar	Jubarajnagar
+North Tripura	Dharmanagar	Kadamtala	Kadamtala
+North Tripura	Dharmanagar	Kalagangerpar	Kurti
+North Tripura	Dharmanagar	Kameswar	Kameswar
+North Tripura	Dharmanagar	Kurti	Kurti
+North Tripura	Dharmanagar	Lalcherra	Dhupirband
+North Tripura	Dharmanagar	Laxminagar	Lakshminagar
+North Tripura	Dharmanagar	Mangalkhali	Jubarajnagar
+North Tripura	Dharmanagar	Nadiapur Sanichara	Chandpur
+North Tripura	Dharmanagar	Nadiapur Sanichara	Sanichhera
+North Tripura	Dharmanagar	North Fulbari	Churaibari
+North Tripura	Dharmanagar	North Ganganagar	Ganganagar
+North Tripura	Dharmanagar	North Hurua	Hurua
+North Tripura	Dharmanagar	North Hurua	Pratyekrai
+North Tripura	Dharmanagar	Pratyekroy	Pratyekrai
+North Tripura	Dharmanagar	Radhapur	Radhapur
+North Tripura	Dharmanagar	Raghna	Ragna
+North Tripura	Dharmanagar	Rajnagar	Kurti
+North Tripura	Dharmanagar	Rajnagar	Rajnagar
+North Tripura	Dharmanagar	Ranibari	Piarachhera
+North Tripura	Dharmanagar	Ranibari	Ranibari
+North Tripura	Dharmanagar	Sakaibari	Baruakandi
+North Tripura	Dharmanagar	Sanicherra	Sanichhera
+North Tripura	Dharmanagar	Sarala	Maheshpur
+North Tripura	Dharmanagar	Sarala	Sarala
+North Tripura	Dharmanagar	Saraspur	Saraspur
+North Tripura	Dharmanagar	Satsangam	Satsangam
+North Tripura	Dharmanagar	South Ganganagar	Ganganagar
+North Tripura	Dharmanagar	South Hurua	Hurua
+North Tripura	Dharmanagar	South Kadamtala	Kadamtala
+North Tripura	Dharmanagar	Sripur	Dewanpassa
+North Tripura	Dharmanagar	Tangibari	Kameswar
+North Tripura	Dharmanagar	Tarakpur	Kurti
+North Tripura	Dharmanagar	Uptakhali	Uptakhali
+North Tripura	Dharmanagar	West Dewanpasa	Dewanpassa
+North Tripura	Dharmanagar	West Ichailalcherra	Bishnupur
+North Tripura	Dharmanagar	West Ichailalcherra	Icchailalchhera
+North Tripura	Dharmanagar	West Tilthai	Paschim Tilthai
+North Tripura	Dharmanagar	West Tilthai	Purba Tilthai
+North Tripura	Kanchanpur	(इतर)	Banglabari
+North Tripura	Kanchanpur	(इतर)	Belianchief
+North Tripura	Kanchanpur	(इतर)	Central Catchment Reserve Forest
+North Tripura	Kanchanpur	(इतर)	Chandipur
+North Tripura	Kanchanpur	(इतर)	Dasda Lakshmipur
+North Tripura	Kanchanpur	(इतर)	Dashmanipara
+North Tripura	Kanchanpur	(इतर)	Gachirampara
+North Tripura	Kanchanpur	(इतर)	Jamaraipara
+North Tripura	Kanchanpur	(इतर)	Jayantipara
+North Tripura	Kanchanpur	(इतर)	Kalagang
+North Tripura	Kanchanpur	(इतर)	Kalapani
+North Tripura	Kanchanpur	(इतर)	Kamarmara
+North Tripura	Kanchanpur	(इतर)	Kanchanchhera
+North Tripura	Kanchanpur	(इतर)	Kanchanpur
+North Tripura	Kanchanpur	(इतर)	Laljuri
+North Tripura	Kanchanpur	(इतर)	Lambachhera
+North Tripura	Kanchanpur	(इतर)	Manu Chailengta Reserve Forest
+North Tripura	Kanchanpur	(इतर)	Paschim Manpui
+North Tripura	Kanchanpur	(इतर)	Paschim Tlangsangbari
+North Tripura	Kanchanpur	(इतर)	Purba Manpui
+North Tripura	Kanchanpur	(इतर)	Ramprasaipara
+North Tripura	Kanchanpur	(इतर)	Sabual
+North Tripura	Kanchanpur	(इतर)	Sailu
+North Tripura	Kanchanpur	(इतर)	Satnala
+North Tripura	Kanchanpur	(इतर)	Shantipur
+North Tripura	Kanchanpur	(इतर)	Shibnagar
+North Tripura	Kanchanpur	(इतर)	Simblong
+North Tripura	Kanchanpur	(इतर)	Sunitipur
+North Tripura	Kanchanpur	(इतर)	Taiyangpara
+North Tripura	Kanchanpur	(इतर)	Tlaksi
+North Tripura	Kanchanpur	(इतर)	Tuichhama
+North Tripura	Kanchanpur	(इतर)	Ujjan Machhmara Reserve Forest
+North Tripura	Kanchanpur	(इतर)	Vangmun
+North Tripura	Kumarghat	(इतर)	Rabiraipara
+North Tripura	Panisagar	(इतर)	Bangsul
+North Tripura	Panisagar	(इतर)	Dakshin Padmabill
+North Tripura	Panisagar	(इतर)	Damchhera
+North Tripura	Panisagar	(इतर)	Damchhera Reserve Forest
+North Tripura	Panisagar	(इतर)	Indurail
+North Tripura	Panisagar	(इतर)	Jalebassa
+North Tripura	Panisagar	(इतर)	Juri Reserve Forest
+North Tripura	Panisagar	(इतर)	Kacharichhera
+North Tripura	Panisagar	(इतर)	Khedachhera
+North Tripura	Panisagar	(इतर)	Narendranagar
+North Tripura	Panisagar	(इतर)	Panisagar
+North Tripura	Panisagar	(इतर)	Pipalachhera
+North Tripura	Panisagar	(इतर)	Rahumchhera
+North Tripura	Panisagar	(इतर)	Uttar Padmabill
+North Tripura	Panisagar	Agnipasa	Panisagar
+North Tripura	Panisagar	Bilthai	Bilthai
+North Tripura	Panisagar	Deocherra	Deochhera
+North Tripura	Panisagar	East Jalabasa	Jalebassa
+North Tripura	Panisagar	East Rowa	Rowa
+North Tripura	Panisagar	Jalabasa	Jalebassa
+North Tripura	Panisagar	North Deocherra	Deochhera
+North Tripura	Panisagar	North Padmabil	Uttar Padmabill
+North Tripura	Panisagar	Pekucherra	Pekuchhera
+North Tripura	Panisagar	Ramnagar	Ramnagar
+North Tripura	Panisagar	Rowa	Rowa
+North Tripura	Panisagar	South Padmabill	Dakshin Padmabill
+North Tripura	Panisagar	South Panisagar	Panisagar
+North Tripura	Panisagar	West Padmabil	Uttar Padmabill
+North Tripura	Panisagar	West Panisagar	Panisagar
+Sepahijala	Bishalgarh	(इतर)	Amtali
+Sepahijala	Bishalgarh	(इतर)	Bangshibari
+Sepahijala	Bishalgarh	(इतर)	Bashtali
+Sepahijala	Bishalgarh	(इतर)	Bishalgarh
+Sepahijala	Bishalgarh	(इतर)	Brajapur
+Sepahijala	Bishalgarh	(इतर)	Dhariathal
+Sepahijala	Bishalgarh	(इतर)	Gajaria
+Sepahijala	Bishalgarh	(इतर)	Padmanagar
+Sepahijala	Bishalgarh	(इतर)	Ramnagar
+Sepahijala	Bishalgarh	(इतर)	Rangapania
+Sepahijala	Bishalgarh	(इतर)	Rangmala
+Sepahijala	Bishalgarh	(इतर)	Sutarmura
+Sepahijala	Bishalgarh	Arabindanagar	Kaiyadhepa
+Sepahijala	Bishalgarh	Arabindanagar	Purathal Rajnagar
+Sepahijala	Bishalgarh	Aralia	Uttar Charilam
+Sepahijala	Bishalgarh	Badhyardighi	Lakshmibil
+Sepahijala	Bishalgarh	Barjala	Barjala
+Sepahijala	Bishalgarh	Bhati Larma	Gopinagar
+Sepahijala	Bishalgarh	Bhatibari	Debipur
+Sepahijala	Bishalgarh	Bishramganj	Amtali
+Sepahijala	Bishalgarh	Brajapur	Brajapur
+Sepahijala	Bishalgarh	Champamura	Dakshin Champamura
+Sepahijala	Bishalgarh	Chandranagar	Lakshmibil
+Sepahijala	Bishalgarh	Chandranagar	Uttar Charilam
+Sepahijala	Bishalgarh	Chesrimai	Dakshin Charilam
+Sepahijala	Bishalgarh	Debipur	Debipur
+Sepahijala	Bishalgarh	East Gakulnagar	Dakshin Champamura
+Sepahijala	Bishalgarh	East Gakulnagar	Gakulnagar
+Sepahijala	Bishalgarh	Gakulnagar	Gakulnagar
+Sepahijala	Bishalgarh	Gazaria	Gajaria
+Sepahijala	Bishalgarh	Ghaniamara	Ghaniamara
+Sepahijala	Bishalgarh	Golaghati	Golaghati
+Sepahijala	Bishalgarh	Gopinagar	Gopinagar
+Sepahijala	Bishalgarh	Harishnagar	Gakulnagar
+Sepahijala	Bishalgarh	Kaiyadepha	Kaiyadhepa
+Sepahijala	Bishalgarh	Kamalasagar	Debipur
+Sepahijala	Bishalgarh	Kamalasagar	Kamalasagar
+Sepahijala	Bishalgarh	Kasba	Gopinagar
+Sepahijala	Bishalgarh	Konaban	Kaiyadhepa
+Sepahijala	Bishalgarh	Konaban	Konaban
+Sepahijala	Bishalgarh	Krishna Kishorenagar	Krishna Kishore Nagar
+Sepahijala	Bishalgarh	Lalsingmura	Brajapur
+Sepahijala	Bishalgarh	Laxmibil	Lakshmibil
+Sepahijala	Bishalgarh	Lembutali	Nehal Chandra Nagar
+Sepahijala	Bishalgarh	Madhupur	Madhupur
+Sepahijala	Bishalgarh	Madhya Brajapur	Brajapur
+Sepahijala	Bishalgarh	Madhya Laxmibil	Bishalgarh
+Sepahijala	Bishalgarh	Nabinagar	Krishna Kishore Nagar
+Sepahijala	Bishalgarh	Nehal Chandranagar	Nehal Chandra Nagar
+Sepahijala	Bishalgarh	North Brajapur	Brajapur
+Sepahijala	Bishalgarh	North Charilam	Uttar Charilam
+Sepahijala	Bishalgarh	Pathariadwar	Debipur
+Sepahijala	Bishalgarh	Pathariadwar	Madhupur
+Sepahijala	Bishalgarh	Prabhurampur	Ghaniamara
+Sepahijala	Bishalgarh	Purathal Rajnagar	Purathal Rajnagar
+Sepahijala	Bishalgarh	Radhanagar	Radhanagar
+Sepahijala	Bishalgarh	Ragunathpur	Bishalgarh
+Sepahijala	Bishalgarh	Ramcherra	Rangapania
+Sepahijala	Bishalgarh	Routhkhala	Bishalgarh
+Sepahijala	Bishalgarh	Routhkhala	Uttar Charilam
+Sepahijala	Bishalgarh	South Charilam	Dakshin Charilam
+Sepahijala	Bishalgarh	South Madhupur	Kaiyadhepa
+Sepahijala	Bishalgarh	South Madhupur	Madhupur
+Sepahijala	Jampuijala	(इतर)	Amarendranagar
+Sepahijala	Jampuijala	(इतर)	Bamnichhera
+Sepahijala	Jampuijala	(इतर)	Barmabari
+Sepahijala	Jampuijala	(इतर)	Chhoygharia
+Sepahijala	Jampuijala	(इतर)	Dayaram Para
+Sepahijala	Jampuijala	(इतर)	Hirapur
+Sepahijala	Jampuijala	(इतर)	Jampuijala
+Sepahijala	Jampuijala	(इतर)	Kalaibari
+Sepahijala	Jampuijala	(इतर)	Kandraichhera
+Sepahijala	Jampuijala	(इतर)	Killabari
+Sepahijala	Jampuijala	(इतर)	Latiachhera
+Sepahijala	Jampuijala	(इतर)	Madhya Ghaniamara
+Sepahijala	Jampuijala	(इतर)	Madhya Pathalia
+Sepahijala	Jampuijala	(इतर)	Mohanpur
+Sepahijala	Jampuijala	(इतर)	Paschim Takarjala
+Sepahijala	Jampuijala	(इतर)	Pathaliaghat
+Sepahijala	Jampuijala	(इतर)	Pekuarjala
+Sepahijala	Jampuijala	(इतर)	Pramodnagar
+Sepahijala	Jampuijala	(इतर)	Pravapur
+Sepahijala	Jampuijala	(इतर)	Purba Takarjala
+Sepahijala	Jampuijala	(इतर)	Ratnapur
+Sepahijala	Jampuijala	(इतर)	Sangkumabari
+Sepahijala	Jampuijala	(इतर)	Shyamnagar
+Sepahijala	Jampuijala	(इतर)	Thelakum
+Sepahijala	Jampuijala	(इतर)	Ujan Ghaniamara
+Sepahijala	Jampuijala	(इतर)	Ujan Pathalia
+Sepahijala	Jampuijala	Pathalia	Mohanpur
+Sepahijala	Sonamura	(इतर)	Aralia
+Sepahijala	Sonamura	(इतर)	Bagabasa
+Sepahijala	Sonamura	(इतर)	Barpathar
+Sepahijala	Sonamura	(इतर)	Bheluarchar
+Sepahijala	Sonamura	(इतर)	Bijaynagar
+Sepahijala	Sonamura	(इतर)	Birendranagar
+Sepahijala	Sonamura	(इतर)	Chandigarh
+Sepahijala	Sonamura	(इतर)	Chandul
+Sepahijala	Sonamura	(इतर)	Chowmuhani
+Sepahijala	Sonamura	(इतर)	Dakshin Taibandal
+Sepahijala	Sonamura	(इतर)	Dhanirampur
+Sepahijala	Sonamura	(इतर)	Dhanpur
+Sepahijala	Sonamura	(इतर)	Durlabh Narayan
+Sepahijala	Sonamura	(इतर)	Gamaichhera
+Sepahijala	Sonamura	(इतर)	Himmatpur
+Sepahijala	Sonamura	(इतर)	Jagatrampur
+Sepahijala	Sonamura	(इतर)	Jharjharia
+Sepahijala	Sonamura	(इतर)	Kamalnagar
+Sepahijala	Sonamura	(इतर)	Kamrangatali
+Sepahijala	Sonamura	(इतर)	Kanthalia
+Sepahijala	Sonamura	(इतर)	Khedabari
+Sepahijala	Sonamura	(इतर)	Khedarbari
+Sepahijala	Sonamura	(इतर)	Manaipathar
+Sepahijala	Sonamura	(इतर)	Manarchak
+Sepahijala	Sonamura	(इतर)	Matinagar
+Sepahijala	Sonamura	(इतर)	Melaghar
+Sepahijala	Sonamura	(इतर)	Mohanbhog
+Sepahijala	Sonamura	(इतर)	Nabadwipchandranagar
+Sepahijala	Sonamura	(इतर)	Paschim Jumerdhepa
+Sepahijala	Sonamura	(इतर)	Purba Jumerdhepa
+Sepahijala	Sonamura	(इतर)	Putia
+Sepahijala	Sonamura	(इतर)	Rudijala
+Sepahijala	Sonamura	(इतर)	Sonamura
+Sepahijala	Sonamura	(इतर)	Taksapara
+Sepahijala	Sonamura	(इतर)	Urmai
+Sepahijala	Sonamura	(इतर)	Uttar Taibandal
+Sepahijala	Sonamura	Anandanagar	Anandapur
+Sepahijala	Sonamura	Aralia	Aralia
+Sepahijala	Sonamura	Ashabari	Ashabari
+Sepahijala	Sonamura	Ashabari	Boxanagar
+Sepahijala	Sonamura	Bagabasa	Bagabasa
+Sepahijala	Sonamura	Bagber	Ghilatali
+Sepahijala	Sonamura	Bagber	Kalsimura
+Sepahijala	Sonamura	Baniachara	Jharjharia
+Sepahijala	Sonamura	Baniachara	Telkajala
+Sepahijala	Sonamura	Baspukur	Birampur
+Sepahijala	Sonamura	Bejimara	Bejimara
+Sepahijala	Sonamura	Bhabanipur	Bhabanipur
+Sepahijala	Sonamura	Bhabanipur	Durlabhpur
+Sepahijala	Sonamura	Bordwal	Bardowal
+Sepahijala	Sonamura	Bordwal	Khedabari
+Sepahijala	Sonamura	Boxanagar	Boxanagar
+Sepahijala	Sonamura	Chandanmura	Bardowal
+Sepahijala	Sonamura	Chandanmura	Rudijala
+Sepahijala	Sonamura	Chowmuhani	Chowmuhani
+Sepahijala	Sonamura	Dhanpur	Dhanpur
+Sepahijala	Sonamura	Durgapur	Nabadwipchandranagar
+Sepahijala	Sonamura	Durgapur	Sonamura
+Sepahijala	Sonamura	East Chandigarh	Chandigarh
+Sepahijala	Sonamura	East Chandigarh	Mohanbhog
+Sepahijala	Sonamura	East Durlovnarayan	Durlabh Narayan
+Sepahijala	Sonamura	East Nalchar	Purba Nalchar
+Sepahijala	Sonamura	Grantali	Ghrantali
+Sepahijala	Sonamura	Grantali	Sobhapur
+Sepahijala	Sonamura	Jatrapur	Birampur
+Sepahijala	Sonamura	Jumerdhapa	Paschim Jumerdhepa
+Sepahijala	Sonamura	Jumerdhapa	Purba Jumerdhepa
+Sepahijala	Sonamura	Kalamkhet	Barpathar
+Sepahijala	Sonamura	Kalamkhet	Urmai
+Sepahijala	Sonamura	Kalapania	Kalapania
+Sepahijala	Sonamura	Kalapania	Manarchak
+Sepahijala	Sonamura	Kalikrishna Nagar	Himmatpur
+Sepahijala	Sonamura	Kalikrishna Nagar	Kalikrishnanagar
+Sepahijala	Sonamura	Kalshimura	Kalsimura
+Sepahijala	Sonamura	Kamalnagar	Kamalnagar
+Sepahijala	Sonamura	Kamrangatali	Kamrangatali
+Sepahijala	Sonamura	Kathalia	Kanthalia
+Sepahijala	Sonamura	Kemtali	Chowmuhani
+Sepahijala	Sonamura	Kemtali	Melaghar
+Sepahijala	Sonamura	Kemtali	Paschim Nalchar
+Sepahijala	Sonamura	Khas Chowmuhani	Chowmuhani
+Sepahijala	Sonamura	Khas Chowmuhani	Khas Chowmuhani
+Sepahijala	Sonamura	Khedabari	Khedabari
+Sepahijala	Sonamura	Kulubari	Kulubari
+Sepahijala	Sonamura	Kulubari	Matinagar
+Sepahijala	Sonamura	Kumariakucha	Chowmuhani
+Sepahijala	Sonamura	Laxmandhepa	Purba Jumerdhepa
+Sepahijala	Sonamura	Madhya Boxanagar	Boxanagar
+Sepahijala	Sonamura	Mainama	Kulubari
+Sepahijala	Sonamura	Manikyanagar	Bheluarchar
+Sepahijala	Sonamura	Manikyanagar	Manikyanagar
+Sepahijala	Sonamura	Matinagar	Matinagar
+Sepahijala	Sonamura	Mohanbhog	Mohanbhog
+Sepahijala	Sonamura	Monarchak	Kalapania
+Sepahijala	Sonamura	Monarchak	Manarchak
+Sepahijala	Sonamura	Nabadwipchandranagar	Nabadwipchandranagar
+Sepahijala	Sonamura	Nabadwipchandranagar	Sonamura
+Sepahijala	Sonamura	Nidaya	Nidaya
+Sepahijala	Sonamura	Nirvoypur	Nirbhaypur
+Sepahijala	Sonamura	North Kalamchoura	Ghilatali
+Sepahijala	Sonamura	North Kalamchoura	Jagatrampur
+Sepahijala	Sonamura	North Kalamchoura	Kalamchaura
+Sepahijala	Sonamura	North Maheshpur	Mahespur
+Sepahijala	Sonamura	North Paharpur	Paharpur
+Sepahijala	Sonamura	Poangbari	Rudijala
+Sepahijala	Sonamura	Putia	Bheluarchar
+Sepahijala	Sonamura	Putia	Putia
+Sepahijala	Sonamura	Rabindranagar	Sobhapur
+Sepahijala	Sonamura	Ragunathpur	Kalikrishnanagar
+Sepahijala	Sonamura	Rahimpur	Bheluarchar
+Sepahijala	Sonamura	Rahimpur	Rahimpur
+Sepahijala	Sonamura	Rajibnagar	Bagabasa
+Sepahijala	Sonamura	Rangamati	Bardowal
+Sepahijala	Sonamura	Rangamati	Khedabari
+Sepahijala	Sonamura	Shibnagar	Taksapara
+Sepahijala	Sonamura	Sonapur	Sobhapur
+Sepahijala	Sonamura	South Kalamchora	Jagatrampur
+Sepahijala	Sonamura	South Kalamchora	Kalamchaura
+Sepahijala	Sonamura	South Maheshpur	Mahespur
+Sepahijala	Sonamura	South Nalchar	Paschim Nalchar
+Sepahijala	Sonamura	South Nalchar	Purba Nalchar
+Sepahijala	Sonamura	South Paharpur	Paharpur
+Sepahijala	Sonamura	Sovapur	Sobhapur
+Sepahijala	Sonamura	Srimantapur	Sobhapur
+Sepahijala	Sonamura	Taijiling	Chowmuhani
+Sepahijala	Sonamura	Taksa Para	Taksapara
+Sepahijala	Sonamura	Telkajla	Jharjharia
+Sepahijala	Sonamura	Telkajla	Telkajala
+Sepahijala	Sonamura	Urmai	Ghrantali
+Sepahijala	Sonamura	Urmai	Urmai
+Sepahijala	Sonamura	Valuarchar	Bheluarchar
+Sepahijala	Sonamura	Valuarchar	Putia
+Sepahijala	Sonamura	West Durlovnarayan	Durlabh Narayan
+Sepahijala	Sonamura	West Nalchar	Paschim Nalchar
+South Tripura	Belonia	(इतर)	Barapathari
+South Tripura	Belonia	(इतर)	Belonia
+South Tripura	Belonia	(इतर)	Champaknagar
+South Tripura	Belonia	(इतर)	Chhaigharia
+South Tripura	Belonia	(इतर)	Dakshin Sonaichhari
+South Tripura	Belonia	(इतर)	Debipur
+South Tripura	Belonia	(इतर)	Haripur
+South Tripura	Belonia	(इतर)	Kashari Reserve Forest
+South Tripura	Belonia	(इतर)	Lakshmipur
+South Tripura	Belonia	(इतर)	Manirampur
+South Tripura	Belonia	(इतर)	Paschim Peporiakhola
+South Tripura	Belonia	(इतर)	Purba Peporiakhola
+South Tripura	Belonia	(इतर)	Ratanpur
+South Tripura	Belonia	(इतर)	Sharasima
+South Tripura	Belonia	(इतर)	Shibpur
+South Tripura	Belonia	(इतर)	Tekka Reserve Forest
+South Tripura	Belonia	(इतर)	Tekkatulsi Reserve Forest
+South Tripura	Belonia	(इतर)	Trishna Reserve Forest
+South Tripura	Belonia	(इतर)	Tuigamari
+South Tripura	Belonia	(इतर)	Uttar Sonaichhari
+South Tripura	Belonia	Abhoynagar	Abhoynagar
+South Tripura	Belonia	Barpathari	Barapathari
+South Tripura	Belonia	Barpathari	Trishna Reserve Forest
+South Tripura	Belonia	Baspadua	Baspadua
+South Tripura	Belonia	Batisha	Dakshin Krishnapur
+South Tripura	Belonia	Batisha	Radhanagar
+South Tripura	Belonia	Chittamara	Chittamara
+South Tripura	Belonia	Chittamara	Madhya Bharatchandranagar
+South Tripura	Belonia	Debipur	Debipur
+South Tripura	Belonia	Debipur	Hrishyamukh
+South Tripura	Belonia	Dimatali	Bhairabnagar
+South Tripura	Belonia	Dimatali	Paschim Anandapur
+South Tripura	Belonia	Dimatali	Siddhinagar
+South Tripura	Belonia	Durgapur	Rajnagar
+South Tripura	Belonia	Durgapur	Trishna Reserve Forest
+South Tripura	Belonia	East Kalabaria	Kalabaria
+South Tripura	Belonia	East Pipariakhola	Purba Peporiakhola
+South Tripura	Belonia	Ekinpur	Baraiya
+South Tripura	Belonia	Ekinpur	Tebaria
+South Tripura	Belonia	Gardhang	Chhaigharia
+South Tripura	Belonia	Gouranga Bazar	Baraiya
+South Tripura	Belonia	Gouranga Bazar	Dakshin Srirampur
+South Tripura	Belonia	Haripur	Haripur
+South Tripura	Belonia	Hrishyamukh	Hrishyamukh
+South Tripura	Belonia	Indiranagar	Kamalpur
+South Tripura	Belonia	Indiranagar	Paschim Anandapur
+South Tripura	Belonia	Indiranagar	Siddhinagar
+South Tripura	Belonia	Ishan Chandranagar	Ishanchandranagar
+South Tripura	Belonia	Jashmura	Paschim Peporiakhola
+South Tripura	Belonia	Jaykatpur	Baspadua
+South Tripura	Belonia	Jaykatpur	Dakshin Sonaichhari
+South Tripura	Belonia	Jaykatpur	Matai
+South Tripura	Belonia	Jaypur	Abhoynagar
+South Tripura	Belonia	Jaypur	Krishnanagar
+South Tripura	Belonia	Joy Chandpur	Barapathari
+South Tripura	Belonia	Joy Chandpur	Jaichandrapur
+South Tripura	Belonia	Joy Chandpur	Trishna Reserve Forest
+South Tripura	Belonia	Krishnanagar	Krishnanagar
+South Tripura	Belonia	Laxmipur	Kashari Reserve Forest
+South Tripura	Belonia	Laxmipur	Lakshmipur
+South Tripura	Belonia	Matai	Champaknagar
+South Tripura	Belonia	Matai	Matai
+South Tripura	Belonia	Nalua	Abhoynagar
+South Tripura	Belonia	Netaji Subhash Chandra Nagar	Ishanchandranagar
+South Tripura	Belonia	Niharnagar	Bardosh
+South Tripura	Belonia	Niharnagar	Dakshin Krishnapur
+South Tripura	Belonia	Niharnagar	Kamalpur
+South Tripura	Belonia	Niharnagar	Purba Anandapur
+South Tripura	Belonia	Niharnagar	Radhanagar
+South Tripura	Belonia	North Bharat Chandra Nagar	Uttar Bharatchandranagar
+South Tripura	Belonia	North Rangamura	Rangamura
+South Tripura	Belonia	North Rangamura	Trishna Reserve Forest
+South Tripura	Belonia	North Sarashima	Sharasima
+South Tripura	Belonia	North Sonaichari	Sharasima
+South Tripura	Belonia	North Sonaichari	Uttar Sonaichhari
+South Tripura	Belonia	North Srirampur	Bhairabnagar
+South Tripura	Belonia	North Srirampur	Kamalpur
+South Tripura	Belonia	North Srirampur	Siddhinagar
+South Tripura	Belonia	North Srirampur	Uttar Srirampur
+South Tripura	Belonia	Paikhola	Chittamara
+South Tripura	Belonia	Paikhola	Paikhola
+South Tripura	Belonia	Radhanagar	Trishna Reserve Forest
+South Tripura	Belonia	Radhanagar	Uttar Krishnapur
+South Tripura	Belonia	Rajnagar	Prakashnagar
+South Tripura	Belonia	Rajnagar	Trishna Reserve Forest
+South Tripura	Belonia	Rangamura	Rangamura
+South Tripura	Belonia	Rangamura	Trishna Reserve Forest
+South Tripura	Belonia	Rangamura	Uttar Krishnapur
+South Tripura	Belonia	Sarashima	Sharasima
+South Tripura	Belonia	South Bharat Chandra Nagar	Dakshin Bharatchandranagar
+South Tripura	Belonia	South Matai	Champaknagar
+South Tripura	Belonia	South Matai	Debipur
+South Tripura	Belonia	South Matai	Matai
+South Tripura	Belonia	South Radhanagar	Dakshin Krishnapur
+South Tripura	Belonia	South Radhanagar	Madhya Bharatchandranagar
+South Tripura	Belonia	South Rajnagar	Bardosh
+South Tripura	Belonia	South Rajnagar	Dakshin Krishnapur
+South Tripura	Belonia	South Rajnagar	Prakashnagar
+South Tripura	Belonia	South Rajnagar	Trishna Reserve Forest
+South Tripura	Belonia	South Sonaichari	Baspadua
+South Tripura	Belonia	South Sonaichari	Dakshin Sonaichhari
+South Tripura	Belonia	South Sonaichari	Uttar Sonaichhari
+South Tripura	Belonia	South Srirampur	Dakshin Srirampur
+South Tripura	Belonia	South Srirampur	Uttar Srirampur
+South Tripura	Belonia	Sukanta Nagar	Dakshin Bharatchandranagar
+South Tripura	Belonia	West Kalabaria	Kalabaria
+South Tripura	Belonia	West Paikhola	Paikhola
+South Tripura	Belonia	West Pipariakhola	Barapathari
+South Tripura	Belonia	West Pipariakhola	Paschim Peporiakhola
+South Tripura	Sabroom	(इतर)	Aliamara
+South Tripura	Sabroom	(इतर)	Bagmara
+South Tripura	Sabroom	(इतर)	Baishnabpur
+South Tripura	Sabroom	(इतर)	Betaga Reserve Forest
+South Tripura	Sabroom	(इतर)	Bhuratali
+South Tripura	Sabroom	(इतर)	Bijoynagar
+South Tripura	Sabroom	(इतर)	Bishnupur
+South Tripura	Sabroom	(इतर)	Brajendranagar
+South Tripura	Sabroom	(इतर)	Chalita Bangkul
+South Tripura	Sabroom	(इतर)	Chalitachhera
+South Tripura	Sabroom	(इतर)	Chhatakchhari
+South Tripura	Sabroom	(इतर)	Dakshin Bijoypur
+South Tripura	Sabroom	(इतर)	Dakshin Kalapania
+South Tripura	Sabroom	(इतर)	Dakshin Manubangkul
+South Tripura	Sabroom	(इतर)	Dakshin Sabrum
+South Tripura	Sabroom	(इतर)	Dakshin Taichhama
+South Tripura	Sabroom	(इतर)	Dolbari
+South Tripura	Sabroom	(इतर)	Gaganchandrapara
+South Tripura	Sabroom	(इतर)	Gardang
+South Tripura	Sabroom	(इतर)	Gaurifa
+South Tripura	Sabroom	(इतर)	Guachand
+South Tripura	Sabroom	(इतर)	Harbatali
+South Tripura	Sabroom	(इतर)	Harina
+South Tripura	Sabroom	(इतर)	Kanthalchhari
+South Tripura	Sabroom	(इतर)	Magrum
+South Tripura	Sabroom	(इतर)	Magurchhera
+South Tripura	Sabroom	(इतर)	Manubazar
+South Tripura	Sabroom	(इतर)	Paschim Jalefa
+South Tripura	Sabroom	(इतर)	Paschim Ludhua
+South Tripura	Sabroom	(इतर)	Paschim Sabrum
+South Tripura	Sabroom	(इतर)	Phulchhari
+South Tripura	Sabroom	(इतर)	Purba Jalefa
+South Tripura	Sabroom	(इतर)	Purba Ludhua
+South Tripura	Sabroom	(इतर)	Purba Sabrum
+South Tripura	Sabroom	(इतर)	Rajdharpur
+South Tripura	Sabroom	(इतर)	Rupaichhari
+South Tripura	Sabroom	(इतर)	Sabroom
+South Tripura	Sabroom	(इतर)	Sakbari
+South Tripura	Sabroom	(इतर)	Sindukpathar
+South Tripura	Sabroom	(इतर)	Sonaichhari
+South Tripura	Sabroom	(इतर)	Taikumbachhera
+South Tripura	Sabroom	(इतर)	Tekkatulsi Reserve Forest
+South Tripura	Sabroom	(इतर)	Uttar Bijoypur
+South Tripura	Sabroom	(इतर)	Uttar Kalapania
+South Tripura	Sabroom	(इतर)	Uttar Manubangkul
+South Tripura	Sabroom	(इतर)	Uttar Taichhama
+South Tripura	Sabroom	Amlighat	Amlighat
+South Tripura	Sabroom	Battala	Bijoynagar
+South Tripura	Sabroom	Battala	Brajendranagar
+South Tripura	Sabroom	Bijoynagar	Bijoynagar
+South Tripura	Sabroom	Brajendranagar	Bijoynagar
+South Tripura	Sabroom	Damdama	Dolbari
+South Tripura	Sabroom	Doulbari	Dolbari
+South Tripura	Sabroom	East Harina	Harina
+South Tripura	Sabroom	East Jalefa	Purba Jalefa
+South Tripura	Sabroom	Goachand Nandigram	Guachand
+South Tripura	Sabroom	Indiranagar	Brajendranagar
+South Tripura	Sabroom	Kalachara	Bhuratali
+South Tripura	Sabroom	Kalachara	Dakshin Kalapania
+South Tripura	Sabroom	Kalapania	Dakshin Kalapania
+South Tripura	Sabroom	Krishnanagar	Krishnanagar
+South Tripura	Sabroom	Madhab Nagar	Madhabnagar
+South Tripura	Sabroom	Magurcherra	Magurchhera
+South Tripura	Sabroom	Manu Bazar	Manubazar
+South Tripura	Sabroom	Manu Bazar	Phulchhari
+South Tripura	Sabroom	Nabagram	Phulchhari
+South Tripura	Sabroom	North Bhuratali	Bhuratali
+South Tripura	Sabroom	North Bhuratali	Gardang
+South Tripura	Sabroom	North Bhuratali	Sakbari
+South Tripura	Sabroom	Rajibnagar	Guachand
+South Tripura	Sabroom	Rajnagar	Rajnagar
+South Tripura	Sabroom	Satchand	Bhuratali
+South Tripura	Sabroom	South Bhuratali	Bhuratali
+South Tripura	Sabroom	South Bhuratali	Phulchhari
+South Tripura	Sabroom	South Srinagar	Srinagar
+South Tripura	Sabroom	Srinagar	Srinagar
+South Tripura	Sabroom	Subashnagar	Krishnanagar
+South Tripura	Sabroom	Sukanta Palli	Manubazar
+South Tripura	Sabroom	Thaibung	Paschim Jalefa
+South Tripura	Sabroom	Vivekananda Palli	Purba Jalefa
+South Tripura	Sabroom	West Harina	Harina
+South Tripura	Sabroom	West Jalefa	Paschim Jalefa
+South Tripura	Sabroom	West Sabroom	Purba Jalefa
+South Tripura	Santirbazar	(इतर)	Abhangachhera
+South Tripura	Santirbazar	(इतर)	Bagafa
+South Tripura	Santirbazar	(इतर)	Baikora
+South Tripura	Santirbazar	(इतर)	Baramura Debtamura Reserve Forest
+South Tripura	Santirbazar	(इतर)	Birchandranagar
+South Tripura	Santirbazar	(इतर)	Birendranagar
+South Tripura	Santirbazar	(इतर)	Dakshin Barpatiroy
+South Tripura	Santirbazar	(इतर)	Dakshin Hichhachhera
+South Tripura	Santirbazar	(इतर)	Dakshin Takmachhera
+South Tripura	Santirbazar	(इतर)	Jolaibari
+South Tripura	Santirbazar	(इतर)	Kalalaugang
+South Tripura	Santirbazar	(इतर)	Kalasi
+South Tripura	Santirbazar	(इतर)	Lakshmichhera
+South Tripura	Santirbazar	(इतर)	Laugang
+South Tripura	Santirbazar	(इतर)	Madhya Pilak
+South Tripura	Santirbazar	(इतर)	Muhuripur Reserve Forest
+South Tripura	Santirbazar	(इतर)	Paschim Charakbai
+South Tripura	Santirbazar	(इतर)	Paschim Kathalia
+South Tripura	Santirbazar	(इतर)	Paschim Manu
+South Tripura	Santirbazar	(इतर)	Paschim Muhuripur
+South Tripura	Santirbazar	(इतर)	Paschim Patichhari
+South Tripura	Santirbazar	(इतर)	Paschim Pilak
+South Tripura	Santirbazar	(इतर)	Purba Charakbai
+South Tripura	Santirbazar	(इतर)	Purba Kathalia
+South Tripura	Santirbazar	(इतर)	Purba Manu
+South Tripura	Santirbazar	(इतर)	Purba Muhuripur
+South Tripura	Santirbazar	(इतर)	Purba Patichhari
+South Tripura	Santirbazar	(इतर)	Purba Pilak
+South Tripura	Santirbazar	(इतर)	Radhakishoreganj
+South Tripura	Santirbazar	(इतर)	Raibari
+South Tripura	Santirbazar	(इतर)	Rajapur
+South Tripura	Santirbazar	(इतर)	Santirbazar
+South Tripura	Santirbazar	(इतर)	Tairumachhera
+South Tripura	Santirbazar	(इतर)	Uttar Barpatiroy
+South Tripura	Santirbazar	(इतर)	Uttar Debipur
+South Tripura	Santirbazar	(इतर)	Uttar Hichhachhera
+South Tripura	Santirbazar	(इतर)	Uttar Takmachhera
+South Tripura	Santirbazar	Betaga	Laugang
+South Tripura	Santirbazar	Charakbai	Paschim Charakbai
+South Tripura	Santirbazar	Debdaru	Uttar Hichhachhera
+South Tripura	Santirbazar	East Bokafa	Bagafa
+South Tripura	Santirbazar	East Bokafa	Santirbazar
+South Tripura	Santirbazar	East Charakbai	Baikora
+South Tripura	Santirbazar	East Charakbai	Purba Charakbai
+South Tripura	Santirbazar	Gardhang	Gardang
+South Tripura	Santirbazar	Kanchannagar	Gardang
+South Tripura	Santirbazar	Kanchannagar	Santirbazar
+South Tripura	Santirbazar	Latua Tilla	Muhuripur Reserve Forest
+South Tripura	Santirbazar	Lowgang	Laugang
+South Tripura	Santirbazar	Madhya Pillak	Madhya Pilak
+South Tripura	Santirbazar	Muhuripur	Paschim Muhuripur
+South Tripura	Santirbazar	Muhuripur	Purba Muhuripur
+South Tripura	Santirbazar	Muhuripur R.f.	Muhuripur Reserve Forest
+South Tripura	Santirbazar	North Jolaibari	Jolaibari
+South Tripura	Santirbazar	North Jolaibari	Muhuripur Reserve Forest
+South Tripura	Santirbazar	Radha Kishore Ganj	Radhakishoreganj
+South Tripura	Santirbazar	Radha Kishore Ganj	Santirbazar
+South Tripura	Santirbazar	South Jolaibari	Jolaibari
+South Tripura	Santirbazar	Subash Colony	Laugang
+South Tripura	Santirbazar	Subash Colony	Santirbazar
+South Tripura	Santirbazar	Swadeshnagar	Baikora
+South Tripura	Santirbazar	Swadeshnagar	Purba Charakbai
+South Tripura	Santirbazar	Thakur Cherra	Madhya Pilak
+South Tripura	Santirbazar	West Charakbai	Paschim Charakbai
+South Tripura	Santirbazar	West Jolaibari	Jolaibari
+South Tripura	Santirbazar	West Kathalia	Bagafa
+South Tripura	Santirbazar	West Kathalia	Paschim Kathalia
+South Tripura	Santirbazar	West Pillak	Paschim Pilak
+Unakoti	Kailashahar	(इतर)	Debasthal
+Unakoti	Kailashahar	(इतर)	Deorachhera
+Unakoti	Kailashahar	(इतर)	Dhanbilas
+Unakoti	Kailashahar	(इतर)	Dhatuchhera
+Unakoti	Kailashahar	(इतर)	Golakpur
+Unakoti	Kailashahar	(इतर)	Halaichhera
+Unakoti	Kailashahar	(इतर)	Hirachhera
+Unakoti	Kailashahar	(इतर)	Kailashahar
+Unakoti	Kailashahar	(इतर)	Murtichhera
+Unakoti	Kailashahar	(इतर)	Phultali
+Unakoti	Kailashahar	(इतर)	Rangrung
+Unakoti	Kailashahar	(इतर)	Sonamukhi
+Unakoti	Kailashahar	(इतर)	Uttar Unakoti Reserve Forest
+Unakoti	Kailashahar	Bhagaban Nagar	Bhagabannagar
+Unakoti	Kailashahar	Bilashpur	Bilashpur
+Unakoti	Kailashahar	Birchandra Nagar	Birchandranagar
+Unakoti	Kailashahar	Chandipur	Chandipur
+Unakoti	Kailashahar	Chandipur	Manuvalley
+Unakoti	Kailashahar	Chantail	Chhantail
+Unakoti	Kailashahar	Dhaliarkandi	Dhaliarkandi
+Unakoti	Kailashahar	Dhanbilash	Dhanbilas
+Unakoti	Kailashahar	East Yeajekhowra	Dhaliarkandi
+Unakoti	Kailashahar	Fulbari Kandi	Hirachhera
+Unakoti	Kailashahar	Fulbari Kandi	Ichhabpur
+Unakoti	Kailashahar	Fulbari Kandi	Kanakpur
+Unakoti	Kailashahar	Fulbari Kandi	Pakhirbada
+Unakoti	Kailashahar	Fulbari Kandi	Srinathpur
+Unakoti	Kailashahar	Fultali	Phultali
+Unakoti	Kailashahar	Goldharpur	Goldharpur
+Unakoti	Kailashahar	Gournagar	Gournagar
+Unakoti	Kailashahar	Gournagar	Kamrangabari
+Unakoti	Kailashahar	Halairpar	Srirampur
+Unakoti	Kailashahar	Ichabpur	Ichhabpur
+Unakoti	Kailashahar	Ichabpur	Pakhirbada
+Unakoti	Kailashahar	Irani	Irani
+Unakoti	Kailashahar	Jalai	Jalai
+Unakoti	Kailashahar	Jalai	Sonamukhi
+Unakoti	Kailashahar	Jarultali	Jarultali
+Unakoti	Kailashahar	Jubarajnagar	Jubarajnagar
+Unakoti	Kailashahar	Kaulikura	Kaulikura
+Unakoti	Kailashahar	Kaulikura	Sonamukhi
+Unakoti	Kailashahar	Khowrabil	Dhaliarkandi
+Unakoti	Kailashahar	Khowrabil	Irani
+Unakoti	Kailashahar	Khowrabil	Khaurabil
+Unakoti	Kailashahar	Khowrabil	Rangauti
+Unakoti	Kailashahar	Latiapura	Latiapur
+Unakoti	Kailashahar	Laxmipur	Lakshmipur
+Unakoti	Kailashahar	Maguruli	Irani
+Unakoti	Kailashahar	Maguruli	Khaurabil
+Unakoti	Kailashahar	Manu Valley	Chandipur
+Unakoti	Kailashahar	Manu Valley	Manuvalley
+Unakoti	Kailashahar	Murticherra	Murtichhera
+Unakoti	Kailashahar	Noorpur	Kanakpur
+Unakoti	Kailashahar	Rangauti	Rangauti
+Unakoti	Kailashahar	Rangrung	Rangrung
+Unakoti	Kailashahar	Samrurpar	Samrurpar
+Unakoti	Kailashahar	Sorojini	Halaichhera
+Unakoti	Kailashahar	Srinathpur	Jubarajnagar
+Unakoti	Kailashahar	Srinathpur	Srinathpur
+Unakoti	Kailashahar	Srirampur	Srirampur
+Unakoti	Kailashahar	Tillagaon	Tilagaon
+Unakoti	Kailashahar	Yeajakhowra	Dhaliarkandi
+Unakoti	Kumarghat	(इतर)	Baghaichhera
+Unakoti	Kumarghat	(इतर)	Betchhera
+Unakoti	Kumarghat	(इतर)	Birchandranagar
+Unakoti	Kumarghat	(इतर)	Dakshin Machhmara
+Unakoti	Kumarghat	(इतर)	Dakshin Unakoti Reserve Forest
+Unakoti	Kumarghat	(इतर)	Dengdung
+Unakoti	Kumarghat	(इतर)	Deo Reserve Forest
+Unakoti	Kumarghat	(इतर)	Dewanbari
+Unakoti	Kumarghat	(इतर)	Dhanichhera
+Unakoti	Kumarghat	(इतर)	Ganganagar
+Unakoti	Kumarghat	(इतर)	Karaichhera
+Unakoti	Kumarghat	(इतर)	Lakshmanchhera
+Unakoti	Kumarghat	(इतर)	Nabinchhera
+Unakoti	Kumarghat	(इतर)	Nalkata
+Unakoti	Kumarghat	(इतर)	Natingchhera
+Unakoti	Kumarghat	(इतर)	Pabiachhera
+Unakoti	Kumarghat	(इतर)	Paschim Andharchhera
+Unakoti	Kumarghat	(इतर)	Paschim Ratachhera
+Unakoti	Kumarghat	(इतर)	Pecharthal
+Unakoti	Kumarghat	(इतर)	Purba Andharchhera
+Unakoti	Kumarghat	(इतर)	Rabiraipara
+Unakoti	Kumarghat	(इतर)	Radhanagar
+Unakoti	Kumarghat	(इतर)	Rajkandi
+Unakoti	Kumarghat	(इतर)	Samru Hala Reserve Forest
+Unakoti	Kumarghat	(इतर)	Saydachhera
+Unakoti	Kumarghat	(इतर)	Sunaimuri
+Unakoti	Kumarghat	(इतर)	Uttar Machhmara
+Unakoti	Kumarghat	Ambedkar Nagar	Kumarghat
+Unakoti	Kumarghat	Betcherra	Betchhera
+Unakoti	Kumarghat	Dudpur	Dudhpur
+Unakoti	Kumarghat	East Kanchanbari	Betchhera
+Unakoti	Kumarghat	East Kanchanbari	Purba Kanchanbari
+Unakoti	Kumarghat	East Ratacherra	Purba Ratachhera
+Unakoti	Kumarghat	Fatikroy	Fatikroy
+Unakoti	Kumarghat	Gakulnagar	Gokulnagar
+Unakoti	Kumarghat	Ganganagar	Ganganagar
+Unakoti	Kumarghat	Jagannathpur	Jagannathpur
+Unakoti	Kumarghat	Jubarajnagar	Samru Hala Reserve Forest
+Unakoti	Kumarghat	Kanchanbari	Paschim Kanchanbari
+Unakoti	Kumarghat	Krishnanagar	Krishnanagar
+Unakoti	Kumarghat	Laljuri	Laljuri
+Unakoti	Kumarghat	Masauli	Masauli
+Unakoti	Kumarghat	Radhanagar	Radhanagar
+Unakoti	Kumarghat	Rajnagar	Fatikroy
+Unakoti	Kumarghat	Ratiabari	Pabiachhera
+Unakoti	Kumarghat	Saidarpar	Purba Ratachhera
+Unakoti	Kumarghat	Sonaimuri	Natingchhera
+Unakoti	Kumarghat	Sonaimuri	Sunaimuri
+Unakoti	Kumarghat	Sukanta Nagar	Pabiachhera
+Unakoti	Kumarghat	Taraninagar	Paschim Kanchanbari
+Unakoti	Kumarghat	Taraninagar	Paschim Ratachhera
+Unakoti	Kumarghat	Ujandudpur	Dudhpur
+Unakoti	Kumarghat	Vidyasagar	Kumarghat
+Unakoti	Kumarghat	West Kanchanbari	Paschim Kanchanbari
+Unakoti	Kumarghat	West Kanchanbari	Paschim Ratachhera
+Unakoti	Kumarghat	West Masauli	Masauli
+Unakoti	Kumarghat	West Ratacherra	Paschim Ratachhera
+West Tripura	Jirania	(इतर)	Ashighar
+West Tripura	Jirania	(इतर)	Atuthangbari
+West Tripura	Jirania	(इतर)	Bankimnagar
+West Tripura	Jirania	(इतर)	Belbari
+West Tripura	Jirania	(इतर)	Bhrigudaspara
+West Tripura	Jirania	(इतर)	Champabari
+West Tripura	Jirania	(इतर)	Champaknagar
+West Tripura	Jirania	(इतर)	Dinabandhunagar
+West Tripura	Jirania	(इतर)	Dinakobrapara
+West Tripura	Jirania	(इतर)	Harbhang
+West Tripura	Jirania	(इतर)	Jamilongpara
+West Tripura	Jirania	(इतर)	Janmejoynagar
+West Tripura	Jirania	(इतर)	Jirania
+West Tripura	Jirania	(इतर)	Joynagar
+West Tripura	Jirania	(इतर)	Kathirambari
+West Tripura	Jirania	(इतर)	Khengrai
+West Tripura	Jirania	(इतर)	Lakshmipur
+West Tripura	Jirania	(इतर)	Majlishpur
+West Tripura	Jirania	(इतर)	Mandainagar
+West Tripura	Jirania	(इतर)	Paschim Barjulai
+West Tripura	Jirania	(इतर)	Patnipara
+West Tripura	Jirania	(इतर)	Purba Barjulai
+West Tripura	Jirania	(इतर)	Purba Debandranagar
+West Tripura	Jirania	(इतर)	Purba Noagaon
+West Tripura	Jirania	(इतर)	Radhamohanpur
+West Tripura	Jirania	(इतर)	Radhapur
+West Tripura	Jirania	(इतर)	Ramchandranagar
+West Tripura	Jirania	(इतर)	Shibnagar
+West Tripura	Jirania	(इतर)	Tulakuna
+West Tripura	Jirania	(इतर)	Wakkinagar
+West Tripura	Jirania	Barjala Binapani	Bankimnagar
+West Tripura	Jirania	Bridhyanagar	Briddhanagar
+West Tripura	Jirania	Dalura	Briddhanagar
+West Tripura	Jirania	Debram Thakur	Radhakishorenagar
+West Tripura	Jirania	Durga Choudhury	Radhakishorenagar
+West Tripura	Jirania	Durganagar	Lakshmipur
+West Tripura	Jirania	East Barjala	Purba Barjulai
+West Tripura	Jirania	East Champamura	Uttar Champamura
+West Tripura	Jirania	East Debendranagar	Purba Debandranagar
+West Tripura	Jirania	East Noagaon	Purba Noagaon
+West Tripura	Jirania	Harijoy Chowdhury	Majlishpur
+West Tripura	Jirania	Joynagar	Joynagar
+West Tripura	Jirania	Kobrakhamar	Lakshmipur
+West Tripura	Jirania	Krishnanagar	Majlishpur
+West Tripura	Jirania	Madhya Champamura	Uttar Champamura
+West Tripura	Jirania	Madhya Debendranagar	Purba Debandranagar
+West Tripura	Jirania	Majlishpur	Majlishpur
+West Tripura	Jirania	Meghlipara	Mekhlipara
+West Tripura	Jirania	North Champamura	Uttar Champamura
+West Tripura	Jirania	North Majlishpur	Majlishpur
+West Tripura	Jirania	Radha Kishorenagar	Radhakishorenagar
+West Tripura	Jirania	Sachindranagar	Purba Barjulai
+West Tripura	Jirania	Tulakona	Tulakuna
+West Tripura	Jirania	West Champamura	Uttar Champamura
+West Tripura	Jirania	West Majlishpur	Majlishpur
+West Tripura	Jirania	West Noabadi	Radhakishorenagar
+West Tripura	Jirania	West Noagaon	Purba Noagaon
+West Tripura	Mohanpur	(इतर)	Baikunthapur
+West Tripura	Mohanpur	(इतर)	Baluaban
+West Tripura	Mohanpur	(इतर)	Barkanthalia
+West Tripura	Mohanpur	(इतर)	Budhjangnagar
+West Tripura	Mohanpur	(इतर)	Chandpur
+West Tripura	Mohanpur	(इतर)	Dakshin Dasgharia
+West Tripura	Mohanpur	(इतर)	Debendra Chandra Nagar
+West Tripura	Mohanpur	(इतर)	Domrakaridak
+West Tripura	Mohanpur	(इतर)	Fatikchhera
+West Tripura	Mohanpur	(इतर)	Ishanpur
+West Tripura	Mohanpur	(इतर)	Kamukchhera
+West Tripura	Mohanpur	(इतर)	Mantala
+West Tripura	Mohanpur	(इतर)	Meghliband
+West Tripura	Mohanpur	(इतर)	Mohanpur
+West Tripura	Mohanpur	(इतर)	Narsingarh
+West Tripura	Mohanpur	(इतर)	Noagaon
+West Tripura	Mohanpur	(इतर)	Paschim Simna
+West Tripura	Mohanpur	(इतर)	Purba Simna
+West Tripura	Mohanpur	(इतर)	Sankhola
+West Tripura	Mohanpur	(इतर)	Subalsingh
+West Tripura	Mohanpur	(इतर)	Surendranagar
+West Tripura	Mohanpur	(इतर)	Taranagar
+West Tripura	Mohanpur	(इतर)	Thamakari
+West Tripura	Mohanpur	(इतर)	Tuichhamankurai
+West Tripura	Mohanpur	(इतर)	Tulabagan
+West Tripura	Mohanpur	(इतर)	Uttar Dasgharia
+West Tripura	Mohanpur	(इतर)	Uttar Debendra Chandra Nagar
+West Tripura	Mohanpur	Bhagalpur	Narsingarh
+West Tripura	Mohanpur	Bijoy Nagar	Bijoynagar
+West Tripura	Mohanpur	Brahmakunda	Paschim Simna
+West Tripura	Mohanpur	Debendranagar	Debendra Chandra Nagar
+West Tripura	Mohanpur	East Bamutia	Bamutia
+West Tripura	Mohanpur	East Gandhigram	Gandhigram
+West Tripura	Mohanpur	Fatikcherra	Fatikchhera
+West Tripura	Mohanpur	Gajaria	Kalkalia
+West Tripura	Mohanpur	Harinakhola	Taranagar
+West Tripura	Mohanpur	Ishanpur	Ishanpur
+West Tripura	Mohanpur	Kalacherra	Kalachhera
+West Tripura	Mohanpur	Kalkalia	Kalkalia
+West Tripura	Mohanpur	Kamalghat	Fatikchhera
+West Tripura	Mohanpur	Laxmilunga	Laxmilunga
+West Tripura	Mohanpur	Lembucherra	Debendra Chandra Nagar
+West Tripura	Mohanpur	Mantala	Mantala
+West Tripura	Mohanpur	Mohinipur	Mohanpur
+West Tripura	Mohanpur	Nabagram	Gandhigram
+West Tripura	Mohanpur	Narshingarh	Narsingarh
+West Tripura	Mohanpur	North Bamutia	Bamutia
+West Tripura	Mohanpur	North Gandhigram	Gandhigram
+West Tripura	Mohanpur	North Laxmilunga	Laxmilunga
+West Tripura	Mohanpur	North Lembucherra	Debendra Chandra Nagar
+West Tripura	Mohanpur	Rangachara	Mohanpur
+West Tripura	Mohanpur	Satdubia	Kalkalia
+West Tripura	Mohanpur	Simna	Paschim Simna
+West Tripura	Mohanpur	South Taranagar	Taranagar
+West Tripura	Mohanpur	South Taranagar	Tulabagan
+West Tripura	Mohanpur	Taltala	Bamutia
+West Tripura	Mohanpur	Vidyasagar	Meghliband
+West Tripura	Mohanpur	West Bamutia	Bamutia
+West Tripura	Mohanpur	West Fatikcherra	Fatikchhera
+West Tripura	Mohanpur	West Gandhigram	Gandhigram
+West Tripura	Mohanpur	West Kamalghat	Fatikchhera
+West Tripura	Sadar	(इतर)	Agartala Sheet No-1
+West Tripura	Sadar	(इतर)	Agartala Sheet No-10
+West Tripura	Sadar	(इतर)	Agartala Sheet No-11
+West Tripura	Sadar	(इतर)	Agartala Sheet No-12
+West Tripura	Sadar	(इतर)	Agartala Sheet No-13
+West Tripura	Sadar	(इतर)	Agartala Sheet No-14
+West Tripura	Sadar	(इतर)	Agartala Sheet No-15
+West Tripura	Sadar	(इतर)	Agartala Sheet No-16
+West Tripura	Sadar	(इतर)	Agartala Sheet No-17
+West Tripura	Sadar	(इतर)	Agartala Sheet No-18
+West Tripura	Sadar	(इतर)	Agartala Sheet No-19
+West Tripura	Sadar	(इतर)	Agartala Sheet No-2
+West Tripura	Sadar	(इतर)	Agartala Sheet No-20
+West Tripura	Sadar	(इतर)	Agartala Sheet No-21
+West Tripura	Sadar	(इतर)	Agartala Sheet No-22
+West Tripura	Sadar	(इतर)	Agartala Sheet No-23
+West Tripura	Sadar	(इतर)	Agartala Sheet No-24
+West Tripura	Sadar	(इतर)	Agartala Sheet No-3
+West Tripura	Sadar	(इतर)	Agartala Sheet No-4
+West Tripura	Sadar	(इतर)	Agartala Sheet No-5
+West Tripura	Sadar	(इतर)	Agartala Sheet No-6
+West Tripura	Sadar	(इतर)	Agartala Sheet No-7
+West Tripura	Sadar	(इतर)	Agartala Sheet No-8
+West Tripura	Sadar	(इतर)	Agartala Sheet No-9
+West Tripura	Sadar	(इतर)	Anandanagar
+West Tripura	Sadar	(इतर)	Badharghat
+West Tripura	Sadar	(इतर)	Barjala
+West Tripura	Sadar	(इतर)	Charipara
+West Tripura	Sadar	(इतर)	Dukli
+West Tripura	Sadar	(इतर)	Howrah
+West Tripura	Sadar	(इतर)	Indranagar
+West Tripura	Sadar	(इतर)	Jogendranagar
+West Tripura	Sadar	(इतर)	Khayerpur
+West Tripura	Sadar	(इतर)	Kunjaban
+West Tripura	Sadar	(इतर)	Lankamura
+West Tripura	Sadar	(इतर)	Pratapgarh
+West Tripura	Sadar	(इतर)	Ramnagar
+West Tripura	Sadar	(इतर)	Singarbil
+West Tripura	Sadar	(इतर)	Srinagar
+West Tripura	Sadar	Anandanagar	Anandanagar
+West Tripura	Sadar	Ananganagar	Singarbil
+West Tripura	Sadar	Bagmara	Madhupur
+West Tripura	Sadar	Ballabpur	Madhupur
+West Tripura	Sadar	Belabar	Charipara
+West Tripura	Sadar	Bikramnagar	Bikramnagar
+West Tripura	Sadar	Charipara	Charipara
+West Tripura	Sadar	Chowmuhani Bazar	Madhuban
+West Tripura	Sadar	Chowmuhani Bazar	Madhupur
+West Tripura	Sadar	Dighalia	Barjala
+West Tripura	Sadar	Dukli	Dukli
+West Tripura	Sadar	Fultali	Pandab Pur
+West Tripura	Sadar	Ishanchandra Nagar	Ishanchandranagar
+West Tripura	Sadar	Jarul Bachai	Srinagar
+West Tripura	Sadar	Kanchanmala	Kanchanmala
+West Tripura	Sadar	Kathaltali	Madhuban
+West Tripura	Sadar	Khas Madhupur	Madhupur
+West Tripura	Sadar	Madhuban	Madhuban
+West Tripura	Sadar	Mahishkhola	Dukli
+West Tripura	Sadar	Malaynagar	Anandanagar
+West Tripura	Sadar	Natunnagar	Barjala
+West Tripura	Sadar	Pandabpur	Pandab Pur
+West Tripura	Sadar	Patunagar	Barjala
+West Tripura	Sadar	Sekerkote	Bikramnagar
+West Tripura	Sadar	Singarbill	Singarbil
+West Tripura	Sadar	Srinagar	Srinagar
+West Tripura	Sadar	Surjyamani Nagar	Madhuban
+West Tripura	Sadar	Surjyamani Nagar	Madhupur
+West Tripura	Sadar	West Anandanagar	Anandanagar
+West Tripura	Sadar	West Kamalghat	Lankamura

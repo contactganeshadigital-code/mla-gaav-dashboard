@@ -1,0 +1,604 @@
+Gangtok	Gangtok	(इतर)	Burtuk
+Gangtok	Gangtok	(इतर)	Chandmari
+Gangtok	Gangtok	(इतर)	Deorali
+Gangtok	Gangtok	(इतर)	Gangtok
+Gangtok	Gangtok	(इतर)	Lingdok
+Gangtok	Gangtok	(इतर)	Namphong
+Gangtok	Gangtok	(इतर)	Navey
+Gangtok	Gangtok	(इतर)	Penlong
+Gangtok	Gangtok	(इतर)	Pioneer Reserve
+Gangtok	Gangtok	(इतर)	Samdur
+Gangtok	Gangtok	(इतर)	Shotak
+Gangtok	Gangtok	(इतर)	Sichey
+Gangtok	Gangtok	(इतर)	Tadong
+Gangtok	Gangtok	(इतर)	Upper Burtuk
+Gangtok	Gangtok	(इतर)	Upper Sichey
+Gangtok	Gangtok	(इतर)	Upper Tadong
+Gangtok	Gangtok	(इतर)	Upper Tathangchen
+Gangtok	Gangtok	Bhusuk Naitam	Bhusuk
+Gangtok	Gangtok	Bhusuk Naitam	Naitam
+Gangtok	Gangtok	Bhusuk Naitam	Namong
+Gangtok	Gangtok	Byeng Phegyong	Sang Forest Block
+Gangtok	Gangtok	Gnathang	Gnathang
+Gangtok	Gangtok	Gnathang	Gnathang Forest Block
+Gangtok	Gangtok	Kopibari Syari	Syari
+Gangtok	Gangtok	Kyongnosla	Gangtok Forest Block
+Gangtok	Gangtok	Kyongnosla	Gnathang
+Gangtok	Gangtok	Kyongnosla	Kyongnosla Forest Block
+Gangtok	Gangtok	Luing Parbing	Luing
+Gangtok	Gangtok	Luing Parbing	Parbing
+Gangtok	Gangtok	Namli	Chuba
+Gangtok	Gangtok	Namli	Namli
+Gangtok	Gangtok	Namli	Ranipool Forest Block
+Gangtok	Gangtok	Namli	Tumlabung
+Gangtok	Gangtok	Nandok Saramsa	Nandok
+Gangtok	Gangtok	Rakdong Tintek	Rakdong
+Gangtok	Gangtok	Rakdong Tintek	Tintek
+Gangtok	Gangtok	Ranka	Ranka
+Gangtok	Gangtok	Ranka	Sangtong
+Gangtok	Gangtok	Rawatey Rumtek	Chinzey
+Gangtok	Gangtok	Rawatey Rumtek	Rawtey Rumtek
+Gangtok	Gangtok	Rawatey Rumtek	Rumtek Forest Block
+Gangtok	Gangtok	Rawatey Rumtek	Sajong Rumtek
+Gangtok	Gangtok	Rey Mendu	Lingdum
+Gangtok	Gangtok	Rey Mendu	Rey
+Gangtok	Gangtok	Rey Mendu	Rey Mendu
+Gangtok	Gangtok	Rongay Tathangchen	Rongay
+Gangtok	Gangtok	Rongay Tathangchen	Tathangchen
+Gangtok	Gangtok	Samdong Kambel	Kambal
+Gangtok	Gangtok	Samdong Kambel	Raley-Khese
+Gangtok	Gangtok	Samdong Kambel	Samdong
+Gangtok	Gangtok	Samlik Marchak	Marchak
+Gangtok	Gangtok	Samlik Marchak	Namin
+Gangtok	Pakyong	(इतर)	Assam Lingzey Forest Block
+Gangtok	Pakyong	(इतर)	Dikling Pacheykhani
+Gangtok	Pakyong	Aho Yangtam	Aho
+Gangtok	Pakyong	Aho Yangtam	Changey Senti (Tsaney)
+Gangtok	Pakyong	Aho Yangtam	Chotta Singtam
+Gangtok	Pakyong	Aho Yangtam	Yangtam
+Gangtok	Pakyong	Amba	Amba
+Gangtok	Pakyong	Assam Lingzey	Assam
+Gangtok	Pakyong	Assam Lingzey	Lingchey
+Gangtok	Pakyong	Bering Tareythang	Bering
+Gangtok	Pakyong	Bering Tareythang	Tareythang
+Gangtok	Pakyong	Chalamthang Pacheykhani	Chalamthang
+Gangtok	Pakyong	Chalamthang Pacheykhani	Losing
+Gangtok	Pakyong	Chalamthang Pacheykhani	Pacheykhani
+Gangtok	Pakyong	Chalamthang Pacheykhani	dikling
+Gangtok	Pakyong	Khamdong	Beng
+Gangtok	Pakyong	Latuk Barapathing	Chuchenpheri
+Gangtok	Pakyong	Latuk Barapathing	Latuk
+Gangtok	Pakyong	Latuk Barapathing	Pathing Forest Block
+Gangtok	Pakyong	Linkey Parakha	Linkey
+Gangtok	Pakyong	Linkey Parakha	Parkha
+Gangtok	Pakyong	Linkey Parakha	Thekabong
+Gangtok	Pakyong	Namcheybong	Namcheybong
+Gangtok	Pakyong	Pachey Samsing	Pachey
+Gangtok	Pakyong	Pakyong Yaakten	Kartok
+Gangtok	Pakyong	Pakyong Yaakten	Pakyong Bazar
+Gangtok	Pakyong	Pakyong Yaakten	Pakyong Forest Block
+Gangtok	Pakyong	Riwa Machong	Machong
+Gangtok	Pakyong	Riwa Machong	Riwa
+Gangtok	Pakyong	Taza	Taza
+Gangtok	Rabdang	Byeng Phegyong	Byeng Sang
+Gangtok	Rabdang	Byeng Phegyong	Phegyong
+Gangtok	Rabdang	Byeng Phegyong	Tirkutam
+Gangtok	Rabdang	Byeng Phegyong	Tshalumthang
+Gangtok	Rabdang	Chisopani	Chisopani
+Gangtok	Rabdang	Dung Dung Thasa	Dung Dung
+Gangtok	Rabdang	Khamdong	Budang Thangsing
+Gangtok	Rabdang	Khamdong	Khamdong
+Gangtok	Rabdang	Martam Nazitam	Martam
+Gangtok	Rabdang	Martam Nazitam	Nazitam
+Gangtok	Rabdang	Patuk Singbel	Patuk
+Gangtok	Rabdang	Patuk Singbel	Singbel
+Gangtok	Rabdang	Simik Lingzey	Aritar
+Gangtok	Rabdang	Simik Lingzey	Chadey
+Gangtok	Rabdang	Simik Lingzey	Lingzey (Simik)
+Gangtok	Rabdang	Simik Lingzey	Simik
+Gangtok	Rabdang	Sirwani	Namgeythang
+Gangtok	Rabdang	Sirwani	Rabdang
+Gangtok	Rabdang	Sirwani	Sakyong
+Gangtok	Rabdang	Sirwani	Sirwani
+Gangtok	Rabdang	Tumin	Tumen Forest Block
+Gangtok	Rabdang	Tumin	Tumin
+Gangtok	Rangpo	(इतर)	Rangpo Forest Block
+Gangtok	Rangpo	(इतर)	Singtam Forest Block
+Gangtok	Rangpo	Budang Kamerey	Kamerey Basmey
+Gangtok	Rangpo	Budang Kamerey	Pachak
+Gangtok	Rangpo	Budang Kamerey	Sajong
+Gangtok	Rangpo	Central Pendam	Central Pendam
+Gangtok	Rangpo	East Pendam	East Pendam
+Gangtok	Rangpo	East Pendam	Kamerey Basmey
+Gangtok	Rangpo	Sumin Lingzey	Lingzey
+Gangtok	Rangpo	Sumin Lingzey	Mangthang
+Gangtok	Rangpo	Sumin Lingzey	Sumin
+Gangtok	Rangpo	West Pendam	West Pendam
+Gangtok	Rongli	(इतर)	Phadamchen Forest Block
+Gangtok	Rongli	(इतर)	Rhenock Forest Block
+Gangtok	Rongli	(इतर)	Rongli Forest Block
+Gangtok	Rongli	Aritar	Aritar
+Gangtok	Rongli	Chujachen	Chujachen
+Gangtok	Rongli	Dolepchen	Dolepchen
+Gangtok	Rongli	Lingtam Phadamchen	Lingtam
+Gangtok	Rongli	Lingtam Phadamchen	Phadamchen
+Gangtok	Rongli	Premlakha Subaneydara	Premlakha
+Gangtok	Rongli	Premlakha Subaneydara	Singaneybas
+Gangtok	Rongli	Premlakha Subaneydara	Subaneydara
+Gangtok	Rongli	Regoh	North Regoh
+Gangtok	Rongli	Regoh	South Regoh
+Gangtok	Rongli	Rhenock	Rhenock
+Gangtok	Rongli	Rhenock	Rhenock Bazar
+Gangtok	Rongli	Rolep Lamaten	Lamaten
+Gangtok	Rongli	Rolep Lamaten	Rolep
+Gangtok	Rongli	Rongli Chengeylakha	Changeylakha
+Gangtok	Rongli	Rongli Chengeylakha	Rongli Bazar
+Gangtok	Rongli	Sudunglakha	Mulukey
+Gangtok	Rongli	Sudunglakha	Sudunglakha
+Gangtok	Rongli	Tarpin	Tarpin
+Gyalshing	Dentam	Bermiok Barthang	Barthang
+Gyalshing	Dentam	Bermiok Barthang	Bermiok
+Gyalshing	Dentam	Bongten Sapong	Bongten
+Gyalshing	Dentam	Bongten Sapong	Sapong
+Gyalshing	Dentam	Bongten Sapong	Srinagi
+Gyalshing	Dentam	Chingthang	Barphok
+Gyalshing	Dentam	Chingthang	Chingthang
+Gyalshing	Dentam	Chingthang	Meeyong
+Gyalshing	Dentam	Chingthang	Mengyong
+Gyalshing	Dentam	Dentam	Begha
+Gyalshing	Dentam	Dentam	Dentam
+Gyalshing	Dentam	Dentam	Dentam Forest Block
+Gyalshing	Dentam	Dentam	Mangmo
+Gyalshing	Dentam	Hee	Hee
+Gyalshing	Dentam	Karmatar Gitang	Gitang
+Gyalshing	Dentam	Karmatar Gitang	Karmatar
+Gyalshing	Dentam	Karmatar Gitang	Liching
+Gyalshing	Dentam	Maneybung	Maneybung
+Gyalshing	Dentam	Martam	Martam
+Gyalshing	Dentam	Pecherek Hee Patal	Hee-Patal
+Gyalshing	Dentam	Pecherek Hee Patal	Pecherek
+Gyalshing	Dentam	Sangkhu Radukhandu	Radukhandu
+Gyalshing	Dentam	Sangkhu Radukhandu	Sangkhu
+Gyalshing	Dentam	Sopakha	Sopakha
+Gyalshing	Gyalshing	(इतर)	Pelling Forest Blocks
+Gyalshing	Gyalshing	Bermiok Barthang	Bernyak Forest Block
+Gyalshing	Gyalshing	Darap	Darap
+Gyalshing	Gyalshing	Darap	Nambu
+Gyalshing	Gyalshing	Darap	Sindrangbong
+Gyalshing	Gyalshing	Gyalshing Omchung	Gyalshing
+Gyalshing	Gyalshing	Gyalshing Omchung	Gyalshing Forest Block
+Gyalshing	Gyalshing	Gyalshing Omchung	Omchung
+Gyalshing	Gyalshing	Lingchom Tikjya	Lingchom
+Gyalshing	Gyalshing	Lingchom Tikjya	Tikjya
+Gyalshing	Gyalshing	Sardung Lungzik	Lungzik
+Gyalshing	Gyalshing	Sardung Lungzik	Sardong
+Gyalshing	Gyalshing	Singyang Chumbung	Chumbung
+Gyalshing	Gyalshing	Singyang Chumbung	Naku
+Gyalshing	Gyalshing	Singyang Chumbung	Sindrang
+Gyalshing	Gyalshing	Singyang Chumbung	Singyang
+Gyalshing	Gyalshing	Yangten	Bhaluthang
+Gyalshing	Gyalshing	Yangten	Unglok
+Gyalshing	Gyalshing	Yangten	Yangten
+Gyalshing	Gyalshing	Yangthang	Kyongsa
+Gyalshing	Gyalshing	Yangthang	Yangthang
+Gyalshing	Mangalbarey	Deythang	Deythang
+Gyalshing	Mangalbarey	Mabong Segeng	Mabong
+Gyalshing	Mangalbarey	Mabong Segeng	Segeng
+Gyalshing	Mangalbarey	Parengoan Gp	Parenggaon
+Gyalshing	Mangalbarey	Samdong	Bara-Samdong
+Gyalshing	Mangalbarey	Samdong	Boom
+Gyalshing	Mangalbarey	Samdong	Reshi
+Gyalshing	Mangalbarey	Samdong	Sribadam
+Gyalshing	Mangalbarey	Samdong	Sribadam Forest Block
+Gyalshing	Mangalbarey	Sangadorji	Hathidunga
+Gyalshing	Mangalbarey	Sangadorji	Jeel
+Gyalshing	Mangalbarey	Sangadorji	Sangadorji
+Gyalshing	Mangalbarey	Suldung Kamling	Kamling
+Gyalshing	Mangalbarey	Suldung Kamling	Suldung
+Gyalshing	Mangalbarey	Suldung Kamling	Tinzerbong
+Gyalshing	Mangalbarey	Tadong Rinchenpong	Rinchenpong
+Gyalshing	Mangalbarey	Tadong Rinchenpong	Tadong
+Gyalshing	Mangalbarey	Takothang	Chuchen
+Gyalshing	Mangalbarey	Takothang	Takothang
+Gyalshing	Soreng	(इतर)	Nayabazar Forest Block
+Gyalshing	Soreng	Bhudang	Malbasey
+Gyalshing	Soreng	Burikhop	Burikhop
+Gyalshing	Soreng	Chakung	Chakung
+Gyalshing	Soreng	Chota Samdong Arubotey	Arubotey
+Gyalshing	Soreng	Chota Samdong Arubotey	Chota-Samdong
+Gyalshing	Soreng	Chumbong	Chumbung
+Gyalshing	Soreng	Dodak	Dodak
+Gyalshing	Soreng	Gelling Baiguney	Gelling
+Gyalshing	Soreng	Karthok Bojek	Karthok
+Gyalshing	Soreng	Khaniserbong Suntoley	Khaniserbung
+Gyalshing	Soreng	Khaniserbong Suntoley	Suntaley
+Gyalshing	Soreng	Lower Fambong	Dhallam
+Gyalshing	Soreng	Lower Fambong	Lower Fambong
+Gyalshing	Soreng	Lungchok Salyangdang	Lungchok
+Gyalshing	Soreng	Lungchok Salyangdang	Salyangdang
+Gyalshing	Soreng	Malbasay	Malbasey
+Gyalshing	Soreng	Mangsari Mangarjung	Soreng
+Gyalshing	Soreng	Mendogaon Berbotey	Mendo-Goan
+Gyalshing	Soreng	Okhrey	Hilley Forest Block
+Gyalshing	Soreng	Okhrey	Okhery
+Gyalshing	Soreng	Okhrey	Sombaria Forest Block
+Gyalshing	Soreng	Ribdi Bhareng	Bhareng
+Gyalshing	Soreng	Ribdi Bhareng	Ribdi
+Gyalshing	Soreng	Rumbuk	Burikhop Rumbuk
+Gyalshing	Soreng	Rumbuk	Rumbuk
+Gyalshing	Soreng	Samsing Pipalay	Samsing
+Gyalshing	Soreng	Siktam Tikpur	Siktam
+Gyalshing	Soreng	Siktam Tikpur	Tikpur
+Gyalshing	Soreng	Singling	Singling
+Gyalshing	Soreng	Soreng	Soreng
+Gyalshing	Soreng	Soreng	Soreng Forest Block
+Gyalshing	Soreng	Tharpu	Tharpu
+Gyalshing	Soreng	Timburbong	Timberbong
+Gyalshing	Soreng	Upper Thambong	Upper Fambong
+Gyalshing	Soreng	Zoom	Zoom
+Gyalshing	Yuksom	(इतर)	Khachodpalri Forest Block
+Gyalshing	Yuksom	Arithang Chongrong	Arithang
+Gyalshing	Yuksom	Arithang Chongrong	Chongrong
+Gyalshing	Yuksom	Dhupidara Narkhola	Dhupidara
+Gyalshing	Yuksom	Dhupidara Narkhola	Narkhola
+Gyalshing	Yuksom	Gerethang	Gerethang
+Gyalshing	Yuksom	Gerethang	Labing
+Gyalshing	Yuksom	Karzi Mangnam	Mangnam
+Gyalshing	Yuksom	Kongri Labdang	Kongri
+Gyalshing	Yuksom	Kongri Labdang	Labdang
+Gyalshing	Yuksom	Meli Aching	Meli
+Gyalshing	Yuksom	Meli Aching	Meliaching
+Gyalshing	Yuksom	Rimbi Tingbrum	Meli Singlitam
+Gyalshing	Yuksom	Rimbi Tingbrum	Meliaching
+Gyalshing	Yuksom	Rimbi Tingbrum	Tingbrum
+Gyalshing	Yuksom	Rimbi Tingbrum	Topung
+Gyalshing	Yuksom	Tashiding	Gangyep
+Gyalshing	Yuksom	Tashiding	Lasso
+Gyalshing	Yuksom	Tashiding	Tashiding
+Gyalshing	Yuksom	Tashiding	Tashiding Forest Block
+Gyalshing	Yuksom	Thingling Khacheoperi	Khacheoperi
+Gyalshing	Yuksom	Thingling Khacheoperi	Thingling I
+Gyalshing	Yuksom	Thingling Khacheoperi	Thingling II
+Gyalshing	Yuksom	Thingling Khacheoperi	Tsozo
+Gyalshing	Yuksom	Yuksom	Dubdi
+Gyalshing	Yuksom	Yuksom	Yuksam Forest Block
+Gyalshing	Yuksom	Yuksom	Yuksom
+Mangan	Chungthang	Chungthang	Chungthang
+Mangan	Chungthang	Chungthang	Tshungthang Forest Block
+Mangan	Chungthang	Lachen Dzumsa	Lachen
+Mangan	Chungthang	Lachen Dzumsa	Lachen Forest Block
+Mangan	Chungthang	Lachen Dzumsa	Thangu Forest Block
+Mangan	Chungthang	Lachung Dzumsa	Lachung
+Mangan	Chungthang	Lachung Dzumsa	Lachung Forest Block
+Mangan	Chungthang	Shipgyer	Shipgyer
+Mangan	Chungthang	Shipgyer	Shipgyer Forest Block
+Mangan	Chungthang	Toong Naga	Naga-Namgor
+Mangan	Chungthang	Toong Naga	Tung
+Mangan	Dzongu	(इतर)	Salim Pakyel
+Mangan	Dzongu	Barfok Lingdong	Barfok
+Mangan	Dzongu	Barfok Lingdong	Lingdong
+Mangan	Dzongu	Hee Gyathang	Gnon Sangdong
+Mangan	Dzongu	Hee Gyathang	Hee-Gyathang
+Mangan	Dzongu	Lingthem Lingdem	Lingdem
+Mangan	Dzongu	Lingthem Lingdem	Lingthem
+Mangan	Dzongu	Lum Gor Sangtok	Gor Taryang
+Mangan	Dzongu	Lum Gor Sangtok	Lower Dzongu Forest Block
+Mangan	Dzongu	Lum Gor Sangtok	Lum
+Mangan	Dzongu	Lum Gor Sangtok	Sangtok Sagyong
+Mangan	Dzongu	Passingdang Saffo	Lingthem
+Mangan	Dzongu	Passingdang Saffo	Salim Pakel
+Mangan	Dzongu	Sakyong Pentong	Lingja Tholung
+Mangan	Dzongu	Sakyong Pentong	Sakyong-Pentong
+Mangan	Dzongu	Tingvong	Tingvong
+Mangan	Kabi	(इतर)	Kabi Forest Block
+Mangan	Kabi	Kabi Rongpa	Kabi
+Mangan	Kabi	Kabi Rongpa	Tingda
+Mangan	Kabi	Lingchom Tingda	Tingda
+Mangan	Kabi	Lingdok Nampong	Lingdok
+Mangan	Kabi	Lingdok Nampong	Nampong
+Mangan	Kabi	Lingdok Nampong	Pangthang Forest Block
+Mangan	Kabi	Mangshila Tibuk	L. Mangshila
+Mangan	Kabi	Mangshila Tibuk	U. Mangshila
+Mangan	Kabi	Men Rongong	Chawang
+Mangan	Kabi	Men Rongong	Men-Rongong
+Mangan	Kabi	Men Rongong	Phamtam
+Mangan	Kabi	Namok Swayem	Namok
+Mangan	Kabi	Namok Swayem	Swayem
+Mangan	Kabi	Navey Shotak	Navey
+Mangan	Kabi	Navey Shotak	Penlong
+Mangan	Kabi	Navey Shotak	Shotak
+Mangan	Kabi	Phensang	Labi
+Mangan	Kabi	Phensang	Paney Phensang
+Mangan	Kabi	Ramthang Tanyak	Ramthang
+Mangan	Kabi	Ramthang Tanyak	Tangyek
+Mangan	Kabi	Rongong Tumlong	Phodong
+Mangan	Kabi	Rongong Tumlong	Phodong Forest Block
+Mangan	Kabi	Rongong Tumlong	Rongong
+Mangan	Kabi	Rongong Tumlong	Tumlong
+Mangan	Kabi	Tingchim Chadey	Tingchim
+Mangan	Mangan	Ringhim Nampatam	Mangan Forest Block
+Mangan	Mangan	Ringhim Nampatam	Nampatam
+Mangan	Mangan	Ringhim Nampatam	Ringhim
+Mangan	Mangan	Ringhim Nampatam	Singhik Sentam
+Mangan	Mangan	Sakyong Pentong	Upper Dzongu Forest Block
+Mangan	Mangan	Singhik	Kazor
+Mangan	Mangan	Singhik	Pakshep
+Mangan	Mangan	Singhik	Sentam
+Mangan	Mangan	Tingchim Chadey	Zimchung
+Mangan	Mangan	Toong Naga	Meyong
+Mangan	Mangan	Toong Naga	Naga Forest Block
+Mangan	Mangan	Toong Naga	Singchit
+Namchi	Jorethang	(इतर)	Jorethang Bazar
+Namchi	Jorethang	Assangthang	Sangbung
+Namchi	Jorethang	Mellidara Paiyong	Kerabari
+Namchi	Jorethang	Mellidara Paiyong	Melli
+Namchi	Jorethang	Mellidara Paiyong	Melli Forest Block
+Namchi	Jorethang	Mellidara Paiyong	Mellidara
+Namchi	Jorethang	Mellidara Paiyong	Paiyong
+Namchi	Jorethang	Poklok Denchung	Denchung
+Namchi	Jorethang	Poklok Denchung	Poklok
+Namchi	Jorethang	Salghari	Dhargaon
+Namchi	Jorethang	Salghari	Dorop
+Namchi	Jorethang	Salghari	Salghari
+Namchi	Jorethang	Sumbuk Kartikey	Kartikey
+Namchi	Jorethang	Sumbuk Kartikey	Sumbuk
+Namchi	Jorethang	Sumbuk Kartikey	Suntaley
+Namchi	Jorethang	Tinik Chisopani	Chisopani
+Namchi	Jorethang	Tinik Chisopani	Jorethang Forest Block
+Namchi	Jorethang	Tinik Chisopani	Tinik
+Namchi	Jorethang	Turuk Ramabung	Panchgharey
+Namchi	Jorethang	Turuk Ramabung	Ramabung
+Namchi	Jorethang	Turuk Ramabung	Turuk
+Namchi	Namchi	(इतर)	Gumpa Ghurpisey
+Namchi	Namchi	(इतर)	Majhitar Forest Block
+Namchi	Namchi	(इतर)	Namchi Bazar
+Namchi	Namchi	Assangthang	Assangthang
+Namchi	Namchi	Barnayak Tokal	Barnyak
+Namchi	Namchi	Barnayak Tokal	Thangsing
+Namchi	Namchi	Barnayak Tokal	Tokal
+Namchi	Namchi	Barnayak Tokal	Tokdey
+Namchi	Namchi	Ben Namprik	Ben
+Namchi	Namchi	Ben Namprik	Deu
+Namchi	Namchi	Ben Namprik	Namprik
+Namchi	Namchi	Boomtar Salleybong	Boomtar
+Namchi	Namchi	Boomtar Salleybong	Salleybong
+Namchi	Namchi	Boomtar Salleybong	Tinzeer
+Namchi	Namchi	Chuba Phong	Chuba
+Namchi	Namchi	Chuba Phong	Phong
+Namchi	Namchi	Damthang	Chemchey
+Namchi	Namchi	Damthang	Damthang
+Namchi	Namchi	Damthang	Jaubari
+Namchi	Namchi	Kateng Pamphok	Kateng-Bokrang
+Namchi	Namchi	Kateng Pamphok	Pamphok
+Namchi	Namchi	Kitam Manpur	Kitam
+Namchi	Namchi	Kitam Manpur	Manpur
+Namchi	Namchi	Lungchok Kamarey	Kamarey
+Namchi	Namchi	Lungchok Kamarey	Lungchok
+Namchi	Namchi	Mamley Kamrang	Kamrang
+Namchi	Namchi	Mamley Kamrang	Mamley
+Namchi	Namchi	Mamley Kamrang	Namchi Forest Block
+Namchi	Namchi	Maniram Phalidara	Maniram
+Namchi	Namchi	Maniram Phalidara	Phalidara
+Namchi	Namchi	Mikkhola Singithang	Kopchey
+Namchi	Namchi	Mikkhola Singithang	Mikkhola
+Namchi	Namchi	Mikkhola Singithang	Singhithang
+Namchi	Namchi	Nagi Karek	Kabrey
+Namchi	Namchi	Nagi Karek	Karek
+Namchi	Namchi	Nagi Karek	Nagi
+Namchi	Namchi	Namphing	Doring
+Namchi	Namchi	Namphing	Namphing
+Namchi	Namchi	Namphing	Pabong (Gangchung)
+Namchi	Namchi	Namphing	Rashyap
+Namchi	Namchi	Namphing	Tsalumthang
+Namchi	Namchi	Namthang Maneydara	KHANAMTEK
+Namchi	Namchi	Namthang Maneydara	Maneydara
+Namchi	Namchi	Namthang Maneydara	Nalam Kolbung
+Namchi	Namchi	Namthang Maneydara	Namthang Forest Block
+Namchi	Namchi	Namthang Maneydara	PAKYTAM
+Namchi	Namchi	Perbing Dovan	Perbing
+Namchi	Namchi	Rameng Nizrameng	Barul
+Namchi	Namchi	Rameng Nizrameng	Nizrameng
+Namchi	Namchi	Rameng Nizrameng	Rameng
+Namchi	Namchi	Rateypani	Passi
+Namchi	Namchi	Rateypani	Rateypani
+Namchi	Namchi	Rong Bul	Bul
+Namchi	Namchi	Rong Bul	Pallum
+Namchi	Namchi	Rong Bul	Rong
+Namchi	Namchi	Rong Bul	Singtam
+Namchi	Namchi	Sadam Suntoley	Rabitar
+Namchi	Namchi	Sadam Suntoley	Sadam
+Namchi	Namchi	Sadam Suntoley	Sukrabarey
+Namchi	Namchi	Sadam Suntoley	Suntoley
+Namchi	Namchi	Sanganath	Sanganath
+Namchi	Namchi	Sorok Shyampani	Gom
+Namchi	Namchi	Sorok Shyampani	Shyampani
+Namchi	Namchi	Sorok Shyampani	Sorok
+Namchi	Namchi	Tangzi Bikmat	Bikmat
+Namchi	Namchi	Tangzi Bikmat	Rabikhola
+Namchi	Namchi	Tangzi Bikmat	Tangzi
+Namchi	Namchi	Tarku	Tanak
+Namchi	Namchi	Tarku	Tarku
+Namchi	Namchi	Temi	Aifaltar
+Namchi	Namchi	Temi	Gangchung
+Namchi	Namchi	Temi	Temi
+Namchi	Namchi	Temi	Temi Forest Block
+Namchi	Namchi	Tingrithang	Pabong(Mamley)
+Namchi	Namchi	Tingrithang	Pakjer
+Namchi	Namchi	Tingrithang	Tingrithang
+Namchi	Namchi	Turung Mamring	Donak
+Namchi	Namchi	Turung Mamring	Mamring
+Namchi	Namchi	Turung Mamring	Mamring Forest Block
+Namchi	Namchi	Turung Mamring	Turung
+Namchi	Namchi	Wok Omchu	Chumlok
+Namchi	Namchi	Wok Omchu	Omchu
+Namchi	Namchi	Wok Omchu	Wok
+Namchi	Ravong	(इतर)	Rabongla Forest Block
+Namchi	Ravong	Barfung Zarung	Barfung
+Namchi	Ravong	Barfung Zarung	Deythang
+Namchi	Ravong	Barfung Zarung	Jarrong
+Namchi	Ravong	Borong Phamthang	Borong
+Namchi	Ravong	Borong Phamthang	Phamthang
+Namchi	Ravong	Borong Phamthang	Polok
+Namchi	Ravong	Borong Phamthang	Sada
+Namchi	Ravong	Kewzing Bakhim	Bakhim
+Namchi	Ravong	Kewzing Bakhim	Dalep
+Namchi	Ravong	Kewzing Bakhim	Kewzing
+Namchi	Ravong	Kewzing Bakhim	Kewzing Forest Block
+Namchi	Ravong	Kewzing Bakhim	Lingzo
+Namchi	Ravong	Lamting Tingmo	Hingdam
+Namchi	Ravong	Lamting Tingmo	Lamting
+Namchi	Ravong	Lamting Tingmo	Mangbrue
+Namchi	Ravong	Lamting Tingmo	Tingmo
+Namchi	Ravong	Legship	Legship
+Namchi	Ravong	Legship	Legship Forest Block
+Namchi	Ravong	Ralong Namlung	Lingding
+Namchi	Ravong	Ralong Namlung	Namlung
+Namchi	Ravong	Ralong Namlung	Ralang Forest Block
+Namchi	Ravong	Ralong Namlung	Ralong
+Namchi	Ravong	Ravang Sangmo	RABONG BAZAR
+Namchi	Ravong	Ravang Sangmo	Rabong
+Namchi	Ravong	Ravang Sangmo	Sangmoo
+Namchi	Ravong	Tinkitam Rayong	Rayong
+Namchi	Ravong	Tinkitam Rayong	Tinkitam
+Namchi	Yangang	(इतर)	Lingmo Forest Block
+Namchi	Yangang	(इतर)	Yangyang Forest Block
+Namchi	Yangang	Kolthang Tokday	Kolthang
+Namchi	Yangang	Kolthang Tokday	Tokday (Lingmo)
+Namchi	Yangang	Lingi	Lingi
+Namchi	Yangang	Lingi	Sokpay
+Namchi	Yangang	Niya Mangzing	Mangzing
+Namchi	Yangang	Niya Mangzing	Neh-Brum
+Namchi	Yangang	Paiyong	Kau
+Namchi	Yangang	Paiyong	Lingmo
+Namchi	Yangang	Paiyong	Lower Paiyong
+Namchi	Yangang	Paiyong	Pepthang
+Namchi	Yangang	Paiyong	Upper Paiyong
+Namchi	Yangang	Sripatam Gagyong	Gagyong
+Namchi	Yangang	Sripatam Gagyong	Namphok
+Namchi	Yangang	Sripatam Gagyong	Sripatam
+Namchi	Yangang	Yangang Rangang	Rangang
+Namchi	Yangang	Yangang Rangang	Satam
+Namchi	Yangang	Yangang Rangang	Yangang
+Pakyong	Pakyong	(इतर)	Arithang
+Pakyong	Pakyong	(इतर)	Assam Lingzey Forest Block
+Pakyong	Pakyong	(इतर)	Dikling Pacheykhani
+Pakyong	Pakyong	Aho Yangtam	Aho
+Pakyong	Pakyong	Aho Yangtam	Changey Senti (Tsaney)
+Pakyong	Pakyong	Aho Yangtam	Chotta Singtam
+Pakyong	Pakyong	Aho Yangtam	Yangtam
+Pakyong	Pakyong	Amba	Amba
+Pakyong	Pakyong	Assam Lingzey	Assam
+Pakyong	Pakyong	Assam Lingzey	Lingchey
+Pakyong	Pakyong	Bering Tareythang	Bering
+Pakyong	Pakyong	Bering Tareythang	Tareythang
+Pakyong	Pakyong	Chalamthang Pacheykhani	Chalamthang
+Pakyong	Pakyong	Chalamthang Pacheykhani	Losing
+Pakyong	Pakyong	Chalamthang Pacheykhani	Pacheykhani
+Pakyong	Pakyong	Chalamthang Pacheykhani	dikling
+Pakyong	Pakyong	Khamdong	Beng
+Pakyong	Pakyong	Latuk Barapathing	Chuchenpheri
+Pakyong	Pakyong	Latuk Barapathing	Latuk
+Pakyong	Pakyong	Latuk Barapathing	Pathing Forest Block
+Pakyong	Pakyong	Linkey Parakha	Linkey
+Pakyong	Pakyong	Linkey Parakha	Parkha
+Pakyong	Pakyong	Linkey Parakha	Thekabong
+Pakyong	Pakyong	Namcheybong	Namcheybong
+Pakyong	Pakyong	Pachey Samsing	Pachey
+Pakyong	Pakyong	Pakyong Yaakten	Kartok
+Pakyong	Pakyong	Pakyong Yaakten	Pakyong Bazar
+Pakyong	Pakyong	Pakyong Yaakten	Pakyong Forest Block
+Pakyong	Pakyong	Riwa Machong	Machong
+Pakyong	Pakyong	Riwa Machong	Riwa
+Pakyong	Pakyong	Taza	Taza
+Pakyong	Rangpo	(इतर)	Nagar Panchayat
+Pakyong	Rangpo	(इतर)	Rangpo
+Pakyong	Rangpo	(इतर)	Rangpo Forest Block
+Pakyong	Rangpo	(इतर)	Singtam
+Pakyong	Rangpo	(इतर)	Singtam Forest Block
+Pakyong	Rangpo	Budang Kamerey	Kamerey Basmey
+Pakyong	Rangpo	Budang Kamerey	Pachak
+Pakyong	Rangpo	Budang Kamerey	Sajong
+Pakyong	Rangpo	Central Pendam	Central Pendam
+Pakyong	Rangpo	East Pendam	East Pendam
+Pakyong	Rangpo	East Pendam	Kamerey Basmey
+Pakyong	Rangpo	Sumin Lingzey	Lingzey
+Pakyong	Rangpo	Sumin Lingzey	Mangthang
+Pakyong	Rangpo	Sumin Lingzey	Sumin
+Pakyong	Rangpo	West Pendam	West Pendam
+Pakyong	Rongli	(इतर)	Phadamchen Forest Block
+Pakyong	Rongli	(इतर)	Rhenock Forest Block
+Pakyong	Rongli	(इतर)	Rongli Forest Block
+Pakyong	Rongli	Aritar	Aritar
+Pakyong	Rongli	Chujachen	Chujachen
+Pakyong	Rongli	Dolepchen	Dolepchen
+Pakyong	Rongli	Lingtam Phadamchen	Lingtam
+Pakyong	Rongli	Lingtam Phadamchen	Phadamchen
+Pakyong	Rongli	Premlakha Subaneydara	Premlakha
+Pakyong	Rongli	Premlakha Subaneydara	Singaneybas
+Pakyong	Rongli	Premlakha Subaneydara	Subaneydara
+Pakyong	Rongli	Regoh	North Regoh
+Pakyong	Rongli	Regoh	South Regoh
+Pakyong	Rongli	Rhenock	Rhenock
+Pakyong	Rongli	Rhenock	Rhenock Bazar
+Pakyong	Rongli	Rolep Lamaten	Lamaten
+Pakyong	Rongli	Rolep Lamaten	Rolep
+Pakyong	Rongli	Rongli Chengeylakha	Changeylakha
+Pakyong	Rongli	Rongli Chengeylakha	Rongli Bazar
+Pakyong	Rongli	Sudunglakha	Mulukey
+Pakyong	Rongli	Sudunglakha	Sudunglakha
+Pakyong	Rongli	Tarpin	Tarpin
+Soreng	Mangalbarey	Deythang	Deythang
+Soreng	Mangalbarey	Mabong Segeng	Mabong
+Soreng	Mangalbarey	Mabong Segeng	Segeng
+Soreng	Mangalbarey	Parengoan Gp	Parenggaon
+Soreng	Mangalbarey	Samdong	Bara-Samdong
+Soreng	Mangalbarey	Samdong	Boom
+Soreng	Mangalbarey	Samdong	Reshi
+Soreng	Mangalbarey	Samdong	Sribadam
+Soreng	Mangalbarey	Samdong	Sribadam Forest Block
+Soreng	Mangalbarey	Sangadorji	Hathidunga
+Soreng	Mangalbarey	Sangadorji	Jeel
+Soreng	Mangalbarey	Sangadorji	Sangadorji
+Soreng	Mangalbarey	Suldung Kamling	Kamling
+Soreng	Mangalbarey	Suldung Kamling	Suldung
+Soreng	Mangalbarey	Suldung Kamling	Tinzerbong
+Soreng	Mangalbarey	Tadong Rinchenpong	Rinchenpong
+Soreng	Mangalbarey	Tadong Rinchenpong	Tadong
+Soreng	Mangalbarey	Takothang	Chuchen
+Soreng	Mangalbarey	Takothang	Takothang
+Soreng	Soreng	(इतर)	Nayabazar Forest Block
+Soreng	Soreng	Bhudang	Malbasey
+Soreng	Soreng	Burikhop	Burikhop
+Soreng	Soreng	Chakung	Chakung
+Soreng	Soreng	Chota Samdong Arubotey	Arubotey
+Soreng	Soreng	Chota Samdong Arubotey	Chota-Samdong
+Soreng	Soreng	Chumbong	Chumbung
+Soreng	Soreng	Dodak	Dodak
+Soreng	Soreng	Gelling Baiguney	Gelling
+Soreng	Soreng	Karthok Bojek	Karthok
+Soreng	Soreng	Khaniserbong Suntoley	Khaniserbung
+Soreng	Soreng	Khaniserbong Suntoley	Suntaley
+Soreng	Soreng	Lower Fambong	Dhallam
+Soreng	Soreng	Lower Fambong	Lower Fambong
+Soreng	Soreng	Lungchok Salyangdang	Lungchok
+Soreng	Soreng	Lungchok Salyangdang	Salyangdang
+Soreng	Soreng	Malbasay	Malbasey
+Soreng	Soreng	Mangsari Mangarjung	Soreng
+Soreng	Soreng	Mendogaon Berbotey	Mendo-Goan
+Soreng	Soreng	Okhrey	Hilley Forest Block
+Soreng	Soreng	Okhrey	Okhery
+Soreng	Soreng	Okhrey	Sombaria Forest Block
+Soreng	Soreng	Ribdi Bhareng	Bhareng
+Soreng	Soreng	Ribdi Bhareng	Ribdi
+Soreng	Soreng	Rumbuk	Burikhop Rumbuk
+Soreng	Soreng	Rumbuk	Rumbuk
+Soreng	Soreng	Samsing Pipalay	Samsing
+Soreng	Soreng	Siktam Tikpur	Siktam
+Soreng	Soreng	Siktam Tikpur	Tikpur
+Soreng	Soreng	Singling	Singling
+Soreng	Soreng	Soreng	Soreng
+Soreng	Soreng	Soreng	Soreng Forest Block
+Soreng	Soreng	Tharpu	Tharpu
+Soreng	Soreng	Timburbong	Timberbong
+Soreng	Soreng	Upper Thambong	Upper Fambong
+Soreng	Soreng	Zoom	Zoom

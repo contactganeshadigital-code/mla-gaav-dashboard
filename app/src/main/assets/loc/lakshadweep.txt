@@ -1,0 +1,26 @@
+Lakshadweep District	Agatti	Village(dweep)panchayat Agatti	Bangaram
+Lakshadweep District	Agatti	Village(dweep)panchayat Agatti	Kalpitti
+Lakshadweep District	Agatti	Village(dweep)panchayat Agatti	Parali (I)
+Lakshadweep District	Agatti	Village(dweep)panchayat Agatti	Parali (II)
+Lakshadweep District	Agatti	Village(dweep)panchayat Agatti	Parali (III)
+Lakshadweep District	Agatti	Village(dweep)panchayat Agatti	Tinnakara
+Lakshadweep District	Amini	Village(dweep)panchayat Amini	Amini (CT)
+Lakshadweep District	Andrott	Village(dweep)panchayat Andrott	Andrott (CT)
+Lakshadweep District	Bitra	Bitra	Bitra
+Lakshadweep District	Chetlat	Chetlat	Chetlat
+Lakshadweep District	Kadmat	Kadmat	Kadmat (CT)
+Lakshadweep District	Kalpeni	Kalpeni	Cheriyam
+Lakshadweep District	Kalpeni	Kalpeni	Kalpeni (CT)
+Lakshadweep District	Kalpeni	Kalpeni	Kodithala
+Lakshadweep District	Kalpeni	Kalpeni	Pitti (I)
+Lakshadweep District	Kalpeni	Kalpeni	Pitti (II)
+Lakshadweep District	Kalpeni	Kalpeni	Tilakkam (I)
+Lakshadweep District	Kalpeni	Kalpeni	Tilakkam (II)
+Lakshadweep District	Kalpeni	Kalpeni	Tilakkam (III)
+Lakshadweep District	Kavaratti	Kavaratti	Kavaratti (CT)
+Lakshadweep District	Kavaratti	Kavaratti	Pitti (Birds' Island)
+Lakshadweep District	Kavaratti	Kavaratti	Suheli Cheriyakara
+Lakshadweep District	Kavaratti	Kavaratti	Suheli Valiyakara
+Lakshadweep District	Kiltan	Kiltan	Kiltan
+Lakshadweep District	Minicoy	Minicoy	Minicoy (CT)
+Lakshadweep District	Minicoy	Minicoy	Viringili

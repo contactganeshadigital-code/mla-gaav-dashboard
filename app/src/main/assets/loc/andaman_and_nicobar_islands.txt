@@ -1,0 +1,559 @@
+Nicobars	Car Nicobar	(इतर)	Big Lapati
+Nicobars	Car Nicobar	(इतर)	Chuckchucha
+Nicobars	Car Nicobar	(इतर)	IAF Camp
+Nicobars	Car Nicobar	(इतर)	Kakana
+Nicobars	Car Nicobar	(इतर)	Kimois
+Nicobars	Car Nicobar	(इतर)	Kinmai
+Nicobars	Car Nicobar	(इतर)	Kinyuka
+Nicobars	Car Nicobar	(इतर)	Malacca
+Nicobars	Car Nicobar	(इतर)	Mus
+Nicobars	Car Nicobar	(इतर)	Perka
+Nicobars	Car Nicobar	(इतर)	Sawai
+Nicobars	Car Nicobar	(इतर)	Small Lapati
+Nicobars	Car Nicobar	(इतर)	Tamaloo
+Nicobars	Car Nicobar	(इतर)	Tapoiming
+Nicobars	Car Nicobar	(इतर)	Teetop
+Nicobars	Great Nicobar	(इतर)	7 km Farm
+Nicobars	Great Nicobar	(इतर)	Afra Bay
+Nicobars	Great Nicobar	(इतर)	Akupa
+Nicobars	Great Nicobar	(इतर)	Alexandera River
+Nicobars	Great Nicobar	(इतर)	Anul/Anula
+Nicobars	Great Nicobar	(इतर)	Ayouk
+Nicobars	Great Nicobar	(इतर)	Bahua
+Nicobars	Great Nicobar	(इतर)	Bewai/Kuwak
+Nicobars	Great Nicobar	(इतर)	Campbell Bay
+Nicobars	Great Nicobar	(इतर)	Chaw Nallaha
+Nicobars	Great Nicobar	(इतर)	Chingen (incl.FC at Magar Nalla
+Nicobars	Great Nicobar	(इतर)	Dairkurat
+Nicobars	Great Nicobar	(इतर)	Dakhiyon (FC)
+Nicobars	Great Nicobar	(इतर)	Danlet
+Nicobars	Great Nicobar	(इतर)	Dogmar River
+Nicobars	Great Nicobar	(इतर)	Elahi/Ilhoya
+Nicobars	Great Nicobar	(इतर)	Galathia River (FC)
+Nicobars	Great Nicobar	(इतर)	Gol Tikrey
+Nicobars	Great Nicobar	(इतर)	Hin-Pou-Chi
+Nicobars	Great Nicobar	(इतर)	Hoin incl. Ikuia
+Nicobars	Great Nicobar	(इतर)	Hokesiang
+Nicobars	Great Nicobar	(इतर)	In-Hig-Loi
+Nicobars	Great Nicobar	(इतर)	Indira Point
+Nicobars	Great Nicobar	(इतर)	Inlock/Infock
+Nicobars	Great Nicobar	(इतर)	Inlock/Pattia
+Nicobars	Great Nicobar	(इतर)	Inod
+Nicobars	Great Nicobar	(इतर)	Kasintung
+Nicobars	Great Nicobar	(इतर)	Katahu
+Nicobars	Great Nicobar	(इतर)	Kiyang
+Nicobars	Great Nicobar	(इतर)	Koe
+Nicobars	Great Nicobar	(इतर)	Kokeon
+Nicobars	Great Nicobar	(इतर)	Kondul
+Nicobars	Great Nicobar	(इतर)	Kopenheat
+Nicobars	Great Nicobar	(इतर)	Lanaya
+Nicobars	Great Nicobar	(इतर)	Lawful
+Nicobars	Great Nicobar	(इतर)	Makhahu/Makachua
+Nicobars	Great Nicobar	(इतर)	Minlana/Minlan
+Nicobars	Great Nicobar	(इतर)	Navy Dera
+Nicobars	Great Nicobar	(इतर)	Not yet named
+Nicobars	Great Nicobar	(इतर)	Not yet named (at 27.9 km)-A
+Nicobars	Great Nicobar	(इतर)	Olinchi/Bombay
+Nicobars	Great Nicobar	(इतर)	Patatiya
+Nicobars	Great Nicobar	(इतर)	Patisang
+Nicobars	Great Nicobar	(इतर)	Pattia (Pulopattia)
+Nicobars	Great Nicobar	(इतर)	Pea
+Nicobars	Great Nicobar	(इतर)	Pehayo
+Nicobars	Great Nicobar	(इतर)	Pitayo
+Nicobars	Great Nicobar	(इतर)	Pulloullo/Puloulo
+Nicobars	Great Nicobar	(इतर)	Pulobaha
+Nicobars	Great Nicobar	(इतर)	Pulobaha/Pathathifen
+Nicobars	Great Nicobar	(इतर)	Pulobed
+Nicobars	Great Nicobar	(इतर)	Pulobed/Lababu
+Nicobars	Great Nicobar	(इतर)	Pulobha/Pulobahan
+Nicobars	Great Nicobar	(इतर)	Pulobhabi
+Nicobars	Great Nicobar	(इतर)	Pulokunji
+Nicobars	Great Nicobar	(इतर)	Pulomilo
+Nicobars	Great Nicobar	(इतर)	Pulopanja
+Nicobars	Great Nicobar	(इतर)	Pulopucca
+Nicobars	Great Nicobar	(इतर)	Pulotalia/Pulotohio
+Nicobars	Great Nicobar	(इतर)	Ranganathan Bay
+Nicobars	Great Nicobar	(इतर)	Renguang
+Nicobars	Great Nicobar	(इतर)	Shompen Village-A
+Nicobars	Great Nicobar	(इतर)	Shompen Village-B
+Nicobars	Great Nicobar	(इतर)	Shompen hut
+Nicobars	Great Nicobar	(इतर)	Trinket Bay
+Nicobars	Great Nicobar	Campbell Bay	Campbell Bay
+Nicobars	Great Nicobar	Govindnagar	Govinda Nagar
+Nicobars	Great Nicobar	Laxminagar	Gandhi Nagar
+Nicobars	Great Nicobar	Laxminagar	Joginder Nagar
+Nicobars	Great Nicobar	Laxminagar	Laxmi Nagar
+Nicobars	Great Nicobar	Laxminagar	Sastri Nagar
+Nicobars	Great Nicobar	Laxminagar	Vijoy Nagar
+Nicobars	Nancowry	(इतर)	Al-Hit-Touch/Balu Basti
+Nicobars	Nancowry	(इतर)	Alhiat
+Nicobars	Nancowry	(इतर)	Alhitoth/Alhiloth*
+Nicobars	Nancowry	(इतर)	Alipa/Alips*
+Nicobars	Nancowry	(इतर)	Alkaipoh/Alkripoh*
+Nicobars	Nancowry	(इतर)	Alointung*
+Nicobars	Nancowry	(इतर)	Aloora*
+Nicobars	Nancowry	(इतर)	Aloorang
+Nicobars	Nancowry	(इतर)	Alpintu/Alpintung*
+Nicobars	Nancowry	(इतर)	Alreak*
+Nicobars	Nancowry	(इतर)	Alsama*
+Nicobars	Nancowry	(इतर)	Altaful*
+Nicobars	Nancowry	(इतर)	Altheak
+Nicobars	Nancowry	(इतर)	Alukian/Alhukheck
+Nicobars	Nancowry	(इतर)	Atkuna/Alkun*
+Nicobars	Nancowry	(इतर)	Banderkari/Pulu
+Nicobars	Nancowry	(इतर)	Bengali
+Nicobars	Nancowry	(इतर)	Berainak/Badnak
+Nicobars	Nancowry	(इतर)	Bompoka Island*
+Nicobars	Nancowry	(इतर)	Bumpal*
+Nicobars	Nancowry	(इतर)	Champin
+Nicobars	Nancowry	(इतर)	Chanel/Chanol*
+Nicobars	Nancowry	(इतर)	Changua/Changup
+Nicobars	Nancowry	(इतर)	Chengtamilan*
+Nicobars	Nancowry	(इतर)	Chonghipoh*
+Nicobars	Nancowry	(इतर)	Chongkamong
+Nicobars	Nancowry	(इतर)	Chonsiyala*
+Nicobars	Nancowry	(इतर)	Chota Inak
+Nicobars	Nancowry	(इतर)	Chukmachi
+Nicobars	Nancowry	(इतर)	Daring
+Nicobars	Nancowry	(इतर)	E-Wall
+Nicobars	Nancowry	(इतर)	Enam
+Nicobars	Nancowry	(इतर)	Hakonhala*
+Nicobars	Nancowry	(इतर)	Halnatai/Hoinatai*
+Nicobars	Nancowry	(इतर)	Hindra*
+Nicobars	Nancowry	(इतर)	Hinnunga*
+Nicobars	Nancowry	(इतर)	Hintona*
+Nicobars	Nancowry	(इतर)	Hitlat*
+Nicobars	Nancowry	(इतर)	Hockook*
+Nicobars	Nancowry	(इतर)	Hoipoh*
+Nicobars	Nancowry	(इतर)	Hontona*
+Nicobars	Nancowry	(इतर)	Hutnyak*
+Nicobars	Nancowry	(इतर)	Inmae*
+Nicobars	Nancowry	(इतर)	Inroak/Chinlak*
+Nicobars	Nancowry	(इतर)	Itoi*(HITUI)
+Nicobars	Nancowry	(इतर)	Jansin*
+Nicobars	Nancowry	(इतर)	Japan Tikri
+Nicobars	Nancowry	(इतर)	Jhoola*
+Nicobars	Nancowry	(इतर)	Kakana
+Nicobars	Nancowry	(इतर)	Kalara*
+Nicobars	Nancowry	(इतर)	Kalasi
+Nicobars	Nancowry	(इतर)	Kalminikum/Kalmenkam*
+Nicobars	Nancowry	(इतर)	Kamorta/Kalatapu(Incl.Sanuh)
+Nicobars	Nancowry	(इतर)	Kamriak*
+Nicobars	Nancowry	(इतर)	Kanahinot
+Nicobars	Nancowry	(इतर)	Kapanga*
+Nicobars	Nancowry	(इतर)	Kapila*
+Nicobars	Nancowry	(इतर)	Karan/Karav*
+Nicobars	Nancowry	(इतर)	Katahuwa*
+Nicobars	Nancowry	(इतर)	Kavatinpeu/Karahinpoh*
+Nicobars	Nancowry	(इतर)	Knot
+Nicobars	Nancowry	(इतर)	Kuikua*
+Nicobars	Nancowry	(इतर)	Kuitasuk
+Nicobars	Nancowry	(इतर)	Kulatapangia*
+Nicobars	Nancowry	(इतर)	Kumikia*
+Nicobars	Nancowry	(इतर)	Kupinga*
+Nicobars	Nancowry	(इतर)	Lanuanga*
+Nicobars	Nancowry	(इतर)	Lapat*
+Nicobars	Nancowry	(इतर)	Luxi
+Nicobars	Nancowry	(इतर)	Malacca*
+Nicobars	Nancowry	(इतर)	Manjula*
+Nicobars	Nancowry	(इतर)	Mapayala*
+Nicobars	Nancowry	(इतर)	Maru*
+Nicobars	Nancowry	(इतर)	Masala Tapu*
+Nicobars	Nancowry	(इतर)	Mavatapis/Maratapia*
+Nicobars	Nancowry	(इतर)	Meenakshi Ram Nagar
+Nicobars	Nancowry	(इतर)	Mildera
+Nicobars	Nancowry	(इतर)	Minyuk
+Nicobars	Nancowry	(इतर)	Mohreak/Kohreakap*
+Nicobars	Nancowry	(इतर)	Munak incl. Ponioo/Moul
+Nicobars	Nancowry	(इतर)	Mus*
+Nicobars	Nancowry	(इतर)	Neang*
+Nicobars	Nancowry	(इतर)	Neeche Tapu*
+Nicobars	Nancowry	(इतर)	Nyicalang*
+Nicobars	Nancowry	(इतर)	Okiya/Chiya*
+Nicobars	Nancowry	(इतर)	Olinpon/Alhinpon*
+Nicobars	Nancowry	(इतर)	Ongulongho*
+Nicobars	Nancowry	(इतर)	Payak*
+Nicobars	Nancowry	(इतर)	Payuha
+Nicobars	Nancowry	(इतर)	Pilpilow
+Nicobars	Nancowry	(इतर)	Raihion
+Nicobars	Nancowry	(इतर)	Ramzoo*(Ramjaw)
+Nicobars	Nancowry	(इतर)	Reakomlong*
+Nicobars	Nancowry	(इतर)	Safedbalu*
+Nicobars	Nancowry	(इतर)	Sanaya*
+Nicobars	Nancowry	(इतर)	Sonomkuwa*
+Nicobars	Nancowry	(इतर)	Tahaila
+Nicobars	Nancowry	(इतर)	Tanae*
+Nicobars	Nancowry	(इतर)	Tani*
+Nicobars	Nancowry	(इतर)	Tapani/Tapainy*
+Nicobars	Nancowry	(इतर)	Tapiang*
+Nicobars	Nancowry	(इतर)	Tapong incl. Kabila
+Nicobars	Nancowry	(इतर)	Tavinkin/Tavakin*
+Nicobars	Nancowry	(इतर)	Tillang Chong Island*
+Nicobars	Nancowry	(इतर)	Tomae/Inmae*
+Nicobars	Nancowry	(इतर)	Trinket*
+Nicobars	Nancowry	(इतर)	Uper Tapu*
+Nicobars	Nancowry	(इतर)	Upper Katchal
+Nicobars	Nancowry	(इतर)	Vikas Nagar
+Nicobars	Nancowry	(इतर)	Vyavtapu*
+Nicobars	Nancowry	(इतर)	W.B.Katchal/Hindra*
+North And Middle Andaman	Diglipur	Diglipur	Aam Tikry (FDCA)
+North And Middle Andaman	Diglipur	Diglipur	Amber Chad (EFA)
+North And Middle Andaman	Diglipur	Diglipur	Austin Creek (FDCA)
+North And Middle Andaman	Diglipur	Diglipur	Austin II (EFA)
+North And Middle Andaman	Diglipur	Diglipur	Austin IX (FC)
+North And Middle Andaman	Diglipur	Diglipur	Bali Nallaha (EFA)
+North And Middle Andaman	Diglipur	Diglipur	Bamboo Nallaha (EFA)
+North And Middle Andaman	Diglipur	Diglipur	Bandhan Nallaha (EFA)
+North And Middle Andaman	Diglipur	Diglipur	Bara Dabla (EFA)
+North And Middle Andaman	Diglipur	Diglipur	Baskata Nallaha (EFA)
+North And Middle Andaman	Diglipur	Diglipur	Beach Dera (EFA)
+North And Middle Andaman	Diglipur	Diglipur	Burmachad (EFA)
+North And Middle Andaman	Diglipur	Diglipur	Coffe Dera (EFA)
+North And Middle Andaman	Diglipur	Diglipur	Curlew Island (FCPA)
+North And Middle Andaman	Diglipur	Diglipur	Diglipur Part-II
+North And Middle Andaman	Diglipur	Diglipur	East Island (Police post & Light house)
+North And Middle Andaman	Diglipur	Diglipur	Elezabeth Bay (EFA)
+North And Middle Andaman	Diglipur	Diglipur	Gandhi Nagar (Forest Beat)
+North And Middle Andaman	Diglipur	Diglipur	Ganna Dabla (EFA)
+North And Middle Andaman	Diglipur	Diglipur	Ganna Level (EFA)
+North And Middle Andaman	Diglipur	Diglipur	Hara Tikry (EFA)
+North And Middle Andaman	Diglipur	Diglipur	Haran Nallaha (EFA)
+North And Middle Andaman	Diglipur	Diglipur	Haridas Kattai (EFA)
+North And Middle Andaman	Diglipur	Diglipur	Hoari Bay (EFA)
+North And Middle Andaman	Diglipur	Diglipur	Karen Basti (EFA)
+North And Middle Andaman	Diglipur	Diglipur	Khudirampur (EFA)
+North And Middle Andaman	Diglipur	Diglipur	Khudirampur (RV)
+North And Middle Andaman	Diglipur	Diglipur	Lamiya Bay (EFA)
+North And Middle Andaman	Diglipur	Diglipur	Lamiya Bay (WLS)
+North And Middle Andaman	Diglipur	Diglipur	Land Fall Island (Police post)
+North And Middle Andaman	Diglipur	Diglipur	Laxmipur (EFA)
+North And Middle Andaman	Diglipur	Diglipur	Mutha Nallaha (EFA)
+North And Middle Andaman	Diglipur	Diglipur	Narayan Tikri (EFA)
+North And Middle Andaman	Diglipur	Diglipur	Narcondam Island (Police post)
+North And Middle Andaman	Diglipur	Diglipur	Narkul Danga (EFA)
+North And Middle Andaman	Diglipur	Diglipur	Pathi Level (EFA)
+North And Middle Andaman	Diglipur	Diglipur	Pemaiahdera (FDCA)
+North And Middle Andaman	Diglipur	Diglipur	Pilone Nallaha (FDCA)
+North And Middle Andaman	Diglipur	Diglipur	Rahil (FDCA)
+North And Middle Andaman	Diglipur	Diglipur	Smith (EFA)
+North And Middle Andaman	Diglipur	Diglipur	Smith (Timber Export Depot)
+North And Middle Andaman	Diglipur	Diglipur	Srinagar (EFA)
+North And Middle Andaman	Diglipur	Diglipur	Stewart Island
+North And Middle Andaman	Diglipur	Diglipur	Tal Bagan (EFA)
+North And Middle Andaman	Diglipur	Gandhi Nagar	Gandhi Nagar
+North And Middle Andaman	Diglipur	Gandhi Nagar	Ganesh Nagar
+North And Middle Andaman	Diglipur	Gandhi Nagar	Santi Nagar
+North And Middle Andaman	Diglipur	Kalighat	Jagannath Dera (RV)
+North And Middle Andaman	Diglipur	Kalighat	Kalighat (RV)
+North And Middle Andaman	Diglipur	Kalighat	Nischintapur (RV)
+North And Middle Andaman	Diglipur	Keralapuram	Aerial Bay (RV)
+North And Middle Andaman	Diglipur	Keralapuram	Keralapuram (RV)
+North And Middle Andaman	Diglipur	Keralapuram	Sagar Dweep (RV)
+North And Middle Andaman	Diglipur	Keralapuram	Vidyasagarpalli (RV)
+North And Middle Andaman	Diglipur	Kishorinagar	Borang (RV)
+North And Middle Andaman	Diglipur	Kishorinagar	Kishori Nagar (RV)
+North And Middle Andaman	Diglipur	Kishorinagar	Mohanpur (RV)
+North And Middle Andaman	Diglipur	Kishorinagar	Paranghara (RV)
+North And Middle Andaman	Diglipur	Laxmipur	Laxmipur (RV)
+North And Middle Andaman	Diglipur	Laxmipur	Milangram (RV)
+North And Middle Andaman	Diglipur	Madhupur	Deshbandhugram (RV)
+North And Middle Andaman	Diglipur	Madhupur	Madhupur (RV)
+North And Middle Andaman	Diglipur	Madhupur	Rabindrapalli (RV)
+North And Middle Andaman	Diglipur	Nabagram	Madhyamgram (RV)
+North And Middle Andaman	Diglipur	Nabagram	Nabagram (RV)
+North And Middle Andaman	Diglipur	Paschim Sagar	Paschimsagar (EFA)
+North And Middle Andaman	Diglipur	R.k. Gram	Ramakrishnagram (RV)
+North And Middle Andaman	Diglipur	Radhanagar	Radha Nagar (EFA)
+North And Middle Andaman	Diglipur	Radhanagar	Radha Nagar (RV)
+North And Middle Andaman	Diglipur	Radhanagar	Shyam Nagar
+North And Middle Andaman	Diglipur	Radhanagar	Shyam Nagar (RV)
+North And Middle Andaman	Diglipur	Radhanagar	Swarajgram (RV)
+North And Middle Andaman	Diglipur	Ramnagar	Ramnagar (RV)
+North And Middle Andaman	Diglipur	Shibpur	Durgapur (RV)
+North And Middle Andaman	Diglipur	Shibpur	Kalipur (RV)
+North And Middle Andaman	Diglipur	Shibpur	Shibpur (RV)
+North And Middle Andaman	Diglipur	Sitanagar	Krishnapuri (RV)
+North And Middle Andaman	Diglipur	Sitanagar	Sitanagar (RV)
+North And Middle Andaman	Diglipur	Sitanagar	Sitanagar, (EFA)
+North And Middle Andaman	Diglipur	Subashgram	Diglipur Part-II
+North And Middle Andaman	Diglipur	Subashgram	Subhashgram (RV)
+North And Middle Andaman	Mayabunder	Basantipur	Basantipur (RV)
+North And Middle Andaman	Mayabunder	Basantipur	Govindpur (RV)
+North And Middle Andaman	Mayabunder	Basantipur	Paresh Nagar (RV)
+North And Middle Andaman	Mayabunder	Basantipur	Profullya Nagar (RV)
+North And Middle Andaman	Mayabunder	Chainpur	Chainpur (RV)
+North And Middle Andaman	Mayabunder	Chainpur	Hanspuri (RV) (including JPP Camps)
+North And Middle Andaman	Mayabunder	Chainpur	Pudumadurai (RV)
+North And Middle Andaman	Mayabunder	Harinagar	Harinagar (RV)
+North And Middle Andaman	Mayabunder	Harinagar	Jaipur (RV)
+North And Middle Andaman	Mayabunder	Harinagar	Kamalapur (RV)
+North And Middle Andaman	Mayabunder	Harinagar	Pinakinagar (RV)
+North And Middle Andaman	Mayabunder	Mayabunder	Asha Nagar (EFA)
+North And Middle Andaman	Mayabunder	Mayabunder	Aves Island (RV)
+North And Middle Andaman	Mayabunder	Mayabunder	Bajato (EFA & 40 acre plot)
+North And Middle Andaman	Mayabunder	Mayabunder	Bamboo Nallaha (EFA)
+North And Middle Andaman	Mayabunder	Mayabunder	Birsa Nagar (EFA)
+North And Middle Andaman	Mayabunder	Mayabunder	Buddha Nallaha (EFA)
+North And Middle Andaman	Mayabunder	Mayabunder	Chainpur (EFA)
+North And Middle Andaman	Mayabunder	Mayabunder	Chappa Nali (EFA)
+North And Middle Andaman	Mayabunder	Mayabunder	Chuglum Gum (EFA)
+North And Middle Andaman	Mayabunder	Mayabunder	Ganesh Nagar I & II (EFA)
+North And Middle Andaman	Mayabunder	Mayabunder	Ganeshpur (EFA)
+North And Middle Andaman	Mayabunder	Mayabunder	Gora Tikry (EFA)
+North And Middle Andaman	Mayabunder	Mayabunder	Interview Island (PO)
+North And Middle Andaman	Mayabunder	Mayabunder	Interview Island (WLS)
+North And Middle Andaman	Mayabunder	Mayabunder	Kanchi Nallaha (EFA) & Bamboo Nallaha (EFA)
+North And Middle Andaman	Mayabunder	Mayabunder	Karanch Khari (EFA)
+North And Middle Andaman	Mayabunder	Mayabunder	Karmatang X (EFA) incl.Bihari Plot (EFA)
+North And Middle Andaman	Mayabunder	Mayabunder	Khukari Tabla (EFA)
+North And Middle Andaman	Mayabunder	Mayabunder	Lauki Nallaha (EFA)
+North And Middle Andaman	Mayabunder	Mayabunder	Luis-in-Let-Bay (JPPC)
+North And Middle Andaman	Mayabunder	Mayabunder	Mayabunder (RV)
+North And Middle Andaman	Mayabunder	Mayabunder	Paiket Bay (EFA)
+North And Middle Andaman	Mayabunder	Mayabunder	Pather Tikry (EFA)
+North And Middle Andaman	Mayabunder	Mayabunder	Shippi Tikry (EFA)
+North And Middle Andaman	Mayabunder	Mayabunder	Sundari Khari (EFA)
+North And Middle Andaman	Mayabunder	Pahalgaon	Pahalgaon (RV)
+North And Middle Andaman	Mayabunder	Pahalgaon	Tugapur (RV)
+North And Middle Andaman	Mayabunder	Pokadera	Danpur (RV)
+North And Middle Andaman	Mayabunder	Pokadera	Pokadera (RV)
+North And Middle Andaman	Mayabunder	Rampur	Devpur (RV)
+North And Middle Andaman	Mayabunder	Rampur	Karmatang (RV)
+North And Middle Andaman	Mayabunder	Rampur	Karmatang IX (EFA)
+North And Middle Andaman	Mayabunder	Rampur	Lataw (RV)
+North And Middle Andaman	Mayabunder	Rampur	Lucknow (RV)
+North And Middle Andaman	Mayabunder	Rampur	Rampur (RV)
+North And Middle Andaman	Mayabunder	Rampur	Webi (RV)
+North And Middle Andaman	Mayabunder	Swadeshnagar	Dukennagar (RV)
+North And Middle Andaman	Mayabunder	Swadeshnagar	Santipur (RV)
+North And Middle Andaman	Mayabunder	Swadeshnagar	Swadesh Nagar (RV)
+North And Middle Andaman	Rangat	Bakultala	Bakultala RV
+North And Middle Andaman	Rangat	Bakultala	Bangaon (RV)
+North And Middle Andaman	Rangat	Bakultala	Shyamkund (RV)
+North And Middle Andaman	Rangat	Dashratpur	Desharatpur (RV)
+North And Middle Andaman	Rangat	Dashratpur	Janakpur (RV)
+North And Middle Andaman	Rangat	Dashratpur	Mithila (RV)
+North And Middle Andaman	Rangat	Dashratpur	Sitapur (RV)
+North And Middle Andaman	Rangat	Kadamtala	Kadamtala (RV)
+North And Middle Andaman	Rangat	Kadamtala	Yeratiljig (RV)
+North And Middle Andaman	Rangat	Kausalyanagar	Kaushalyanagar (RV)
+North And Middle Andaman	Rangat	Kausalyanagar	Saktigarh (RV)
+North And Middle Andaman	Rangat	Long Island	Long Island (RV)
+North And Middle Andaman	Rangat	Nilambur	Abaygarh (RV)
+North And Middle Andaman	Rangat	Nilambur	Kanchangarh (RV)
+North And Middle Andaman	Rangat	Nilambur	Khatta Khari (EFA)
+North And Middle Andaman	Rangat	Nilambur	Khatta Khari (RV)
+North And Middle Andaman	Rangat	Nilambur	Nayagarh (RV)
+North And Middle Andaman	Rangat	Nilambur	Nilambur (EFA)
+North And Middle Andaman	Rangat	Nilambur	Nilambur (RV)
+North And Middle Andaman	Rangat	Nilambur	Raglachang (RV)
+North And Middle Andaman	Rangat	Nilambur	Rajatgarh (EFA)
+North And Middle Andaman	Rangat	Nilambur	Rajatgarh (RV)
+North And Middle Andaman	Rangat	Nilambur	Wrafter's Creek (EFA)
+North And Middle Andaman	Rangat	Nilambur	Wrafter's Creek (RV)
+North And Middle Andaman	Rangat	Nimbutala	Amkunj (RV)
+North And Middle Andaman	Rangat	Nimbutala	Nimbutala (RV)
+North And Middle Andaman	Rangat	Parnasala	Parnasala (RV)
+North And Middle Andaman	Rangat	Parnasala	Parnasala II (FC)
+North And Middle Andaman	Rangat	Parnasala	Rampur (RV)
+North And Middle Andaman	Rangat	Rangat	Bamboo Tikry (JPPC)
+North And Middle Andaman	Rangat	Rangat	Between Chotaligbang and Foul Bay (JA)
+North And Middle Andaman	Rangat	Rangat	Bolcha (EFA)
+North And Middle Andaman	Rangat	Rangat	Boreham Valley (FS)
+North And Middle Andaman	Rangat	Rangat	Boroinyol II (FC)
+North And Middle Andaman	Rangat	Rangat	Charlungta (FC)
+North And Middle Andaman	Rangat	Rangat	Charlungta II (FC)
+North And Middle Andaman	Rangat	Rangat	Chotaligbang (JA)
+North And Middle Andaman	Rangat	Rangat	Cutbert Bay (EFA)
+North And Middle Andaman	Rangat	Rangat	Dhani Nallaha (EFA)
+North And Middle Andaman	Rangat	Rangat	Dhani Nallaha (JA)
+North And Middle Andaman	Rangat	Rangat	Elephenstone Harbour (FC)
+North And Middle Andaman	Rangat	Rangat	Foster Valley (EFA)
+North And Middle Andaman	Rangat	Rangat	Foul Bay (JA)
+North And Middle Andaman	Rangat	Rangat	Gol Pahar (EFA)
+North And Middle Andaman	Rangat	Rangat	Japan Tikri (EFA)
+North And Middle Andaman	Rangat	Rangat	Jermyvalley(FS)
+North And Middle Andaman	Rangat	Rangat	Kalsi (JPPC)
+North And Middle Andaman	Rangat	Rangat	Kalsi No. 3 (JPPC)
+North And Middle Andaman	Rangat	Rangat	Kalsi No. 4 (JPPC)
+North And Middle Andaman	Rangat	Rangat	Kalsi No. 6 (JPPC)
+North And Middle Andaman	Rangat	Rangat	Lakra Lungta (JA)
+North And Middle Andaman	Rangat	Rangat	Lalajig Bay (AC)
+North And Middle Andaman	Rangat	Rangat	Lorrojig (FC) & Vishnu Nallaha (APWDC)
+North And Middle Andaman	Rangat	Rangat	Macarthy Valley (EFA)
+North And Middle Andaman	Rangat	Rangat	Merk Bay (AC)
+North And Middle Andaman	Rangat	Rangat	Panchawati (EFA)
+North And Middle Andaman	Rangat	Rangat	Papita Dera (FC)
+North And Middle Andaman	Rangat	Rangat	Pawajig & Nayadera (FC)
+North And Middle Andaman	Rangat	Rangat	Pawajig (FC)
+North And Middle Andaman	Rangat	Rangat	Porlob Depot. (FC)
+North And Middle Andaman	Rangat	Rangat	Porlobjig No. 15 (FC, APWDC & JPPC)
+North And Middle Andaman	Rangat	Rangat	Porlobjig No. 3 (JPPC, APWDC & ANIFPDC)
+North And Middle Andaman	Rangat	Rangat	Porlobjig No.10 (FC & JPPC)
+North And Middle Andaman	Rangat	Rangat	Porlobjig No.9 (JPPC)
+North And Middle Andaman	Rangat	Rangat	Raglachang (Nayadera) (FC)
+North And Middle Andaman	Rangat	Rangat	Rangat (RV)
+North And Middle Andaman	Rangat	Rangat	Sagwan Nallaha (FC)
+North And Middle Andaman	Rangat	Rangat	Sanker Nallaha (PWDC)
+North And Middle Andaman	Rangat	Rangat	Sastri Nallah (FC)
+North And Middle Andaman	Rangat	Rangat	Sippi Tikry (EFA)
+North And Middle Andaman	Rangat	Rangat	South Creek (EFA, FC & APWDC)
+North And Middle Andaman	Rangat	Rangat	Spike Island (JA)
+North And Middle Andaman	Rangat	Rangat	Strait Island (AS)
+North And Middle Andaman	Rangat	Rangat	Sukha Nallaha (EFA)
+North And Middle Andaman	Rangat	Rangat	Thoraktang (FC)
+North And Middle Andaman	Rangat	Rangat	Yeratiljig No. 10 (JPPC)
+North And Middle Andaman	Rangat	Rangat	Yeratiljig No. 11 (JPPC)
+North And Middle Andaman	Rangat	Rangat	Yeratiljig No. 9 (JPPC)
+North And Middle Andaman	Rangat	Sabri	Bharatpur (RV)
+North And Middle Andaman	Rangat	Sabri	Sabari (RV)
+North And Middle Andaman	Rangat	Sabri	Vishnupur (RV)
+North And Middle Andaman	Rangat	Shivapuram	Dharmapur (RV)
+North And Middle Andaman	Rangat	Shivapuram	Padmanabhapuram (RV)
+North And Middle Andaman	Rangat	Shivapuram	Panchawati (RV)
+North And Middle Andaman	Rangat	Shivapuram	Ramachandra Nagar (RV)
+North And Middle Andaman	Rangat	Shivapuram	Shivapuram (RV)
+North And Middle Andaman	Rangat	Shivapuram	Thiruvanchikulam (RV)
+North And Middle Andaman	Rangat	Sunderghar	Adojig (RV) (including EFA)
+North And Middle Andaman	Rangat	Sunderghar	Bejoygarh (RV)
+North And Middle Andaman	Rangat	Sunderghar	Middle Strait (JPPC)
+North And Middle Andaman	Rangat	Sunderghar	Sundergarh (RV) (including EFA)
+North And Middle Andaman	Rangat	Sunderghar	Udhaygarh (RV)
+North And Middle Andaman	Rangat	Urmilapur	Kalsi (RV)
+North And Middle Andaman	Rangat	Urmilapur	Laxmanpur (RV)
+North And Middle Andaman	Rangat	Urmilapur	Urmilapur (RV)
+North And Middle Andaman	Rangat	Uttara	Santanu (RV)
+North And Middle Andaman	Rangat	Uttara	Uttara (RV)
+South Andamans	Ferrargunj	Bambooflat-i	Bambooflat Part II
+South Andamans	Ferrargunj	Bambooflat-ii	Bambooflat Part II
+South Andamans	Ferrargunj	Brindraban	Alipur (RV)
+South Andamans	Ferrargunj	Brindraban	Bindraban (RV)
+South Andamans	Ferrargunj	Brindraban	Kadakachang (RV)
+South Andamans	Ferrargunj	Brindraban	Mathura (RV)
+South Andamans	Ferrargunj	Chouldari	Badmash Pahar (RV)
+South Andamans	Ferrargunj	Chouldari	Chouldari (RV)
+South Andamans	Ferrargunj	Chouldari	Craikabad (RV)
+South Andamans	Ferrargunj	Chouldari	Flat Bay (RV)
+South Andamans	Ferrargunj	Chouldari	Port Mouat (RV)
+South Andamans	Ferrargunj	Collinpur	Colinpur (RV)
+South Andamans	Ferrargunj	Collinpur	Herbertabad (RV)
+South Andamans	Ferrargunj	Collinpur	Manpur (RV)
+South Andamans	Ferrargunj	Collinpur	Temple Myo (RV)
+South Andamans	Ferrargunj	Collinpur	Tirur (RV)
+South Andamans	Ferrargunj	Ferrargunj	Aniket (RV)
+South Andamans	Ferrargunj	Ferrargunj	Anjali Nallaha (JPPC)
+South Andamans	Ferrargunj	Ferrargunj	Beach Dera (EFA)
+South Andamans	Ferrargunj	Ferrargunj	Between Middle Strait (JPPC) & Jirkatang (JA)
+South Andamans	Ferrargunj	Ferrargunj	Caddlegunj (RV) (incl. Sona Pahar & Hazari Bagh (JPPC)
+South Andamans	Ferrargunj	Ferrargunj	Coffee Plot
+South Andamans	Ferrargunj	Ferrargunj	Ferrargunj (RV)
+South Andamans	Ferrargunj	Ferrargunj	Hashmatabad (EFA)
+South Andamans	Ferrargunj	Ferrargunj	Jhinga Nallaha (JPPC & APWDC)
+South Andamans	Ferrargunj	Ferrargunj	Jirkatang Camp No. 7 (FC)
+South Andamans	Ferrargunj	Ferrargunj	Jirkatang No. 2 (RV)
+South Andamans	Ferrargunj	Ferrargunj	Jirkatang No.2 (EFA)
+South Andamans	Ferrargunj	Ferrargunj	Manglutan (EFA)
+South Andamans	Ferrargunj	Ferrargunj	Middle Strait (JPPC)
+South Andamans	Ferrargunj	Ferrargunj	Mile Tilek (ARF)
+South Andamans	Ferrargunj	Ferrargunj	Mile Tilek (JPPC)
+South Andamans	Ferrargunj	Ferrargunj	Mile Tilek (RV) & Mile Tilek (EFA)
+South Andamans	Ferrargunj	Ferrargunj	Mrichi Dera (EFA)
+South Andamans	Ferrargunj	Ferrargunj	Nayashahar (EFA)
+South Andamans	Ferrargunj	Ferrargunj	Pongi Balu (FC) & Bada Balu (EFA)
+South Andamans	Ferrargunj	Ferrargunj	Potatang (FC)
+South Andamans	Ferrargunj	Ferrargunj	Tirur (JA)
+South Andamans	Ferrargunj	Ferrargunj	Tirur (JPPC)
+South Andamans	Ferrargunj	Ferrargunj	Tirur I (JPPC)
+South Andamans	Ferrargunj	Ferrargunj	Tirur IV (JPPC)
+South Andamans	Ferrargunj	Ferrargunj	Viper Island (RV)
+South Andamans	Ferrargunj	Guptapara	Guptapara (RV)
+South Andamans	Ferrargunj	Guptapara	Manglutan (RV)
+South Andamans	Ferrargunj	Guptapara	Manjeri (RV) & Line Dera (FC)
+South Andamans	Ferrargunj	Guptapara	Nayashahar (RV)
+South Andamans	Ferrargunj	Hopetown	Hope Town (RV)
+South Andamans	Ferrargunj	Hopetown	Madhuban (RV)
+South Andamans	Ferrargunj	Hopetown	Mount Harriet (RV)
+South Andamans	Ferrargunj	Hopetown	North Bay (RV)
+South Andamans	Ferrargunj	Humfreygunj	Dhanikhari (RV)
+South Andamans	Ferrargunj	Humfreygunj	Homfreygunj (RV)
+South Andamans	Ferrargunj	Kanyapuram	Knapuram (RV)
+South Andamans	Ferrargunj	Mannarghat	Kalatang (RV)
+South Andamans	Ferrargunj	Mannarghat	Malapuram (RV)
+South Andamans	Ferrargunj	Mannarghat	Mannarghat (RV)
+South Andamans	Ferrargunj	Mannarghat	Wright Myo (RV)
+South Andamans	Ferrargunj	Mithakhari	Mithakhari (RV)
+South Andamans	Ferrargunj	Mithakhari	Muslim Basti (RV)
+South Andamans	Ferrargunj	Mithakhari	Ograbraij (RV)
+South Andamans	Ferrargunj	Namunaghar	Dundas Point (RV)
+South Andamans	Ferrargunj	Namunaghar	Namunaghar (RV)
+South Andamans	Ferrargunj	Shoal Bay	Maymyo (EFA)
+South Andamans	Ferrargunj	Shoal Bay	Shoal Bay (RV)
+South Andamans	Ferrargunj	Shoal Bay	Shoal Bay 17 (FC)
+South Andamans	Ferrargunj	Shoal Bay	Shoal Bay 19 (FC)
+South Andamans	Ferrargunj	Shorepoint	Shore Point (RV)
+South Andamans	Ferrargunj	Stewartgunj	Bambooflat (CT)
+South Andamans	Ferrargunj	Stewartgunj	Govindapuram (RV)
+South Andamans	Ferrargunj	Stewartgunj	Stewartgunj (RV)
+South Andamans	Ferrargunj	Tushnabad	Balughat (RV)
+South Andamans	Ferrargunj	Tushnabad	Hobdipur (RV)
+South Andamans	Ferrargunj	Tushnabad	Mohwa Dera (RV)
+South Andamans	Ferrargunj	Tushnabad	Tusnabad (RV)
+South Andamans	Ferrargunj	Wandoor	Chouldari(Lohabarrack)
+South Andamans	Ferrargunj	Wandoor	Hashmatabad (RV)
+South Andamans	Ferrargunj	Wandoor	Maymyo (RV)
+South Andamans	Ferrargunj	Wandoor	Wandur (RV)
+South Andamans	Ferrargunj	Wimberlygunj	Wimberlygunj (RV)
+South Andamans	Little Andaman	Hutbay	Butler Bay Forest Camp 4-I (FDCA)
+South Andamans	Little Andaman	Hutbay	Butler Bay Forest Camp 4-II (FDCA)
+South Andamans	Little Andaman	Hutbay	Butler Bay Forest Camp 4-III (FDCA)
+South Andamans	Little Andaman	Hutbay	Butler Bay Forest Camp 4-IV (FDCA)
+South Andamans	Little Andaman	Hutbay	Forest Camp at 14 Km 5 - I (FDCA)
+South Andamans	Little Andaman	Hutbay	Forest Camp at 14 km. 5-II (FDCA)
+South Andamans	Little Andaman	Hutbay	Forest Camp at 14 km. 5-III (FDCA)
+South Andamans	Little Andaman	Hutbay	Forest Camp at 19 km. (FDCA)
+South Andamans	Little Andaman	Hutbay	Harmender Bay (NS)
+South Andamans	Little Andaman	Hutbay	Hut Bay (RV)
+South Andamans	Little Andaman	Hutbay	M/s Asia & Company (Asia Timber Product)
+South Andamans	Little Andaman	Hutbay	Red Oil Palm (Nursery Camp)
+South Andamans	Little Andaman	Hutbay	South Bay (Light House Camp)
+South Andamans	Little Andaman	Hutbay	South Bay (OS)
+South Andamans	Little Andaman	Netajinagar	Netaji Nagar (RV)
+South Andamans	Little Andaman	Rabindranagar	Rabindra Nagar (RV)
+South Andamans	Little Andaman	Ramkrishnapur	Dugong Creek (OS)
+South Andamans	Little Andaman	Ramkrishnapur	Ramakrishnapur (RV)
+South Andamans	Little Andaman	Vivekanandapur	Vivekanandapuram (RV)
+South Andamans	Port Blair	(इतर)	Brichgunj (RV)
+South Andamans	Port Blair	(इतर)	Brookshabad part (RV)
+South Andamans	Port Blair	(इतर)	Dollygunj (RV)
+South Andamans	Port Blair	(इतर)	Garacharma (CT)
+South Andamans	Port Blair	(इतर)	Minnie Bay part (RV)
+South Andamans	Port Blair	(इतर)	Pahargaon part (RV)
+South Andamans	Port Blair	(इतर)	Prothrapur (CT)
+South Andamans	Port Blair	(इतर)	School Line part (RV)
+South Andamans	Port Blair	Beodnabad	Bada Khari (FC)
+South Andamans	Port Blair	Beodnabad	Bada Nallaha/Bada Balu (EFA)
+South Andamans	Port Blair	Beodnabad	Bamboo Nallaha(EFA) incl. Kichad Nallaha(EFA)
+South Andamans	Port Blair	Beodnabad	Beadnabad (RV)
+South Andamans	Port Blair	Beodnabad	Chidiyatapu (RV)
+South Andamans	Port Blair	Beodnabad	Chidiyatapu (WLS)
+South Andamans	Port Blair	Beodnabad	Cinque Island (WLS)
+South Andamans	Port Blair	Beodnabad	John Lawrance (FC)
+South Andamans	Port Blair	Beodnabad	Munda Pahar (EFA)
+South Andamans	Port Blair	Beodnabad	North Sentinel Island (SA)
+South Andamans	Port Blair	Beodnabad	R.M.Point (FC)
+South Andamans	Port Blair	Beodnabad	Rangachang (RV)
+South Andamans	Port Blair	Beodnabad	Rutland (RV)
+South Andamans	Port Blair	Calicut	Calicut (RV)
+South Andamans	Port Blair	Govindnagar	Bejoy Nagar (RV)
+South Andamans	Port Blair	Govindnagar	Govinda Nagar (RV)
+South Andamans	Port Blair	Neil Island	Bharatpur (RV)
+South Andamans	Port Blair	Neil Island	Lakshmanpur (RV)
+South Andamans	Port Blair	Neil Island	Neil Kendra (RV)
+South Andamans	Port Blair	Neil Island	Ram Nagar (RV)
+South Andamans	Port Blair	Neil Island	Sitapur (RV)
+South Andamans	Port Blair	Shyamnagar	Krishna Nagar (RV)
+South Andamans	Port Blair	Shyamnagar	Radha Nagar (RV)
+South Andamans	Port Blair	Shyamnagar	Shyam Nagar (RV)
+South Andamans	Port Blair	Sippighat	Bimilitan (RV) & Kodiyaghat
+South Andamans	Port Blair	Sippighat	Sippighat (RV)
+South Andamans	Port Blair	Sippighat	Teylorabad (RV)
