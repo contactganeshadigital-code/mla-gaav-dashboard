@@ -96,6 +96,45 @@ class AppState(context: Context) {
         prefs.edit().putString("data", toJson()).apply()
     }
 
+    // ---- PIN recovery (security question) ----
+    private fun norm(a: String) = a.trim().lowercase().replace(Regex("\\s+"), " ")
+
+    fun hasRecovery() = prefs.getString("rec_hash", null) != null
+    fun recoveryQuestion(): String = prefs.getString("rec_q", "") ?: ""
+
+    fun setRecovery(question: String, answer: String) {
+        val salt = Base64.encodeToString(ByteArray(16).also { SecureRandom().nextBytes(it) }, Base64.NO_WRAP)
+        prefs.edit().putString("rec_q", question).putString("rec_salt", salt)
+            .putString("rec_hash", hash(norm(answer), salt))
+            .putInt("rec_fails", 0).putLong("rec_lock_until", 0).apply()
+    }
+
+    fun recoveryWaitSeconds(): Int {
+        val ms = prefs.getLong("rec_lock_until", 0) - System.currentTimeMillis()
+        return if (ms > 0) (ms / 1000).toInt() + 1 else 0
+    }
+
+    fun checkRecovery(answer: String): Boolean {
+        if (recoveryWaitSeconds() > 0) return false
+        val ok = hash(norm(answer), prefs.getString("rec_salt", "") ?: "") == prefs.getString("rec_hash", "")
+        if (ok) {
+            prefs.edit().putInt("rec_fails", 0).putLong("rec_lock_until", 0).apply()
+        } else {
+            val f = prefs.getInt("rec_fails", 0) + 1
+            val e = prefs.edit().putInt("rec_fails", f)
+            // 3 wrong answers -> wait grows: 60s, 120s, 240s ... (max 15 min)
+            if (f >= 3) e.putLong("rec_lock_until", System.currentTimeMillis() + minOf(900L, 60L shl (f - 3).coerceAtMost(4)) * 1000)
+            e.apply()
+        }
+        return ok
+    }
+
+    /** Erase PIN, recovery and ALL village data (used when PIN is forgotten) */
+    fun resetAll() {
+        prefs.edit().clear().apply()
+        villages.clear(); issues.clear(); works.clear()
+    }
+
     // ---- Village ----
     fun upsertVillage(v: Village) {
         val i = villages.indexOfFirst { it.id == v.id }

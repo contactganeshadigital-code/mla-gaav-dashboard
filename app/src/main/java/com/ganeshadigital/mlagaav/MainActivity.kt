@@ -142,7 +142,7 @@ fun Dashboard(s: AppState, onOpen: (Long) -> Unit) {
             }
         }
         item {
-            OutlinedButton(onClick = { showPin = true }, modifier = Modifier.fillMaxWidth()) { Text("🔑 PIN बदला") }
+            OutlinedButton(onClick = { showPin = true }, modifier = Modifier.fillMaxWidth()) { Text("🔑 PIN / रिकव्हरी बदला") }
         }
         if (s.villages.isNotEmpty()) {
             item { Text("गावानुसार प्रलंबित समस्या", fontWeight = FontWeight.Bold) }
