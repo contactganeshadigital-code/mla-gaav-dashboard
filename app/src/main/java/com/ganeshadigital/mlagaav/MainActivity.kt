@@ -5,6 +5,7 @@ import android.view.WindowManager
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.BackHandler
 import androidx.activity.compose.setContent
+import androidx.compose.foundation.Image
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
@@ -14,6 +15,7 @@ import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
@@ -27,7 +29,7 @@ class MainActivity : ComponentActivity() {
         window.setFlags(WindowManager.LayoutParams.FLAG_SECURE, WindowManager.LayoutParams.FLAG_SECURE)
         val state = AppState(applicationContext)
         setContent {
-            MaterialTheme(colorScheme = lightColorScheme(primary = Saffron, secondary = Green)) {
+            MaterialTheme(colorScheme = lightColorScheme(primary = Brand, secondary = Green)) {
                 Surface(Modifier.fillMaxSize()) {
                     if (unlocked) App(state) else LockScreen(state) { unlocked = true }
                 }
@@ -59,9 +61,15 @@ fun App(s: AppState) {
     Scaffold(
         topBar = {
             TopAppBar(
-                title = { Text("आमचे गाव डॅशबोर्ड", fontWeight = FontWeight.Bold) },
+                title = {
+                    Row(verticalAlignment = Alignment.CenterVertically) {
+                        Image(painterResource(R.drawable.logo), contentDescription = null, modifier = Modifier.size(36.dp))
+                        Spacer(Modifier.width(10.dp))
+                        Text("My Village Data", fontWeight = FontWeight.Bold)
+                    }
+                },
                 colors = TopAppBarDefaults.topAppBarColors(
-                    containerColor = Saffron, titleContentColor = androidx.compose.ui.graphics.Color.White
+                    containerColor = Brand, titleContentColor = androidx.compose.ui.graphics.Color.White
                 )
             )
         },
@@ -101,9 +109,9 @@ fun Dashboard(s: AppState, onOpen: (Long) -> Unit) {
     LazyColumn(Modifier.fillMaxSize().padding(12.dp), verticalArrangement = Arrangement.spacedBy(10.dp)) {
         item {
             Row(horizontalArrangement = Arrangement.spacedBy(10.dp)) {
-                StatCard("गावे", "${s.villages.size}", Saffron, Modifier.weight(1f))
+                StatCard("गावे", "${s.villages.size}", Brand, Modifier.weight(1f))
                 StatCard("लोकसंख्या", "${s.villages.sumOf { it.population }}", Green, Modifier.weight(1f))
-                StatCard("कुटुंबे", "${s.villages.sumOf { it.households }}", Saffron, Modifier.weight(1f))
+                StatCard("कुटुंबे", "${s.villages.sumOf { it.households }}", Brand, Modifier.weight(1f))
             }
         }
         item {
@@ -196,7 +204,7 @@ fun VillagesScreen(s: AppState, onOpen: (Long) -> Unit) {
         FloatingActionButton(
             onClick = { showAdd = true },
             modifier = Modifier.align(Alignment.BottomEnd).padding(16.dp),
-            containerColor = Saffron, contentColor = androidx.compose.ui.graphics.Color.White
+            containerColor = Brand, contentColor = androidx.compose.ui.graphics.Color.White
         ) { Text("+", fontSize = 28.sp) }
     }
     if (showAdd) VillageDialog(null, { showAdd = false }) { s.upsertVillage(it); showAdd = false }
@@ -245,7 +253,7 @@ fun IssuesScreen(s: AppState) {
         FloatingActionButton(
             onClick = { showAdd = true },
             modifier = Modifier.align(Alignment.BottomEnd).padding(16.dp),
-            containerColor = Saffron, contentColor = androidx.compose.ui.graphics.Color.White
+            containerColor = Brand, contentColor = androidx.compose.ui.graphics.Color.White
         ) { Text("+", fontSize = 28.sp) }
     }
     if (showAdd) IssueDialog(s, null) { showAdd = false }
@@ -294,7 +302,7 @@ fun WorksScreen(s: AppState) {
         FloatingActionButton(
             onClick = { showAdd = true },
             modifier = Modifier.align(Alignment.BottomEnd).padding(16.dp),
-            containerColor = Saffron, contentColor = androidx.compose.ui.graphics.Color.White
+            containerColor = Brand, contentColor = androidx.compose.ui.graphics.Color.White
         ) { Text("+", fontSize = 28.sp) }
     }
     if (showAdd) WorkDialog(s, null) { showAdd = false }
@@ -320,7 +328,7 @@ fun VillageDetail(s: AppState, v: Village, onBack: () -> Unit) {
                     TextButton(onClick = { delete = true }) { Text("🗑", fontSize = 18.sp) }
                 },
                 colors = TopAppBarDefaults.topAppBarColors(
-                    containerColor = Saffron, titleContentColor = androidx.compose.ui.graphics.Color.White
+                    containerColor = Brand, titleContentColor = androidx.compose.ui.graphics.Color.White
                 )
             )
         }

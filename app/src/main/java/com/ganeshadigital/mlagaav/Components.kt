@@ -14,7 +14,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 
-val Saffron = Color(0xFFE65100)
+val Brand = Color(0xFF0B4DA2)
 val Green = Color(0xFF2E7D32)
 val Amber = Color(0xFFF9A825)
 val Red = Color(0xFFC62828)

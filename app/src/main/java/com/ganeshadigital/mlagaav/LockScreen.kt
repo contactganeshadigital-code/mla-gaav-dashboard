@@ -1,11 +1,13 @@
 package com.ganeshadigital.mlagaav
 
+import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.text.input.PasswordVisualTransformation
@@ -43,8 +45,8 @@ fun LockScreen(s: AppState, onUnlock: () -> Unit) {
         verticalArrangement = Arrangement.Center,
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
-        Text("🔒", fontSize = 48.sp)
-        Text("आमचे गाव डॅशबोर्ड", fontSize = 22.sp, fontWeight = FontWeight.Bold, color = Saffron)
+        Image(painterResource(R.drawable.logo), contentDescription = "My Village Data", modifier = Modifier.size(150.dp))
+        Text("My Village Data", fontSize = 22.sp, fontWeight = FontWeight.Bold, color = Brand)
         Spacer(Modifier.height(6.dp))
         Text(if (setup) "सुरक्षेसाठी 4 ते 6 अंकी PIN सेट करा" else "PIN टाका", fontSize = 14.sp)
         Spacer(Modifier.height(18.dp))
