@@ -60,16 +60,25 @@ private fun ActionBtn(en: String, mr: String, icon: String, color: Color, modifi
 }
 
 @Composable
-fun VillageActions(s: AppState, v: Village) {
+fun VillageActions(s: AppState, v: Village, wide: Boolean = false) {
     var dlg by remember { mutableIntStateOf(0) }
-    Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
-        Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+    if (wide) {
+        Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
             ActionBtn("Government Services", "शासकीय सेवा", "🏛", SvBlue, Modifier.weight(1f)) { dlg = 1 }
             ActionBtn("Village Development", "गाव विकास", "📈", Green, Modifier.weight(1f)) { dlg = 2 }
-        }
-        Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
             ActionBtn("Village Map", "गावाचा नकाशा", "📍", SvPurple, Modifier.weight(1f)) { dlg = 3 }
             ActionBtn("Important Contacts", "महत्त्वाचे संपर्क", "👥", SvTeal, Modifier.weight(1f)) { dlg = 4 }
+        }
+    } else {
+        Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
+            Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                ActionBtn("Government Services", "शासकीय सेवा", "🏛", SvBlue, Modifier.weight(1f)) { dlg = 1 }
+                ActionBtn("Village Development", "गाव विकास", "📈", Green, Modifier.weight(1f)) { dlg = 2 }
+            }
+            Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                ActionBtn("Village Map", "गावाचा नकाशा", "📍", SvPurple, Modifier.weight(1f)) { dlg = 3 }
+                ActionBtn("Important Contacts", "महत्त्वाचे संपर्क", "👥", SvTeal, Modifier.weight(1f)) { dlg = 4 }
+            }
         }
     }
     when (dlg) {

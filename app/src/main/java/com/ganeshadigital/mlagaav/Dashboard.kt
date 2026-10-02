@@ -34,19 +34,23 @@ private fun num(i: Int) = if (i <= 0) "-" else i.toString()
 private fun ha(d: Double) = if (d <= 0.0) "-" else "%.0f हे.".format(d)
 
 @Composable
-fun Tile(en: String, mr: String, value: String, color: Color, modifier: Modifier) {
-    Card(modifier, colors = CardDefaults.cardColors(containerColor = color.copy(alpha = 0.12f))) {
-        Column(Modifier.padding(10.dp).fillMaxWidth()) {
-            Text(en, fontSize = 11.sp, color = color, fontWeight = FontWeight.Bold)
-            Text(mr, fontSize = 11.sp)
-            Text(value, fontSize = 20.sp, fontWeight = FontWeight.Bold)
+fun Tile(icon: String, en: String, mr: String, value: String, color: Color, modifier: Modifier) {
+    Card(modifier.fillMaxHeight(), colors = CardDefaults.cardColors(containerColor = color.copy(alpha = 0.12f))) {
+        Row(Modifier.padding(10.dp).fillMaxWidth(), verticalAlignment = Alignment.CenterVertically) {
+            Text(icon, fontSize = 28.sp)
+            Spacer(Modifier.width(8.dp))
+            Column {
+                Text(en, fontSize = 11.sp, color = color, fontWeight = FontWeight.Bold)
+                Text(mr, fontSize = 11.sp)
+                Text(value, fontSize = 20.sp, fontWeight = FontWeight.Bold)
+            }
         }
     }
 }
 
 @Composable
-fun SectionCard(title: String, mr: String, content: @Composable ColumnScope.() -> Unit) {
-    Card(Modifier.fillMaxWidth(), colors = CardDefaults.cardColors(containerColor = Color.White),
+fun SectionCard(title: String, mr: String, modifier: Modifier = Modifier, content: @Composable ColumnScope.() -> Unit) {
+    Card(modifier.fillMaxWidth(), colors = CardDefaults.cardColors(containerColor = Color.White),
         elevation = CardDefaults.cardElevation(2.dp)) {
         Column(Modifier.padding(12.dp)) {
             Text(title, fontWeight = FontWeight.Bold, color = Brand, fontSize = 15.sp)
@@ -88,122 +92,229 @@ fun VillageDashboard(s: AppState, v: Village, onEditInfo: () -> Unit, onEditGp: 
     val female = if (hasF) mem.count { it.gender == 1 } else if (i.female > 0) i.female else (v.population - i.male).coerceAtLeast(0)
     val total = if (hasF) mem.size else if (v.population > 0) v.population else male + female
 
-    Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
-        Image(
-            painterResource(R.drawable.banner), contentDescription = "My Village Data",
-            contentScale = androidx.compose.ui.layout.ContentScale.FillWidth,
-            modifier = Modifier.fillMaxWidth().clip(RoundedCornerShape(12.dp))
-        )
-        // Header strip
-        Card(Modifier.fillMaxWidth(), colors = CardDefaults.cardColors(containerColor = Brand)) {
-            Column(Modifier.padding(12.dp)) {
-                Text("गावाचे नाव / Village", fontSize = 11.sp, color = Color.White.copy(alpha = 0.8f))
-                Text(v.name, fontSize = 20.sp, fontWeight = FontWeight.Bold, color = Color.White)
-                Spacer(Modifier.height(4.dp))
-                Text("तालुका: ${v.taluka}   जिल्हा: ${v.district}", fontSize = 12.sp, color = Color.White)
-                Text("शेवटची अपडेट: ${i.updated.ifBlank { "-" }}", fontSize = 12.sp, color = Color.White)
-            }
-        }
-        Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-            Tile("Total Population", "एकूण लोकसंख्या", num(total), Blue, Modifier.weight(1f))
-            Tile("Total Families", "एकूण कुटुंबे", num(famCount), Green, Modifier.weight(1f))
-        }
-        Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-            Tile("Male", "पुरुष", num(male), Blue, Modifier.weight(1f))
-            Tile("Female", "महिला", num(female), Pink, Modifier.weight(1f))
-            Tile("Literacy", "साक्षरता", pct(i.literacy), Orange, Modifier.weight(1f))
-        }
-        Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-            Tile("Houses", "एकूण घरे", num(i.houses), Purple, Modifier.weight(1f))
-            Tile("Water", "पाणी सुविधा", if (i.water > 0) "${i.water}%" else "-", Teal, Modifier.weight(1f))
-            Tile("Electricity", "वीज सुविधा", if (i.elec > 0) "${i.elec}%" else "-", Orange, Modifier.weight(1f))
-        }
-        Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-            Tile("Schools / Anganwadi", "शाळा / अंगणवाडी", "${i.schools} / ${i.anganwadi}", Green, Modifier.weight(1f))
-            Tile("Health Facilities", "आरोग्य सुविधा", num(i.health), Red, Modifier.weight(1f))
-        }
-
-        // Gender donut
-        SectionCard("Population by Gender", "लिंगानुसार लोकसंख्या") {
-            Row(verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(16.dp)) {
-                Box(Modifier.size(110.dp), contentAlignment = Alignment.Center) {
-                    Canvas(Modifier.fillMaxSize()) {
-                        val sw = 28f
-                        val sz = Size(size.width - sw, size.height - sw)
-                        val tl = Offset(sw / 2, sw / 2)
-                        val t = (male + female).toFloat()
-                        if (t <= 0f) {
-                            drawArc(Color.LightGray, 0f, 360f, false, topLeft = tl, size = sz, style = Stroke(sw))
-                        } else {
-                            val m = 360f * male / t
-                            drawArc(Blue, -90f, m, false, topLeft = tl, size = sz, style = Stroke(sw))
-                            drawArc(Pink, -90f + m, 360f - m, false, topLeft = tl, size = sz, style = Stroke(sw))
+    val ctx = LocalContext.current
+    BoxWithConstraints(Modifier.fillMaxWidth()) {
+        val wide = maxWidth >= 600.dp
+        Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
+            Image(
+                painterResource(R.drawable.banner), contentDescription = "My Village Data",
+                contentScale = androidx.compose.ui.layout.ContentScale.FillWidth,
+                modifier = Modifier.fillMaxWidth().clip(RoundedCornerShape(12.dp))
+            )
+            // Header strip (village / taluka / district / last updated)
+            Card(Modifier.fillMaxWidth(), colors = CardDefaults.cardColors(containerColor = Brand)) {
+                Column(Modifier.padding(12.dp), verticalArrangement = Arrangement.spacedBy(10.dp)) {
+                    if (wide) {
+                        Row(Modifier.fillMaxWidth()) {
+                            HeaderCell("📍", "गावाचे नाव / Village", v.name, Modifier.weight(1f))
+                            HeaderCell("🏛", "तालुका / Taluka", v.taluka, Modifier.weight(1f))
+                            HeaderCell("🏢", "जिल्हा / District", v.district, Modifier.weight(1f))
+                            HeaderCell("📅", "शेवटची अपडेट / Last Updated", i.updated.ifBlank { "-" }, Modifier.weight(1f))
+                        }
+                    } else {
+                        Row(Modifier.fillMaxWidth()) {
+                            HeaderCell("📍", "गावाचे नाव / Village", v.name, Modifier.weight(1f))
+                            HeaderCell("🏛", "तालुका / Taluka", v.taluka, Modifier.weight(1f))
+                        }
+                        Row(Modifier.fillMaxWidth()) {
+                            HeaderCell("🏢", "जिल्हा / District", v.district, Modifier.weight(1f))
+                            HeaderCell("📅", "शेवटची अपडेट", i.updated.ifBlank { "-" }, Modifier.weight(1f))
                         }
                     }
-                    Text(num(male + female), fontWeight = FontWeight.Bold)
-                }
-                Column {
-                    val t = (male + female).coerceAtLeast(1)
-                    Text("● पुरुष: $male (${"%.1f".format(100.0 * male / t)}%)", color = Blue)
-                    Text("● महिला: $female (${"%.1f".format(100.0 * female / t)}%)", color = Pink)
                 }
             }
-        }
 
-        // Education bars
-        SectionCard("Education Level", "शिक्षण स्तर") {
-            val bars = listOf(
-                Triple("साक्षर", i.literacy, Green), Triple("प्राथमिक", i.eduPrimary, Blue),
-                Triple("माध्यमिक", i.eduSecondary, Orange), Triple("उच्च", i.eduHigher, Purple)
+            // Tiles: 5 per row on wide screens, 2 per row on phones
+            TileGrid(
+                if (wide) 5 else 2,
+                listOf<@Composable (Modifier) -> Unit>(
+                    { m -> Tile("👥", "Total Population", "एकूण लोकसंख्या", num(total), Blue, m) },
+                    { m -> Tile("🏠", "Total Families", "एकूण कुटुंबे", num(famCount), Green, m) },
+                    { m -> Tile("🧍", "Male Population", "पुरुष लोकसंख्या", num(male), Blue, m) },
+                    { m -> Tile("👩", "Female Population", "महिला लोकसंख्या", num(female), Pink, m) },
+                    { m -> Tile("🎓", "Literacy Rate", "साक्षरता दर", pct(i.literacy), Orange, m) },
+                    { m -> Tile("🏘", "Total Houses", "एकूण घरे", num(i.houses), Purple, m) },
+                    { m -> Tile("🚰", "Water Facilities", "पाणी सुविधा", if (i.water > 0) "${i.water}%" else "-", Teal, m) },
+                    { m -> Tile("⚡", "Electricity", "वीज सुविधा", if (i.elec > 0) "${i.elec}%" else "-", Orange, m) },
+                    { m -> Tile("🏫", "Schools & Anganwadi", "शाळा व अंगणवाडी", "${i.schools} / ${i.anganwadi}", Green, m) },
+                    { m -> Tile("➕", "Health Facilities", "आरोग्य सुविधा", num(i.health), Red, m) }
+                )
             )
-            Row(Modifier.fillMaxWidth().height(150.dp), verticalAlignment = Alignment.Bottom) {
-                bars.forEach { (label, value, c) ->
-                    Column(Modifier.weight(1f), horizontalAlignment = Alignment.CenterHorizontally, verticalArrangement = Arrangement.Bottom) {
-                        Text(pct(value), fontSize = 11.sp, fontWeight = FontWeight.Bold)
-                        Box(
-                            Modifier.fillMaxWidth(0.55f).height((value.coerceIn(0.0, 100.0) * 1.0).dp.coerceAtLeast(2.dp))
-                                .background(c, RoundedCornerShape(topStart = 4.dp, topEnd = 4.dp))
-                        )
-                        Text(label, fontSize = 11.sp)
+
+            // Gender | Education | Map
+            if (wide) {
+                Row(Modifier.fillMaxWidth().height(IntrinsicSize.Min), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                    GenderCard(male, female, Modifier.weight(1f).fillMaxHeight())
+                    EduCard(i, Modifier.weight(1f).fillMaxHeight())
+                    MapCard(v, i, Modifier.weight(1f).fillMaxHeight())
+                }
+            } else {
+                GenderCard(male, female, Modifier)
+                EduCard(i, Modifier)
+                MapCard(v, i, Modifier)
+            }
+
+            // Overview | Agriculture | Contacts
+            if (wide) {
+                Row(Modifier.fillMaxWidth().height(IntrinsicSize.Min), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                    OverviewCard(i, Modifier.weight(1f).fillMaxHeight())
+                    AgriCard(i, Modifier.weight(1f).fillMaxHeight())
+                    ContactsCard(v, gc, onEditGp, Modifier.weight(1f).fillMaxHeight())
+                }
+            } else {
+                OverviewCard(i, Modifier)
+                AgriCard(i, Modifier)
+                ContactsCard(v, gc, onEditGp, Modifier)
+            }
+
+            Button(onClick = onEditInfo, modifier = Modifier.fillMaxWidth()) { Text("✏️ गावाची विस्तृत माहिती भरा / बदला") }
+            VillageActions(s, v, wide)
+            Box(Modifier.fillMaxWidth().background(Brand, RoundedCornerShape(10.dp)).padding(12.dp), contentAlignment = Alignment.Center) {
+                Text("🌱 Developed Village  ✦  Prosperous Village  ✦  Happy Village 🌱", color = Color.White, fontSize = 12.sp, fontWeight = FontWeight.Medium)
+            }
+        }
+    }
+}
+
+@Composable
+private fun HeaderCell(icon: String, label: String, value: String, modifier: Modifier) {
+    Row(modifier, verticalAlignment = Alignment.CenterVertically) {
+        Text(icon, fontSize = 22.sp)
+        Spacer(Modifier.width(8.dp))
+        Column {
+            Text(label, fontSize = 11.sp, color = Color.White.copy(alpha = 0.8f))
+            Text(value, fontSize = 15.sp, fontWeight = FontWeight.Bold, color = Color.White)
+        }
+    }
+}
+
+@Composable
+private fun TileGrid(cols: Int, items: List<@Composable (Modifier) -> Unit>) {
+    Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
+        items.chunked(cols).forEach { row ->
+            Row(Modifier.fillMaxWidth().height(IntrinsicSize.Min), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                row.forEach { it(Modifier.weight(1f)) }
+                repeat(cols - row.size) { Spacer(Modifier.weight(1f)) }
+            }
+        }
+    }
+}
+
+@Composable
+private fun GenderCard(male: Int, female: Int, modifier: Modifier) {
+    SectionCard("Population by Gender", "लिंगानुसार लोकसंख्या", modifier) {
+        Column(Modifier.fillMaxWidth(), horizontalAlignment = Alignment.CenterHorizontally, verticalArrangement = Arrangement.spacedBy(8.dp)) {
+            Box(Modifier.size(120.dp), contentAlignment = Alignment.Center) {
+                Canvas(Modifier.fillMaxSize()) {
+                    val sw = 30f
+                    val sz = Size(size.width - sw, size.height - sw)
+                    val tl = Offset(sw / 2, sw / 2)
+                    val t = (male + female).toFloat()
+                    if (t <= 0f) {
+                        drawArc(Color.LightGray, 0f, 360f, false, topLeft = tl, size = sz, style = Stroke(sw))
+                    } else {
+                        val m = 360f * male / t
+                        drawArc(Blue, -90f, m, false, topLeft = tl, size = sz, style = Stroke(sw))
+                        drawArc(Pink, -90f + m, 360f - m, false, topLeft = tl, size = sz, style = Stroke(sw))
                     }
                 }
+                Column(horizontalAlignment = Alignment.CenterHorizontally) {
+                    Text("Total", fontSize = 11.sp)
+                    Text(num(male + female), fontWeight = FontWeight.Bold, fontSize = 18.sp)
+                }
             }
+            val t = (male + female).coerceAtLeast(1)
+            Text("● Male / पुरुष: $male (${"%.1f".format(100.0 * male / t)}%)", color = Blue, fontSize = 13.sp)
+            Text("● Female / महिला: $female (${"%.1f".format(100.0 * female / t)}%)", color = Pink, fontSize = 13.sp)
         }
+    }
+}
 
-        // Overview + agriculture
-        SectionCard("Village Overview", "गावाचा आढावा") {
-            Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.SpaceBetween) {
-                Column { Text("एकूण क्षेत्रफळ", fontSize = 11.sp); Text(ha(i.areaHa), fontWeight = FontWeight.Bold) }
-                Column { Text("शेती जमीन", fontSize = 11.sp); Text(ha(i.agriHa), fontWeight = FontWeight.Bold) }
-                Column { Text("वनक्षेत्र", fontSize = 11.sp); Text(ha(i.forestHa), fontWeight = FontWeight.Bold) }
-                Column { Text("जलस्रोत", fontSize = 11.sp); Text(num(i.waterBodies), fontWeight = FontWeight.Bold) }
+@Composable
+private fun EduCard(i: Info, modifier: Modifier) {
+    SectionCard("Education Level", "शिक्षण स्तर", modifier) {
+        val bars = listOf(
+            Triple("Literate\nसाक्षर", i.literacy, Green), Triple("Primary\nप्राथमिक", i.eduPrimary, Blue),
+            Triple("Secondary\nमाध्यमिक", i.eduSecondary, Orange), Triple("Higher\nउच्च", i.eduHigher, Purple)
+        )
+        Row(Modifier.fillMaxWidth().height(170.dp), verticalAlignment = Alignment.Bottom) {
+            bars.forEach { (label, value, c) ->
+                Column(Modifier.weight(1f), horizontalAlignment = Alignment.CenterHorizontally, verticalArrangement = Arrangement.Bottom) {
+                    Text(pct(value), fontSize = 11.sp, fontWeight = FontWeight.Bold)
+                    Box(
+                        Modifier.fillMaxWidth(0.55f).height((value.coerceIn(0.0, 100.0) * 1.0).dp.coerceAtLeast(2.dp))
+                            .background(c, RoundedCornerShape(topStart = 4.dp, topEnd = 4.dp))
+                    )
+                    Text(label, fontSize = 10.sp, textAlign = androidx.compose.ui.text.style.TextAlign.Center)
+                }
             }
         }
-        SectionCard("Agriculture & Land", "शेती व जमीन") {
-            Text("कसुती जमीन: ${ha(i.agriHa)}")
-            Text("सिंचन: ${if (i.irrigation > 0) "${i.irrigation}%" else "-"}")
-            Text("मुख्य पिके: ${i.crops.ifBlank { "-" }}")
-        }
+    }
+}
 
-        // Contacts (per Gram Panchayat)
-        SectionCard("Important Contacts", "महत्त्वाचे संपर्क") {
-            Text("ग्रामपंचायत: ${v.gp}", fontSize = 12.sp, fontWeight = FontWeight.Medium)
-            ContactRow("सरपंच / Sarpanch", gc?.sarpanch ?: "", gc?.sarpanchPhone ?: "")
-            ContactRow("ग्रामसेवक / Gram Sevak", gc?.gramsevak ?: "", gc?.gramsevakPhone ?: "")
-            ContactRow("पोलीस / Police", "", "100")
-            ContactRow("रुग्णवाहिका / Ambulance", "", "108")
-            ContactRow("आपत्कालीन / Emergency", "", "112")
-            if (gc == null) Text("या ग्रामपंचायतीचे संपर्क अजून भरलेले नाहीत.", fontSize = 12.sp, color = Red)
-            OutlinedButton(onClick = onEditGp, modifier = Modifier.fillMaxWidth()) {
-                Text("✏️ ग्रामपंचायत संपर्क भरा / बदला")
+@Composable
+private fun MapCard(v: Village, i: Info, modifier: Modifier) {
+    val ctx = LocalContext.current
+    val query = if (i.lat != 0.0 && i.lon != 0.0) "${i.lat},${i.lon}" else "${v.name}, ${v.taluka}, ${v.district}, ${v.state}"
+    SectionCard("Village Map", "गावाचा नकाशा", modifier) {
+        Column(Modifier.fillMaxWidth(), horizontalAlignment = Alignment.CenterHorizontally, verticalArrangement = Arrangement.spacedBy(8.dp)) {
+            Text("📍", fontSize = 44.sp)
+            Text(v.name, fontWeight = FontWeight.Bold)
+            Text("ता. ${v.taluka}, जि. ${v.district}", fontSize = 12.sp)
+            Button(onClick = { openUrl(ctx, "https://www.google.com/maps/search/?api=1&query=" + Uri.encode(query)) }) {
+                Text("🗺 Google Maps मध्ये उघडा", fontSize = 12.sp)
             }
-            Text("हे संपर्क '${v.gp}' मधील सर्व गावांना आपोआप दिसतात.", fontSize = 11.sp)
         }
-        Button(onClick = onEditInfo, modifier = Modifier.fillMaxWidth()) { Text("✏️ गावाची विस्तृत माहिती भरा / बदला") }
-        VillageActions(s, v)
-        Box(Modifier.fillMaxWidth().background(Brand, RoundedCornerShape(10.dp)).padding(12.dp), contentAlignment = Alignment.Center) {
-            Text("🌱 Developed Village  ✦  Prosperous Village  ✦  Happy Village 🌱", color = Color.White, fontSize = 12.sp, fontWeight = FontWeight.Medium)
+    }
+}
+
+@Composable
+private fun OverviewCard(i: Info, modifier: Modifier) {
+    SectionCard("Village Overview", "गावाचा आढावा", modifier) {
+        Row(Modifier.fillMaxWidth()) {
+            OvItem("🌳", "एकूण क्षेत्रफळ", ha(i.areaHa), Modifier.weight(1f))
+            OvItem("🌾", "शेती जमीन", ha(i.agriHa), Modifier.weight(1f))
         }
+        Spacer(Modifier.height(8.dp))
+        Row(Modifier.fillMaxWidth()) {
+            OvItem("🌲", "वनक्षेत्र", ha(i.forestHa), Modifier.weight(1f))
+            OvItem("💧", "जलस्रोत", num(i.waterBodies), Modifier.weight(1f))
+        }
+    }
+}
+
+@Composable
+private fun OvItem(icon: String, label: String, value: String, modifier: Modifier) {
+    Row(modifier, verticalAlignment = Alignment.CenterVertically) {
+        Text(icon, fontSize = 24.sp)
+        Spacer(Modifier.width(6.dp))
+        Column { Text(label, fontSize = 11.sp); Text(value, fontWeight = FontWeight.Bold) }
+    }
+}
+
+@Composable
+private fun AgriCard(i: Info, modifier: Modifier) {
+    SectionCard("Agriculture & Land", "शेती व जमीन", modifier) {
+        Text("• कसुती जमीन: ${ha(i.agriHa)}")
+        Text("• सिंचन: ${if (i.irrigation > 0) "${i.irrigation}%" else "-"}")
+        Text("• मुख्य पिके: ${i.crops.ifBlank { "-" }}")
+    }
+}
+
+@Composable
+private fun ContactsCard(v: Village, gc: GpContact?, onEditGp: () -> Unit, modifier: Modifier) {
+    SectionCard("Important Contacts", "महत्त्वाचे संपर्क", modifier) {
+        Text("ग्रामपंचायत: ${v.gp}", fontSize = 12.sp, fontWeight = FontWeight.Medium)
+        ContactRow("सरपंच / Sarpanch", gc?.sarpanch ?: "", gc?.sarpanchPhone ?: "")
+        ContactRow("ग्रामसेवक / Gram Sevak", gc?.gramsevak ?: "", gc?.gramsevakPhone ?: "")
+        ContactRow("पोलीस / Police", "", "100")
+        ContactRow("रुग्णवाहिका / Ambulance", "", "108")
+        ContactRow("आपत्कालीन / Emergency", "", "112")
+        if (gc == null) Text("या ग्रामपंचायतीचे संपर्क अजून भरलेले नाहीत.", fontSize = 12.sp, color = Red)
+        OutlinedButton(onClick = onEditGp, modifier = Modifier.fillMaxWidth()) {
+            Text("✏️ ग्रामपंचायत संपर्क भरा / बदला", fontSize = 12.sp)
+        }
+        Text("हे संपर्क '${v.gp}' मधील सर्व गावांना आपोआप दिसतात.", fontSize = 11.sp)
     }
 }
 
