@@ -200,6 +200,7 @@ fun VillageDashboard(s: AppState, v: Village, onEditInfo: () -> Unit, onEditGp: 
             Text("हे संपर्क '${v.gp}' मधील सर्व गावांना आपोआप दिसतात.", fontSize = 11.sp)
         }
         Button(onClick = onEditInfo, modifier = Modifier.fillMaxWidth()) { Text("✏️ गावाची विस्तृत माहिती भरा / बदला") }
+        VillageActions(s, v)
         Box(Modifier.fillMaxWidth().background(Brand, RoundedCornerShape(10.dp)).padding(12.dp), contentAlignment = Alignment.Center) {
             Text("🌱 Developed Village  ✦  Prosperous Village  ✦  Happy Village 🌱", color = Color.White, fontSize = 12.sp, fontWeight = FontWeight.Medium)
         }
@@ -265,6 +266,8 @@ fun InfoDialog(s: AppState, v: Village, onDismiss: () -> Unit) {
     var wb by remember { mutableStateOf(i(o.waterBodies)) }
     var irr by remember { mutableStateOf(i(o.irrigation)) }
     var crops by remember { mutableStateOf(o.crops) }
+    var lat by remember { mutableStateOf(d(o.lat)) }
+    var lon by remember { mutableStateOf(d(o.lon)) }
     FormDialog("${v.name} – विस्तृत माहिती", onDismiss, onSave = {
         s.upsertInfo(v.id, Info(
             male.toIntOrNull() ?: 0, female.toIntOrNull() ?: 0, lit.toDoubleOrNull() ?: 0.0,
@@ -272,28 +275,32 @@ fun InfoDialog(s: AppState, v: Village, onDismiss: () -> Unit) {
             houses.toIntOrNull() ?: 0, (water.toIntOrNull() ?: 0).coerceIn(0, 100), (elec.toIntOrNull() ?: 0).coerceIn(0, 100),
             schools.toIntOrNull() ?: 0, angan.toIntOrNull() ?: 0, health.toIntOrNull() ?: 0,
             area.toDoubleOrNull() ?: 0.0, agri.toDoubleOrNull() ?: 0.0, forest.toDoubleOrNull() ?: 0.0,
-            wb.toIntOrNull() ?: 0, (irr.toIntOrNull() ?: 0).coerceIn(0, 100), crops.trim(), today()
+            wb.toIntOrNull() ?: 0, (irr.toIntOrNull() ?: 0).coerceIn(0, 100), crops.trim(), today(),
+            lat.toDoubleOrNull() ?: 0.0, lon.toDoubleOrNull() ?: 0.0
         ))
         onDismiss()
     }) {
         Text("एकूण लोकसंख्या आणि कुटुंबे गाव संपादित करा मधून बदला.", fontSize = 11.sp)
         Field("पुरुष लोकसंख्या", male, { male = it }, number = true)
         Field("महिला लोकसंख्या", female, { female = it }, number = true)
-        Field("साक्षरता दर (%)", lit, { lit = it }, number = true)
-        Field("प्राथमिक शिक्षण (%)", prim, { prim = it }, number = true)
-        Field("माध्यमिक शिक्षण (%)", sec, { sec = it }, number = true)
-        Field("उच्च शिक्षण (%)", high, { high = it }, number = true)
+        Field("साक्षरता दर (%)", lit, { lit = it }, decimal = true)
+        Field("प्राथमिक शिक्षण (%)", prim, { prim = it }, decimal = true)
+        Field("माध्यमिक शिक्षण (%)", sec, { sec = it }, decimal = true)
+        Field("उच्च शिक्षण (%)", high, { high = it }, decimal = true)
         Field("एकूण घरे", houses, { houses = it }, number = true)
         Field("पाणी सुविधा (%)", water, { water = it }, number = true)
         Field("वीज सुविधा (%)", elec, { elec = it }, number = true)
         Field("शाळा संख्या", schools, { schools = it }, number = true)
         Field("अंगणवाडी संख्या", angan, { angan = it }, number = true)
         Field("आरोग्य केंद्र संख्या", health, { health = it }, number = true)
-        Field("एकूण क्षेत्रफळ (हेक्टर)", area, { area = it }, number = true)
-        Field("शेती जमीन (हेक्टर)", agri, { agri = it }, number = true)
-        Field("वनक्षेत्र (हेक्टर)", forest, { forest = it }, number = true)
+        Field("एकूण क्षेत्रफळ (हेक्टर)", area, { area = it }, decimal = true)
+        Field("शेती जमीन (हेक्टर)", agri, { agri = it }, decimal = true)
+        Field("वनक्षेत्र (हेक्टर)", forest, { forest = it }, decimal = true)
         Field("जलस्रोत संख्या", wb, { wb = it }, number = true)
         Field("सिंचन (%)", irr, { irr = it }, number = true)
         Field("मुख्य पिके", crops, { crops = it })
+        Text("नकाशासाठी (ऐच्छिक): Google Maps मध्ये गावावर दाबून धरा, वर दिसणारे आकडे कॉपी करा.", fontSize = 11.sp)
+        Field("अक्षांश (Latitude)", lat, { lat = it }, decimal = true)
+        Field("रेखांश (Longitude)", lon, { lon = it }, decimal = true)
     }
 }

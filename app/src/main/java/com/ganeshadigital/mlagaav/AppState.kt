@@ -42,8 +42,11 @@ data class Info(
     val houses: Int = 0, val water: Int = 0, val elec: Int = 0,
     val schools: Int = 0, val anganwadi: Int = 0, val health: Int = 0,
     val areaHa: Double = 0.0, val agriHa: Double = 0.0, val forestHa: Double = 0.0,
-    val waterBodies: Int = 0, val irrigation: Int = 0, val crops: String = "", val updated: String = ""
+    val waterBodies: Int = 0, val irrigation: Int = 0, val crops: String = "", val updated: String = "",
+    val lat: Double = 0.0, val lon: Double = 0.0
 )
+
+data class VContact(val id: Long, val villageId: Long, val label: String, val name: String, val phone: String)
 
 data class Member(val id: Long, val name: String, val relation: String, val gender: Int, val age: Int, val occupation: String)
 
@@ -112,6 +115,7 @@ class AppState(context: Context) {
     val works = mutableStateListOf<Work>()
     val infos = mutableStateMapOf<Long, Info>()
     val families = mutableStateListOf<Family>()
+    val contacts = mutableStateListOf<VContact>()
     val gps = mutableStateMapOf<String, GpContact>()
 
     init {
@@ -160,7 +164,7 @@ class AppState(context: Context) {
     /** Erase PIN, recovery and ALL village data (used when PIN is forgotten) */
     fun resetAll() {
         prefs.edit().clear().apply()
-        villages.clear(); issues.clear(); works.clear(); infos.clear(); gps.clear(); families.clear()
+        villages.clear(); issues.clear(); works.clear(); infos.clear(); gps.clear(); families.clear(); contacts.clear()
     }
 
     // ---- Village info + GP contacts ----
@@ -179,6 +183,9 @@ class AppState(context: Context) {
         }
         save(); return n
     }
+
+    fun addContact(c: VContact) { contacts.add(c); save() }
+    fun deleteContact(id: Long) { contacts.removeAll { it.id == id }; save() }
 
     // ---- Families ----
     fun upsertFamily(f: Family) {
@@ -209,6 +216,7 @@ class AppState(context: Context) {
         works.removeAll { it.villageId == id }
         infos.remove(id)
         families.removeAll { it.villageId == id }
+        contacts.removeAll { it.villageId == id }
         save()
     }
 
@@ -252,6 +260,12 @@ class AppState(context: Context) {
                     .put("budgetLakh", it.budgetLakh).put("status", it.status).put("date", it.date))
             }
         })
+        o.put("contacts", JSONArray().apply {
+            contacts.forEach {
+                put(JSONObject().put("id", it.id).put("villageId", it.villageId).put("label", it.label)
+                    .put("name", it.name).put("phone", it.phone))
+            }
+        })
         o.put("families", JSONArray().apply {
             families.forEach { f ->
                 put(JSONObject().put("id", f.id).put("villageId", f.villageId).put("head", f.head)
@@ -272,7 +286,7 @@ class AppState(context: Context) {
                     .put("schools", i.schools).put("anganwadi", i.anganwadi).put("health", i.health)
                     .put("areaHa", i.areaHa).put("agriHa", i.agriHa).put("forestHa", i.forestHa)
                     .put("waterBodies", i.waterBodies).put("irrigation", i.irrigation)
-                    .put("crops", i.crops).put("updated", i.updated))
+                    .put("crops", i.crops).put("updated", i.updated).put("lat", i.lat).put("lon", i.lon))
             }
         })
         o.put("gps", JSONArray().apply {
@@ -315,13 +329,20 @@ class AppState(context: Context) {
                     it.optInt("houses"), it.optInt("water"), it.optInt("elec"),
                     it.optInt("schools"), it.optInt("anganwadi"), it.optInt("health"),
                     it.optDouble("areaHa"), it.optDouble("agriHa"), it.optDouble("forestHa"),
-                    it.optInt("waterBodies"), it.optInt("irrigation"), it.optString("crops"), it.optString("updated"))
+                    it.optInt("waterBodies"), it.optInt("irrigation"), it.optString("crops"), it.optString("updated"),
+                    it.optDouble("lat", 0.0), it.optDouble("lon", 0.0))
             }
         }
         o.optJSONArray("gps")?.let { a ->
             for (k in 0 until a.length()) a.getJSONObject(k).let {
                 gm[it.getString("key")] = GpContact(it.getString("key"), it.optString("sarpanch"),
                     it.optString("sarpanchPhone"), it.optString("gramsevak"), it.optString("gramsevakPhone"))
+            }
+        }
+        val cl = ArrayList<VContact>()
+        o.optJSONArray("contacts")?.let { a ->
+            for (k in 0 until a.length()) a.getJSONObject(k).let {
+                cl.add(VContact(it.getLong("id"), it.getLong("villageId"), it.optString("label"), it.optString("name"), it.optString("phone")))
             }
         }
         val fl = ArrayList<Family>()
@@ -339,6 +360,7 @@ class AppState(context: Context) {
             }
         }
         families.clear(); families.addAll(fl)
+        contacts.clear(); contacts.addAll(cl)
         infos.clear(); infos.putAll(im); gps.clear(); gps.putAll(gm)
         villages.clear(); villages.addAll(v)
         issues.clear(); issues.addAll(i)

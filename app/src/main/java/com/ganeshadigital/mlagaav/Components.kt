@@ -90,14 +90,14 @@ fun FormDialog(
 }
 
 @Composable
-fun Field(label: String, value: String, onChange: (String) -> Unit, number: Boolean = false, lines: Int = 1) {
+fun Field(label: String, value: String, onChange: (String) -> Unit, number: Boolean = false, lines: Int = 1, decimal: Boolean = false) {
     OutlinedTextField(
         value = value, onValueChange = onChange,
         label = { Text(label) },
         modifier = Modifier.fillMaxWidth(),
         singleLine = lines == 1,
         minLines = lines,
-        keyboardOptions = if (number)
+        keyboardOptions = if (decimal) androidx.compose.foundation.text.KeyboardOptions(keyboardType = androidx.compose.ui.text.input.KeyboardType.Decimal) else if (number)
             androidx.compose.foundation.text.KeyboardOptions(keyboardType = androidx.compose.ui.text.input.KeyboardType.Number)
         else androidx.compose.foundation.text.KeyboardOptions.Default
     )
@@ -272,7 +272,7 @@ fun WorkDialog(s: AppState, presetVillage: Long?, onDismiss: () -> Unit) {
         if (s.villages.isEmpty()) Text("आधी गाव जोडा.", color = Red)
         else Picker("गाव", s.villages.map { it.name }, vi) { vi = it }
         Field("कामाचे नाव *", title, { title = it }, lines = 2)
-        Field("निधी (₹ लाखात)", budget, { budget = it }, number = true)
+        Field("निधी (₹ लाखात)", budget, { budget = it }, decimal = true)
         Picker("स्थिती", WORK_STATUS, st) { st = it }
     }
 }
