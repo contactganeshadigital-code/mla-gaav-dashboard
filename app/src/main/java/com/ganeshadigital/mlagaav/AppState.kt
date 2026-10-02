@@ -8,6 +8,9 @@ import java.security.MessageDigest
 import java.security.SecureRandom
 import androidx.compose.runtime.mutableStateListOf
 import androidx.compose.runtime.mutableStateMapOf
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.setValue
 import org.json.JSONArray
 import org.json.JSONObject
 import java.text.SimpleDateFormat
@@ -52,8 +55,17 @@ data class Member(val id: Long, val name: String, val relation: String, val gend
 
 data class Family(
     val id: Long, val villageId: Long, val head: String, val mobile: String,
-    val address: String, val notes: String, val members: List<Member>
+    val address: String, val notes: String, val members: List<Member>,
+    val status: Int = 1, val pinSalt: String = "", val pinHash: String = ""
 )
+
+val REG_STATUS = listOf("प्रलंबित", "मंजूर", "नामंजूर")
+
+data class Scheme(val id: Long, val title: String, val desc: String, val eligibility: String)
+data class Notice(val id: Long, val title: String, val body: String, val date: String)
+data class SchemeApp(val id: Long, val familyId: Long, val schemeTitle: String, val note: String, val date: String, val status: Int)
+data class Req(val id: Long, val familyId: Long, val text: String, val date: String, val status: Int)
+data class Photo(val id: Long, val uri: String, val caption: String, val date: String)
 
 data class GpContact(
     val key: String, val sarpanch: String, val sarpanchPhone: String,
@@ -117,6 +129,96 @@ class AppState(context: Context) {
     val families = mutableStateListOf<Family>()
     val contacts = mutableStateListOf<VContact>()
     val gps = mutableStateMapOf<String, GpContact>()
+    val schemes = mutableStateListOf<Scheme>()
+    val notices = mutableStateListOf<Notice>()
+    val apps = mutableStateListOf<SchemeApp>()
+    val reqs = mutableStateListOf<Req>()
+    val photos = mutableStateListOf<Photo>()
+    var officeName by mutableStateOf("Ganesha Digital")
+    var officePhone by mutableStateOf("")
+    var officeAddress by mutableStateOf("")
+    var officeEmail by mutableStateOf("")
+
+    // ---- Session (not persisted) ----
+    var familyId by mutableStateOf<Long?>(null)
+    var adminMode by mutableStateOf(false)
+    fun myFamily(): Family? = families.find { it.id == familyId }
+    fun logoutAll() { familyId = null; adminMode = false }
+
+    // ---- Family-head login (mobile + family PIN, same phone) ----
+    fun famWait(): Int {
+        val ms = prefs.getLong("flock", 0) - System.currentTimeMillis()
+        return if (ms > 0) (ms / 1000).toInt() + 1 else 0
+    }
+
+    /** 0 = ok, 1 = wrong, 2 = temporarily locked */
+    fun loginFamily(mobile: String, pin: String): Int {
+        if (famWait() > 0) return 2
+        val f = families.find { it.mobile == mobile && it.pinHash.isNotEmpty() }
+        if (f != null && hash(pin, f.pinSalt) == f.pinHash) {
+            prefs.edit().putInt("ffails", 0).putLong("flock", 0).apply()
+            familyId = f.id
+            return 0
+        }
+        val n = prefs.getInt("ffails", 0) + 1
+        val e = prefs.edit().putInt("ffails", n)
+        if (n >= 5) e.putLong("flock", System.currentTimeMillis() + minOf(900L, 30L shl (n - 5).coerceAtMost(5)) * 1000)
+        e.apply()
+        return 1
+    }
+
+    private fun newSalt() = Base64.encodeToString(ByteArray(16).also { SecureRandom().nextBytes(it) }, Base64.NO_WRAP)
+
+    fun setFamilyPin(id: Long, pin: String) {
+        val i = families.indexOfFirst { it.id == id }
+        if (i >= 0) {
+            val salt = newSalt()
+            families[i] = families[i].copy(pinSalt = salt, pinHash = hash(pin, salt)); save()
+        }
+    }
+
+    fun checkFamilyPin(id: Long, pin: String): Boolean {
+        val f = families.find { it.id == id } ?: return false
+        return f.pinHash.isNotEmpty() && hash(pin, f.pinSalt) == f.pinHash
+    }
+
+    fun clearFamilyPin(id: Long) {
+        val i = families.indexOfFirst { it.id == id }
+        if (i >= 0) { families[i] = families[i].copy(pinSalt = "", pinHash = ""); save() }
+    }
+
+    /** New self-registration: status = pending until Gram Panchayat admin approves */
+    fun registerFamily(f: Family, pin: String) {
+        val salt = newSalt()
+        families.add(0, f.copy(status = 0, pinSalt = salt, pinHash = hash(pin, salt))); save()
+    }
+
+    fun setFamilyStatus(id: Long, st: Int) {
+        val i = families.indexOfFirst { it.id == id }
+        if (i >= 0) { families[i] = families[i].copy(status = st); save() }
+    }
+
+    // ---- Schemes / notices / applications / requests / photos ----
+    fun addScheme(x: Scheme) { schemes.add(0, x); save() }
+    fun deleteScheme(id: Long) { schemes.removeAll { it.id == id }; save() }
+    fun addNotice(x: Notice) { notices.add(0, x); save() }
+    fun deleteNotice(id: Long) { notices.removeAll { it.id == id }; save() }
+    fun addApp(x: SchemeApp) { apps.add(0, x); save() }
+    fun setAppStatus(id: Long, st: Int) {
+        val i = apps.indexOfFirst { it.id == id }
+        if (i >= 0) { apps[i] = apps[i].copy(status = st); save() }
+    }
+    fun deleteApp(id: Long) { apps.removeAll { it.id == id }; save() }
+    fun addReq(x: Req) { reqs.add(0, x); save() }
+    fun setReqStatus(id: Long, st: Int) {
+        val i = reqs.indexOfFirst { it.id == id }
+        if (i >= 0) { reqs[i] = reqs[i].copy(status = st); save() }
+    }
+    fun addPhoto(x: Photo) { photos.add(0, x); save() }
+    fun deletePhoto(id: Long) { photos.removeAll { it.id == id }; save() }
+    fun setOffice(name: String, phone: String, address: String, email: String) {
+        officeName = name; officePhone = phone; officeAddress = address; officeEmail = email; save()
+    }
 
     init {
         prefs.getString("data", null)?.let { fromJson(it) }
@@ -165,6 +267,9 @@ class AppState(context: Context) {
     fun resetAll() {
         prefs.edit().clear().apply()
         villages.clear(); issues.clear(); works.clear(); infos.clear(); gps.clear(); families.clear(); contacts.clear()
+        schemes.clear(); notices.clear(); apps.clear(); reqs.clear(); photos.clear()
+        officeName = "Ganesha Digital"; officePhone = ""; officeAddress = ""; officeEmail = ""
+        logoutAll()
     }
 
     // ---- Village info + GP contacts ----
@@ -193,7 +298,11 @@ class AppState(context: Context) {
         if (i >= 0) families[i] = f else families.add(0, f)
         save()
     }
-    fun deleteFamily(id: Long) { families.removeAll { it.id == id }; save() }
+    fun deleteFamily(id: Long) {
+        families.removeAll { it.id == id }; apps.removeAll { it.familyId == id }; reqs.removeAll { it.familyId == id }
+        if (familyId == id) familyId = null
+        save()
+    }
     fun addMember(familyId: Long, m: Member) {
         val i = families.indexOfFirst { it.id == familyId }
         if (i >= 0) { families[i] = families[i].copy(members = families[i].members + m); save() }
@@ -270,6 +379,7 @@ class AppState(context: Context) {
             families.forEach { f ->
                 put(JSONObject().put("id", f.id).put("villageId", f.villageId).put("head", f.head)
                     .put("mobile", f.mobile).put("address", f.address).put("notes", f.notes)
+                    .put("status", f.status).put("pinSalt", f.pinSalt).put("pinHash", f.pinHash)
                     .put("members", JSONArray().apply {
                         f.members.forEach { m ->
                             put(JSONObject().put("id", m.id).put("name", m.name).put("relation", m.relation)
@@ -295,6 +405,29 @@ class AppState(context: Context) {
                     .put("gramsevak", it.gramsevak).put("gramsevakPhone", it.gramsevakPhone))
             }
         })
+        o.put("schemes", JSONArray().apply {
+            schemes.forEach { put(JSONObject().put("id", it.id).put("title", it.title).put("desc", it.desc).put("elig", it.eligibility)) }
+        })
+        o.put("notices", JSONArray().apply {
+            notices.forEach { put(JSONObject().put("id", it.id).put("title", it.title).put("body", it.body).put("date", it.date)) }
+        })
+        o.put("apps", JSONArray().apply {
+            apps.forEach {
+                put(JSONObject().put("id", it.id).put("familyId", it.familyId).put("scheme", it.schemeTitle)
+                    .put("note", it.note).put("date", it.date).put("status", it.status))
+            }
+        })
+        o.put("reqs", JSONArray().apply {
+            reqs.forEach {
+                put(JSONObject().put("id", it.id).put("familyId", it.familyId).put("text", it.text)
+                    .put("date", it.date).put("status", it.status))
+            }
+        })
+        o.put("photos", JSONArray().apply {
+            photos.forEach { put(JSONObject().put("id", it.id).put("uri", it.uri).put("caption", it.caption).put("date", it.date)) }
+        })
+        o.put("office", JSONObject().put("name", officeName).put("phone", officePhone)
+            .put("address", officeAddress).put("email", officeEmail))
         return o.toString()
     }
 
@@ -356,9 +489,44 @@ class AppState(context: Context) {
                     }
                 }
                 fl.add(Family(f.getLong("id"), f.getLong("villageId"), f.optString("head"), f.optString("mobile"),
-                    f.optString("address"), f.optString("notes"), ms))
+                    f.optString("address"), f.optString("notes"), ms,
+                    f.optInt("status", 1), f.optString("pinSalt"), f.optString("pinHash")))
             }
         }
+        val sc = ArrayList<Scheme>(); val nt = ArrayList<Notice>(); val ap = ArrayList<SchemeApp>()
+        val rq = ArrayList<Req>(); val ph = ArrayList<Photo>()
+        o.optJSONArray("schemes")?.let { a ->
+            for (k in 0 until a.length()) a.getJSONObject(k).let {
+                sc.add(Scheme(it.getLong("id"), it.optString("title"), it.optString("desc"), it.optString("elig")))
+            }
+        }
+        o.optJSONArray("notices")?.let { a ->
+            for (k in 0 until a.length()) a.getJSONObject(k).let {
+                nt.add(Notice(it.getLong("id"), it.optString("title"), it.optString("body"), it.optString("date")))
+            }
+        }
+        o.optJSONArray("apps")?.let { a ->
+            for (k in 0 until a.length()) a.getJSONObject(k).let {
+                ap.add(SchemeApp(it.getLong("id"), it.getLong("familyId"), it.optString("scheme"),
+                    it.optString("note"), it.optString("date"), it.optInt("status")))
+            }
+        }
+        o.optJSONArray("reqs")?.let { a ->
+            for (k in 0 until a.length()) a.getJSONObject(k).let {
+                rq.add(Req(it.getLong("id"), it.getLong("familyId"), it.optString("text"), it.optString("date"), it.optInt("status")))
+            }
+        }
+        o.optJSONArray("photos")?.let { a ->
+            for (k in 0 until a.length()) a.getJSONObject(k).let {
+                ph.add(Photo(it.getLong("id"), it.optString("uri"), it.optString("caption"), it.optString("date")))
+            }
+        }
+        o.optJSONObject("office")?.let {
+            officeName = it.optString("name", "Ganesha Digital"); officePhone = it.optString("phone")
+            officeAddress = it.optString("address"); officeEmail = it.optString("email")
+        }
+        schemes.clear(); schemes.addAll(sc); notices.clear(); notices.addAll(nt)
+        apps.clear(); apps.addAll(ap); reqs.clear(); reqs.addAll(rq); photos.clear(); photos.addAll(ph)
         families.clear(); families.addAll(fl)
         contacts.clear(); contacts.addAll(cl)
         infos.clear(); infos.putAll(im); gps.clear(); gps.putAll(gm)

@@ -24,6 +24,7 @@ fun FamilyCard(s: AppState, f: Family, onMembers: () -> Unit, onEdit: () -> Unit
     Card(Modifier.fillMaxWidth().clickable { onMembers() }) {
         Column(Modifier.padding(14.dp)) {
             Text(f.head, fontWeight = FontWeight.Bold, fontSize = 16.sp)
+            if (f.status != 1) Text("स्थिती: ${REG_STATUS[f.status.coerceIn(0, 2)]}", fontSize = 12.sp, color = statusColor(if (f.status == 0) 1 else 0))
             Text(
                 "सदस्य: ${f.members.size}  •  पुरुष ${f.members.count { it.gender == 0 }}  •  महिला ${f.members.count { it.gender == 1 }}",
                 fontSize = 12.sp
@@ -58,7 +59,10 @@ fun FamilyDialog(s: AppState, villageId: Long, initial: Family?, onDismiss: () -
                 val members = initial?.members ?: listOf(
                     Member(newId(), head.trim(), RELATIONS[0], gender, age.toIntOrNull() ?: 0, "")
                 )
-                s.upsertFamily(Family(initial?.id ?: newId(), villageId, head.trim(), mobile, address.trim(), notes.trim(), members))
+                s.upsertFamily(
+                    initial?.copy(head = head.trim(), mobile = mobile, address = address.trim(), notes = notes.trim())
+                        ?: Family(newId(), villageId, head.trim(), mobile, address.trim(), notes.trim(), members)
+                )
                 onDismiss()
             }
         }

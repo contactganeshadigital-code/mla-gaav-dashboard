@@ -23,12 +23,14 @@ import androidx.compose.ui.unit.sp
 
 class MainActivity : ComponentActivity() {
     private var unlocked by mutableStateOf(false)
+    private var appState: AppState? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         // Block screenshots, screen recording and recent-apps preview
         window.setFlags(WindowManager.LayoutParams.FLAG_SECURE, WindowManager.LayoutParams.FLAG_SECURE)
         val state = AppState(applicationContext)
+        appState = state
         setContent {
             MaterialTheme(colorScheme = lightColorScheme(primary = Brand, secondary = Green)) {
                 Surface(Modifier.fillMaxSize()) {
@@ -41,58 +43,8 @@ class MainActivity : ComponentActivity() {
     // Auto-lock whenever the app goes to background
     override fun onStop() {
         super.onStop()
+        appState?.logoutAll()
         unlocked = false
-    }
-}
-
-@OptIn(ExperimentalMaterial3Api::class)
-@Composable
-fun App(s: AppState) {
-    var tab by remember { mutableIntStateOf(0) }
-    var openId by remember { mutableStateOf<Long?>(null) }
-    val opened = openId?.let { id -> s.villages.find { it.id == id } }
-
-    if (opened != null) {
-        BackHandler { openId = null }
-        VillageDetail(s, opened) { openId = null }
-        return
-    }
-
-    val tabs = listOf("🏠" to "डॅशबोर्ड", "🏘" to "गावे", "⚠️" to "समस्या", "🏗" to "कामे")
-    Scaffold(
-        topBar = {
-            TopAppBar(
-                title = {
-                    Row(verticalAlignment = Alignment.CenterVertically) {
-                        Image(painterResource(R.drawable.logo), contentDescription = null, modifier = Modifier.size(36.dp))
-                        Spacer(Modifier.width(10.dp))
-                        Text("My Village Data", fontWeight = FontWeight.Bold)
-                    }
-                },
-                colors = TopAppBarDefaults.topAppBarColors(
-                    containerColor = Brand, titleContentColor = androidx.compose.ui.graphics.Color.White
-                )
-            )
-        },
-        bottomBar = {
-            NavigationBar {
-                tabs.forEachIndexed { i, (icon, label) ->
-                    NavigationBarItem(
-                        selected = tab == i, onClick = { tab = i },
-                        icon = { Text(icon, fontSize = 20.sp) }, label = { Text(label, fontSize = 11.sp) }
-                    )
-                }
-            }
-        }
-    ) { pad ->
-        Box(Modifier.padding(pad).fillMaxSize()) {
-            when (tab) {
-                0 -> Dashboard(s) { openId = it }
-                1 -> VillagesScreen(s) { openId = it }
-                2 -> IssuesScreen(s)
-                else -> WorksScreen(s)
-            }
-        }
     }
 }
 
