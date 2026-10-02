@@ -7,6 +7,7 @@ import androidx.security.crypto.MasterKey
 import java.security.MessageDigest
 import java.security.SecureRandom
 import androidx.compose.runtime.mutableStateListOf
+import androidx.compose.runtime.mutableStateMapOf
 import org.json.JSONArray
 import org.json.JSONObject
 import java.text.SimpleDateFormat
@@ -34,6 +35,23 @@ data class Work(
     val id: Long, val villageId: Long, val title: String,
     val budgetLakh: Double, val status: Int, val date: String
 )
+
+data class Info(
+    val male: Int = 0, val female: Int = 0, val literacy: Double = 0.0,
+    val eduPrimary: Double = 0.0, val eduSecondary: Double = 0.0, val eduHigher: Double = 0.0,
+    val houses: Int = 0, val water: Int = 0, val elec: Int = 0,
+    val schools: Int = 0, val anganwadi: Int = 0, val health: Int = 0,
+    val areaHa: Double = 0.0, val agriHa: Double = 0.0, val forestHa: Double = 0.0,
+    val waterBodies: Int = 0, val irrigation: Int = 0, val crops: String = "", val updated: String = ""
+)
+
+data class GpContact(
+    val key: String, val sarpanch: String, val sarpanchPhone: String,
+    val gramsevak: String, val gramsevakPhone: String
+)
+
+fun gpKey(st: String, di: String, ta: String, gp: String) =
+    listOf(st, di, ta, gp).joinToString("|") { it.trim().lowercase() }
 
 fun today(): String = SimpleDateFormat("dd/MM/yyyy", Locale.US).format(Date())
 fun newId(): Long = System.currentTimeMillis() * 1000 + (0..999).random()
@@ -85,6 +103,8 @@ class AppState(context: Context) {
     val villages = mutableStateListOf<Village>()
     val issues = mutableStateListOf<Issue>()
     val works = mutableStateListOf<Work>()
+    val infos = mutableStateMapOf<Long, Info>()
+    val gps = mutableStateMapOf<String, GpContact>()
 
     init {
         prefs.getString("data", null)?.let { fromJson(it) }
@@ -132,7 +152,24 @@ class AppState(context: Context) {
     /** Erase PIN, recovery and ALL village data (used when PIN is forgotten) */
     fun resetAll() {
         prefs.edit().clear().apply()
-        villages.clear(); issues.clear(); works.clear()
+        villages.clear(); issues.clear(); works.clear(); infos.clear(); gps.clear()
+    }
+
+    // ---- Village info + GP contacts ----
+    fun gpOf(v: Village): GpContact? = gps[gpKey(v.state, v.district, v.taluka, v.gp)]
+    fun upsertInfo(id: Long, i: Info) { infos[id] = i; save() }
+    fun upsertGp(c: GpContact) { gps[c.key] = c; save() }
+    /** CSV/TSV lines: state,district,taluka,gp,sarpanch,sarpanchPhone,gramsevak,gramsevakPhone */
+    fun importGp(text: String): Int {
+        var n = 0
+        text.lines().forEach { line ->
+            val p = line.split(',', '\t').map { it.trim() }
+            if (p.size >= 8 && p[0].lowercase() != "state" && p[3].isNotBlank()) {
+                gps[gpKey(p[0], p[1], p[2], p[3])] = GpContact(gpKey(p[0], p[1], p[2], p[3]), p[4], p[5], p[6], p[7])
+                n++
+            }
+        }
+        save(); return n
     }
 
     // ---- Village ----
@@ -146,6 +183,7 @@ class AppState(context: Context) {
         villages.removeAll { it.id == id }
         issues.removeAll { it.villageId == id }
         works.removeAll { it.villageId == id }
+        infos.remove(id)
         save()
     }
 
@@ -189,6 +227,23 @@ class AppState(context: Context) {
                     .put("budgetLakh", it.budgetLakh).put("status", it.status).put("date", it.date))
             }
         })
+        o.put("infos", JSONArray().apply {
+            infos.forEach { (id, i) ->
+                put(JSONObject().put("id", id).put("male", i.male).put("female", i.female).put("literacy", i.literacy)
+                    .put("eduPrimary", i.eduPrimary).put("eduSecondary", i.eduSecondary).put("eduHigher", i.eduHigher)
+                    .put("houses", i.houses).put("water", i.water).put("elec", i.elec)
+                    .put("schools", i.schools).put("anganwadi", i.anganwadi).put("health", i.health)
+                    .put("areaHa", i.areaHa).put("agriHa", i.agriHa).put("forestHa", i.forestHa)
+                    .put("waterBodies", i.waterBodies).put("irrigation", i.irrigation)
+                    .put("crops", i.crops).put("updated", i.updated))
+            }
+        })
+        o.put("gps", JSONArray().apply {
+            gps.values.forEach {
+                put(JSONObject().put("key", it.key).put("sarpanch", it.sarpanch).put("sarpanchPhone", it.sarpanchPhone)
+                    .put("gramsevak", it.gramsevak).put("gramsevakPhone", it.gramsevakPhone))
+            }
+        })
         return o.toString()
     }
 
@@ -215,6 +270,24 @@ class AppState(context: Context) {
                     it.optDouble("budgetLakh"), it.optInt("status"), it.optString("date")))
             }
         }
+        val im = HashMap<Long, Info>(); val gm = HashMap<String, GpContact>()
+        o.optJSONArray("infos")?.let { a ->
+            for (k in 0 until a.length()) a.getJSONObject(k).let {
+                im[it.getLong("id")] = Info(it.optInt("male"), it.optInt("female"), it.optDouble("literacy"),
+                    it.optDouble("eduPrimary"), it.optDouble("eduSecondary"), it.optDouble("eduHigher"),
+                    it.optInt("houses"), it.optInt("water"), it.optInt("elec"),
+                    it.optInt("schools"), it.optInt("anganwadi"), it.optInt("health"),
+                    it.optDouble("areaHa"), it.optDouble("agriHa"), it.optDouble("forestHa"),
+                    it.optInt("waterBodies"), it.optInt("irrigation"), it.optString("crops"), it.optString("updated"))
+            }
+        }
+        o.optJSONArray("gps")?.let { a ->
+            for (k in 0 until a.length()) a.getJSONObject(k).let {
+                gm[it.getString("key")] = GpContact(it.getString("key"), it.optString("sarpanch"),
+                    it.optString("sarpanchPhone"), it.optString("gramsevak"), it.optString("gramsevakPhone"))
+            }
+        }
+        infos.clear(); infos.putAll(im); gps.clear(); gps.putAll(gm)
         villages.clear(); villages.addAll(v)
         issues.clear(); issues.addAll(i)
         works.clear(); works.addAll(w)

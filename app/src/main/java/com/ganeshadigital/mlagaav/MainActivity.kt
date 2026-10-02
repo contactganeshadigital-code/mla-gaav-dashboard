@@ -104,6 +104,8 @@ fun Dashboard(s: AppState, onOpen: (Long) -> Unit) {
     var restoreText by remember { mutableStateOf("") }
     var restoreMsg by remember { mutableStateOf("") }
     var showPin by remember { mutableStateOf(false) }
+    var showGpImport by remember { mutableStateOf(false) }
+    if (showGpImport) GpImportDialog(s) { showGpImport = false }
     if (showPin) ChangePinDialog(s) { showPin = false }
 
     LazyColumn(Modifier.fillMaxSize().padding(12.dp), verticalArrangement = Arrangement.spacedBy(10.dp)) {
@@ -140,6 +142,9 @@ fun Dashboard(s: AppState, onOpen: (Long) -> Unit) {
                 OutlinedButton(onClick = { showBackup = true }, modifier = Modifier.weight(1f)) { Text("💾 बॅकअप") }
                 OutlinedButton(onClick = { showRestore = true }, modifier = Modifier.weight(1f)) { Text("♻️ रिस्टोर") }
             }
+        }
+        item {
+            OutlinedButton(onClick = { showGpImport = true }, modifier = Modifier.fillMaxWidth()) { Text("👥 सरपंच/ग्रामसेवक यादी इंपोर्ट") }
         }
         item {
             OutlinedButton(onClick = { showPin = true }, modifier = Modifier.fillMaxWidth()) { Text("🔑 PIN / रिकव्हरी बदला") }
@@ -197,7 +202,6 @@ fun VillagesScreen(s: AppState, onOpen: (Long) -> Unit) {
                         Text("ग्रा.पं. ${v.gp}  •  ता. ${v.taluka}  •  जि. ${v.district}", fontSize = 13.sp)
                         Text("${v.state}  •  पिन ${v.pincode}", fontSize = 13.sp)
                         Text("लोकसंख्या ${v.population}  •  कुटुंबे ${v.households}", fontSize = 13.sp)
-                        if (v.sarpanch.isNotBlank()) Text("सरपंच: ${v.sarpanch}  ${v.contact}", fontSize = 13.sp)
                     }
                 }
             }
@@ -209,7 +213,7 @@ fun VillagesScreen(s: AppState, onOpen: (Long) -> Unit) {
             containerColor = Brand, contentColor = androidx.compose.ui.graphics.Color.White
         ) { Text("+", fontSize = 28.sp) }
     }
-    if (showAdd) VillageDialog(null, s.villages.lastOrNull(), { showAdd = false }) { s.upsertVillage(it); showAdd = false }
+    if (showAdd) VillageDialog(s, null, s.villages.lastOrNull(), { showAdd = false }) { s.upsertVillage(it); showAdd = false }
 }
 
 // ---------------- Issues ----------------
@@ -319,6 +323,8 @@ fun VillageDetail(s: AppState, v: Village, onBack: () -> Unit) {
     var delete by remember { mutableStateOf(false) }
     var addIssue by remember { mutableStateOf(false) }
     var addWork by remember { mutableStateOf(false) }
+    var showInfo by remember { mutableStateOf(false) }
+    var showGp by remember { mutableStateOf(false) }
 
     Scaffold(
         topBar = {
@@ -336,6 +342,7 @@ fun VillageDetail(s: AppState, v: Village, onBack: () -> Unit) {
         }
     ) { pad ->
         LazyColumn(Modifier.padding(pad).fillMaxSize().padding(12.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
+            item { VillageDashboard(s, v, { showInfo = true }, { showGp = true }) }
             item {
                 Card(Modifier.fillMaxWidth()) {
                     Column(Modifier.padding(14.dp), verticalArrangement = Arrangement.spacedBy(2.dp)) {
@@ -343,8 +350,6 @@ fun VillageDetail(s: AppState, v: Village, onBack: () -> Unit) {
                         Text("तालुका: ${v.taluka}   ग्रामपंचायत: ${v.gp}")
                         Text("पिन कोड: ${v.pincode}")
                         Text("लोकसंख्या: ${v.population}   कुटुंबे: ${v.households}")
-                        Text("सरपंच: ${v.sarpanch}")
-                        Text("संपर्क: ${v.contact}")
                         if (v.notes.isNotBlank()) Text("टिपणी: ${v.notes}")
                         Spacer(Modifier.height(4.dp))
                         OutlinedButton(onClick = {
@@ -381,8 +386,10 @@ fun VillageDetail(s: AppState, v: Village, onBack: () -> Unit) {
         }
     }
 
-    if (edit) VillageDialog(v, null, { edit = false }) { s.upsertVillage(it); edit = false }
+    if (edit) VillageDialog(s, v, null, { edit = false }) { s.upsertVillage(it); edit = false }
     if (delete) ConfirmDialog("${v.name} आणि त्याच्या सर्व समस्या/कामे हटवायची?", { s.deleteVillage(v.id); delete = false; onBack() }, { delete = false })
+    if (showInfo) InfoDialog(s, v) { showInfo = false }
+    if (showGp) GpDialog(s, v) { showGp = false }
     if (addIssue) IssueDialog(s, v.id) { addIssue = false }
     if (addWork) WorkDialog(s, v.id) { addWork = false }
 }

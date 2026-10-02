@@ -156,7 +156,7 @@ fun SearchPicker(label: String, value: String, options: List<String>, enabled: B
 }
 
 @Composable
-fun VillageDialog(initial: Village?, prefill: Village?, onDismiss: () -> Unit, onSave: (Village) -> Unit) {
+fun VillageDialog(s: AppState, initial: Village?, prefill: Village?, onDismiss: () -> Unit, onSave: (Village) -> Unit) {
     val ctx = LocalContext.current
     // For a new village, State/District/Taluka/GP are pre-filled from the last village added
     val base = initial ?: prefill
@@ -170,8 +170,6 @@ fun VillageDialog(initial: Village?, prefill: Village?, onDismiss: () -> Unit, o
     var pin by remember { mutableStateOf(initial?.pincode ?: base?.pincode ?: "") }
     var pop by remember { mutableStateOf(initial?.population?.toString() ?: "") }
     var hh by remember { mutableStateOf(initial?.households?.toString() ?: "") }
-    var sarpanch by remember { mutableStateOf(initial?.sarpanch ?: "") }
-    var contact by remember { mutableStateOf(initial?.contact ?: "") }
     var notes by remember { mutableStateOf(initial?.notes ?: "") }
     var err by remember { mutableStateOf("") }
 
@@ -197,7 +195,7 @@ fun VillageDialog(initial: Village?, prefill: Village?, onDismiss: () -> Unit, o
                     Village(initial?.id ?: newId(), state.trim(), district.trim(), taluka.trim(),
                         gp.trim(), name.trim(), pin,
                         pop.toIntOrNull() ?: 0, hh.toIntOrNull() ?: 0,
-                        sarpanch.trim(), contact.trim(), notes.trim())
+                        initial?.sarpanch ?: "", initial?.contact ?: "", notes.trim())
                 )
             }
         }
@@ -218,6 +216,11 @@ fun VillageDialog(initial: Village?, prefill: Village?, onDismiss: () -> Unit, o
             if (it != gp) { gp = it; name = ""; manual = false }
             err = ""
         }
+        if (gp.isNotBlank()) {
+            val gc = s.gps[gpKey(state, district, taluka, gp)]
+            if (gc != null) Text("सरपंच: ${gc.sarpanch} ${gc.sarpanchPhone}\nग्रामसेवक: ${gc.gramsevak} ${gc.gramsevakPhone}", fontSize = 12.sp, color = Green)
+            else Text("या ग्रामपंचायतीचे सरपंच/ग्रामसेवक संपर्क अजून नाहीत. गाव सेव्ह केल्यावर एकदा टाका.", fontSize = 12.sp)
+        }
         SearchPicker(
             "गाव *", if (manual && name.isBlank()) OTHER_VILLAGE else name,
             villages + OTHER_VILLAGE, enabled = gp.isNotBlank()
@@ -229,8 +232,6 @@ fun VillageDialog(initial: Village?, prefill: Village?, onDismiss: () -> Unit, o
         Field("पिन कोड *", pin, { if (it.length <= 6 && it.all(Char::isDigit)) { pin = it; err = "" } }, number = true)
         Field("लोकसंख्या", pop, { pop = it }, number = true)
         Field("कुटुंबे", hh, { hh = it }, number = true)
-        Field("सरपंच / ग्रामसेवक", sarpanch, { sarpanch = it })
-        Field("संपर्क क्रमांक", contact, { contact = it }, number = true)
         Field("टिपणी", notes, { notes = it }, lines = 3)
         if (err.isNotEmpty()) Text(err, color = Red)
     }
