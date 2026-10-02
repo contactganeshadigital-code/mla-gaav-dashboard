@@ -45,6 +45,13 @@ data class Info(
     val waterBodies: Int = 0, val irrigation: Int = 0, val crops: String = "", val updated: String = ""
 )
 
+data class Member(val id: Long, val name: String, val relation: String, val gender: Int, val age: Int, val occupation: String)
+
+data class Family(
+    val id: Long, val villageId: Long, val head: String, val mobile: String,
+    val address: String, val notes: String, val members: List<Member>
+)
+
 data class GpContact(
     val key: String, val sarpanch: String, val sarpanchPhone: String,
     val gramsevak: String, val gramsevakPhone: String
@@ -104,6 +111,7 @@ class AppState(context: Context) {
     val issues = mutableStateListOf<Issue>()
     val works = mutableStateListOf<Work>()
     val infos = mutableStateMapOf<Long, Info>()
+    val families = mutableStateListOf<Family>()
     val gps = mutableStateMapOf<String, GpContact>()
 
     init {
@@ -152,7 +160,7 @@ class AppState(context: Context) {
     /** Erase PIN, recovery and ALL village data (used when PIN is forgotten) */
     fun resetAll() {
         prefs.edit().clear().apply()
-        villages.clear(); issues.clear(); works.clear(); infos.clear(); gps.clear()
+        villages.clear(); issues.clear(); works.clear(); infos.clear(); gps.clear(); families.clear()
     }
 
     // ---- Village info + GP contacts ----
@@ -172,6 +180,22 @@ class AppState(context: Context) {
         save(); return n
     }
 
+    // ---- Families ----
+    fun upsertFamily(f: Family) {
+        val i = families.indexOfFirst { it.id == f.id }
+        if (i >= 0) families[i] = f else families.add(0, f)
+        save()
+    }
+    fun deleteFamily(id: Long) { families.removeAll { it.id == id }; save() }
+    fun addMember(familyId: Long, m: Member) {
+        val i = families.indexOfFirst { it.id == familyId }
+        if (i >= 0) { families[i] = families[i].copy(members = families[i].members + m); save() }
+    }
+    fun removeMember(familyId: Long, memberId: Long) {
+        val i = families.indexOfFirst { it.id == familyId }
+        if (i >= 0) { families[i] = families[i].copy(members = families[i].members.filter { it.id != memberId }); save() }
+    }
+
     // ---- Village ----
     fun upsertVillage(v: Village) {
         val i = villages.indexOfFirst { it.id == v.id }
@@ -184,6 +208,7 @@ class AppState(context: Context) {
         issues.removeAll { it.villageId == id }
         works.removeAll { it.villageId == id }
         infos.remove(id)
+        families.removeAll { it.villageId == id }
         save()
     }
 
@@ -225,6 +250,18 @@ class AppState(context: Context) {
             works.forEach {
                 put(JSONObject().put("id", it.id).put("villageId", it.villageId).put("title", it.title)
                     .put("budgetLakh", it.budgetLakh).put("status", it.status).put("date", it.date))
+            }
+        })
+        o.put("families", JSONArray().apply {
+            families.forEach { f ->
+                put(JSONObject().put("id", f.id).put("villageId", f.villageId).put("head", f.head)
+                    .put("mobile", f.mobile).put("address", f.address).put("notes", f.notes)
+                    .put("members", JSONArray().apply {
+                        f.members.forEach { m ->
+                            put(JSONObject().put("id", m.id).put("name", m.name).put("relation", m.relation)
+                                .put("gender", m.gender).put("age", m.age).put("occupation", m.occupation))
+                        }
+                    }))
             }
         })
         o.put("infos", JSONArray().apply {
@@ -287,6 +324,21 @@ class AppState(context: Context) {
                     it.optString("sarpanchPhone"), it.optString("gramsevak"), it.optString("gramsevakPhone"))
             }
         }
+        val fl = ArrayList<Family>()
+        o.optJSONArray("families")?.let { a ->
+            for (k in 0 until a.length()) a.getJSONObject(k).let { f ->
+                val ms = ArrayList<Member>()
+                f.optJSONArray("members")?.let { ma ->
+                    for (j in 0 until ma.length()) ma.getJSONObject(j).let {
+                        ms.add(Member(it.getLong("id"), it.optString("name"), it.optString("relation"),
+                            it.optInt("gender"), it.optInt("age"), it.optString("occupation")))
+                    }
+                }
+                fl.add(Family(f.getLong("id"), f.getLong("villageId"), f.optString("head"), f.optString("mobile"),
+                    f.optString("address"), f.optString("notes"), ms))
+            }
+        }
+        families.clear(); families.addAll(fl)
         infos.clear(); infos.putAll(im); gps.clear(); gps.putAll(gm)
         villages.clear(); villages.addAll(v)
         issues.clear(); issues.addAll(i)

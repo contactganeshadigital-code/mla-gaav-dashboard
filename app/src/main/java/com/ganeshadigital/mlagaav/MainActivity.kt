@@ -325,6 +325,11 @@ fun VillageDetail(s: AppState, v: Village, onBack: () -> Unit) {
     var addWork by remember { mutableStateOf(false) }
     var showInfo by remember { mutableStateOf(false) }
     var showGp by remember { mutableStateOf(false) }
+    var addFamily by remember { mutableStateOf(false) }
+    var editFam by remember { mutableStateOf<Family?>(null) }
+    var memberFor by remember { mutableStateOf<Long?>(null) }
+    var fq by remember { mutableStateOf("") }
+    val fams = s.families.filter { it.villageId == v.id }
 
     Scaffold(
         topBar = {
@@ -370,6 +375,19 @@ fun VillageDetail(s: AppState, v: Village, onBack: () -> Unit) {
             }
             item {
                 Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.SpaceBetween, verticalAlignment = Alignment.CenterVertically) {
+                    Text("कुटुंबे (${fams.size})", fontWeight = FontWeight.Bold, fontSize = 16.sp)
+                    TextButton(onClick = { addFamily = true }) { Text("+ कुटुंब जोडा") }
+                }
+                if (fams.size > 4) OutlinedTextField(
+                    value = fq, onValueChange = { fq = it }, label = { Text("कुटुंब शोधा (नाव / मोबाईल)") },
+                    singleLine = true, modifier = Modifier.fillMaxWidth()
+                )
+            }
+            items(fams.filter { fq.isBlank() || it.head.contains(fq, true) || it.mobile.contains(fq) || it.members.any { m -> m.name.contains(fq, true) } }, key = { it.id }) {
+                FamilyCard(s, it, { memberFor = it.id }, { editFam = it })
+            }
+            item {
+                Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.SpaceBetween, verticalAlignment = Alignment.CenterVertically) {
                     Text("समस्या", fontWeight = FontWeight.Bold, fontSize = 16.sp)
                     TextButton(onClick = { addIssue = true }) { Text("+ समस्या जोडा") }
                 }
@@ -389,6 +407,9 @@ fun VillageDetail(s: AppState, v: Village, onBack: () -> Unit) {
     if (edit) VillageDialog(s, v, null, { edit = false }) { s.upsertVillage(it); edit = false }
     if (delete) ConfirmDialog("${v.name} आणि त्याच्या सर्व समस्या/कामे हटवायची?", { s.deleteVillage(v.id); delete = false; onBack() }, { delete = false })
     if (showInfo) InfoDialog(s, v) { showInfo = false }
+    if (addFamily) FamilyDialog(s, v.id, null) { addFamily = false }
+    editFam?.let { FamilyDialog(s, v.id, it) { editFam = null } }
+    memberFor?.let { FamilyMembersDialog(s, it, v) { memberFor = null } }
     if (showGp) GpDialog(s, v) { showGp = false }
     if (addIssue) IssueDialog(s, v.id) { addIssue = false }
     if (addWork) WorkDialog(s, v.id) { addWork = false }

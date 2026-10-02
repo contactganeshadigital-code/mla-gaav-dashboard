@@ -76,9 +76,14 @@ fun ContactRow(label: String, name: String, phone: String) {
 fun VillageDashboard(s: AppState, v: Village, onEditInfo: () -> Unit, onEditGp: () -> Unit) {
     val i = s.infos[v.id] ?: Info()
     val gc = s.gpOf(v)
-    val male = i.male
-    val female = if (i.female > 0) i.female else (v.population - i.male).coerceAtLeast(0)
-    val total = if (v.population > 0) v.population else male + female
+    // If families are registered, population numbers are computed from them automatically
+    val fams = s.families.filter { it.villageId == v.id }
+    val mem = fams.flatMap { it.members }
+    val hasF = fams.isNotEmpty()
+    val famCount = if (hasF) fams.size else v.households
+    val male = if (hasF) mem.count { it.gender == 0 } else i.male
+    val female = if (hasF) mem.count { it.gender == 1 } else if (i.female > 0) i.female else (v.population - i.male).coerceAtLeast(0)
+    val total = if (hasF) mem.size else if (v.population > 0) v.population else male + female
 
     Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
         // Header strip
@@ -93,7 +98,7 @@ fun VillageDashboard(s: AppState, v: Village, onEditInfo: () -> Unit, onEditGp: 
         }
         Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
             Tile("Total Population", "एकूण लोकसंख्या", num(total), Blue, Modifier.weight(1f))
-            Tile("Total Families", "एकूण कुटुंबे", num(v.households), Green, Modifier.weight(1f))
+            Tile("Total Families", "एकूण कुटुंबे", num(famCount), Green, Modifier.weight(1f))
         }
         Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
             Tile("Male", "पुरुष", num(male), Blue, Modifier.weight(1f))
