@@ -3,6 +3,9 @@ package com.ganeshadigital.mlagaav
 import android.content.Intent
 import android.net.Uri
 import androidx.compose.foundation.Canvas
+import androidx.compose.foundation.Image
+import androidx.compose.ui.draw.clip
+import androidx.compose.ui.res.painterResource
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
@@ -86,6 +89,11 @@ fun VillageDashboard(s: AppState, v: Village, onEditInfo: () -> Unit, onEditGp: 
     val total = if (hasF) mem.size else if (v.population > 0) v.population else male + female
 
     Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
+        Image(
+            painterResource(R.drawable.banner), contentDescription = "My Village Data",
+            contentScale = androidx.compose.ui.layout.ContentScale.FillWidth,
+            modifier = Modifier.fillMaxWidth().clip(RoundedCornerShape(12.dp))
+        )
         // Header strip
         Card(Modifier.fillMaxWidth(), colors = CardDefaults.cardColors(containerColor = Brand)) {
             Column(Modifier.padding(12.dp)) {
@@ -192,6 +200,9 @@ fun VillageDashboard(s: AppState, v: Village, onEditInfo: () -> Unit, onEditGp: 
             Text("हे संपर्क '${v.gp}' मधील सर्व गावांना आपोआप दिसतात.", fontSize = 11.sp)
         }
         Button(onClick = onEditInfo, modifier = Modifier.fillMaxWidth()) { Text("✏️ गावाची विस्तृत माहिती भरा / बदला") }
+        Box(Modifier.fillMaxWidth().background(Brand, RoundedCornerShape(10.dp)).padding(12.dp), contentAlignment = Alignment.Center) {
+            Text("🌱 Developed Village  ✦  Prosperous Village  ✦  Happy Village 🌱", color = Color.White, fontSize = 12.sp, fontWeight = FontWeight.Medium)
+        }
     }
 }
 
