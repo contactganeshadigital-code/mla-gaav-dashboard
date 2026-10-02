@@ -326,6 +326,12 @@ fun WorksScreen(s: AppState) {
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun VillageDetail(s: AppState, v: Village, onBack: () -> Unit) {
+    var poster by remember { mutableStateOf(false) }
+    if (poster) {
+        BackHandler { poster = false }
+        PosterScreen(s, v) { poster = false }
+        return
+    }
     val ctx = LocalContext.current
     var edit by remember { mutableStateOf(false) }
     var delete by remember { mutableStateOf(false) }
@@ -355,7 +361,7 @@ fun VillageDetail(s: AppState, v: Village, onBack: () -> Unit) {
         }
     ) { pad ->
         LazyColumn(Modifier.padding(pad).fillMaxSize().padding(12.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
-            item { VillageDashboard(s, v, { showInfo = true }, { showGp = true }) }
+            item { VillageDashboard(s, v, { showInfo = true }, { showGp = true }, { poster = true }) }
             item {
                 Card(Modifier.fillMaxWidth()) {
                     Column(Modifier.padding(14.dp), verticalArrangement = Arrangement.spacedBy(2.dp)) {

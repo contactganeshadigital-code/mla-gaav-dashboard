@@ -2,7 +2,14 @@ package com.ganeshadigital.mlagaav
 
 import android.content.Intent
 import android.net.Uri
+import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.Canvas
+import androidx.compose.foundation.gestures.detectTransformGestures
+import androidx.compose.ui.draw.clipToBounds
+import androidx.compose.ui.graphics.TransformOrigin
+import androidx.compose.ui.graphics.graphicsLayer
+import androidx.compose.ui.input.pointer.pointerInput
+import androidx.compose.ui.platform.LocalDensity
 import androidx.compose.foundation.Image
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.res.painterResource
@@ -34,15 +41,19 @@ private fun num(i: Int) = if (i <= 0) "-" else i.toString()
 private fun ha(d: Double) = if (d <= 0.0) "-" else "%.0f हे.".format(d)
 
 @Composable
-fun Tile(icon: String, en: String, mr: String, value: String, color: Color, modifier: Modifier) {
-    Card(modifier.fillMaxHeight(), colors = CardDefaults.cardColors(containerColor = color.copy(alpha = 0.12f))) {
+fun Tile(iconRes: Int, en: String, mr: String, value: String, titleColor: Color, bg: Color, modifier: Modifier) {
+    Card(
+        modifier.fillMaxHeight(),
+        colors = CardDefaults.cardColors(containerColor = bg),
+        border = BorderStroke(1.dp, titleColor.copy(alpha = 0.25f))
+    ) {
         Row(Modifier.padding(10.dp).fillMaxWidth(), verticalAlignment = Alignment.CenterVertically) {
-            Text(icon, fontSize = 28.sp)
+            Image(painterResource(iconRes), contentDescription = null, modifier = Modifier.size(46.dp))
             Spacer(Modifier.width(8.dp))
             Column {
-                Text(en, fontSize = 11.sp, color = color, fontWeight = FontWeight.Bold)
-                Text(mr, fontSize = 11.sp)
-                Text(value, fontSize = 20.sp, fontWeight = FontWeight.Bold)
+                Text(en, fontSize = 11.sp, color = titleColor, fontWeight = FontWeight.Bold)
+                Text(mr, fontSize = 11.sp, color = Color(0xFF33445A))
+                Text(value, fontSize = 22.sp, fontWeight = FontWeight.Bold, color = Color(0xFF0B2A4A))
             }
         }
     }
@@ -80,7 +91,7 @@ fun ContactRow(label: String, name: String, phone: String) {
 }
 
 @Composable
-fun VillageDashboard(s: AppState, v: Village, onEditInfo: () -> Unit, onEditGp: () -> Unit) {
+fun VillageDashboard(s: AppState, v: Village, onEditInfo: () -> Unit, onEditGp: () -> Unit, onPoster: (() -> Unit)? = null) {
     val i = s.infos[v.id] ?: Info()
     val gc = s.gpOf(v)
     // If families are registered, population numbers are computed from them automatically
@@ -101,24 +112,30 @@ fun VillageDashboard(s: AppState, v: Village, onEditInfo: () -> Unit, onEditGp: 
                 contentScale = androidx.compose.ui.layout.ContentScale.FillWidth,
                 modifier = Modifier.fillMaxWidth().clip(RoundedCornerShape(12.dp))
             )
+            if (onPoster != null && !wide) {
+                Button(onClick = onPoster, modifier = Modifier.fillMaxWidth(),
+                    colors = ButtonDefaults.buttonColors(containerColor = Color(0xFF023561))) {
+                    Text("📊 पूर्ण डॅशबोर्ड (poster सारखा, zoom करा)")
+                }
+            }
             // Header strip (village / taluka / district / last updated)
-            Card(Modifier.fillMaxWidth(), colors = CardDefaults.cardColors(containerColor = Brand)) {
+            Card(Modifier.fillMaxWidth(), colors = CardDefaults.cardColors(containerColor = Color(0xFF023561))) {
                 Column(Modifier.padding(12.dp), verticalArrangement = Arrangement.spacedBy(10.dp)) {
                     if (wide) {
                         Row(Modifier.fillMaxWidth()) {
-                            HeaderCell("📍", "गावाचे नाव / Village", v.name, Modifier.weight(1f))
-                            HeaderCell("🏛", "तालुका / Taluka", v.taluka, Modifier.weight(1f))
-                            HeaderCell("🏢", "जिल्हा / District", v.district, Modifier.weight(1f))
-                            HeaderCell("📅", "शेवटची अपडेट / Last Updated", i.updated.ifBlank { "-" }, Modifier.weight(1f))
+                            HeaderCell(R.drawable.ic_hpin, "गावाचे नाव / Village", v.name, Modifier.weight(1f))
+                            HeaderCell(R.drawable.ic_htal, "तालुका / Taluka", v.taluka, Modifier.weight(1f))
+                            HeaderCell(R.drawable.ic_hdist, "जिल्हा / District", v.district, Modifier.weight(1f))
+                            HeaderCell(R.drawable.ic_hcal, "शेवटची अपडेट / Last Updated", i.updated.ifBlank { "-" }, Modifier.weight(1f))
                         }
                     } else {
                         Row(Modifier.fillMaxWidth()) {
-                            HeaderCell("📍", "गावाचे नाव / Village", v.name, Modifier.weight(1f))
-                            HeaderCell("🏛", "तालुका / Taluka", v.taluka, Modifier.weight(1f))
+                            HeaderCell(R.drawable.ic_hpin, "गावाचे नाव / Village", v.name, Modifier.weight(1f))
+                            HeaderCell(R.drawable.ic_htal, "तालुका / Taluka", v.taluka, Modifier.weight(1f))
                         }
                         Row(Modifier.fillMaxWidth()) {
-                            HeaderCell("🏢", "जिल्हा / District", v.district, Modifier.weight(1f))
-                            HeaderCell("📅", "शेवटची अपडेट", i.updated.ifBlank { "-" }, Modifier.weight(1f))
+                            HeaderCell(R.drawable.ic_hdist, "जिल्हा / District", v.district, Modifier.weight(1f))
+                            HeaderCell(R.drawable.ic_hcal, "शेवटची अपडेट", i.updated.ifBlank { "-" }, Modifier.weight(1f))
                         }
                     }
                 }
@@ -128,16 +145,16 @@ fun VillageDashboard(s: AppState, v: Village, onEditInfo: () -> Unit, onEditGp: 
             TileGrid(
                 if (wide) 5 else 2,
                 listOf<@Composable (Modifier) -> Unit>(
-                    { m -> Tile("👥", "Total Population", "एकूण लोकसंख्या", num(total), Blue, m) },
-                    { m -> Tile("🏠", "Total Families", "एकूण कुटुंबे", num(famCount), Green, m) },
-                    { m -> Tile("🧍", "Male Population", "पुरुष लोकसंख्या", num(male), Blue, m) },
-                    { m -> Tile("👩", "Female Population", "महिला लोकसंख्या", num(female), Pink, m) },
-                    { m -> Tile("🎓", "Literacy Rate", "साक्षरता दर", pct(i.literacy), Orange, m) },
-                    { m -> Tile("🏘", "Total Houses", "एकूण घरे", num(i.houses), Purple, m) },
-                    { m -> Tile("🚰", "Water Facilities", "पाणी सुविधा", if (i.water > 0) "${i.water}%" else "-", Teal, m) },
-                    { m -> Tile("⚡", "Electricity", "वीज सुविधा", if (i.elec > 0) "${i.elec}%" else "-", Orange, m) },
-                    { m -> Tile("🏫", "Schools & Anganwadi", "शाळा व अंगणवाडी", "${i.schools} / ${i.anganwadi}", Green, m) },
-                    { m -> Tile("➕", "Health Facilities", "आरोग्य सुविधा", num(i.health), Red, m) }
+                    { m -> Tile(R.drawable.ic_pop, "Total Population", "एकूण लोकसंख्या", num(total), Color(0xFF1976D2), Color(0xFFEBF5FE), m) },
+                    { m -> Tile(R.drawable.ic_fam, "Total Families", "एकूण कुटुंबे", num(famCount), Color(0xFF2E7D32), Color(0xFFE4FCEA), m) },
+                    { m -> Tile(R.drawable.ic_male, "Male Population", "पुरुष लोकसंख्या", num(male), Color(0xFF1565C0), Color(0xFFE8F4FD), m) },
+                    { m -> Tile(R.drawable.ic_female, "Female Population", "महिला लोकसंख्या", num(female), Color(0xFFD81B60), Color(0xFFFDEBF4), m) },
+                    { m -> Tile(R.drawable.ic_lit, "Literacy Rate", "साक्षरता दर", pct(i.literacy), Color(0xFFB26A00), Color(0xFFFEF7D9), m) },
+                    { m -> Tile(R.drawable.ic_house, "Total Houses", "एकूण घरे", num(i.houses), Color(0xFF6A1B9A), Color(0xFFF6EEFD), m) },
+                    { m -> Tile(R.drawable.ic_water, "Water Facilities", "पाणी सुविधा", if (i.water > 0) "${i.water}%" else "-", Color(0xFF00838F), Color(0xFFE7FAF9), m) },
+                    { m -> Tile(R.drawable.ic_elec, "Electricity Facilities", "वीज सुविधा", if (i.elec > 0) "${i.elec}%" else "-", Color(0xFFE65100), Color(0xFFFEF6E6), m) },
+                    { m -> Tile(R.drawable.ic_school, "Schools & Anganwadi", "शाळा व अंगणवाडी", "${i.schools} / ${i.anganwadi}", Color(0xFF00796B), Color(0xFFE8FBFB), m) },
+                    { m -> Tile(R.drawable.ic_health, "Health Facilities", "आरोग्य सुविधा", num(i.health), Color(0xFFC62828), Color(0xFFFDEEEE), m) }
                 )
             )
 
@@ -177,9 +194,9 @@ fun VillageDashboard(s: AppState, v: Village, onEditInfo: () -> Unit, onEditGp: 
 }
 
 @Composable
-private fun HeaderCell(icon: String, label: String, value: String, modifier: Modifier) {
+private fun HeaderCell(icon: Int, label: String, value: String, modifier: Modifier) {
     Row(modifier, verticalAlignment = Alignment.CenterVertically) {
-        Text(icon, fontSize = 22.sp)
+        Image(painterResource(icon), contentDescription = null, modifier = Modifier.size(28.dp))
         Spacer(Modifier.width(8.dp))
         Column {
             Text(label, fontSize = 11.sp, color = Color.White.copy(alpha = 0.8f))
@@ -315,6 +332,58 @@ private fun ContactsCard(v: Village, gc: GpContact?, onEditGp: () -> Unit, modif
             Text("✏️ ग्रामपंचायत संपर्क भरा / बदला", fontSize = 12.sp)
         }
         Text("हे संपर्क '${v.gp}' मधील सर्व गावांना आपोआप दिसतात.", fontSize = 11.sp)
+    }
+}
+
+@Composable
+fun PosterScreen(s: AppState, v: Village, onBack: () -> Unit) {
+    val designW = 760.dp
+    Column(Modifier.fillMaxSize().background(Color(0xFFF2F6FB))) {
+        var resetKey by remember { mutableIntStateOf(0) }
+        Row(
+            Modifier.fillMaxWidth().background(Color(0xFF023561)).padding(horizontal = 4.dp),
+            verticalAlignment = Alignment.CenterVertically
+        ) {
+            TextButton(onClick = onBack) { Text("←", fontSize = 22.sp, color = Color.White) }
+            Text(v.name, color = Color.White, fontWeight = FontWeight.Bold, modifier = Modifier.weight(1f))
+            TextButton(onClick = { resetKey++ }) { Text("⟲ रीसेट", color = Color.White) }
+        }
+        BoxWithConstraints(Modifier.fillMaxSize().clipToBounds()) {
+            val density = LocalDensity.current
+            val viewPx = with(density) { maxWidth.toPx() }
+            val designPx = with(density) { designW.toPx() }
+            val scale0 = viewPx / designPx
+            var scale by remember(resetKey) { mutableFloatStateOf(scale0) }
+            var offset by remember(resetKey) { mutableStateOf(Offset.Zero) }
+            Box(
+                Modifier
+                    .fillMaxSize()
+                    .pointerInput(resetKey) {
+                        detectTransformGestures { centroid, pan, zoom, _ ->
+                            val ns = (scale * zoom).coerceIn(scale0, 4f)
+                            val z = ns / scale
+                            var o = centroid - (centroid - offset) * z + pan
+                            val minX = minOf(0f, viewPx - designPx * ns)
+                            o = Offset(o.x.coerceIn(minX, 0f), o.y.coerceAtMost(0f))
+                            scale = ns
+                            offset = o
+                        }
+                    }
+            ) {
+                Box(
+                    Modifier
+                        .requiredWidth(designW)
+                        .wrapContentHeight(align = Alignment.Top, unbounded = true)
+                        .graphicsLayer {
+                            scaleX = scale; scaleY = scale
+                            translationX = offset.x; translationY = offset.y
+                            transformOrigin = TransformOrigin(0f, 0f)
+                        }
+                ) {
+                    VillageDashboard(s, v, {}, {}, null)
+                }
+            }
+        }
     }
 }
 
