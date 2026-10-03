@@ -66,7 +66,7 @@ fun NeedLogin(go: (String) -> Unit) {
 // ---------------- माझे गाव ----------------
 @Composable
 fun MyVillagePage(s: AppState) {
-    var vid by remember { mutableStateOf(s.myFamily()?.villageId) }
+    var vid by remember { mutableStateOf(s.activeVillage()?.id) }
     var showInfo by remember { mutableStateOf(false) }
     var showGp by remember { mutableStateOf(false) }
     val v = pickVillage(s, vid)
@@ -84,7 +84,7 @@ fun MyVillagePage(s: AppState) {
 // ---------------- गावाची माहिती ----------------
 @Composable
 fun VillageInfoPage(s: AppState) {
-    var vid by remember { mutableStateOf(s.myFamily()?.villageId) }
+    var vid by remember { mutableStateOf(s.activeVillage()?.id) }
     val v = pickVillage(s, vid)
     PageColumn {
         item { VillageSelector(s, vid) { vid = it } }
@@ -142,7 +142,7 @@ fun VillageInfoPage(s: AppState) {
 // ---------------- कुटुंब नोंदणी (public list + register) ----------------
 @Composable
 fun FamiliesPage(s: AppState, go: (String) -> Unit) {
-    var vid by remember { mutableStateOf(s.myFamily()?.villageId) }
+    var vid by remember { mutableStateOf(s.activeVillage()?.id) }
     val v = pickVillage(s, vid)
     PageColumn {
         item {
@@ -167,7 +167,7 @@ fun FamiliesPage(s: AppState, go: (String) -> Unit) {
 // ---------------- ग्रामपंचायत ----------------
 @Composable
 fun GpPage(s: AppState) {
-    var vid by remember { mutableStateOf(s.myFamily()?.villageId) }
+    var vid by remember { mutableStateOf(s.activeVillage()?.id) }
     val v = pickVillage(s, vid)
     PageColumn {
         item { VillageSelector(s, vid) { vid = it } }
@@ -198,31 +198,6 @@ fun GpPage(s: AppState) {
                 }
             }
         }
-    }
-}
-
-// ---------------- ग्रामपंचायत योजना ----------------
-@Composable
-fun SchemesPage(s: AppState, go: (String) -> Unit) {
-    val fam = s.myFamily()
-    var applyTo by remember { mutableStateOf<Scheme?>(null) }
-    PageColumn {
-        if (s.schemes.isEmpty()) item { Text("अजून योजना जोडलेल्या नाहीत. ग्रामपंचायत Admin → योजना व्यवस्थापन मधून जोडता येतील.") }
-        items(s.schemes, key = { it.id }) { sc ->
-            Card(Modifier.fillMaxWidth()) {
-                Column(Modifier.padding(14.dp), verticalArrangement = Arrangement.spacedBy(3.dp)) {
-                    Text(sc.title, fontWeight = FontWeight.Bold, fontSize = 16.sp)
-                    if (sc.desc.isNotBlank()) Text(sc.desc, fontSize = 13.sp)
-                    if (sc.eligibility.isNotBlank()) Text("पात्रता: ${sc.eligibility}", fontSize = 12.sp)
-                    if (fam == null) TextButton(onClick = { go("login") }) { Text("अर्ज करण्यासाठी Login करा") }
-                    else if (fam.status == 1) Button(onClick = { applyTo = sc }) { Text("📨 अर्ज करा") }
-                    else Text("नोंदणी मंजूर झाल्यावर अर्ज करता येईल.", fontSize = 12.sp)
-                }
-            }
-        }
-    }
-    applyTo?.let { sc ->
-        if (fam != null) ApplyDialog(s, fam, sc.title) { applyTo = null }
     }
 }
 
@@ -295,7 +270,7 @@ fun NewsPage(s: AppState) {
 // ---------------- महत्त्वाचे संपर्क ----------------
 @Composable
 fun ContactsPage(s: AppState) {
-    var vid by remember { mutableStateOf(s.myFamily()?.villageId) }
+    var vid by remember { mutableStateOf(s.activeVillage()?.id) }
     val v = pickVillage(s, vid)
     PageColumn {
         item { VillageSelector(s, vid) { vid = it } }
@@ -332,7 +307,7 @@ fun ContactsPage(s: AppState) {
 // ---------------- गावातील सेवा ----------------
 @Composable
 fun ServicesPage(s: AppState) {
-    var vid by remember { mutableStateOf(s.myFamily()?.villageId) }
+    var vid by remember { mutableStateOf(s.activeVillage()?.id) }
     val v = pickVillage(s, vid)
     PageColumn {
         item { VillageSelector(s, vid) { vid = it } }
@@ -343,7 +318,7 @@ fun ServicesPage(s: AppState) {
 // ---------------- गावाचा नकाशा ----------------
 @Composable
 fun MapPage(s: AppState) {
-    var vid by remember { mutableStateOf(s.myFamily()?.villageId) }
+    var vid by remember { mutableStateOf(s.activeVillage()?.id) }
     var show by remember { mutableStateOf(false) }
     val v = pickVillage(s, vid)
     PageColumn {

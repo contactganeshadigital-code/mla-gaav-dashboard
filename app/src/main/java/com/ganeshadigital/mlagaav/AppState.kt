@@ -61,7 +61,12 @@ data class Family(
 
 val REG_STATUS = listOf("प्रलंबित", "मंजूर", "नामंजूर")
 
-data class Scheme(val id: Long, val title: String, val desc: String, val eligibility: String)
+data class Scheme(val id: Long, val title: String, val desc: String, val eligibility: String, val category: Int = 6)
+data class Suggestion(
+    val id: Long, val villageId: Long, val familyId: Long, val by: String, val category: Int,
+    val text: String, val photo: String, val date: String, val status: Int
+)
+val SUGG_STATUS = listOf("प्राप्त", "तपासणी", "कार्यवाही", "पूर्ण")
 data class Notice(val id: Long, val title: String, val body: String, val date: String)
 data class SchemeApp(val id: Long, val familyId: Long, val schemeTitle: String, val note: String, val date: String, val status: Int)
 data class Req(val id: Long, val familyId: Long, val text: String, val date: String, val status: Int)
@@ -134,6 +139,12 @@ class AppState(context: Context) {
     val apps = mutableStateListOf<SchemeApp>()
     val reqs = mutableStateListOf<Req>()
     val photos = mutableStateListOf<Photo>()
+    val suggestions = mutableStateListOf<Suggestion>()
+    val notes = mutableStateMapOf<String, String>()
+    var homeVillageId by mutableStateOf(prefs.getLong("home_vid", 0L))
+    fun setHomeVillage(id: Long) { homeVillageId = id; prefs.edit().putLong("home_vid", id).apply() }
+    fun activeVillage(): Village? =
+        villages.find { it.id == myFamily()?.villageId } ?: villages.find { it.id == homeVillageId } ?: villages.firstOrNull()
     var officeName by mutableStateOf("Ganesha Digital")
     var officePhone by mutableStateOf("")
     var officeAddress by mutableStateOf("")
@@ -214,6 +225,13 @@ class AppState(context: Context) {
         val i = reqs.indexOfFirst { it.id == id }
         if (i >= 0) { reqs[i] = reqs[i].copy(status = st); save() }
     }
+    fun addSuggestion(x: Suggestion) { suggestions.add(0, x); save() }
+    fun setSuggestionStatus(id: Long, st: Int) {
+        val i = suggestions.indexOfFirst { it.id == id }
+        if (i >= 0) { suggestions[i] = suggestions[i].copy(status = st); save() }
+    }
+    fun deleteSuggestion(id: Long) { suggestions.removeAll { it.id == id }; save() }
+    fun setNote(key: String, text: String) { notes[key] = text; save() }
     fun addPhoto(x: Photo) { photos.add(0, x); save() }
     fun deletePhoto(id: Long) { photos.removeAll { it.id == id }; save() }
     fun setOffice(name: String, phone: String, address: String, email: String) {
@@ -267,7 +285,7 @@ class AppState(context: Context) {
     fun resetAll() {
         prefs.edit().clear().apply()
         villages.clear(); issues.clear(); works.clear(); infos.clear(); gps.clear(); families.clear(); contacts.clear()
-        schemes.clear(); notices.clear(); apps.clear(); reqs.clear(); photos.clear()
+        schemes.clear(); notices.clear(); apps.clear(); reqs.clear(); photos.clear(); suggestions.clear(); notes.clear(); homeVillageId = 0L
         officeName = "Ganesha Digital"; officePhone = ""; officeAddress = ""; officeEmail = ""
         logoutAll()
     }
@@ -406,7 +424,7 @@ class AppState(context: Context) {
             }
         })
         o.put("schemes", JSONArray().apply {
-            schemes.forEach { put(JSONObject().put("id", it.id).put("title", it.title).put("desc", it.desc).put("elig", it.eligibility)) }
+            schemes.forEach { put(JSONObject().put("id", it.id).put("title", it.title).put("desc", it.desc).put("elig", it.eligibility).put("cat", it.category)) }
         })
         o.put("notices", JSONArray().apply {
             notices.forEach { put(JSONObject().put("id", it.id).put("title", it.title).put("body", it.body).put("date", it.date)) }
@@ -426,6 +444,14 @@ class AppState(context: Context) {
         o.put("photos", JSONArray().apply {
             photos.forEach { put(JSONObject().put("id", it.id).put("uri", it.uri).put("caption", it.caption).put("date", it.date)) }
         })
+        o.put("suggs", JSONArray().apply {
+            suggestions.forEach {
+                put(JSONObject().put("id", it.id).put("villageId", it.villageId).put("familyId", it.familyId)
+                    .put("by", it.by).put("cat", it.category).put("text", it.text).put("photo", it.photo)
+                    .put("date", it.date).put("status", it.status))
+            }
+        })
+        o.put("notes", JSONObject().apply { notes.forEach { (k, v) -> put(k, v) } })
         o.put("office", JSONObject().put("name", officeName).put("phone", officePhone)
             .put("address", officeAddress).put("email", officeEmail))
         return o.toString()
@@ -497,7 +523,7 @@ class AppState(context: Context) {
         val rq = ArrayList<Req>(); val ph = ArrayList<Photo>()
         o.optJSONArray("schemes")?.let { a ->
             for (k in 0 until a.length()) a.getJSONObject(k).let {
-                sc.add(Scheme(it.getLong("id"), it.optString("title"), it.optString("desc"), it.optString("elig")))
+                sc.add(Scheme(it.getLong("id"), it.optString("title"), it.optString("desc"), it.optString("elig"), it.optInt("cat", 6)))
             }
         }
         o.optJSONArray("notices")?.let { a ->
@@ -521,6 +547,16 @@ class AppState(context: Context) {
                 ph.add(Photo(it.getLong("id"), it.optString("uri"), it.optString("caption"), it.optString("date")))
             }
         }
+        val sg = ArrayList<Suggestion>()
+        o.optJSONArray("suggs")?.let { a ->
+            for (k in 0 until a.length()) a.getJSONObject(k).let {
+                sg.add(Suggestion(it.getLong("id"), it.optLong("villageId"), it.optLong("familyId"), it.optString("by"),
+                    it.optInt("cat"), it.optString("text"), it.optString("photo"), it.optString("date"), it.optInt("status")))
+            }
+        }
+        suggestions.clear(); suggestions.addAll(sg)
+        notes.clear()
+        o.optJSONObject("notes")?.let { n -> n.keys().forEach { k -> notes[k] = n.optString(k) } }
         o.optJSONObject("office")?.let {
             officeName = it.optString("name", "Ganesha Digital"); officePhone = it.optString("phone")
             officeAddress = it.optString("address"); officeEmail = it.optString("email")

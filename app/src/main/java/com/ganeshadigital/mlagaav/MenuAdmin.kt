@@ -221,6 +221,7 @@ fun AdminSchemesPage(s: AppState) {
             Card(Modifier.fillMaxWidth()) {
                 Column(Modifier.padding(12.dp)) {
                     Text(it.title, fontWeight = FontWeight.Bold)
+                    Text(SCHEME_CAT_NAMES.getOrElse(it.category) { "" }, fontSize = 11.sp, color = Brand)
                     if (it.desc.isNotBlank()) Text(it.desc, fontSize = 13.sp)
                     if (it.eligibility.isNotBlank()) Text("पात्रता: ${it.eligibility}", fontSize = 12.sp)
                     TextButton(onClick = { del = it }) { Text("🗑 हटवा", color = Red) }
@@ -232,9 +233,11 @@ fun AdminSchemesPage(s: AppState) {
         var t by remember { mutableStateOf("") }
         var d by remember { mutableStateOf("") }
         var e by remember { mutableStateOf("") }
+        var c by remember { mutableIntStateOf(6) }
         FormDialog("नवीन योजना", { add = false }, onSave = {
-            if (t.isNotBlank()) { s.addScheme(Scheme(newId(), t.trim(), d.trim(), e.trim())); add = false }
+            if (t.isNotBlank()) { s.addScheme(Scheme(newId(), t.trim(), d.trim(), e.trim(), c)); add = false }
         }) {
+            Picker("योजना वर्ग", SCHEME_CAT_NAMES, c) { c = it }
             Field("योजनेचे नाव *", t, { t = it })
             Field("माहिती", d, { d = it }, lines = 3)
             Field("पात्रता", e, { e = it }, lines = 2)

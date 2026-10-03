@@ -11,6 +11,9 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.painterResource
+import androidx.compose.ui.text.SpanStyle
+import androidx.compose.ui.text.buildAnnotatedString
+import androidx.compose.ui.text.withStyle
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
@@ -32,7 +35,11 @@ val MENU_MAIN = listOf(
     NavEntry("map", "📍", "गावाचा नकाशा"),
     NavEntry("gallery", "🖼", "गावाचे फोटो / गॅलरी"),
     NavEntry("help", "❓", "मदत / FAQ"),
-    NavEntry("contactus", "☎️", "संपर्क")
+    NavEntry("contactus", "☎️", "संपर्क"),
+    NavEntry("agri", "🚜", "शेती सेवा / कृषी यंत्रे"),
+    NavEntry("suggest", "💡", "गावासाठी सूचना द्या"),
+    NavEntry("stats", "📊", "गावाची आकडेवारी"),
+    NavEntry("housing", "🏠", "घरकुल / आवास")
 )
 
 val MENU_LOGIN = listOf(
@@ -47,6 +54,8 @@ val MENU_LOGIN = listOf(
 
 val MENU_ADMIN = listOf(
     NavEntry("a_dash", "📊", "Dashboard"),
+    NavEntry("a_legacy", "🏘", "गावे / समस्या / कामे"),
+    NavEntry("a_sugg", "💡", "गावकऱ्यांच्या सूचना"),
     NavEntry("a_verify", "✅", "कुटुंब नोंदणी तपासणी"),
     NavEntry("a_members", "👥", "सदस्य माहिती"),
     NavEntry("a_status", "📋", "मंजूर / प्रलंबित नोंदी"),
@@ -59,13 +68,40 @@ val MENU_ADMIN = listOf(
     NavEntry("a_settings", "⚙️", "Settings")
 )
 
+private val DOT_MENU = listOf(
+    "🚜  शेती सेवा / कृषी यंत्रे" to "agri",
+    "💡  गावासाठी सूचना द्या" to "suggest",
+    "📊  गावाची आकडेवारी" to "stats",
+    "🏠  घरकुल / आवास" to "housing",
+    "🏛  ग्रामपंचायत नुसार सर्व योजना" to "schemes"
+)
+
+@Composable
+private fun LegacyAdmin(s: AppState, onOpen: (Long) -> Unit) {
+    var tab by remember { mutableIntStateOf(0) }
+    val tabs = listOf("🏠 डॅशबोर्ड", "🏘 गावे", "⚠️ समस्या", "🏗 कामे")
+    Column(Modifier.fillMaxSize()) {
+        ScrollableTabRow(selectedTabIndex = tab, edgePadding = 0.dp) {
+            tabs.forEachIndexed { i, t -> Tab(selected = tab == i, onClick = { tab = i }, text = { Text(t, fontSize = 13.sp) }) }
+        }
+        Box(Modifier.weight(1f)) {
+            when (tab) {
+                0 -> Dashboard(s) { onOpen(it) }
+                1 -> VillagesScreen(s) { onOpen(it) }
+                2 -> IssuesScreen(s)
+                else -> WorksScreen(s)
+            }
+        }
+    }
+}
+
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun App(s: AppState) {
     var page by remember { mutableStateOf("home") }
-    var tab by remember { mutableIntStateOf(0) }
     var openId by remember { mutableStateOf<Long?>(null) }
     var adminAsk by remember { mutableStateOf<String?>(null) }
+    var dots by remember { mutableStateOf(false) }
     val drawer = rememberDrawerState(DrawerValue.Closed)
     val scope = rememberCoroutineScope()
     val opened = openId?.let { id -> s.villages.find { it.id == id } }
@@ -81,9 +117,14 @@ fun App(s: AppState) {
 
     BackHandler(drawer.isOpen) { scope.launch { drawer.close() } }
     BackHandler(!drawer.isOpen && page != "home") { page = "home" }
-    BackHandler(!drawer.isOpen && page == "home" && opened != null) { openId = null }
+    BackHandler(!drawer.isOpen && page.startsWith("cat")) { page = "schemes" }
+    BackHandler(!drawer.isOpen && page == "a_legacy" && opened != null) { openId = null }
 
-    val title = (MENU_MAIN + MENU_LOGIN + MENU_ADMIN).find { it.key == page }?.label ?: "My Village Data"
+    val title = when {
+        page.startsWith("cat") -> SCHEME_CAT_NAMES.getOrElse(page.removePrefix("cat").toIntOrNull() ?: -1) { "योजना" }
+        page == "schemes" -> "ग्रामपंचायत नुसार सर्व योजना"
+        else -> (MENU_MAIN + MENU_LOGIN + MENU_ADMIN).find { it.key == page }?.label ?: "My Village Data"
+    }
 
     ModalNavigationDrawer(
         drawerState = drawer,
@@ -116,85 +157,106 @@ fun App(s: AppState) {
             }
         }
     ) {
-        if (page == "home" && opened != null) {
+        if (page == "a_legacy" && opened != null) {
             VillageDetail(s, opened) { openId = null }
         } else {
-            val tabs = listOf("🏠" to "डॅशबोर्ड", "🏘" to "गावे", "⚠️" to "समस्या", "🏗" to "कामे")
+            val isHome = page == "home"
+            val barBg = if (isHome) Color.White else Brand
+            val barFg = if (isHome) Color(0xFF0D2B52) else Color.White
             Scaffold(
                 topBar = {
                     TopAppBar(
                         navigationIcon = {
-                            TextButton(onClick = { scope.launch { drawer.open() } }) { Text("☰", fontSize = 24.sp, color = Color.White) }
+                            TextButton(onClick = { scope.launch { drawer.open() } }) {
+                                Text("☰", fontSize = 24.sp, color = barFg)
+                            }
                         },
                         title = {
-                            if (page == "home") {
+                            if (isHome) {
                                 Row(verticalAlignment = Alignment.CenterVertically) {
-                                    Image(painterResource(R.drawable.logo), contentDescription = null, modifier = Modifier.size(32.dp))
+                                    Image(painterResource(R.drawable.logo), contentDescription = null, modifier = Modifier.size(40.dp))
                                     Spacer(Modifier.width(8.dp))
-                                    Text("My Village Data", fontWeight = FontWeight.Bold)
+                                    Text(
+                                        buildAnnotatedString {
+                                            withStyle(SpanStyle(color = Color(0xFF0B4DA2))) { append("My Village ") }
+                                            withStyle(SpanStyle(color = Color(0xFF2E7D32))) { append("Data") }
+                                        },
+                                        fontWeight = FontWeight.ExtraBold, fontSize = 22.sp
+                                    )
                                 }
-                            } else Text(title, fontWeight = FontWeight.Bold)
+                            } else Text(title, fontWeight = FontWeight.Bold, fontSize = 18.sp)
                         },
-                        colors = TopAppBarDefaults.topAppBarColors(containerColor = Brand, titleContentColor = Color.White)
+                        actions = {
+                            Box {
+                                TextButton(onClick = { dots = true }) { Text("⋮", fontSize = 28.sp, color = if (isHome) Color(0xFF0B4DA2) else Color.White, fontWeight = FontWeight.Bold) }
+                                DropdownMenu(expanded = dots, onDismissRequest = { dots = false }) {
+                                    DOT_MENU.forEach { (label, key) ->
+                                        DropdownMenuItem(text = { Text(label) }, onClick = { dots = false; go(key) })
+                                    }
+                                }
+                            }
+                        },
+                        colors = TopAppBarDefaults.topAppBarColors(containerColor = barBg, titleContentColor = barFg)
                     )
                 },
                 bottomBar = {
-                    if (page == "home") NavigationBar {
-                        tabs.forEachIndexed { i, (icon, label) ->
-                            NavigationBarItem(
-                                selected = tab == i, onClick = { tab = i },
-                                icon = { Text(icon, fontSize = 20.sp) }, label = { Text(label, fontSize = 11.sp) }
-                            )
-                        }
+                    NavigationBar(containerColor = Color.White) {
+                        NavigationBarItem(selected = page == "home", onClick = { go("home") },
+                            icon = { Text("🏠", fontSize = 20.sp) }, label = { Text("Home", fontSize = 11.sp) })
+                        NavigationBarItem(selected = page == "schemes" || page.startsWith("cat"), onClick = { go("schemes") },
+                            icon = { Text("📄", fontSize = 20.sp) }, label = { Text("योजना", fontSize = 11.sp) })
+                        NavigationBarItem(selected = page == "news", onClick = { go("news") },
+                            icon = { Text("🔔", fontSize = 20.sp) }, label = { Text("सूचना", fontSize = 11.sp) })
+                        NavigationBarItem(selected = false, onClick = { scope.launch { drawer.open() } },
+                            icon = { Text("☰", fontSize = 20.sp) }, label = { Text("अधिक", fontSize = 11.sp) })
                     }
                 }
             ) { pad ->
                 Box(Modifier.padding(pad).fillMaxSize()) {
                     val nav: (String) -> Unit = { go(it) }
-                    when (page) {
-                        "home" -> when (tab) {
-                            0 -> Dashboard(s) { openId = it }
-                            1 -> VillagesScreen(s) { openId = it }
-                            2 -> IssuesScreen(s)
-                            else -> WorksScreen(s)
+                    when {
+                        page == "home" -> CitizenHome(s, nav)
+                        page == "myvillage" -> MyVillagePage(s)
+                        page == "info" -> VillageInfoPage(s)
+                        page == "families" -> FamiliesPage(s, nav)
+                        page == "gp" -> GpPage(s)
+                        page == "schemes" -> AllSchemesPage(s, nav)
+                        page.startsWith("cat") -> CategoryPage(s, nav, page.removePrefix("cat").toIntOrNull() ?: -1)
+                        page == "apply" -> ApplyPage(s, nav)
+                        page == "news" -> NewsPage(s)
+                        page == "contacts" -> ContactsPage(s)
+                        page == "services" -> ServicesPage(s)
+                        page == "map" -> MapPage(s)
+                        page == "gallery" -> GalleryPage(s)
+                        page == "help" -> HelpPage()
+                        page == "contactus" -> ContactUsPage(s)
+                        page == "agri" -> AgriPage(s, nav)
+                        page == "suggest" -> SuggestPage(s, nav)
+                        page == "stats" -> StatsPage(s)
+                        page == "housing" -> HousingPage(s, nav)
+                        page == "login" -> LoginPage(s, nav)
+                        page == "register" -> RegisterPage(s, nav)
+                        page == "myinfo" -> MyInfoPage(s, nav)
+                        page == "members" -> MembersPage(s, nav)
+                        page == "appstatus" -> AppStatusPage(s, nav)
+                        page == "request" -> RequestPage(s, nav)
+                        !s.adminMode -> Box(Modifier.fillMaxSize().padding(24.dp), contentAlignment = Alignment.Center) {
+                            Text("हे पान पाहण्यासाठी ग्रामपंचायत Admin Login आवश्यक आहे.")
                         }
-                        "myvillage" -> MyVillagePage(s)
-                        "info" -> VillageInfoPage(s)
-                        "families" -> FamiliesPage(s, nav)
-                        "gp" -> GpPage(s)
-                        "schemes" -> SchemesPage(s, nav)
-                        "apply" -> ApplyPage(s, nav)
-                        "news" -> NewsPage(s)
-                        "contacts" -> ContactsPage(s)
-                        "services" -> ServicesPage(s)
-                        "map" -> MapPage(s)
-                        "gallery" -> GalleryPage(s)
-                        "help" -> HelpPage()
-                        "contactus" -> ContactUsPage(s)
-                        "login" -> LoginPage(s, nav)
-                        "register" -> RegisterPage(s, nav)
-                        "myinfo" -> MyInfoPage(s, nav)
-                        "members" -> MembersPage(s, nav)
-                        "appstatus" -> AppStatusPage(s, nav)
-                        "request" -> RequestPage(s, nav)
-                        else -> if (!s.adminMode) {
-                            Box(Modifier.fillMaxSize().padding(24.dp), contentAlignment = Alignment.Center) {
-                                Text("हे पान पाहण्यासाठी ग्रामपंचायत Admin Login आवश्यक आहे.")
-                            }
-                        } else when (page) {
-                            "a_dash" -> AdminDashPage(s, nav)
-                            "a_verify" -> AdminVerifyPage(s)
-                            "a_members" -> AdminMembersPage(s)
-                            "a_status" -> AdminStatusPage(s)
-                            "a_schemes" -> AdminSchemesPage(s)
-                            "a_apps" -> AdminAppsPage(s)
-                            "a_notices" -> AdminNoticesPage(s)
-                            "a_reports" -> AdminReportsPage(s)
-                            "a_users" -> AdminUsersPage(s)
-                            "a_backup" -> AdminBackupPage(s)
-                            "a_settings" -> AdminSettingsPage(s, nav)
-                            else -> Text("पान सापडले नाही")
-                        }
+                        page == "a_dash" -> AdminDashPage(s, nav)
+                        page == "a_legacy" -> LegacyAdmin(s) { openId = it }
+                        page == "a_sugg" -> SuggestPage(s, nav)
+                        page == "a_verify" -> AdminVerifyPage(s)
+                        page == "a_members" -> AdminMembersPage(s)
+                        page == "a_status" -> AdminStatusPage(s)
+                        page == "a_schemes" -> AdminSchemesPage(s)
+                        page == "a_apps" -> AdminAppsPage(s)
+                        page == "a_notices" -> AdminNoticesPage(s)
+                        page == "a_reports" -> AdminReportsPage(s)
+                        page == "a_users" -> AdminUsersPage(s)
+                        page == "a_backup" -> AdminBackupPage(s)
+                        page == "a_settings" -> AdminSettingsPage(s, nav)
+                        else -> Text("पान सापडले नाही")
                     }
                 }
             }
